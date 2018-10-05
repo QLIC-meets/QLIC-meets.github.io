@@ -38,15 +38,15 @@ When the next event is held and who will speak is decided at the start of each s
 
 ### 1. Lecture
 
-| Speaker                                                   | Topic                                                        | Date               |
-| --------------------------------------------------------- | ------------------------------------------------------------ | :----------------- |
-| [Ognyan Oreshkov](http://quic.ulb.ac.be/members/oreshkov) | On the whereabouts of the local operations in physical realizations of quantum processes with indefinite causal order (see [arXiv:1801.07594](https://arxiv.org/abs/1801.07594)) | Oct 10,  Wednesday |
+| Speaker                                                   | Topic                                                        | Date              |
+| --------------------------------------------------------- | ------------------------------------------------------------ | :---------------- |
+| [Ognyan Oreshkov](http://quic.ulb.ac.be/members/oreshkov) | On the whereabouts of the local operations in physical realizations of quantum processes with indefinite causal order (see [arXiv:1801.07594](https://arxiv.org/abs/1801.07594)) | Oct 11,  Thursday |
 
 
 
 ### 2. Update
 
-| (optional) Speakers                                          | Date              |
-| ------------------------------------------------------------ | ----------------- |
-| [Matthieu Arnhem](http://quic.ulb.ac.be/members/marnhem), [Zacharie Van Herstraeten](http://quic.ulb.ac.be/members/zvherst) | Oct 10, Wednesday |
+| (optional) Speakers                                          | Date             |
+| ------------------------------------------------------------ | ---------------- |
+| [Matthieu Arnhem](http://quic.ulb.ac.be/members/marnhem), [Zacharie Van Herstraeten](http://quic.ulb.ac.be/members/zvherst) | Oct 10, Thursday |
 
