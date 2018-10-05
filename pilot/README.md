@@ -22,7 +22,7 @@ QuIC-meets is an initiative to facilitate further collaboration and learning wit
 
 *The Schedule*: 
 
-Decide at the end of each session. Default is TBA.
+Decide at the end of each session. Default is TBA. Suggestion: Wednesdays, before lunch.
 
 
 
