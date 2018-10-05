@@ -5,7 +5,7 @@ Welcome to the QuIC-meets page.
 
 ### About
 
-QuIC-meets is an initiative to facilitate further collaboration and learning within QuIC. This is intended to be a two month trial (till December). 
+QuIC-meets is an initiative to facilitate further collaboration and learning within QuIC. This is intended to be a two/three month trial (till December). 
 
 
 
@@ -26,7 +26,7 @@ QuIC-meets is an initiative to facilitate further collaboration and learning wit
 
 *The Schedule*: 
 
-Decide at the end of each session. Default suggestion: Thursday, before lunch (11:30 AM—1:00 PM).
+Decide at the end of each session. Default: Thursday, before lunch (11:30 AM—1:00 PM).
 
 
 
