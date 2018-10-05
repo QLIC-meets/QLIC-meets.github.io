@@ -13,12 +13,12 @@ QuIC-meets is an initiative to facilitate further collaboration and learning wit
 
 *The Format*: 
 
-1 to 1½ hours. Twice or thrice a month. Two segments.
+1½ hours. Twice a month. Two segments.
 
-| Segment | Description                                                  | Duration   |
-| ------- | ------------------------------------------------------------ | ---------- |
-| Update  | Optional and open to all. Everyone gets a chance to briefly discuss their progress, relatively quickly. | 15 minutes |
-| Lecture | One member delivers a lecture about his/her research (or any other topic of interest). | 1¼ hours   |
+| #    | Segment | Description                                                  | Duration                          |
+| ---- | ------- | ------------------------------------------------------------ | --------------------------------- |
+| 1    | Update  | Optional. Two speakers briefly discuss their progress.       | 15 minutes                        |
+| 2    | Lecture | One member delivers a lecture about his/her research (or any other topic of interest). | 1 hours + 15 minutes (discussion) |
 
 
 
@@ -26,13 +26,15 @@ QuIC-meets is an initiative to facilitate further collaboration and learning wit
 
 *The Schedule*: 
 
-Decide at the end of each session. Default suggestion: Wednesdays, before lunch (11:30 AM—1:00 PM).
+Decide at the end of each session. Default suggestion: Thursday, before lunch (11:30 AM—1:00 PM).
 
 
 
+## Timeline
 
 
-### Lecture | Timeline
+
+### 1 Lecture
 
 | Speaker                                                   | Topic                                                        | Date               | Status    |
 | --------------------------------------------------------- | ------------------------------------------------------------ | :----------------- | --------- |
@@ -40,7 +42,7 @@ Decide at the end of each session. Default suggestion: Wednesdays, before lunch 
 
 
 
-### Update | Timeline
+### 2 Update
 
 | (optional) Speakers                                          | Date              |
 | ------------------------------------------------------------ | ----------------- |
