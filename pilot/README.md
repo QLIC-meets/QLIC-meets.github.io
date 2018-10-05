@@ -9,6 +9,8 @@ QuIC-meets is an initiative to facilitate further collaboration and learning wit
 
 
 
+
+
 *The Format*: 
 
 1 to 1½ hours. Twice or thrice a month. Two segments.
@@ -17,6 +19,8 @@ QuIC-meets is an initiative to facilitate further collaboration and learning wit
 | ------- | ------------------------------------------------------------ | ---------- |
 | Update  | Optional and open to all. Everyone gets a chance to briefly discuss their progress, relatively quickly. | 15 minutes |
 | Lecture | One member delivers a lecture about his/her research (or any other topic of interest). | 1¼ hours   |
+
+
 
 
 
