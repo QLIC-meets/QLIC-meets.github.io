@@ -1,6 +1,14 @@
 # QuIC-meets | Pilot
 Welcome to the QuIC-meets website.
 
+**Provisional Format**: 1 Speaker, 1 Hour. Twice a month.
+
+**Schedule policy**: Decide at the end of each session. Default is Wednesday before lunch.
+
+
+
+### Schedule
+
 
 
 | Speaker                                                   | Topic                                                        | Date        | Status    |
