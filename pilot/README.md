@@ -30,15 +30,15 @@ Decide at the end of each session. Default is TBA.
 
 ### Lecture | Timeline
 
-| Speaker                                                   | Topic                                                        | Date   | Status    |
-| --------------------------------------------------------- | ------------------------------------------------------------ | :----- | --------- |
-| [Ognyan Oreshkov](http://quic.ulb.ac.be/members/oreshkov) | On the whereabouts of the local operations in physical realizations of quantum processes with indefinite causal order (see [arXiv:1801.07594](https://arxiv.org/abs/1801.07594)) | Oct 10 | Scheduled |
+| Speaker                                                   | Topic                                                        | Date               | Status    |
+| --------------------------------------------------------- | ------------------------------------------------------------ | :----------------- | --------- |
+| [Ognyan Oreshkov](http://quic.ulb.ac.be/members/oreshkov) | On the whereabouts of the local operations in physical realizations of quantum processes with indefinite causal order (see [arXiv:1801.07594](https://arxiv.org/abs/1801.07594)) | Oct 10,  Wednesday | Scheduled |
 
 
 
 ### Update | Timeline
 
-| (optional) Speakers                                          | Date |
-| ------------------------------------------------------------ | ---- |
-| [Matthieu Arnhem](http://quic.ulb.ac.be/members/marnhem), [Zacharie Van Herstraeten](http://quic.ulb.ac.be/members/zvherst), |      |
+| (optional) Speakers                                          | Date              |
+| ------------------------------------------------------------ | ----------------- |
+| [Matthieu Arnhem](http://quic.ulb.ac.be/members/marnhem), [Zacharie Van Herstraeten](http://quic.ulb.ac.be/members/zvherst) | Oct 10, Wednesday |
 
