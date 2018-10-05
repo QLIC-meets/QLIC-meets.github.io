@@ -17,7 +17,7 @@ QuIC-meets is an initiative to facilitate further collaboration and learning wit
 
 | #    | Segment | Description                                                  | Duration                          |
 | ---- | ------- | ------------------------------------------------------------ | --------------------------------- |
-| 1    | Update  | Optional. Two speakers briefly discuss their progress.       | 15 minutes                        |
+| 1    | Update  | Optional. Two members briefly discuss their progress.        | 15 minutes                        |
 | 2    | Lecture | One member delivers a lecture about his/her research (or any other topic of interest). | 1 hours + 15 minutes (discussion) |
 
 
@@ -36,9 +36,9 @@ Decide at the end of each session. Default: Thursday, before lunch (11:30 AM—1
 
 ### 1 Lecture
 
-| Speaker                                                   | Topic                                                        | Date               | Status    |
-| --------------------------------------------------------- | ------------------------------------------------------------ | :----------------- | --------- |
-| [Ognyan Oreshkov](http://quic.ulb.ac.be/members/oreshkov) | On the whereabouts of the local operations in physical realizations of quantum processes with indefinite causal order (see [arXiv:1801.07594](https://arxiv.org/abs/1801.07594)) | Oct 10,  Wednesday | Scheduled |
+| Speaker                                                   | Topic                                                        | Date               |
+| --------------------------------------------------------- | ------------------------------------------------------------ | :----------------- |
+| [Ognyan Oreshkov](http://quic.ulb.ac.be/members/oreshkov) | On the whereabouts of the local operations in physical realizations of quantum processes with indefinite causal order (see [arXiv:1801.07594](https://arxiv.org/abs/1801.07594)) | Oct 10,  Wednesday |
 
 
 
