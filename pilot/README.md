@@ -15,10 +15,10 @@ QuIC-meets is an initiative to facilitate further collaboration and learning wit
 
 1½ hours. Twice a month. Two segments.
 
-| #    | Segment | Description                                                  | Duration                          |
-| ---- | ------- | ------------------------------------------------------------ | --------------------------------- |
-| 1    | Update  | Optional. Two members briefly discuss their progress.        | 15 minutes                        |
-| 2    | Lecture | One member delivers a lecture about his/her research (or any other topic of interest). | 1 hours + 15 minutes (discussion) |
+| #    | Segment | Description                                                  | Duration                         |
+| ---- | ------- | ------------------------------------------------------------ | -------------------------------- |
+| 1    | Update  | Optional. Two members briefly discuss their progress.        | 15 minutes                       |
+| 2    | Lecture | One member delivers a lecture about his/her research (or any other topic of interest). | 1 hour + 15 minutes (discussion) |
 
 
 
