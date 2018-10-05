@@ -1,11 +1,17 @@
 # QuIC-meets | Pilot
-Welcome to the QuIC-meets website. This is intended to be a two month trial (till December). 
-
-**Provisional Format**: 1 Speaker, 1 Hour. Twice a month.
-
-**Schedule policy**: Decide at the end of each session. Default is Wednesday before lunch.
+Welcome to the QuIC-meets website. 
 
 
+
+### What is QuIC-meets?
+
+QuIC-meets is an initiative to facilitate further collaboration and learning within QuIC. This is intended to be a two month trial (till December). 
+
+*Provisional Format*: 1 Speaker, 1 Hour. Twice a month.
+
+*Schedule policy*: Decide at the end of each session. Default is Wednesday before lunch.
+
+*Topic*: No hard rules. 
 
 ### Schedule
 
