@@ -1,5 +1,5 @@
 # QuIC-meets | Pilot
-Welcome to the QuIC-meets website.
+Welcome to the QuIC-meets website. This is intended to be a two month experiment. 
 
 **Provisional Format**: 1 Speaker, 1 Hour. Twice a month.
 
