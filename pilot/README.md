@@ -26,7 +26,9 @@ QuIC-meets is an initiative to facilitate further collaboration and learning wit
 
 *The Schedule*: 
 
-Decide at the end of each session. Default: Thursday, before lunch (11:30 AM—1:00 PM).
+Thursday, before lunch (11:30 AM—1:00 PM).
+
+When the next event is held and who will speak is decided at the start of each session.
 
 
 
@@ -34,7 +36,7 @@ Decide at the end of each session. Default: Thursday, before lunch (11:30 AM—1
 
 
 
-### 1 Lecture
+### 1. Lecture
 
 | Speaker                                                   | Topic                                                        | Date               |
 | --------------------------------------------------------- | ------------------------------------------------------------ | :----------------- |
@@ -42,7 +44,7 @@ Decide at the end of each session. Default: Thursday, before lunch (11:30 AM—1
 
 
 
-### 2 Update
+### 2. Update
 
 | (optional) Speakers                                          | Date              |
 | ------------------------------------------------------------ | ----------------- |
