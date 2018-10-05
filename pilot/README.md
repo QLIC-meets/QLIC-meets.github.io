@@ -28,7 +28,7 @@ Decide at the end of each session. Default is TBA.
 
 
 
-### Lecture Timeline
+### Lecture | Timeline
 
 | Speaker                                                   | Topic                                                        | Date   | Status    |
 | --------------------------------------------------------- | ------------------------------------------------------------ | :----- | --------- |
@@ -36,9 +36,9 @@ Decide at the end of each session. Default is TBA.
 
 
 
-### Update Timeline
+### Update | Timeline
 
-| (optional) Speakers | Date |
-| ------------------- | ---- |
-|                     |      |
+| (optional) Speakers                                          | Date |
+| ------------------------------------------------------------ | ---- |
+| [Matthieu Arnhem](http://quic.ulb.ac.be/members/marnhem), [Zacharie Van Herstraeten](http://quic.ulb.ac.be/members/zvherst), |      |
 
