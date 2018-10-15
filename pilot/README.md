@@ -36,10 +36,10 @@ When the next event is held and who will speak is decided at the start of each s
 
 #### Meet #2 (Upcoming | October 18, 2018)
 
-| Segment | Speaker                                                   | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | --------------------------------------------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | [Tom Van Himbeeck](http://quic.ulb.ac.be/members)         | Semi-device-independent randomness generation with an energy constraint | 30+15             |               |
-| Talk    | [Ognyan Oreshkov](http://quic.ulb.ac.be/members/oreshkov) | On the whereabouts of the local operations in physical realizations of quantum processes with indefinite causal order (see [arXiv:1801.07594](https://arxiv.org/abs/1801.07594)), part two. | 30+15             |               |
+| Segment                                                      | Speaker                                                   | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------------------------------------------------------------ | --------------------------------------------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk                                                         | [Tom Van Himbeeck](http://quic.ulb.ac.be/members)         | Semi-device-independent randomness generation with an energy constraint | 30+15             |               |
+| Talk [[pdf](meet2/Ognyan_Time-delocalised_subsystems_and_operations.pdf)] | [Ognyan Oreshkov](http://quic.ulb.ac.be/members/oreshkov) | On the whereabouts of the local operations in physical realizations of quantum processes with indefinite causal order (see [arXiv:1801.07594](https://arxiv.org/abs/1801.07594)), part two. | 30+15             |               |
 
 
 
