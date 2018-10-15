@@ -45,10 +45,10 @@ When the next event is held and who will speak is decided at the start of each s
 
 #### Meet #1 (October 11, 2018)
 
-| Segment | Speaker                                                      | Topic/Remark                                                 | Minutes Allocated | Minutes Spent |
-| ------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-|         |                                                              | Initializing                                                 | 0                 | 10            |
-| Update  | [Matthieu Arnhem](http://quic.ulb.ac.be/members/marnhem), [Zacharie Van Herstraeten](http://quic.ulb.ac.be/members/zvherst) | Quantification of Majorization                               | 15                | 15+5          |
-| Talk    | [Ognyan Oreshkov](http://quic.ulb.ac.be/members/oreshkov)    | On the whereabouts of the local operations in physical realizations of quantum processes with indefinite causal order (see [arXiv:1801.07594](https://arxiv.org/abs/1801.07594)) | 1+15              | 45+15         |
-|         |                                                              | Discussion about QuIC-meets                                  | 0                 | 10            |
+| Segment                                                      | Speaker                                                      | Topic/Remark                                                 | Minutes Allocated | Minutes Spent |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+|                                                              |                                                              | Initializing                                                 | 0                 | 10            |
+| Update                                                       | [Matthieu Arnhem](http://quic.ulb.ac.be/members/marnhem), [Zacharie Van Herstraeten](http://quic.ulb.ac.be/members/zvherst) | Quantification of Majorization                               | 15                | 15+5          |
+| Talk [[pdf](meet2/Ognyan_Time-delocalised_subsystems_and_operations.pdf)] | [Ognyan Oreshkov](http://quic.ulb.ac.be/members/oreshkov)    | On the whereabouts of the local operations in physical realizations of quantum processes with indefinite causal order (see [arXiv:1801.07594](https://arxiv.org/abs/1801.07594)) | 1+15              | 45+15         |
+|                                                              |                                                              | Discussion about QuIC-meets                                  | 0                 | 10            |
 
