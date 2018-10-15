@@ -34,7 +34,7 @@ When the next event is held and who will speak is decided at the start of each s
 
 ## Timeline
 
-#### Meet #2, Upcoming | October 18, 2018
+#### Meet #2 (Upcoming | October 18, 2018)
 
 | Segment | Speaker                                                   | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | --------------------------------------------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
@@ -43,7 +43,7 @@ When the next event is held and who will speak is decided at the start of each s
 
 
 
-#### Meet #1, October 11, 2018
+#### Meet #1 (October 11, 2018)
 
 | Segment | Speaker                                                      | Topic/Remark                                                 | Minutes Allocated | Minutes Spent |
 | ------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------- | ------------- |
