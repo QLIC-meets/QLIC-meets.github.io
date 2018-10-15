@@ -36,7 +36,7 @@ When the next event is held and who will speak is decided at the start of each s
 
 #### Upcoming | October 18, 2018
 
-| Speaker                                                   | Topic/Remark                                                 | Minutes Allocated | Minutes Spent |
+| Speaker                                                   | Topic                                                        | Minutes Allocated | Minutes Spent |
 | --------------------------------------------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
 | [Tom Van Himbeeck](http://quic.ulb.ac.be/members)         | Semi-device-independent randomness generation with an energy constraint | 30+15             |               |
 | [Ognyan Oreshkov](http://quic.ulb.ac.be/members/oreshkov) | On the whereabouts of the local operations in physical realizations of quantum processes with indefinite causal order (see [arXiv:1801.07594](https://arxiv.org/abs/1801.07594)), part two. | 30+15             |               |
