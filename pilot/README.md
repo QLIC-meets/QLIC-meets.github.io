@@ -3,7 +3,7 @@ Welcome to the QuIC-meets page.
 
 
 
-### About
+## About
 
 QuIC-meets is an initiative to facilitate further collaboration and learning within QuIC. This is intended to be a two/three month trial (till December). 
 
