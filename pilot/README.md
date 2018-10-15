@@ -11,7 +11,7 @@ QuIC-meets is an initiative to facilitate further collaboration and learning wit
 
 
 
-*The Format*: 
+*Provisional Format*: 
 
 1½ hours. Twice a month. Two segments.
 
@@ -34,19 +34,20 @@ When the next event is held and who will speak is decided at the start of each s
 
 ## Timeline
 
+#### Upcoming | October 18, 2018
+
+| Speaker                                                   | Topic/Remark                                                 | Minutes Allocated | Minutes Spent |
+| --------------------------------------------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
+| [Tom Van Himbeeck](http://quic.ulb.ac.be/members)         | Semi-device-independent randomness generation with an energy constraint | 30+15             |               |
+| [Ognyan Oreshkov](http://quic.ulb.ac.be/members/oreshkov) | On the whereabouts of the local operations in physical realizations of quantum processes with indefinite causal order (see [arXiv:1801.07594](https://arxiv.org/abs/1801.07594)), part two. | 30+15             |               |
 
 
-### 1. Lecture
 
-| Speaker                                                   | Topic                                                        | Date              |
-| --------------------------------------------------------- | ------------------------------------------------------------ | :---------------- |
-| [Ognyan Oreshkov](http://quic.ulb.ac.be/members/oreshkov) | On the whereabouts of the local operations in physical realizations of quantum processes with indefinite causal order (see [arXiv:1801.07594](https://arxiv.org/abs/1801.07594)) | Oct 11,  Thursday |
+#### October 11, 2018
 
-
-
-### 2. Update
-
-| (optional) Speakers                                          | Date             |
-| ------------------------------------------------------------ | ---------------- |
-| [Matthieu Arnhem](http://quic.ulb.ac.be/members/marnhem), [Zacharie Van Herstraeten](http://quic.ulb.ac.be/members/zvherst) | Oct 10, Thursday |
+| Speaker                                                      | Topic/Remark                                                 | Minutes Allocated | Minutes Spent |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+|                                                              | Initializing                                                 | 0                 | 10            |
+| [Matthieu Arnhem](http://quic.ulb.ac.be/members/marnhem), [Zacharie Van Herstraeten](http://quic.ulb.ac.be/members/zvherst) | Quantification of Majorization                               | 15                | 15+5          |
+| [Ognyan Oreshkov](http://quic.ulb.ac.be/members/oreshkov)    | On the whereabouts of the local operations in physical realizations of quantum processes with indefinite causal order (see [arXiv:1801.07594](https://arxiv.org/abs/1801.07594)) | 1+15              | 45+15         |
 
