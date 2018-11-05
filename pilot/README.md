@@ -34,13 +34,12 @@ When the next event is held and who will speak is decided at the start of each s
 
 ## Timeline
 
-#### Meet #3 (Upcoming | November 15, 2018)
+#### Meet #3 (Upcoming | Wednesday, November 14, 2018)
 
-| Segment | Speaker                                                    | Topic             | Minutes Allocated | Minutes Spent |
-| ------- | ---------------------------------------------------------- | ----------------- | ----------------- | ------------- |
-|         |                                                            | Next QuIC-meet    | 5                 |               |
-|         |                                                            | Format Discussion | 20                |               |
-| Talk    | [Mathieu Brandeho](http://quic.ulb.ac.be/members/mbrandeh) | TBA               | 45+15             |               |
+| Segment | Speaker                                                    | Topic          | Minutes Allocated | Minutes Spent |
+| ------- | ---------------------------------------------------------- | -------------- | ----------------- | ------------- |
+|         |                                                            | Next QuIC-meet | 5                 |               |
+| Talk    | [Mathieu Brandeho](http://quic.ulb.ac.be/members/mbrandeh) | TBA            | 45+10             |               |
 
 
 
