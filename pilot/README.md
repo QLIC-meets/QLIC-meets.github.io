@@ -40,7 +40,7 @@ When the next event is held and who will speak is decided at the start of each s
 | ------- | ------------------------------------------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
 |         |                                                         | Next QuIC-meet                                               | 5                 |               |
 | Update  | TBA                                                     |                                                              | 15                |               |
-| Talk    | [Jérémie Roland](http://quic.ulb.ac.be/members/jroland) | The quantum query complexity of sorting under partial information (see [abstract](#Jérémie-Roland-(November-22,-2018))) | 45+10             |               |
+| Talk    | [Jérémie Roland](http://quic.ulb.ac.be/members/jroland) | The quantum query complexity of sorting under partial information (see [abstract](#jérémie-roland-november-22-2018)) | 45+10             |               |
 
 
 
