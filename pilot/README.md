@@ -36,11 +36,11 @@ When the next event is held and who will speak is decided at the start of each s
 
 #### Meet #4 (Upcoming | Thursday, November 22, 2018)
 
-| Segment | Speaker                                                 | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ------------------------------------------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
-|         |                                                         | Next QuIC-meet                                               | 5                 |               |
-| Update  | TBA                                                     |                                                              | 15                |               |
-| Talk    | [Jérémie Roland](http://quic.ulb.ac.be/members/jroland) | The quantum query complexity of sorting under partial information (see [abstract](#jérémie-roland-november-22-2018)) | 45+10             |               |
+| Segment                                                      | Speaker                                                 | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------------------------------------------------------------ | ------------------------------------------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
+|                                                              |                                                         | Next QuIC-meet                                               | 5                 |               |
+| Update                                                       | TBA                                                     |                                                              | 15                |               |
+| Talk [[pdf](./meet4/Jérémie-quic-meets-quantum-sorting-handout.pdf)] | [Jérémie Roland](http://quic.ulb.ac.be/members/jroland) | The quantum query complexity of sorting under partial information (see [abstract](#jérémie-roland-november-22-2018)) | 45+10             |               |
 
 
 
