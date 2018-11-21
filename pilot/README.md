@@ -36,11 +36,11 @@ When the next event is held and who will speak is decided at the start of each s
 
 #### Meet #4 (Upcoming | Thursday, November 22, 2018)
 
-| Segment                                                      | Speaker                                                 | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------------------------------------------------------------ | ------------------------------------------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
-|                                                              |                                                         | Next QuIC-meet                                               | 5                 |               |
-| Update                                                       | TBA                                                     |                                                              | 15                |               |
-| Talk [[pdf](./meet4/Jérémie-quic-meets-quantum-sorting-handout.pdf)] | [Jérémie Roland](http://quic.ulb.ac.be/members/jroland) | The quantum query complexity of sorting under partial information (see [abstract](#jérémie-roland-november-22-2018)) | 45+10             |               |
+| Segment | Speaker                                             | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | --------------------------------------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
+|         |                                                     | Next QuIC-meet                                               | 5                 |               |
+| Update  | TBA                                                 |                                                              | 15                |               |
+| Talk    | [Nicolas Cerf](http://quic.ulb.ac.be/members/ncerf) | Hong-Ou-Mandel effect under partial time reversal: a destructive interference effect in the amplification of light (see [abstract](./meet4/GDR-IQFA_Nicolas_Cerf.pdf)) | 45+10             |               |
 
 
 
@@ -73,6 +73,14 @@ When the next event is held and who will speak is decided at the start of each s
 |                                                              |                                                              | Discussion about QuIC-meets                                  | 0                 | 10            |
 
 
+
+#### Meet #5 (TBA)
+
+| Segment                                                      | Speaker                                                 | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------------------------------------------------------------ | ------------------------------------------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
+|                                                              |                                                         | Next QuIC-meet                                               | 5                 |               |
+| Update                                                       | TBA                                                     |                                                              | 15                |               |
+| Talk [[pdf](./meet4/Jérémie-quic-meets-quantum-sorting-handout.pdf)] | [Jérémie Roland](http://quic.ulb.ac.be/members/jroland) | The quantum query complexity of sorting under partial information (see [abstract](#jérémie-roland-november-22-2018)) | 45+10             |               |
 
 
 
