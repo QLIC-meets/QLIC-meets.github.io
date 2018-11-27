@@ -39,7 +39,7 @@ When the next event is held and who will speak is decided at the start of each s
 | Segment                                                      | Speaker                                                      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------- | ------------- |
 |                                                              |                                                              | Next QuIC-meet                                               | 5                 |               |
-| Update                                                       | [Shantanav Chakraborty](http://quic.ulb.ac.be/members/shchakra) | TBA                                                          | 15                |               |
+| Update                                                       | [Shantanav Chakraborty](http://quic.ulb.ac.be/members/shchakra) | How Quantum is the Speedup in Adiabatic Unstructured Search? (see [arXiv:1811.08302](https://arxiv.org/abs/1811.08302)) | 15                |               |
 | Talk [[pdf](./meet4/Jérémie-quic-meets-quantum-sorting-handout.pdf)] | [Jérémie Roland](http://quic.ulb.ac.be/members/jroland)      | The quantum query complexity of sorting under partial information (see [abstract](#jérémie-roland-date-tba)) | 45+10             |               |
 
 
@@ -81,16 +81,6 @@ When the next event is held and who will speak is decided at the start of each s
 | Update                                                       | [Matthieu Arnhem](http://quic.ulb.ac.be/members/marnhem), [Zacharie Van Herstraeten](http://quic.ulb.ac.be/members/zvherst) | Quantification of Majorization                               | 15                | 15+5          |
 | Talk [[pdf](meet2/Ognyan_Time-delocalised_subsystems_and_operations.pdf)] | [Ognyan Oreshkov](http://quic.ulb.ac.be/members/oreshkov)    | On the whereabouts of the local operations in physical realizations of quantum processes with indefinite causal order (see [arXiv:1801.07594](https://arxiv.org/abs/1801.07594)) | 1+15              | 45+15         |
 |                                                              |                                                              | Discussion about QuIC-meets                                  | 0                 | 10            |
-
-
-
-#### Meet #5 (TBA)
-
-| Segment                                                      | Speaker                                                 | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------------------------------------------------------------ | ------------------------------------------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
-|                                                              |                                                         | Next QuIC-meet                                               | 5                 |               |
-| Update                                                       | TBA                                                     |                                                              | 15                |               |
-| Talk [[pdf](./meet4/Jérémie-quic-meets-quantum-sorting-handout.pdf)] | [Jérémie Roland](http://quic.ulb.ac.be/members/jroland) | The quantum query complexity of sorting under partial information (see [abstract](#jérémie-roland-date-tba)) | 45+10             |               |
 
 
 
