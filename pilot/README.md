@@ -40,7 +40,7 @@ When the next event is held and who will speak is decided at the start of each s
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------- | ------------- |
 |                                                              |                                                              | Next QuIC-meet                                               | 5                 |               |
 | Update                                                       | [Shantanav Chakraborty](http://quic.ulb.ac.be/members/shchakra) | How Quantum is the Speedup in Adiabatic Unstructured Search? (see [arXiv:1811.08302](https://arxiv.org/abs/1811.08302)) | 15                |               |
-| Talk [[pdf](./meet4/Jérémie-quic-meets-quantum-sorting-handout.pdf)] | [Jérémie Roland](http://quic.ulb.ac.be/members/jroland)      | The quantum query complexity of sorting under partial information (see [abstract](#jérémie-roland-date-tba)) | 45+10             |               |
+| Talk [[pdf](./meet4/Jérémie-quic-meets-quantum-sorting-handout.pdf)] | [Jérémie Roland](http://quic.ulb.ac.be/members/jroland)      | The quantum query complexity of sorting under partial information (see [abstract](#jérémie-roland)) | 45+10             |               |
 
 
 
@@ -88,7 +88,7 @@ When the next event is held and who will speak is decided at the start of each s
 
 
 
-#### Jérémie Roland (Date: TBA)
+#### Jérémie Roland
 
 ##### The quantum query complexity of sorting under partial information
 
