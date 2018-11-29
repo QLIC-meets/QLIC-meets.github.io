@@ -34,7 +34,7 @@ When the next event is held and who will speak is decided at the start of each s
 
 ## Timeline
 
-#### Meet #5 (TBA)
+#### Meet #5 (Upcoming | December 12, 2018)
 
 | Segment                                                      | Speaker                                                      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------- | ------------- |
