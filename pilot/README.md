@@ -1,11 +1,11 @@
-# QuIC-meets | Pilot (Oct-Dec 2018)
+# QuIC-meets | Extended-pilot (Oct '18-Jan '19)
 Welcome to the QuIC-meets page. 
 
 
 
 ## About
 
-QuIC-meets is an initiative to facilitate further collaboration and learning within QuIC. This is intended to be a two/three month trial (till December). 
+QuIC-meets is an initiative to facilitate further collaboration and learning within QuIC. This was initially intended to be a two/three month trial (till December). It has been extended till January. 
 
 
 
@@ -34,13 +34,22 @@ When the next event is held and who will speak is decided at the start of each s
 
 ## Timeline
 
-#### Meet #5 (Upcoming | December 12, 2018)
+#### Meet #6 (Upcoming | provisional—January 11, 2019)
+
+| Segment | Speaker                                                      | Topic                                                  | Minutes Allocated | Minutes Spent |
+| ------- | ------------------------------------------------------------ | ------------------------------------------------------ | ----------------- | ------------- |
+|         |                                                              | Next QuIC-meet                                         | 5                 |               |
+| Talk    | [Atul Singh Arora](http://quic.ulb.ac.be/members/atulsingharora) | Quantum Weak Coin Flipping (conference talk rehearsal) | 30+15             |               |
+
+
+
+#### Meet #5 (December 12, 2018)
 
 | Segment                                                      | Speaker                                                      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-|                                                              |                                                              | Next QuIC-meet                                               | 5                 |               |
-| Update                                                       | [Shantanav Chakraborty](http://quic.ulb.ac.be/members/shchakra) | How Quantum is the Speedup in Adiabatic Unstructured Search? (see [arXiv:1811.08302](https://arxiv.org/abs/1811.08302)) | 15                |               |
-| Talk [[pdf](./meet4/Jérémie-quic-meets-quantum-sorting-handout.pdf)] | [Jérémie Roland](http://quic.ulb.ac.be/members/jroland)      | The quantum query complexity of sorting under partial information (see [abstract](#jérémie-roland)) | 45+10             |               |
+|                                                              |                                                              | Next QuIC-meet                                               | 5                 | 5             |
+| Update                                                       | [Shantanav Chakraborty](http://quic.ulb.ac.be/members/shchakra) | How Quantum is the Speedup in Adiabatic Unstructured Search? (see [arXiv:1811.08302](https://arxiv.org/abs/1811.08302)) | 15                | 20            |
+| Talk [[pdf](./meet5/Jérémie-quic-meets-quantum-sorting-handout.pdf)] | [Jérémie Roland](http://quic.ulb.ac.be/members/jroland)      | The quantum query complexity of sorting under partial information (see [abstract](#jérémie-roland)) | 45+10             | 45+5          |
 
 
 
