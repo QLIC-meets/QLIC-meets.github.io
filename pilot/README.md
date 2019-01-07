@@ -1,11 +1,11 @@
-# QuIC-meets | Extended-pilot (Oct '18-Jan '19)
+# QuIC-meets | Pilot (Oct '18-Dec '19)
 Welcome to the QuIC-meets page. 
 
 
 
 ## About
 
-QuIC-meets is an initiative to facilitate further collaboration and learning within QuIC. This was initially intended to be a two/three month trial (till December). It has been extended till January. 
+QuIC-meets is an initiative to facilitate further collaboration and learning within QuIC. This was initially intended to be a two/three month trial (till December).
 
 
 
@@ -33,14 +33,6 @@ When the next event is held and who will speak is decided at the start of each s
 
 
 ## Timeline
-
-#### Meet #6 (Upcoming | provisional—January 11, 2019)
-
-| Segment | Speaker                                                      | Topic                                                  | Minutes Allocated | Minutes Spent |
-| ------- | ------------------------------------------------------------ | ------------------------------------------------------ | ----------------- | ------------- |
-|         |                                                              | Next QuIC-meet                                         | 5                 |               |
-| Talk    | [Atul Singh Arora](http://quic.ulb.ac.be/members/atulsingharora) | Quantum Weak Coin Flipping (conference talk rehearsal) | 30+15             |               |
-
 
 
 #### Meet #5 (December 12, 2018)
