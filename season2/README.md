@@ -1,4 +1,4 @@
-# QuIC-meets | Season 2 (Jan—April)
+# QuIC-meets | Season 2 (Jan–April)
 Welcome to the QuIC-meets page. 
 
 
@@ -34,7 +34,7 @@ When the next event is held and who will speak is decided at the start of each s
 
 ## Timeline
 
-#### Meet #1 (Upcoming | January 9, 2019)
+#### Meet #1 (Upcoming | 12:15 PM onward, January 9, 2019)
 
 | Segment | Speaker                                                      | Topic                                                  | Minutes Allocated | Minutes Spent |
 | ------- | ------------------------------------------------------------ | ------------------------------------------------------ | ----------------- | ------------- |
@@ -67,4 +67,5 @@ together with the framework, allows us to construct protocols with arbitrarily s
 solves the open problem of quantum weak coin flipping (in the absence of noise).
 
 [1] C. Mochon, “Quantum weak coin flipping with arbitrarily small bias”, arXiv:0711.4114 (2007).
+
 [2] C. Mochon, “Large family of quantum weak coin-flipping protocols”, Phys. Rev. A 72, 022341 (2005).
