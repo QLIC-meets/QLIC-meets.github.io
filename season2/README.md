@@ -38,8 +38,8 @@ When the next event is held and who will speak is decided at the start of each s
 
 | Segment | Speaker                                                      | Topic                                                  | Minutes Allocated | Minutes Spent |
 | ------- | ------------------------------------------------------------ | ------------------------------------------------------ | ----------------- | ------------- |
-|         |                                                              | Next QuIC-meet                                         | 5                 |               |
-| Talk  [[ppt](./meet1/Atul_Coin_flipping,_where_weakness_is_a_virtue.pptx)] [[pdf](./meet1/Atul_Coin_flipping,_where_weakness_is_a_virtue.pdf)] | [Atul Singh Arora](http://quic.ulb.ac.be/members/atulsingharora) | Quantum Weak Coin Flipping (conference talk rehearsal; [abstract](#atul-singh-arora)) | 30+15             |               |
+|         |                                                              | Next QuIC-meet                                         | 5                 |        15       |
+| Talk  [[ppt](./meet1/Atul_Coin_flipping,_where_weakness_is_a_virtue.pptx)] [[pdf](./meet1/Atul_Coin_flipping,_where_weakness_is_a_virtue.pdf)] | [Atul Singh Arora](http://quic.ulb.ac.be/members/atulsingharora) | Quantum Weak Coin Flipping (conference talk rehearsal; [abstract](#atul-singh-arora)) | 30+15             |      45         |
 
 
 
