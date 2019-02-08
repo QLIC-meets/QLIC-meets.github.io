@@ -34,7 +34,7 @@ When the next event is held and who will speak is decided at the start of each s
 
 ## Timeline
 
-#### Meet #1 (Upcoming | 12:15 PM onward, January 9, 2019)
+#### Meet #1 (12:15 PM onward, January 9, 2019)
 
 | Segment | Speaker                                                      | Topic                                                  | Minutes Allocated | Minutes Spent |
 | ------- | ------------------------------------------------------------ | ------------------------------------------------------ | ----------------- | ------------- |
