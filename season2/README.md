@@ -38,7 +38,7 @@ When the next event is held and who will speak is decided at the start of each s
 | ------- | ----------------------------------------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
 |         |                                                       | Next QuIC-meet                                               | 5                 |               |
 | Talk    | Chrysoula Vlachou                                     | Applications of quantum walks in cryptography (see [abstract](#chrysoula-vlachou)) | 45+10             |               |
-| Update  | [Leonardo Novo](http://quic.ulb.ac.be/members/lgnovo) |                                                              | 15                |               |
+| Update  | [Leonardo Novo](http://quic.ulb.ac.be/members/lgnovo) | [Fast-forwarding of Hamiltonians and Exponentially Precise Measurements.](https://arxiv.org/abs/1610.09619) Yosi Atia, Dorit Aharonov.  Nature Communications 8, 1572 (2017). | 15                |               |
 
 
 
