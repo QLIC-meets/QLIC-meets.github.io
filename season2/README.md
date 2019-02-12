@@ -37,7 +37,7 @@ When the next event is held and who will speak is decided at the start of each s
 | Segment | Speaker                                               | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ----------------------------------------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
 |         |                                                       | Next QuIC-meet                                               | 5                 |               |
-| Talk    | Chrysoula Vlachou                                     | Applications of quantum walks in cryptography (see [abstract](#chrysoula-vlachou)) | 45+10             |               |
+| Talk    | Emmanuel Zambrini Cruzeiro                            | Bell inequalities with one bit of communication (see [abstract](#emmanuel-zambrini-cruzeiro)) | 45+10             |               |
 | Update  | [Leonardo Novo](http://quic.ulb.ac.be/members/lgnovo) | [Fast-forwarding of Hamiltonians and Exponentially Precise Measurements.](https://arxiv.org/abs/1610.09619) Yosi Atia, Dorit Aharonov.  Nature Communications 8, 1572 (2017). | 15                |               |
 
 
@@ -49,8 +49,25 @@ When the next event is held and who will speak is decided at the start of each s
 |         |                                                              | Next QuIC-meet                                         | 5                 |        15       |
 | Talk  [[ppt](./meet1/Atul_Coin_flipping,_where_weakness_is_a_virtue.pptx)] [[pdf](./meet1/Atul_Coin_flipping,_where_weakness_is_a_virtue.pdf)] | [Atul Singh Arora](http://quic.ulb.ac.be/members/atulsingharora) | Quantum Weak Coin Flipping (conference talk rehearsal; [abstract](#atul-singh-arora)) | 30+15             |      55         |
 
-#### 
+
+
+#### Meet #3 (TBD)
+
+| Segment | Speaker           | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ----------------- | ------------------------------------------------------------ | ----------------- | ------------- |
+|         |                   | Next QuIC-meet                                               | 5                 |               |
+| Talk    | Chrysoula Vlachou | Applications of quantum walks in cryptography (see [abstract](#chrysoula-vlachou)) | 45+10             |               |
+| Update  |                   |                                                              | 15                |               |
+
 ## Abstracts
+
+#### Emmanuel Zambrini Cruzeiro
+
+##### Bell inequalities with one bit of communication  
+
+I will talk about Bell scenarios with binary outcomes supplemented by one bit of classical communication. In Geneva, we developed a method to find facet inequalities for such scenarios even when direct facet enumeration is not possible, or at least difficult. Using this method, we partially solved the scenario where Alice and Bob choose between three inputs, finding a total of 668 inequivalent facet inequalities (with respect to relabelings of inputs and outputs). We also show that some of these inequalities are constructed from facet inequalities found in scenarios without communication, that is, the well-known Bell inequalities.
+
+
 
 #### Chrysoula Vlachou
 
