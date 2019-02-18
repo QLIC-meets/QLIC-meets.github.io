@@ -77,7 +77,7 @@ Macroscopic mechanical qubits are fundamental both to test the classical-quantum
 
 [arxiv:1612.03198](https://arxiv.org/abs/1612.03198)
 
-#### 
+
 
 #### Emmanuel Zambrini Cruzeiro
 
