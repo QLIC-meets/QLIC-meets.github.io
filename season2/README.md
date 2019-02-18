@@ -38,7 +38,7 @@ When the next event is held and who will speak is decided at the start of each s
 | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------- | ------------- |
 |            |                                                              | Next QuIC-meet                                               | 5                 |               |
 | Guest Talk | Prof. Vitalie Eremeev (Universidad Diego Portales, Santiago, Chile) | Macroscopic non-classical state preparation via post-selection (see [abstract](#vitalie-eremeev)) | 45+10             |               |
-| Update     | Tom Van Himbeeck [to be confirmed]                           | [Quantum states and knowledge: Between pure states and density matrices](https://arxiv.org/abs/1811.05472). Sandu Popescu | 15                |               |
+| Update     | Tom Van Himbeeck                                             | [Quantum states and knowledge: Between pure states and density matrices](https://arxiv.org/abs/1811.05472). Sandu Popescu | 15                |               |
 
 #### Meet #2 (2:30 PM onward, Thursday, February 14, 2019)
 
