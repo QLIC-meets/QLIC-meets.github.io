@@ -32,13 +32,21 @@ When the next event is held and who will speak is decided at the start of each s
 
 ## Timeline
 
-#### Meet #2 (upcoming | 2:30 PM onward, Thursday, February 14, 2019)
+#### Meet #3 (upcoming | 11:30 AM onward, Thursday, February 21, 2019)
+
+| Segment    | Speaker                                                      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+|            |                                                              | Next QuIC-meet                                               | 5                 |               |
+| Guest Talk | Prof. Vitalie Eremeev (Universidad Diego Portales, Santiago, Chile) | Macroscopic non-classical state preparation via post-selection (see [abstract](#vitalie-eremeev)) | 45+10             |               |
+| Update     | Tom Van Himbeeck [to be confirmed]                           | [Quantum states and knowledge: Between pure states and density matrices](https://arxiv.org/abs/1811.05472). Sandu Popescu | 15                |               |
+
+#### Meet #2 (2:30 PM onward, Thursday, February 14, 2019)
 
 | Segment    | Speaker                                               | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ---------- | ----------------------------------------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
 |            |                                                       | Next QuIC-meet                                               | 5                 |               |
-| Guest Talk | Emmanuel Zambrini Cruzeiro                            | Bell inequalities with one bit of communication (see [abstract](#emmanuel-zambrini-cruzeiro)) | 45+10             |               |
-| Update     | [Leonardo Novo](http://quic.ulb.ac.be/members/lgnovo) | [Fast-forwarding of Hamiltonians and Exponentially Precise Measurements.](https://arxiv.org/abs/1610.09619) Yosi Atia, Dorit Aharonov.  Nature Communications 8, 1572 (2017). | 15                |               |
+| Guest Talk | Emmanuel Zambrini Cruzeiro                            | Bell inequalities with one bit of communication (see [abstract](#emmanuel-zambrini-cruzeiro); [arxiv:1612.03198](https://arxiv.org/abs/1612.03198)) | 45+10             | 55+5          |
+| Update     | [Leonardo Novo](http://quic.ulb.ac.be/members/lgnovo) | [Fast-forwarding of Hamiltonians and Exponentially Precise Measurements.](https://arxiv.org/abs/1610.09619) Yosi Atia, Dorit Aharonov.  Nature Communications 8, 1572 (2017). | 15                | 15            |
 
 
 
@@ -51,7 +59,7 @@ When the next event is held and who will speak is decided at the start of each s
 
 
 
-#### Meet #3 (TBD)
+#### Meet #4 (TBD)
 
 | Segment | Speaker           | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ----------------- | ------------------------------------------------------------ | ----------------- | ------------- |
@@ -60,6 +68,16 @@ When the next event is held and who will speak is decided at the start of each s
 | Update  |                   |                                                              | 15                |               |
 
 ## Abstracts
+
+####  Vitalie Eremeev
+
+##### Macroscopic non-classical state preparation via post-selection
+
+Macroscopic mechanical qubits are fundamental both to test the classical-quantum boundary and present suitable candidates for quantum information processing. Motivated by these, we propose a feasible probabilistic scheme to generate an on-demand mechanical qubit, as well as Schrödinger's cat and Fock number states. In order to accomplish this proposal, we study an open dispersive spin-mechanical system in the absence of any external driving. The procedure is solely based on spin post-selection in the weak coupling regime. Through this scheme we demonstrate that the achieved superposition is closely related to the amplification of the mean values of the mechanical quadratures as they are associated to the maximum quantum coherence.
+
+[arxiv:1612.03198](https://arxiv.org/abs/1612.03198)
+
+#### 
 
 #### Emmanuel Zambrini Cruzeiro
 
