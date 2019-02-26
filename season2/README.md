@@ -42,7 +42,7 @@ When the next event is held and who will speak is decided at the start of each s
 
 
 
-#### Meet #3 (upcoming | 11:30 AM onward, Thursday, February 21, 2019)
+#### Meet #3 (11:30 AM onward, Thursday, February 21, 2019)
 
 | Segment    | Speaker                                                      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------- | ------------- |
