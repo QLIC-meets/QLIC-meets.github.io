@@ -32,13 +32,23 @@ When the next event is held and who will speak is decided at the start of each s
 
 ## Timeline
 
+#### Meet #4 (Upcoming | 11:30 onward, Wednesday, February 27, 2019)
+
+| Segment | Speaker           | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ----------------- | ------------------------------------------------------------ | ----------------- | ------------- |
+|         |                   | Next QuIC-meet                                               | 5                 |               |
+| Talk    | Chrysoula Vlachou | Applications of quantum walks in cryptography (see [abstract](#chrysoula-vlachou)) | 45+10             |               |
+| Update  | Siddhartha Das    | Fundamental Limits on the Capacities of Bipartite Quantum Interactions (see [abstract](#siddhartha-das)) | 15                |               |
+
+
+
 #### Meet #3 (upcoming | 11:30 AM onward, Thursday, February 21, 2019)
 
 | Segment    | Speaker                                                      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-|            |                                                              | Next QuIC-meet                                               | 5                 |               |
-| Guest Talk | Prof. Vitalie Eremeev (Universidad Diego Portales, Santiago, Chile) | Macroscopic non-classical state preparation via post-selection (see [abstract](#vitalie-eremeev)) | 45+10             |               |
-| Update     | Tom Van Himbeeck                                             | [Quantum states and knowledge: Between pure states and density matrices](https://arxiv.org/abs/1811.05472). Sandu Popescu | 15                |               |
+|            |                                                              | Next QuIC-meet                                               | 5                 | 2             |
+| Guest Talk | Prof. Vitalie Eremeev (Universidad Diego Portales, Santiago, Chile) | Macroscopic non-classical state preparation via post-selection (see [abstract](#vitalie-eremeev)) | 45+10             | 50            |
+| Update     | Tom Van Himbeeck                                             | [Quantum states and knowledge: Between pure states and density matrices](https://arxiv.org/abs/1811.05472). Sandu Popescu | 15                | 10            |
 
 #### Meet #2 (2:30 PM onward, Thursday, February 14, 2019)
 
@@ -57,17 +67,21 @@ When the next event is held and who will speak is decided at the start of each s
 |         |                                                              | Next QuIC-meet                                         | 5                 |        15       |
 | Talk  [[ppt](./meet1/Atul_Coin_flipping,_where_weakness_is_a_virtue.pptx)] [[pdf](./meet1/Atul_Coin_flipping,_where_weakness_is_a_virtue.pdf)] | [Atul Singh Arora](http://quic.ulb.ac.be/members/atulsingharora) | Quantum Weak Coin Flipping (conference talk rehearsal; [abstract](#atul-singh-arora)) | 30+15             |      55         |
 
-
-
-#### Meet #4 (TBD)
-
-| Segment | Speaker           | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ----------------- | ------------------------------------------------------------ | ----------------- | ------------- |
-|         |                   | Next QuIC-meet                                               | 5                 |               |
-| Talk    | Chrysoula Vlachou | Applications of quantum walks in cryptography (see [abstract](#chrysoula-vlachou)) | 45+10             |               |
-| Update  |                   |                                                              | 15                |               |
+#### 
 
 ## Abstracts
+
+#### Siddhartha Das
+
+##### Fundamental Limits on the Capacities of Bipartite Quantum Interactions
+
+Bipartite quantum interactions have applications in a number of different areas of quantum physics, reaching from fundamental areas such as quantum thermodynamics and the theory of quantum measurements to other applications such as quantum computers, quantum key distribution, and other information processing protocols. A particular aspect of the study of bipartite interactions is concerned with the entanglement that can be created from such interactions. In this Letter, we present our work on two basic building blocks of bipartite quantum protocols, namely, the generation of maximally entangled states and secret key via bipartite quantum interactions. In particular, we provide a nontrivial, efficiently computable upper bound on the positive-partial-transpose-assisted quantum capacity of a bipartite quantum interaction. In addition, we provide an upper bound on the secret-key-agreement capacity of a bipartite quantum interaction assisted by local operations and classical communication. As an application, we introduce a cryptographic protocol for the readout of a digital memory device that is secure against a passive eavesdropper. 
+
+*Reference*: 
+Physical Review Letters, vol. 121, issue 25, page 250504, December 2018. 
+arXiv:1812.08223 (in collaboration w/ Stefan Baeuml and Mark M. Wilde).
+
+
 
 ####  Vitalie Eremeev
 
