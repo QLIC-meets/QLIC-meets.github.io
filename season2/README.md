@@ -32,7 +32,7 @@ When the next event is held and who will speak is decided at the start of each s
 
 ## Timeline
 
-#### Meet #4 (Upcoming | 11:30 onward, Wednesday, February 27, 2019)
+#### Meet #4 (Upcoming | 11:30 AM onward, Wednesday, February 27, 2019)
 
 | Segment | Speaker           | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ----------------- | ------------------------------------------------------------ | ----------------- | ------------- |
