@@ -37,7 +37,7 @@ When the next event is held and who will speak is decided at the start of each s
 | Segment | Speaker        | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | -------------- | ------------------------------------------------------------ | ----------------- | ------------- |
 |         |                | Next QuIC-meet                                               | 5                 |               |
-| Talk    | Siddhartha Das | Extendibility limits the performance of quantum processors (see [abstract](#chrysoula-vlachou)) | 45+10             |               |
+| Talk    | Siddhartha Das | Extendibility limits the performance of quantum processors (see [abstract](#siddhartha-das)) | 45+10             |               |
 | Update  | «open»         |                                                              | 15                |               |
 
 
