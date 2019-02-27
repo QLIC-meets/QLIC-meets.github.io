@@ -34,11 +34,11 @@ When the next event is held and who will speak is decided at the start of each s
 
 #### Meet #4 (Upcoming | 11:30 AM onward, Wednesday, February 27, 2019)
 
-| Segment | Speaker           | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ----------------- | ------------------------------------------------------------ | ----------------- | ------------- |
-|         |                   | Next QuIC-meet                                               | 5                 |               |
-| Talk    | Chrysoula Vlachou | Applications of quantum walks in cryptography (see [abstract](#chrysoula-vlachou)) | 45+10             |               |
-| Update  | Siddhartha Das    | Fundamental Limits on the Capacities of Bipartite Quantum Interactions (see [abstract](#siddhartha-das)) | 15                |               |
+| Segment | Speaker        | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | -------------- | ------------------------------------------------------------ | ----------------- | ------------- |
+|         |                | Next QuIC-meet                                               | 5                 |               |
+| Talk    | Siddhartha Das | Extendibility limits the performance of quantum processors (see [abstract](#chrysoula-vlachou)) | 45+10             |               |
+| Update  | «open»         |                                                              | 15                |               |
 
 
 
@@ -67,11 +67,28 @@ When the next event is held and who will speak is decided at the start of each s
 |         |                                                              | Next QuIC-meet                                         | 5                 |        15       |
 | Talk  [[ppt](./meet1/Atul_Coin_flipping,_where_weakness_is_a_virtue.pptx)] [[pdf](./meet1/Atul_Coin_flipping,_where_weakness_is_a_virtue.pdf)] | [Atul Singh Arora](http://quic.ulb.ac.be/members/atulsingharora) | Quantum Weak Coin Flipping (conference talk rehearsal; [abstract](#atul-singh-arora)) | 30+15             |      55         |
 
-#### 
+
+
+#### Meet #5 (TBD)
+
+| Segment | Speaker           | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ----------------- | ------------------------------------------------------------ | ----------------- | ------------- |
+|         |                   | Next QuIC-meet                                               | 5                 |               |
+| Talk    | Chrysoula Vlachou | Applications of quantum walks in cryptography (see [abstract](#chrysoula-vlachou)) | 45+10             |               |
+| Update  | Siddhartha Das    | Fundamental Limits on the Capacities of Bipartite Quantum Interactions (see [abstract](#siddhartha-das-second-talk)) | 15                |               |
 
 ## Abstracts
 
 #### Siddhartha Das
+
+##### Extendibility limits the performance of quantum processors
+
+Resource theories in quantum information science are helpful for the study and quantification of the performance of information-processing tasks that involve quantum systems. These resource theories also find applications in other areas of study; e.g., the resource theories of entanglement and coherence have found use and implications in the study of quantum thermodynamics and memory effects in quantum dynamics. In this paper, we introduce the resource theory of unextendibility, which is associated to the inability of extending quantum entanglement in a given quantum state to multiple parties. The free states in this resource theory are the k-extendible states, and the free channels are k-extendible channels, which preserve the class of k-extendible states. We make use of this resource theory to derive non-asymptotic, upper bounds on the rate at which quantum communication or entanglement preservation is possible by utilizing an arbitrary quantum channel a finite number of times, along with the assistance of k-extendible channels at no cost. We then show that the bounds we obtain are significantly tighter than previously known bounds for both the depolarizing and erasure channels.
+
+*Reference*: 
+Joint work with Eneet Kaur, Mark M. Wilde, and Andreas Winter (<https://arxiv.org/abs/1803.10710>).
+
+#### Siddhartha Das (second talk)
 
 ##### Fundamental Limits on the Capacities of Bipartite Quantum Interactions
 
