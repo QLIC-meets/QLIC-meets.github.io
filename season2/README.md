@@ -32,13 +32,30 @@ When the next event is held and who will speak is decided at the start of each s
 
 ## Timeline
 
-#### Meet #4 (Upcoming | 11:30 AM onward, Wednesday, February 27, 2019)
+#### Line-up
 
-| Segment | Speaker        | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | -------------- | ------------------------------------------------------------ | ----------------- | ------------- |
-|         |                | Next QuIC-meet                                               | 5                 |               |
-| Talk    | Siddhartha Das | Extendibility limits the performance of quantum processors (see [abstract](#siddhartha-das)) | 45+10             |               |
-| Update  | «open»         |                                                              | 15                |               |
+| Session | #5                  | #6                    | #7     |
+| ------- | ------------------- | --------------------- | ------ |
+| Talk    | *Chrysoula Vlachou* | Shantanav Chakraborty | «open» |
+| Update  | *Siddhartha Das*    | Nicolas Cerf          | «open» |
+
+#### Meet #5 (TBD)
+
+| Segment | Speaker           | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ----------------- | ------------------------------------------------------------ | ----------------- | ------------- |
+|         |                   | Next QuIC-meet                                               | 5                 |               |
+| Talk    | Chrysoula Vlachou | Applications of quantum walks in cryptography (see [abstract](#chrysoula-vlachou)) | 45+10             |               |
+| Update  | Siddhartha Das    | Fundamental Limits on the Capacities of Bipartite Quantum Interactions (see [abstract](#siddhartha-das-second-talk)) | 15                |               |
+
+
+
+#### Meet #4 (11:30 AM onward, Wednesday, February 27, 2019)
+
+| Segment | Speaker               | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | --------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
+|         |                       | Next QuIC-meet                                               | 5                 | 5             |
+| Talk    | Siddhartha Das        | Extendibility limits the performance of quantum processors (see [abstract](#siddhartha-das)) | 45+10             | 50            |
+| Update  | Shantanav Chakraborty |                                                              | 15                | 15            |
 
 
 
@@ -76,6 +93,8 @@ When the next event is held and who will speak is decided at the start of each s
 |         |                   | Next QuIC-meet                                               | 5                 |               |
 | Talk    | Chrysoula Vlachou | Applications of quantum walks in cryptography (see [abstract](#chrysoula-vlachou)) | 45+10             |               |
 | Update  | Siddhartha Das    | Fundamental Limits on the Capacities of Bipartite Quantum Interactions (see [abstract](#siddhartha-das-second-talk)) | 15                |               |
+
+
 
 ## Abstracts
 
