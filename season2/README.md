@@ -39,11 +39,11 @@ When the next event is held and who will speak is decided at the start of each s
 | Talk    | *Chrysoula Vlachou* | Shantanav Chakraborty | «open» |
 | Update  | *Siddhartha Das*    | Nicolas Cerf          | «open» |
 
-#### Meet #5 (TBD)
+#### Meet #5 (11:30 AM onward, Wednesday, March 4, 2019)
 
 | Segment | Speaker           | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ----------------- | ------------------------------------------------------------ | ----------------- | ------------- |
-|         |                   | Next QuIC-meet                                               | 5                 |               |
+|         |                   | Next QuIC-meet + Seminar/QuIC-meet distinction               | 5                 |               |
 | Talk    | Chrysoula Vlachou | Applications of quantum walks in cryptography (see [abstract](#chrysoula-vlachou)) | 45+10             |               |
 | Update  | Siddhartha Das    | Fundamental Limits on the Capacities of Bipartite Quantum Interactions (see [abstract](#siddhartha-das-second-talk)) | 15                |               |
 
@@ -86,13 +86,13 @@ When the next event is held and who will speak is decided at the start of each s
 
 
 
-#### Meet #5 (TBD)
+#### Meet #6 (TBD)
 
-| Segment | Speaker           | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ----------------- | ------------------------------------------------------------ | ----------------- | ------------- |
-|         |                   | Next QuIC-meet                                               | 5                 |               |
-| Talk    | Chrysoula Vlachou | Applications of quantum walks in cryptography (see [abstract](#chrysoula-vlachou)) | 45+10             |               |
-| Update  | Siddhartha Das    | Fundamental Limits on the Capacities of Bipartite Quantum Interactions (see [abstract](#siddhartha-das-second-talk)) | 15                |               |
+| Segment | Speaker   | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | --------- | ------------------------------------------------------------ | ----------------- | ------------- |
+|         |           | Next QuIC-meet                                               | 5                 |               |
+| Talk    | Shantanav | Applications of quantum walks in cryptography (see [abstract](#chrysoula-vlachou)) | 45+10             |               |
+| Update  | Nicolas   | Fundamental Limits on the Capacities of Bipartite Quantum Interactions (see [abstract](#siddhartha-das-second-talk)) | 15                |               |
 
 
 
