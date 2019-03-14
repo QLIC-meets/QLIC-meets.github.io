@@ -30,26 +30,52 @@ When the next event is held and who will speak is decided at the start of each s
 
 
 
-## Timeline
+## Upcoming
 
-#### Line-up
+#### Meet #3b (TBD)
 
-| Session | #5                  | #6                    | #7     |
-| ------- | ------------------- | --------------------- | ------ |
-| Talk    | *Chrysoula Vlachou* | Shantanav Chakraborty | «open» |
-| Update  | *Siddhartha Das*    | Nicolas Cerf          | «open» |
+| Segment | Speaker               | Topic          | Minutes Allocated | Minutes Spent |
+| ------- | --------------------- | -------------- | ----------------- | ------------- |
+|         |                       | Next QuIC-meet | 5                 |               |
+| Talk    | Shantanav Chakraborty |                | 45+10             |               |
+| Update  | Nicolas Cerf          |                | 15                |               |
 
-#### Meet #5 (11:30 AM onward, Wednesday, March 4, 2019)
+
+
+## In the Pipeline
+
+#### QuIC-meet
+
+| Session | #3b                   | #4a              | #4b    |
+| ------- | --------------------- | ---------------- | ------ |
+| Talk    | Shantanav Chakraborty | Mathieu Brandeho | «open» |
+| Update  | Nicolas Cerf          | Jérémie Roland   | «open» |
+
+
+
+#### Seminar (Monday, March 25; 2:30 PM onward)
+
+| Segment | Speaker        | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | -------------- | ------------------------------------------------------------ | ----------------- | ------------- |
+| Seminar | Martin Kliesch | Sample complexity of device-independently certified "quantum supremacy" (see [abstract](martin-kliesch)) | 45+10             |               |
+
+
+
+## Past
+
+
+
+#### Meet #3a (11:30 AM onward, Wednesday, March 4, 2019)
 
 | Segment | Speaker           | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ----------------- | ------------------------------------------------------------ | ----------------- | ------------- |
-|         |                   | Next QuIC-meet + Seminar/QuIC-meet distinction               | 5                 |               |
-| Talk    | Chrysoula Vlachou | Applications of quantum walks in cryptography (see [abstract](#chrysoula-vlachou)) | 45+10             |               |
-| Update  | Siddhartha Das    | Fundamental Limits on the Capacities of Bipartite Quantum Interactions (see [abstract](#siddhartha-das-second-talk)) | 15                |               |
+|         |                   | Next QuIC-meet + Seminar/QuIC-meet distinction               | 5                 | 5             |
+| Talk    | Chrysoula Vlachou | Applications of quantum walks in cryptography (see [abstract](#chrysoula-vlachou)) | 45+10             | 50            |
+| Update  | Siddhartha Das    | Fundamental Limits on the Capacities of Bipartite Quantum Interactions (see [abstract](#siddhartha-das-second-talk)) | 15                | 15            |
 
 
 
-#### Meet #4 (11:30 AM onward, Wednesday, February 27, 2019)
+#### Meet #2c (11:30 AM onward, Wednesday, February 27, 2019)
 
 | Segment | Speaker               | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | --------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
@@ -59,7 +85,7 @@ When the next event is held and who will speak is decided at the start of each s
 
 
 
-#### Meet #3 (11:30 AM onward, Thursday, February 21, 2019)
+#### Meet #2b (11:30 AM onward, Thursday, February 21, 2019)
 
 | Segment    | Speaker                                                      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------- | ------------- |
@@ -67,7 +93,7 @@ When the next event is held and who will speak is decided at the start of each s
 | Guest Talk | Prof. Vitalie Eremeev (Universidad Diego Portales, Santiago, Chile) | Macroscopic non-classical state preparation via post-selection (see [abstract](#vitalie-eremeev)) | 45+10             | 50            |
 | Update     | Tom Van Himbeeck                                             | [Quantum states and knowledge: Between pure states and density matrices](https://arxiv.org/abs/1811.05472). Sandu Popescu | 15                | 10            |
 
-#### Meet #2 (2:30 PM onward, Thursday, February 14, 2019)
+#### Meet #2a (2:30 PM onward, Thursday, February 14, 2019)
 
 | Segment    | Speaker                                               | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ---------- | ----------------------------------------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
@@ -77,7 +103,7 @@ When the next event is held and who will speak is decided at the start of each s
 
 
 
-#### Meet #1 (12:15 PM onward, January 9, 2019)
+#### Meet #1a (12:15 PM onward, January 9, 2019)
 
 | Segment | Speaker                                                      | Topic                                                  | Minutes Allocated | Minutes Spent |
 | ------- | ------------------------------------------------------------ | ------------------------------------------------------ | ----------------- | ------------- |
@@ -86,7 +112,7 @@ When the next event is held and who will speak is decided at the start of each s
 
 
 
-#### Meet #6 (TBD)
+#### Meet #4a (TBD)
 
 | Segment | Speaker   | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | --------- | ------------------------------------------------------------ | ----------------- | ------------- |
@@ -97,6 +123,16 @@ When the next event is held and who will speak is decided at the start of each s
 
 
 ## Abstracts
+
+#### Martin Kliesch
+
+##### Sample complexity of device-independently certified "quantum supremacy"
+
+This talk will start with an overview of topics covered in our research group: classical simulation, tomography, and certification of quantum systems. Then the title topic will be covered in more detail. 
+Here, we address the most prominent suggestions for sampling experiments include boson sampling, IQP circuit sampling, and universal random circuit sampling. The great interest in these sampling schemes is due to results establishing that even sampling only approximately from the targeted distributions is hard classically. Therefore, they are seen as an important stepping stones towards a convincing demonstration of the superior computational power of quantum devices.
+For all these sampling schemes, and in fact for all sufficiently flat distributions, we rigorously establish the following: non-interactive certification from classical samples and a description of the target distribution requires exponentially many uses of the device. 
+
+
 
 #### Siddhartha Das
 
