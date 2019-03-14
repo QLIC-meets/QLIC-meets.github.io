@@ -57,7 +57,7 @@ When the next event is held and who will speak is decided at the start of each s
 
 | Segment | Speaker        | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | -------------- | ------------------------------------------------------------ | ----------------- | ------------- |
-| Seminar | Martin Kliesch | Sample complexity of device-independently certified "quantum supremacy" (see [abstract](martin-kliesch)) | 45+10             |               |
+| Seminar | Martin Kliesch | Sample complexity of device-independently certified "quantum supremacy" (see [abstract](#martin-kliesch)) | 45+10             |               |
 
 
 
