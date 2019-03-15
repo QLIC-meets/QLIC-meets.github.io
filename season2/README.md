@@ -112,16 +112,6 @@ When the next event is held and who will speak is decided at the start of each s
 
 
 
-#### Meet #4a (TBD)
-
-| Segment | Speaker   | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | --------- | ------------------------------------------------------------ | ----------------- | ------------- |
-|         |           | Next QuIC-meet                                               | 5                 |               |
-| Talk    | Shantanav | Applications of quantum walks in cryptography (see [abstract](#chrysoula-vlachou)) | 45+10             |               |
-| Update  | Nicolas   | Fundamental Limits on the Capacities of Bipartite Quantum Interactions (see [abstract](#siddhartha-das-second-talk)) | 15                |               |
-
-
-
 ## Abstracts
 
 #### Martin Kliesch
