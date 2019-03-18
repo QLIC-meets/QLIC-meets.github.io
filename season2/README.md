@@ -32,7 +32,7 @@ When the next event is held and who will speak is decided at the start of each s
 
 ## Upcoming
 
-#### Meet #3b (TBD)
+#### Meet #3b (11:30 AM onward, Thursday, March 21, 2019)
 
 | Segment | Speaker               | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | --------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
@@ -55,7 +55,7 @@ When the next event is held and who will speak is decided at the start of each s
 
 
 
-#### Seminar (Monday, March 25; 2:30 PM onward)
+#### Seminar (2:30 PM onward, Monday, March 25, 2019)
 
 | Segment | Speaker        | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | -------------- | ------------------------------------------------------------ | ----------------- | ------------- |
@@ -121,6 +121,8 @@ When the next event is held and who will speak is decided at the start of each s
 ##### Finding a marked node on any graph by continuous-time quantum walks
 
 We provide a new spatial search algorithm by continuous-time quantum walk which can find a marked node on any ergodic, reversible Markov chain *P*, in a time that is quadratically faster than the corresponding classical random walk on *P*. In the scenario where multiple nodes are marked, the running time of our algorithm scales as the square root of a quantity known as the extended hitting time. This solves an open problem concerning the difference between the running time of spatial search by discrete-time and continuous-time quantum walk. We also show that the widely used Childs and Goldstone algorithm for spatial search by continuous-time quantum walk is quite restrictive: we identify limitations in its applicability whenever *P* is not state-transitive. We subsequently improve and extend this algorithm to be applicable for any *P*. Our generalizations imply that most hitherto published results on the performance of quantum spatial search in the Childs and Goldstone framework on specific graphs are particular cases of our result. However, we prove that the running time of the Childs and Goldstone algorithm and its subsequent improvement is suboptimal: our spatial search algorithm outperforms it. Our results can be adapted to a number of Markov chain-based quantum algorithms and will lead to exploring other connections between discrete-time and continuous-time quantum walks.
+
+Joint work with Leonardo Novo and Jérémie Roland
 
 
 
