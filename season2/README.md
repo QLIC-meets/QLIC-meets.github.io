@@ -34,11 +34,11 @@ When the next event is held and who will speak is decided at the start of each s
 
 #### Meet #3b (TBD)
 
-| Segment | Speaker               | Topic          | Minutes Allocated | Minutes Spent |
-| ------- | --------------------- | -------------- | ----------------- | ------------- |
-|         |                       | Next QuIC-meet | 5                 |               |
-| Talk    | Shantanav Chakraborty |                | 45+10             |               |
-| Update  | Nicolas Cerf          |                | 15                |               |
+| Segment | Speaker               | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | --------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
+|         |                       | Next QuIC-meet                                               | 5                 |               |
+| Talk    | Shantanav Chakraborty | Finding a marked node on any graph by continuous-time quantum walks (see [abstract](#shantanav-chakraborty)) | 45+10             |               |
+| Update  | Nicolas Cerf          | TBA                                                          | 15                |               |
 
 
 
@@ -46,10 +46,12 @@ When the next event is held and who will speak is decided at the start of each s
 
 #### QuIC-meet
 
-| Session | #3b                   | #4a              | #4b    |
-| ------- | --------------------- | ---------------- | ------ |
-| Talk    | Shantanav Chakraborty | Mathieu Brandeho | «open» |
-| Update  | Nicolas Cerf          | Jérémie Roland   | «open» |
+[Uncertified Random List Generator](https://mybinder.org/v2/gh/QuIC-meets/QuIC-meets.github.io/master?filepath=season2/lineUp/lineUp.ipynb)
+
+| Session | #4a              | #4b    | #5a    |
+| ------- | ---------------- | ------ | ------ |
+| Talk    | Mathieu Brandeho | «open» | «open» |
+| Update  | Jérémie Roland   | «open» | «open» |
 
 
 
@@ -81,7 +83,7 @@ When the next event is held and who will speak is decided at the start of each s
 | ------- | --------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
 |         |                       | Next QuIC-meet                                               | 5                 | 5             |
 | Talk    | Siddhartha Das        | Extendibility limits the performance of quantum processors (see [abstract](#siddhartha-das)) | 45+10             | 50            |
-| Update  | Shantanav Chakraborty |                                                              | 15                | 15            |
+| Update  | Shantanav Chakraborty | About the von Neumann measurement scheme in the discretized space/time setting. | 15                | 15            |
 
 
 
@@ -114,6 +116,14 @@ When the next event is held and who will speak is decided at the start of each s
 
 ## Abstracts
 
+#### Shantanav Chakraborty
+
+##### Finding a marked node on any graph by continuous-time quantum walks
+
+We provide a new spatial search algorithm by continuous-time quantum walk which can find a marked node on any ergodic, reversible Markov chain *P*, in a time that is quadratically faster than the corresponding classical random walk on *P*. In the scenario where multiple nodes are marked, the running time of our algorithm scales as the square root of a quantity known as the extended hitting time. This solves an open problem concerning the difference between the running time of spatial search by discrete-time and continuous-time quantum walk. We also show that the widely used Childs and Goldstone algorithm for spatial search by continuous-time quantum walk is quite restrictive: we identify limitations in its applicability whenever *P* is not state-transitive. We subsequently improve and extend this algorithm to be applicable for any *P*. Our generalizations imply that most hitherto published results on the performance of quantum spatial search in the Childs and Goldstone framework on specific graphs are particular cases of our result. However, we prove that the running time of the Childs and Goldstone algorithm and its subsequent improvement is suboptimal: our spatial search algorithm outperforms it. Our results can be adapted to a number of Markov chain-based quantum algorithms and will lead to exploring other connections between discrete-time and continuous-time quantum walks.
+
+
+
 #### Martin Kliesch
 
 ##### Sample complexity of device-independently certified "quantum supremacy"
@@ -132,6 +142,8 @@ Resource theories in quantum information science are helpful for the study and q
 
 *Reference*: 
 Joint work with Eneet Kaur, Mark M. Wilde, and Andreas Winter (<https://arxiv.org/abs/1803.10710>).
+
+
 
 #### Siddhartha Das (second talk)
 
