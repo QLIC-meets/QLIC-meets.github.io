@@ -44,6 +44,14 @@ When the next event is held and who will speak is decided at the start of each s
 
 ## In the Pipeline
 
+#### Seminar (2:30 PM onward, Monday, March 25, 2019)
+
+| Segment | Speaker        | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | -------------- | ------------------------------------------------------------ | ----------------- | ------------- |
+| Seminar | Martin Kliesch | Sample complexity of device-independently certified "quantum supremacy" (see [abstract](#martin-kliesch)) | 45+10             |               |
+
+
+
 #### QuIC-meet
 
 [Uncertified Random List Generator](https://mybinder.org/v2/gh/QuIC-meets/QuIC-meets.github.io/master?filepath=season2/lineUp/lineUp.ipynb)
@@ -55,17 +63,7 @@ When the next event is held and who will speak is decided at the start of each s
 
 
 
-#### Seminar (2:30 PM onward, Monday, March 25, 2019)
-
-| Segment | Speaker        | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | -------------- | ------------------------------------------------------------ | ----------------- | ------------- |
-| Seminar | Martin Kliesch | Sample complexity of device-independently certified "quantum supremacy" (see [abstract](#martin-kliesch)) | 45+10             |               |
-
-
-
 ## Past
-
-
 
 #### Meet #3a (11:30 AM onward, Wednesday, March 4, 2019)
 
