@@ -219,6 +219,8 @@ To go beyond, we introduce what we call the Elliptic Monotone Align (EMA) algori
 together with the framework, allows us to construct protocols with arbitrarily small biases. This
 solves the open problem of quantum weak coin flipping (in the absence of noise).
 
+Joint work with Jérémie Roland and Stephan Weis.
+
 [1] C. Mochon, “Quantum weak coin flipping with arbitrarily small bias”, arXiv:0711.4114 (2007).
 
 [2] C. Mochon, “Large family of quantum weak coin-flipping protocols”, Phys. Rev. A 72, 022341 (2005).
