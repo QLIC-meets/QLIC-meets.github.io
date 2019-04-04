@@ -32,17 +32,38 @@ When the next event is held and who will speak is decided at the start of each s
 
 ## Upcoming
 
-#### Meet #3b (11:30 AM onward, Thursday, March 21, 2019)
+#### Meet #4a (11:30 AM onward, Thursday, April 11, 2019)
 
-| Segment | Speaker               | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | --------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
-|         |                       | Next QuIC-meet                                               | 5                 |               |
-| Talk    | Shantanav Chakraborty | Finding a marked node on any graph by continuous-time quantum walks (see [abstract](#shantanav-chakraborty)) | 45+10             |               |
-| Update  | Nicolas Cerf          | TBA                                                          | 15                |               |
+| Segment | Speaker       | Topic          | Minutes Allocated | Minutes Spent |
+| ------- | ------------- | -------------- | ----------------- | ------------- |
+|         |               | Next QuIC-meet | 5                 |               |
+| Talk    | Leonardo Novo | TBA            | 45+10             |               |
+| Update  | «open»        |                | 15                |               |
 
 
 
 ## In the Pipeline
+
+#### Seminar (provisional | 11:30 AM onward; Wednesday, April 11, 2019)
+
+| Segment | Speaker | Topic | Minutes Allocated | Minutes Spent |
+| ------- | ------- | ----- | ----------------- | ------------- |
+| Seminar |         |       | 45+10             |               |
+
+
+
+#### QuIC-meet
+
+[Uncertified Random List Generator](https://mybinder.org/v2/gh/QuIC-meets/QuIC-meets.github.io/master?filepath=season2/lineUp/lineUp.ipynb)
+
+| Session | #4a           | #4b              | #5a             |
+| ------- | ------------- | ---------------- | --------------- |
+| Talk    | Leonardo Novo | Mathieu Brandeho | Stefano Pironio |
+| Update  | «open»        | Jérémie Roland   | Nicolas Cerf    |
+
+
+
+## Past
 
 #### Seminar (2:30 PM onward, Monday, March 25, 2019)
 
@@ -52,18 +73,15 @@ When the next event is held and who will speak is decided at the start of each s
 
 
 
-#### QuIC-meet
+#### Meet #3b (11:30 AM onward, Thursday, March 21, 2019)
 
-[Uncertified Random List Generator](https://mybinder.org/v2/gh/QuIC-meets/QuIC-meets.github.io/master?filepath=season2/lineUp/lineUp.ipynb)
-
-| Session | #4a              | #4b    | #5a    |
-| ------- | ---------------- | ------ | ------ |
-| Talk    | Mathieu Brandeho | «open» | «open» |
-| Update  | Jérémie Roland   | «open» | «open» |
-
+| Segment | Speaker               | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | --------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
+|         |                       | Next QuIC-meet                                               | 5                 | 10            |
+| Talk    | Shantanav Chakraborty | Finding a marked node on any graph by continuous-time quantum walks (see [abstract](#shantanav-chakraborty)) | 45+10             | 50            |
+| Update  | ~~Nicolas Cerf~~      | TBA                                                          | 15                | 0             |
 
 
-## Past
 
 #### Meet #3a (11:30 AM onward, Wednesday, March 4, 2019)
 
