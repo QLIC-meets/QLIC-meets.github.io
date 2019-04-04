@@ -48,7 +48,7 @@ When the next event is held and who will speak is decided at the start of each s
 
 | Segment | Speaker | Topic | Minutes Allocated | Minutes Spent |
 | ------- | ------- | ----- | ----------------- | ------------- |
-| Seminar |         |       | 45+10             |               |
+| Seminar | TBA     |       | 45+10             |               |
 
 
 
