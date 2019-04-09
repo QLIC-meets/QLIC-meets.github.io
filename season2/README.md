@@ -34,21 +34,21 @@ When the next event is held and who will speak is decided at the start of each s
 
 #### Meet #4a (11:30 AM onward, Thursday, April 11, 2019)
 
-| Segment | Speaker       | Topic          | Minutes Allocated | Minutes Spent |
-| ------- | ------------- | -------------- | ----------------- | ------------- |
-|         |               | Next QuIC-meet | 5                 |               |
-| Talk    | Leonardo Novo | TBA            | 45+10             |               |
-| Update  | «open»        |                | 15                |               |
+| Segment | Speaker       | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------- | ------------------------------------------------------------ | ----------------- | ------------- |
+|         |               | Next QuIC-meet                                               | 5                 |               |
+| Talk    | Leonardo Novo | Circuit-to-Hamiltonian constructions and their use in quantum computation (see [abstract](#leonardo-novo)) | 45+10             |               |
+| Update  | «open»        |                                                              | 15                |               |
 
 
 
 ## In the Pipeline
 
-#### Seminar (provisional | 11:30 AM onward; Wednesday, April 11, 2019)
+#### Seminar (provisional | 11:30 AM onward; Thursday, April 18, 2019)
 
-| Segment | Speaker | Topic | Minutes Allocated | Minutes Spent |
-| ------- | ------- | ----- | ----------------- | ------------- |
-| Seminar | TBA     |       | 45+10             |               |
+| Segment | Speaker                                                      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Seminar | [Pablo Arrighi](http://pageperso.lif.univ-mrs.fr/~pablo.arrighi/) | Quantum automata, computability and universality (see [abstract](Pablo-Arrighi)) | 45+10             |               |
 
 
 
@@ -56,10 +56,10 @@ When the next event is held and who will speak is decided at the start of each s
 
 [Uncertified Random List Generator](https://mybinder.org/v2/gh/QuIC-meets/QuIC-meets.github.io/master?filepath=season2/lineUp/lineUp.ipynb)
 
-| Session | #4a           | #4b              | #5a             |
-| ------- | ------------- | ---------------- | --------------- |
-| Talk    | Leonardo Novo | Mathieu Brandeho | Stefano Pironio |
-| Update  | «open»        | Jérémie Roland   | Nicolas Cerf    |
+| Session | #4b              | #5a             | #6a    |
+| ------- | ---------------- | --------------- | ------ |
+| Talk    | Mathieu Brandeho | Stefano Pironio | «open» |
+| Update  | Jérémie Roland   | Nicolas Cerf    | «open» |
 
 
 
@@ -126,11 +126,35 @@ When the next event is held and who will speak is decided at the start of each s
 | Segment | Speaker                                                      | Topic                                                  | Minutes Allocated | Minutes Spent |
 | ------- | ------------------------------------------------------------ | ------------------------------------------------------ | ----------------- | ------------- |
 |         |                                                              | Next QuIC-meet                                         | 5                 |        15       |
-| Talk  [[ppt](./meet1/Atul_Coin_flipping,_where_weakness_is_a_virtue.pptx)] [[pdf](./meet1/Atul_Coin_flipping,_where_weakness_is_a_virtue.pdf)] | [Atul Singh Arora](http://quic.ulb.ac.be/members/atulsingharora) | Quantum Weak Coin Flipping (conference talk rehearsal; [abstract](#atul-singh-arora)) | 30+15             |      55         |
+| Talk [[ppt](./meet1/Atul_Coin_flipping,_where_weakness_is_a_virtue.pptx)] [[pdf](./meet1/Atul_Coin_flipping,_where_weakness_is_a_virtue.pdf)] | [Atul Singh Arora](http://quic.ulb.ac.be/members/atulsingharora) | Quantum Weak Coin Flipping (conference talk rehearsal; [abstract](#atul-singh-arora)) | 30+15             |      55         |
 
 
 
 ## Abstracts
+
+### Pablo Arrighi
+
+##### Quantum automata, computability and universality
+
+I will explore the impact of quantum evolutions, whether finite (automata) or infinite-dimensional (operators), upon the notions of computability and universality. Most of the results I will mention rely on a decomposition of quantum operators into quantum automata, which is based upon the tacit assumption of a fixed partial order. Time-allowing, I will try to touch on the topical question of quantum partial orders. 
+
+
+
+### **Leonardo Novo**
+
+##### Circuit-to-Hamiltonian constructions and their use in quantum computation
+
+In this talk I will explain some basics of circuit-to-Hamiltonian constructions and show how these are used to obtain several important results in quantum computation and Hamiltonian complexity. Namely, I will sketch the main ideas behind the proofs of the following results.
+
+1) Any quantum computation can be realized by evolving a time-independent local Hamiltonian.
+
+2) Determining the ground state energy of a local Hamiltonian is QMA complete (the quantum analogue of the complexity class NP).
+
+3) Adiabatic quantum computation is equivalent to circuit-model quantum computation.
+
+4) The problem of approximating the probability of obtaining the ground state energy after an energy measurement of a quantum system can be either BQP-hard or #P-hard depending on the allowed approximation error. 
+
+
 
 #### Shantanav Chakraborty
 
