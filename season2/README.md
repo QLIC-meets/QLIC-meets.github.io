@@ -57,7 +57,7 @@ When the next event is held and who will speak is decided at the start of each s
 
 [Uncertified Random List Generator](https://mybinder.org/v2/gh/QuIC-meets/QuIC-meets.github.io/master?filepath=season2/lineUp/lineUp.ipynb)
 
-| Session | #4b              | #5a             | #6a    |
+| Session | #4b              | #5a             | #5b    |
 | ------- | ---------------- | --------------- | ------ |
 | Talk    | Mathieu Brandeho | Stefano Pironio | «open» |
 | Update  | Nicolas Cerf     | Jérémie Roland  | «open» |
@@ -143,7 +143,7 @@ When the next event is held and who will speak is decided at the start of each s
 
 ## Abstracts
 
-### Pablo Arrighi
+#### Pablo Arrighi
 
 ##### Quantum automata, computability and universality
 
@@ -151,7 +151,7 @@ I will explore the impact of quantum evolutions, whether finite (automata) or in
 
 
 
-### **Leonardo Novo**
+#### **Leonardo Novo**
 
 ##### Circuit-to-Hamiltonian constructions and their use in quantum computation
 
