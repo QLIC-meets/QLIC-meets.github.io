@@ -32,23 +32,24 @@ When the next event is held and who will speak is decided at the start of each s
 
 ## Upcoming
 
-#### Meet #4a (11:30 AM onward, Thursday, April 11, 2019)
 
-| Segment | Speaker       | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ------------- | ------------------------------------------------------------ | ----------------- | ------------- |
-|         |               | Next QuIC-meet                                               | 5                 |               |
-| Talk    | Leonardo Novo | Circuit-to-Hamiltonian constructions and their use in quantum computation (see [abstract](#leonardo-novo)) | 45+10             |               |
-| Update  | «open»        |                                                              | 15                |               |
+
+#### Seminar (2:00 AM onward; Thursday, April 18, 2019)
+
+| Segment | Speaker                                                      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Seminar | [Pablo Arrighi](http://pageperso.lif.univ-mrs.fr/~pablo.arrighi/) | Quantum automata, computability and universality (see [abstract](Pablo-Arrighi)) | 50+10             |               |
 
 
 
 ## In the Pipeline
 
-#### Seminar (provisional | 11:30 AM onward; Thursday, April 18, 2019)
+#### Meet #5b (provisional | 11:30 AM onward; Wednesday, April 25, 2019)
 
-| Segment | Speaker                                                      | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Seminar | [Pablo Arrighi](http://pageperso.lif.univ-mrs.fr/~pablo.arrighi/) | Quantum automata, computability and universality (see [abstract](Pablo-Arrighi)) | 45+10             |               |
+| Segment | Speaker          | Topic | Minutes Allocated | Minutes Spent |
+| ------- | ---------------- | ----- | ----------------- | ------------- |
+| Talk    | Mathieu Brandeho | TBA   | 45+10             |               |
+| Update  | Nicolas Cerf     | TBA   | 15                |               |
 
 
 
@@ -59,11 +60,21 @@ When the next event is held and who will speak is decided at the start of each s
 | Session | #4b              | #5a             | #6a    |
 | ------- | ---------------- | --------------- | ------ |
 | Talk    | Mathieu Brandeho | Stefano Pironio | «open» |
-| Update  | Jérémie Roland   | Nicolas Cerf    | «open» |
+| Update  | Nicolas Cerf     | Jérémie Roland  | «open» |
 
 
 
 ## Past
+
+#### Meet #4a (11:30 AM onward, Thursday, April 11, 2019)
+
+| Segment | Speaker       | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------- | ------------------------------------------------------------ | ----------------- | ------------- |
+|         |               | Next QuIC-meet                                               | 5                 | 5             |
+| Talk    | Leonardo Novo | Circuit-to-Hamiltonian constructions and their use in quantum computation (see [abstract](#leonardo-novo)) | 45+10             | 55            |
+| Update  | Various       | Discussion on the EHT black-hole image                       | 15                | 15            |
+
+
 
 #### Seminar (2:30 PM onward, Monday, March 25, 2019)
 
