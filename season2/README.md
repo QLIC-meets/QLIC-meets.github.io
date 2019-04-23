@@ -34,22 +34,27 @@ When the next event is held and who will speak is decided at the start of each s
 
 
 
-#### Seminar (2:00 AM onward; Thursday, April 18, 2019)
+#### Meet #4b (provisional | 11:30 AM onward; Wednesday, April 24, 2019)
 
-| Segment | Speaker                                                      | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Seminar | [Pablo Arrighi](http://pageperso.lif.univ-mrs.fr/~pablo.arrighi/) | Quantum automata, computability and universality (see [abstract](#Pablo-Arrighi)) | 50+10             |               |
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Uttam Singh  | Quantum majorization and a complete set of entropic conditions for quantum thermodynamics (see [abstract](#uttam-singh)) | 45+10             |               |
+| Update  | Nicolas Cerf | Resource theory of local Gaussian work extraction for multimode bosonic systems | 15                |               |
+
+
 
 
 
 ## In the Pipeline
 
-#### Meet #5b (provisional | 11:30 AM onward; Wednesday, April 25, 2019)
+#### Season 3 (May–August)
 
-| Segment | Speaker          | Topic | Minutes Allocated | Minutes Spent |
-| ------- | ---------------- | ----- | ----------------- | ------------- |
-| Talk    | Mathieu Brandeho | TBA   | 45+10             |               |
-| Update  | Nicolas Cerf     | TBA   | 15                |               |
+#### Meet #5a (provisional | 11:30 AM onward; Thursday, May 2, 2019)
+
+| Segment | Speaker         | Topic | Minutes Allocated | Minutes Spent |
+| ------- | --------------- | ----- | ----------------- | ------------- |
+| Talk    | Stefano Pironio | TBA   | 45+10             |               |
+| Update  | Jérémie Roland  | TBA   | 15                |               |
 
 
 
@@ -57,16 +62,24 @@ When the next event is held and who will speak is decided at the start of each s
 
 [Uncertified Random List Generator](https://mybinder.org/v2/gh/QuIC-meets/QuIC-meets.github.io/master?filepath=season2/lineUp/lineUp.ipynb)
 
-| Session | #4b              | #5a             | #5b    |
-| ------- | ---------------- | --------------- | ------ |
-| Talk    | Mathieu Brandeho | Stefano Pironio | «open» |
-| Update  | Nicolas Cerf     | Jérémie Roland  | «open» |
+| Session | #5a             | #5b    | #6a    |
+| ------- | --------------- | ------ | ------ |
+| Talk    | Stefano Pironio | «open» | «open» |
+| Update  | Jérémie Roland  | «open» | «open» |
 
 
 
 ## Past
 
-#### Meet #4a (11:30 AM onward, Thursday, April 11, 2019)
+#### Seminar (2:00 AM onward; Thursday, April 18, 2019)
+
+| Segment | Speaker                                                      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Seminar | [Pablo Arrighi](http://pageperso.lif.univ-mrs.fr/~pablo.arrighi/) | Quantum automata, computability and universality (see [abstract](#Pablo-Arrighi)) | 50+10             | 80+           |
+
+
+
+#### Meet #4a (11:30 AM onward; Thursday, April 11, 2019)
 
 | Segment | Speaker       | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------- | ------------------------------------------------------------ | ----------------- | ------------- |
@@ -76,7 +89,7 @@ When the next event is held and who will speak is decided at the start of each s
 
 
 
-#### Seminar (2:30 PM onward, Monday, March 25, 2019)
+#### Seminar (2:30 PM onward; Monday, March 25, 2019)
 
 | Segment | Speaker        | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | -------------- | ------------------------------------------------------------ | ----------------- | ------------- |
@@ -84,7 +97,7 @@ When the next event is held and who will speak is decided at the start of each s
 
 
 
-#### Meet #3b (11:30 AM onward, Thursday, March 21, 2019)
+#### Meet #3b (11:30 AM onward; Thursday, March 21, 2019)
 
 | Segment | Speaker               | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | --------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
@@ -94,7 +107,7 @@ When the next event is held and who will speak is decided at the start of each s
 
 
 
-#### Meet #3a (11:30 AM onward, Wednesday, March 4, 2019)
+#### Meet #3a (11:30 AM onward; Wednesday, March 4, 2019)
 
 | Segment | Speaker           | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ----------------- | ------------------------------------------------------------ | ----------------- | ------------- |
@@ -104,7 +117,7 @@ When the next event is held and who will speak is decided at the start of each s
 
 
 
-#### Meet #2c (11:30 AM onward, Wednesday, February 27, 2019)
+#### Meet #2c (11:30 AM onward; Wednesday, February 27, 2019)
 
 | Segment | Speaker               | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | --------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
@@ -114,7 +127,7 @@ When the next event is held and who will speak is decided at the start of each s
 
 
 
-#### Meet #2b (11:30 AM onward, Thursday, February 21, 2019)
+#### Meet #2b (11:30 AM onward; Thursday, February 21, 2019)
 
 | Segment    | Speaker                                                      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------- | ------------- |
@@ -122,7 +135,7 @@ When the next event is held and who will speak is decided at the start of each s
 | Guest Talk | Prof. Vitalie Eremeev (Universidad Diego Portales, Santiago, Chile) | Macroscopic non-classical state preparation via post-selection (see [abstract](#vitalie-eremeev)) | 45+10             | 50            |
 | Update     | Tom Van Himbeeck                                             | [Quantum states and knowledge: Between pure states and density matrices](https://arxiv.org/abs/1811.05472). Sandu Popescu | 15                | 10            |
 
-#### Meet #2a (2:30 PM onward, Thursday, February 14, 2019)
+#### Meet #2a (2:30 PM onward; Thursday, February 14, 2019)
 
 | Segment    | Speaker                                               | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ---------- | ----------------------------------------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
@@ -132,7 +145,7 @@ When the next event is held and who will speak is decided at the start of each s
 
 
 
-#### Meet #1a (12:15 PM onward, January 9, 2019)
+#### Meet #1a (12:15 PM onward; January 9, 2019)
 
 | Segment | Speaker                                                      | Topic                                                  | Minutes Allocated | Minutes Spent |
 | ------- | ------------------------------------------------------------ | ------------------------------------------------------ | ----------------- | ------------- |
@@ -142,6 +155,16 @@ When the next event is held and who will speak is decided at the start of each s
 
 
 ## Abstracts
+
+#### Uttam Singh
+
+##### Quantum majorization and a complete set of entropic conditions for quantum thermodynamics
+
+I will discuss the definition of quantum majorization and corresponding necessary and sufficient conditions for the same. Finally, I would like to say some things about its implications for quantum thermodynamics.
+
+Reference: [Nat. Commun. **9**, 5352 (2018)](https://www.nature.com/articles/s41467-018-06261-7)
+
+
 
 #### Pablo Arrighi
 
