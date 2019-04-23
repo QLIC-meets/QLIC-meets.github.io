@@ -36,10 +36,10 @@ When the next event is held and who will speak is decided at the start of each s
 
 #### Meet #4b (provisional | 11:30 AM onward; Wednesday, April 24, 2019)
 
-| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Uttam Singh  | Quantum majorization and a complete set of entropic conditions for quantum thermodynamics (see [abstract](#uttam-singh)) | 45+10             |               |
-| Update  | Nicolas Cerf | Resource theory of local Gaussian work extraction for multimode bosonic systems | 15                |               |
+| Segment | Speaker     | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ----------- | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Uttam Singh | Quantum majorization and a complete set of entropic conditions for quantum thermodynamics (see [abstract](#uttam-singh)) | 45+10             |               |
+| Update  | «open»      |                                                              | 15                |               |
 
 
 
@@ -51,10 +51,10 @@ When the next event is held and who will speak is decided at the start of each s
 
 #### Meet #5a (provisional | 11:30 AM onward; Thursday, May 2, 2019)
 
-| Segment | Speaker         | Topic | Minutes Allocated | Minutes Spent |
-| ------- | --------------- | ----- | ----------------- | ------------- |
-| Talk    | Stefano Pironio | TBA   | 45+10             |               |
-| Update  | Jérémie Roland  | TBA   | 15                |               |
+| Segment | Speaker         | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | --------------- | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Stefano Pironio | TBA                                                          | 45+10             |               |
+| Update  | Nicolas Cerf    | Resource theory of local Gaussian work extraction for multimode bosonic systems | 15                |               |
 
 
 
@@ -62,7 +62,7 @@ When the next event is held and who will speak is decided at the start of each s
 
 [Uncertified Random List Generator](https://mybinder.org/v2/gh/QuIC-meets/QuIC-meets.github.io/master?filepath=season2/lineUp/lineUp.ipynb)
 
-| Session | #5a             | #5b    | #6a    |
+| Session | #5b             | #6a    | #6b    |
 | ------- | --------------- | ------ | ------ |
 | Talk    | Stefano Pironio | «open» | «open» |
 | Update  | Jérémie Roland  | «open» | «open» |
