@@ -1,4 +1,4 @@
-# QuIC-meets | Pilot (Oct '18-Dec '19)
+# QuIC-meets | Pilot (Oct – Dec '18)
 Welcome to the QuIC-meets page. 
 
 
