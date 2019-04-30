@@ -57,6 +57,18 @@ When the next event is held and who will speak is decided at the start of each s
 
 
 
+#### Seminar (11:30 AM onward; Thursday, June 14, 2019)
+
+| Segment | Speaker     | Topic | Minutes Allocated | Minutes Spent |
+| ------- | ----------- | ----- | ----------------- | ------------- |
+| Seminar | Simon Apers | TBA   | 45+10             |               |
+
+
+
+#### 
+
+
+
 #### QuIC-meet
 
 [Uncertified Random List Generator](https://mybinder.org/v2/gh/QuIC-meets/QuIC-meets.github.io/master?filepath=season2/lineUp/lineUp.ipynb)
@@ -91,8 +103,3 @@ Characterising unknown quantum states and measurements is a fundamental problem 
 I will discuss the definition of quantum majorization and corresponding necessary and sufficient conditions for the same. Finally, I would like to say some things about its implications for quantum thermodynamics.
 
 Reference: [Nat. Commun. **9**, 5352 (2018)](https://www.nature.com/articles/s41467-018-06261-7)
-
-
-
-
-
