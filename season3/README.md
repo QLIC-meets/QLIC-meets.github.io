@@ -5,7 +5,7 @@ Welcome to the QuIC-meets page.
 
 ## About
 
-QuIC-meets is an initiative to facilitate further collaboration and learning within QuIC. This was initially intended to be a two/three month trial which was successful. Hence the second season.
+QuIC-meets is an initiative to facilitate further collaboration and learning within QuIC. This was initially intended to be a two/three month trial which was successful. Hence the third season.
 
 
 
