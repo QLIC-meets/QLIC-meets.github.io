@@ -68,7 +68,7 @@ When the next event is held and who will speak is decided at the start of each s
 
 
 
-#### QuIC-meet
+#### QLIC-meet
 
 [Uncertified Random List Generator](https://mybinder.org/v2/gh/QuIC-meets/QuIC-meets.github.io/master?filepath=season2/lineUp/lineUp.ipynb)
 
