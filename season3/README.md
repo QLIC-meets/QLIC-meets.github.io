@@ -1,5 +1,5 @@
 # QuIC-meets | Season 3 (May–August)
-Welcome to the QuIC-meets page. 
+Welcome to the QLIC-meets page. 
 
 
 
