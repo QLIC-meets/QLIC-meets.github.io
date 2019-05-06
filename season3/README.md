@@ -1,11 +1,11 @@
-# QuIC-meets | Season 3 (May–August)
+# QLIC-meets | Season 3 (May–August)
 Welcome to the QLIC-meets page. 
 
 
 
 ## About
 
-QuIC-meets is an initiative to facilitate further collaboration and learning within QuIC. This was initially intended to be a two/three month trial which was successful. Hence the third season.
+QLIC-meets is an initiative to facilitate further collaboration and learning within the two quantum information groups in Brussels: QuIC and LIQ. This was initially intended to be a two/three month trial which was successful. Hence the third season.
 
 
 
