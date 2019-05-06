@@ -1,2 +1,2 @@
-# QuIC-meets.io
-The website
+# QLIC-meets.github.io
+The website.
