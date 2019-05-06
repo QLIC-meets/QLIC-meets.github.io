@@ -34,13 +34,12 @@ When the next event is held and who will speak is decided at the start of each s
 
 
 
-#### Seminar #1 (provisional | 11:30 AM onward; Friday, May 3, 2019)
+#### Meet #5a (provisional | 11:30 AM onward; Thursday, May 10, 2019)
 
-| Segment | Speaker                                                      | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Seminar | [Kishor Bharti](https://www.quantumlah.org/people/profile/kishor) | Robust self-testing of quantum systems via noncontextuality inequalities (see [abstract](#kishor-bharti)) | 45+10             |               |
-
-
+| Segment | Speaker          | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ---------------- | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Uttam Singh      | Quantum majorization and a complete set of entropic conditions for quantum thermodynamics (part 2; see [abstract](#uttam-singh)) | 30+10             |               |
+| Talk    | Tom Van Himbeeck | TBA                                                          | 30+10             |               |
 
 
 
@@ -48,12 +47,12 @@ When the next event is held and who will speak is decided at the start of each s
 
 
 
-#### Meet #5a (provisional | 11:30 AM onward; Thursday, May 9, 2019)
+#### Meet #5a (provisional | 11:30 AM onward; Thursday, May 16, 2019)
 
-| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Uttam Singh  | Quantum majorization and a complete set of entropic conditions for quantum thermodynamics (part 2; see [abstract](#uttam-singh)) | 45+10             |               |
-| Update  | Nicolas Cerf | Resource theory of local Gaussian work extraction for multimode bosonic systems | 15                |               |
+| Segment | Speaker                  | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Zacharie Van Herstraeten | TBA                                                          | 45+10             |               |
+| Update  | Nicolas Cerf             | Resource theory of local Gaussian work extraction for multimode bosonic systems | 15                |               |
 
 
 
@@ -65,7 +64,7 @@ When the next event is held and who will speak is decided at the start of each s
 
 
 
-#### 
+
 
 
 
@@ -83,6 +82,12 @@ When the next event is held and who will speak is decided at the start of each s
 ## Past
 
 
+
+#### Seminar #1 (11:30 AM onward; Friday, May 3, 2019)
+
+| Segment | Speaker                                                      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Seminar | [Kishor Bharti](https://www.quantumlah.org/people/profile/kishor) | Robust self-testing of quantum systems via noncontextuality inequalities (see [abstract](#kishor-bharti)) | 45+10             | 50            |
 
 
 
