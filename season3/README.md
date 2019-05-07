@@ -34,7 +34,7 @@ When the next event is held and who will speak is decided at the start of each s
 
 
 
-#### Meet #5a (11:30 AM onward; Thursday, May 10, 2019)
+#### Meet #5a (11:30 AM onward; Thursday, May 9, 2019)
 
 | Segment | Speaker          | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ---------------- | ------------------------------------------------------------ | ----------------- | ------------- |
