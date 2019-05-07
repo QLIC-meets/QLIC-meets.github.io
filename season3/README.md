@@ -34,12 +34,12 @@ When the next event is held and who will speak is decided at the start of each s
 
 
 
-#### Meet #5a (provisional | 11:30 AM onward; Thursday, May 10, 2019)
+#### Meet #5a (11:30 AM onward; Thursday, May 10, 2019)
 
 | Segment | Speaker          | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ---------------- | ------------------------------------------------------------ | ----------------- | ------------- |
 | Talk    | Uttam Singh      | Quantum majorization and a complete set of entropic conditions for quantum thermodynamics (part 2; see [abstract](#uttam-singh)) | 30+10             |               |
-| Talk    | Tom Van Himbeeck | TBA                                                          | 30+10             |               |
+| Talk    | Tom Van Himbeeck | Symmetries in Quantum Key Distribution and the Connection between Optimal Attacks and Optimal Cloning (see [arXiv:1112.3396](https://arxiv.org/abs/1112.3396)) | 30+10             |               |
 
 
 
@@ -47,7 +47,7 @@ When the next event is held and who will speak is decided at the start of each s
 
 
 
-#### Meet #5a (provisional | 11:30 AM onward; Thursday, May 16, 2019)
+#### Meet #5b (provisional | 11:30 AM onward; Thursday, May 16, 2019)
 
 | Segment | Speaker                  | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------------------ | ------------------------------------------------------------ | ----------------- | ------------- |
@@ -72,10 +72,10 @@ When the next event is held and who will speak is decided at the start of each s
 
 [Uncertified Random List Generator](https://mybinder.org/v2/gh/QuIC-meets/QuIC-meets.github.io/master?filepath=season2/lineUp/lineUp.ipynb)
 
-| Session | #5b             | #6a    | #6b    |
+| Session | #5c             | #6a    | #6b    |
 | ------- | --------------- | ------ | ------ |
-| Talk    | Stefano Pironio | «open» | «open» |
-| Update  | Jérémie Roland  | «open» | «open» |
+| Talk    | Mathieu Arnhem  | «open» | «open» |
+| Update  | Stefano Pironio | «open» | «open» |
 
 
 
