@@ -34,12 +34,12 @@ When the next event is held and who will speak is decided at the start of each s
 
 
 
-#### Meet #5a (11:30 AM onward; Thursday, May 9, 2019)
+#### Meet #5b (11:30 AM onward; Friday, May 17, 2019)
 
-| Segment | Speaker          | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ---------------- | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Uttam Singh      | Quantum majorization and a complete set of entropic conditions for quantum thermodynamics (part 2; see [abstract](#uttam-singh)) | 30+10             |               |
-| Talk    | Tom Van Himbeeck | Symmetries in Quantum Key Distribution and the Connection between Optimal Attacks and Optimal Cloning (see [arXiv:1112.3396](https://arxiv.org/abs/1112.3396)) | 30+10             |               |
+| Segment | Speaker                  | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Zacharie Van Herstraeten | Continuous majorization in quantum phase space (see [abstract](#Zacharie-van-herstraeten)) | 45+10             |               |
+| Update  | «open»                   |                                                              | 15                |               |
 
 
 
@@ -47,12 +47,12 @@ When the next event is held and who will speak is decided at the start of each s
 
 
 
-#### Meet #5b (provisional | 11:30 AM onward; Thursday, May 16, 2019)
+#### Meet #5c (provisional | 11:30 AM onward; Thursday, May 24, 2019)
 
-| Segment | Speaker                  | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ------------------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Zacharie Van Herstraeten | TBA                                                          | 45+10             |               |
-| Update  | Nicolas Cerf             | Resource theory of local Gaussian work extraction for multimode bosonic systems | 15                |               |
+| Segment | Speaker        | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | -------------- | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Mathieu Arnhem | TBA                                                          | 45+10             |               |
+| Update  | Nicolas Cerf   | Resource theory of local Gaussian work extraction for multimode bosonic systems | 15                |               |
 
 
 
@@ -64,22 +64,27 @@ When the next event is held and who will speak is decided at the start of each s
 
 
 
-
-
-
-
 #### QLIC-meet
 
 [Uncertified Random List Generator](https://mybinder.org/v2/gh/QuIC-meets/QuIC-meets.github.io/master?filepath=season2/lineUp/lineUp.ipynb)
 
-| Session | #5c             | #6a    | #6b    |
-| ------- | --------------- | ------ | ------ |
-| Talk    | Mathieu Arnhem  | «open» | «open» |
-| Update  | Stefano Pironio | «open» | «open» |
+| Session | #5c            | #6a             | #6b    |
+| ------- | -------------- | --------------- | ------ |
+| Talk    | Mathieu Arnhem | «open»          | «open» |
+| Update  | Nicolas Cerf   | Stefano Pironio | «open» |
 
 
 
 ## Past
+
+
+
+#### Meet #5a (11:30 AM onward; Thursday, May 9, 2019)
+
+| Segment | Speaker          | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ---------------- | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Uttam Singh      | Quantum majorization and a complete set of entropic conditions for quantum thermodynamics (part 2; see [abstract](#uttam-singh)) | 30+10             | 40            |
+| Talk    | Tom Van Himbeeck | Symmetries in Quantum Key Distribution and the Connection between Optimal Attacks and Optimal Cloning (see [arXiv:1112.3396](https://arxiv.org/abs/1112.3396)) | 30+10             | 40            |
 
 
 
@@ -92,6 +97,16 @@ When the next event is held and who will speak is decided at the start of each s
 
 
 ## Abstracts
+
+
+
+#### Zacharie Van Herstraeten 
+
+##### Continuous majorization in quantum phase space
+
+Theory of majorization has proved itself to be a valuable tool in quantum information. It is, however, not the case of its continuous counterpart, which remains devoid of any quantum mechanical application. This informal talk will propose ideas towards the use of continuous majorization in quantum phase space. I will present a recent conjecture as well as the obstacles lying in the path of its proof.
+
+
 
 #### Kishor Bharti
 
