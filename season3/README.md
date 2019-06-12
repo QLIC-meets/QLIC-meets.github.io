@@ -5,7 +5,7 @@ Welcome to the QLIC-meets page.
 
 ## About
 
-QLIC-meets is an initiative to facilitate further collaboration and learning within the two quantum information groups in Brussels: QuIC and LIQ. This was initially intended to be a two/three month trial which was successful. Hence the third season.
+QLIC-meets is an initiative to facilitate further collaboration and learning within the two quantum information groups in Brussels: QuIC and LIQ. 
 
 
 
@@ -38,7 +38,7 @@ When the next event is held and who will speak is decided at the start of each s
 
 | Segment | Speaker                                           | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------------------------------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
-| Seminar | Simon Apers <br />(INRIA Paris and CWI Amsterdam) | Quantum Fast-Forwarding: Markov chains and Graph Property Testing (see [Abstract](simon-apers)) | 45+10             |               |
+| Seminar | Simon Apers <br />(INRIA Paris and CWI Amsterdam) | Quantum Fast-Forwarding: Markov chains and Graph Property Testing (see [abstract](simon-apers)) | 50+10             |               |
 
 
 
@@ -46,7 +46,7 @@ When the next event is held and who will speak is decided at the start of each s
 
 
 
-#### Meet #5c (provisional)
+#### Meet #5c (TBA)
 
 | Segment | Speaker        | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | -------------- | ------------------------------------------------------------ | ----------------- | ------------- |
@@ -55,11 +55,11 @@ When the next event is held and who will speak is decided at the start of each s
 
 
 
-#### Seminar (11:30 AM onward; Thursday, June 14, 2019)
+#### Seminar (11:30 AM onward; Thursday, June 25, 2019)
 
-| Segment | Speaker     | Topic | Minutes Allocated | Minutes Spent |
-| ------- | ----------- | ----- | ----------------- | ------------- |
-| Seminar | Simon Apers | TBA   | 45+10             |               |
+| Segment | Speaker                                         | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ----------------------------------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
+| Seminar | Julian Wechs<br />(Cyril Branciard in Grenoble) | (provisional) Classical versus quantum control of causal order | 50+10             |               |
 
 
 
