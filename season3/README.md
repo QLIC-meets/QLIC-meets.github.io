@@ -34,12 +34,11 @@ When the next event is held and who will speak is decided at the start of each s
 
 
 
-#### Meet #5b (11:30 AM onward; Friday, May 17, 2019)
+#### Seminar (11:30 AM onward; Thursday, June 14, 2019)
 
-| Segment | Speaker                  | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ------------------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Zacharie Van Herstraeten | Continuous majorization in quantum phase space (see [abstract](#Zacharie-van-herstraeten)) | 45+10             |               |
-| Update  | «open»                   |                                                              | 15                |               |
+| Segment | Speaker                                           | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------------------------------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
+| Seminar | Simon Apers <br />(INRIA Paris and CWI Amsterdam) | Quantum Fast-Forwarding: Markov chains and Graph Property Testing (see [Abstract](simon-apers)) | 45+10             |               |
 
 
 
@@ -47,7 +46,7 @@ When the next event is held and who will speak is decided at the start of each s
 
 
 
-#### Meet #5c (provisional | 11:30 AM onward; Thursday, May 24, 2019)
+#### Meet #5c (provisional)
 
 | Segment | Speaker        | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | -------------- | ------------------------------------------------------------ | ----------------- | ------------- |
@@ -79,6 +78,15 @@ When the next event is held and who will speak is decided at the start of each s
 
 
 
+#### Meet #5b (11:30 AM onward; Friday, May 17, 2019)
+
+| Segment | Speaker                  | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Zacharie Van Herstraeten | Continuous majorization in quantum phase space (see [abstract](#Zacharie-van-herstraeten)) | 45+10             | 45            |
+| Update  | «open»                   |                                                              | 15                |               |
+
+
+
 #### Meet #5a (11:30 AM onward; Thursday, May 9, 2019)
 
 | Segment | Speaker          | Topic                                                        | Minutes Allocated | Minutes Spent |
@@ -97,6 +105,18 @@ When the next event is held and who will speak is decided at the start of each s
 
 
 ## Abstracts
+
+
+
+#### Simon Apers
+
+##### Quantum Fast-Forwarding: Markov chains and Graph Property Testing
+
+In this talk, I will introduce a new tool for quantum algorithms called quantum fast-forwarding (QFF). The tool uses quantum walks as a means to quadratically fast-forward a reversible Markov chain. In a number of quantum walk steps that scales as the square root of the classical runtime, and inversely proportional to the 2-norm of the classical distribution, it retrieves a quantum superposition that encodes the classical distribution. This shows that quantum walks can accelerate the transient dynamics of Markov chains, thereby complementing the line of results that proves the acceleration of their limit behaviour. 
+
+This tool leads to speedups on random walk algorithms in a very natural way. Specifically I will consider random walk algorithms for testing the graph expansion and clusterability, and show that QFF allows to quadratically improve the dependency of the classical property testers on the random walk runtime; Moreover, this new quantum algorithm exponentially improves the space complexity of the classical tester to logarithmic. As a subroutine of independent interest, I use QFF to determine whether a given pair of nodes lie in the same cluster or in separate clusters. This solves a robust version of s-t connectivity, relevant in a learning context for classifying objects among a set of examples.
+
+
 
 
 
