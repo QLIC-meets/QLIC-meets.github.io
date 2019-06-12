@@ -38,7 +38,7 @@ When the next event is held and who will speak is decided at the start of each s
 
 | Segment | Speaker                                           | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------------------------------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
-| Seminar | Simon Apers <br />(INRIA Paris and CWI Amsterdam) | Quantum Fast-Forwarding: Markov Chains and Graph Property Testing (see [abstract](simon-apers)) | 50+10             |               |
+| Seminar | Simon Apers <br />(INRIA Paris and CWI Amsterdam) | Quantum Fast-Forwarding: Markov Chains and Graph Property Testing (see [abstract](#simon-apers)) | 50+10             |               |
 
 
 
