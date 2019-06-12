@@ -46,20 +46,20 @@ When the next event is held and who will speak is decided at the start of each s
 
 
 
+#### Seminar (11:30 AM onward; Thursday, June 25, 2019)
+
+| Segment | Speaker                                         | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ----------------------------------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
+| Seminar | Julian Wechs<br />(Cyril Branciard in Grenoble) | (provisional) Classical versus quantum control of causal order | 50+10             |               |
+
+
+
 #### Meet #5c (TBA)
 
 | Segment | Speaker        | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | -------------- | ------------------------------------------------------------ | ----------------- | ------------- |
 | Talk    | Mathieu Arnhem | TBA                                                          | 45+10             |               |
 | Update  | Nicolas Cerf   | Resource theory of local Gaussian work extraction for multimode bosonic systems | 15                |               |
-
-
-
-#### Seminar (11:30 AM onward; Thursday, June 25, 2019)
-
-| Segment | Speaker                                         | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ----------------------------------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
-| Seminar | Julian Wechs<br />(Cyril Branciard in Grenoble) | (provisional) Classical versus quantum control of causal order | 50+10             |               |
 
 
 
