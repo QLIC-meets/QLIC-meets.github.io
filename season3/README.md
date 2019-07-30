@@ -36,9 +36,9 @@ When the next event is held and who will speak is decided at the start of each s
 
 #### Seminar (11:30 AM onward; Thursday, June 14, 2019)
 
-| Segment | Speaker                                           | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ------------------------------------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
-| Seminar | Simon Apers <br />(INRIA Paris and CWI Amsterdam) | Quantum Fast-Forwarding: Markov Chains and Graph Property Testing (see [abstract](#simon-apers)) | 50+10             |               |
+| Segment | Speaker    | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ---------- | ------------------------------------------------------------ | ----------------- | ------------- |
+| Seminar | Elie Wolfe | Quantum Inflation: A General Approach to Quantum Causal Compatibility (see [abstract](#elie-wolfe)) | 50+10             |               |
 
 
 
@@ -48,13 +48,13 @@ When the next event is held and who will speak is decided at the start of each s
 
 #### Seminar (11:30 AM onward; Thursday, June 25, 2019)
 
-| Segment | Speaker                                         | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ----------------------------------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
-| Seminar | Julian Wechs<br />(Cyril Branciard in Grenoble) | (provisional) Classical versus quantum control of causal order | 50+10             |               |
+| Segment | Speaker    | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ---------- | ------------------------------------------------------------ | ----------------- | ------------- |
+| Seminar | Elie Wolfe | Quantum Inflation: A General Approach to Quantum Causal Compatibility | 50+10             |               |
 
 
 
-#### Meet #5c (TBA)
+#### Meet #8a (TBA)
 
 | Segment | Speaker        | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | -------------- | ------------------------------------------------------------ | ----------------- | ------------- |
@@ -75,6 +75,20 @@ When the next event is held and who will speak is decided at the start of each s
 
 
 ## Past
+
+#### Seminar (11:30 AM onward; Thursday, June 25, 2019)
+
+| Segment | Speaker                                         | Topic                                            | Minutes Allocated | Minutes Spent |
+| ------- | ----------------------------------------------- | ------------------------------------------------ | ----------------- | ------------- |
+| Seminar | Julian Wechs<br />(Cyril Branciard in Grenoble) | Classical versus quantum control of causal order | 50+10             | 60 (?)        |
+
+
+
+#### Seminar (11:30 AM onward; Thursday, June 14, 2019)
+
+| Segment | Speaker                                           | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------------------------------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
+| Seminar | Simon Apers <br />(INRIA Paris and CWI Amsterdam) | Quantum Fast-Forwarding: Markov Chains and Graph Property Testing (see [abstract](#simon-apers)) | 50+10             | 60            |
 
 
 
@@ -105,6 +119,14 @@ When the next event is held and who will speak is decided at the start of each s
 
 
 ## Abstracts
+
+
+
+#### Elie Wolfe
+
+##### Quantum Inflation: A General Approach to Quantum Causal Compatibility
+
+We develop a framework for characterizing the set of potentially physically-realizable correlations --- given some abstract description of direct causal relations --- under the assumption that the universe is fundamentally governed by quantum theory. Our previous inflation-titled work, by contrast, focused primarily on characterizing the classical correlations compatible with a given causal structure, and served as a means to certify the nonclassicality of exotic quantum correlations. In this project, however, we are concerned with quantifying Nature as physicists truly understand it. In this talk I will review the Navascués-Pironio-Acín (NPA) hierarchy of semidefinite programs for convergently approximating the set of quantum correlations in a Bell scenario, and then introduce a generalization of that approach for characterizing the set of quantum correlations compatible with an arbitrary causal structure. I will highlight contrasts between other existing proposals and the Quantum Inflation approach to quantum causal compatibility, As proof of concept, I'll use Quantum Inflation to show that the Mermin-GHZ pseudotelepathy nonlocal game cannot be won in the so-called quantum triangle scenario, as I am personally unaware of any other technique which can recover this superficially-simple result.
 
 
 
