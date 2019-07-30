@@ -44,13 +44,19 @@ When the next event is held and who will speak is decided at the start of each s
 
 ## In the Pipeline
 
+#### Lectures (TBA)
+
+| Segment    | Speaker       | Topic | Minutes Allocated | Minutes Spent |
+| ---------- | ------------- | ----- | ----------------- | ------------- |
+| Lecture #1 | Leonardo Novo |       |                   |               |
 
 
-#### Seminar (11:30 AM onward; Thursday, June 25, 2019)
 
-| Segment | Speaker    | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ---------- | ------------------------------------------------------------ | ----------------- | ------------- |
-| Seminar | Elie Wolfe | Quantum Inflation: A General Approach to Quantum Causal Compatibility | 50+10             |               |
+#### Seminar (TBA)
+
+| Segment | Speaker | Topic | Minutes Allocated | Minutes Spent |
+| ------- | ------- | ----- | ----------------- | ------------- |
+| Seminar |         |       |                   |               |
 
 
 
@@ -76,7 +82,7 @@ When the next event is held and who will speak is decided at the start of each s
 
 ## Past
 
-#### Seminar (11:30 AM onward; Thursday, June 25, 2019)
+#### Seminar #3 (11:30 AM onward; Thursday, June 25, 2019)
 
 | Segment | Speaker                                         | Topic                                            | Minutes Allocated | Minutes Spent |
 | ------- | ----------------------------------------------- | ------------------------------------------------ | ----------------- | ------------- |
@@ -84,7 +90,7 @@ When the next event is held and who will speak is decided at the start of each s
 
 
 
-#### Seminar (11:30 AM onward; Thursday, June 14, 2019)
+#### Seminar #2 (11:30 AM onward; Thursday, June 14, 2019)
 
 | Segment | Speaker                                           | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------------------------------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
