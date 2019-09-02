@@ -34,7 +34,7 @@ When the next event is held and who will speak is decided at the start of each s
 
 
 
-#### Seminar (12:00 PM onward; Tuesday, August 6, 2019)
+#### Seminar (12:00 PM onward; Tuesday, September 3, 2019)
 
 | Segment | Speaker              | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | -------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
