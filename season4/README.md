@@ -60,7 +60,7 @@ When the next event is held and who will speak is decided at the start of each s
 
 
 
-#### Meet #8a (TBA)
+#### Meet #1a (TBA)
 
 | Segment | Speaker        | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | -------------- | ------------------------------------------------------------ | ----------------- | ------------- |
