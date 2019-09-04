@@ -34,11 +34,11 @@ When the next event is held and who will speak is decided at the start of each s
 
 
 
-#### Seminar (12:00 PM onward; Tuesday, September 3, 2019)
+#### Meet 1a (12:00 PM onward; Friday, September 13, 2019)
 
-| Segment | Speaker              | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | -------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
-| Seminar | Sébastien Designolle | Incompatibility robustness of quantum measurements: a unified framework (see [abstract](#Sébastien-Designolle)) | 50+10             |               |
+| Segment | Speaker                | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ---------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Shantanav  Chakraborty | How fast do quantum walks mix? (see [abstract](#Shantanav-Chakraborty)) | 50+10             |               |
 
 
 
@@ -60,7 +60,7 @@ When the next event is held and who will speak is decided at the start of each s
 
 
 
-#### Meet #1a (TBA)
+#### Meet #1b (TBA)
 
 | Segment | Speaker        | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | -------------- | ------------------------------------------------------------ | ----------------- | ------------- |
@@ -82,13 +82,27 @@ When the next event is held and who will speak is decided at the start of each s
 
 ## Past
 
-(NA)
+#### Seminar (12:00 PM onward; Tuesday, September 3, 2019)
+
+| Segment | Speaker              | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | -------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
+| Seminar | Sébastien Designolle | Incompatibility robustness of quantum measurements: a unified framework (see [abstract](#Sébastien-Designolle)) | 50+10             | 50            |
 
 
 
 
 
 ## Abstracts
+
+
+
+#### Shantanav  Chakraborty
+
+##### How fast do quantum walks mix?
+
+The fundamental problem of sampling from the limiting distribution of quantum walks on graphs, known as *mixing*,  finds widespread applications in several areas of quantum information  and computation. Of particular interest in most of these applications,  is the minimum time beyond which the instantaneous probability  distribution of the quantum walk remains close to this limiting  distribution, known as the quantum  mixing time. However, this quantity is only known for a handful of  specific graphs. In this article, we prove an upper bound on the *quantum mixing time* for almost all graphs, i.e. the  fraction of graphs for which our bound holds, goes to one in the  asymptotic limit. To this end, using several results in random matrix  theory, we find the quantum mixing time of Erdös-Renyi random graphs: graphs of *n* nodes where each edge exists with probability *p* independently. For example for dense random graphs, where *p* is a constant, we show that the quantum mixing time is *O(n^{3/2+o(1)})*. Besides  opening avenues for the analytical study of quantum dynamics on complex  networks, our work could find applications beyond quantum information  processing. In particular, our general results on the spectral  properties of random matrices could lead to novel insights into the  equilibration times of isolated quantum systems defined by random  Hamiltonians, a foundational problem in quantum statistical mechanics.
+
+*Joint work with Kyle Luh and Jérémie Roland*
 
 
 
