@@ -34,7 +34,7 @@ When the next event is held and who will speak is decided at the start of each s
 
 
 
-#### Meet 1a (12:00 PM onward; Friday, September 13, 2019)
+#### Meet 9a (12:00 PM onward; Friday, September 13, 2019)
 
 | Segment | Speaker                | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ---------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
@@ -60,7 +60,7 @@ When the next event is held and who will speak is decided at the start of each s
 
 
 
-#### Meet #1b (TBA)
+#### Meet #10a (TBA)
 
 | Segment | Speaker        | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | -------------- | ------------------------------------------------------------ | ----------------- | ------------- |
