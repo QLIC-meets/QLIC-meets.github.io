@@ -96,7 +96,7 @@ When the next event is held and who will speak is decided at the start of each s
 
 
 
-#### Shantanav  Chakraborty
+#### Shantanav Chakraborty
 
 ##### How fast do quantum walks mix?
 
