@@ -39,6 +39,7 @@ When the next event is held and who will speak is decided at the start of each s
 | Segment | Speaker                | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ---------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
 | Talk    | Shantanav  Chakraborty | How fast do quantum walks mix? (see [abstract](#Shantanav-Chakraborty)) | 50+10             |               |
+| Mini | Leonardo Novo | Quantum Advantage from Energy Measurements | 10 | |
 
 
 
