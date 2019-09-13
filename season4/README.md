@@ -45,21 +45,22 @@ When the next event is held and who will speak is decided at the start of each s
 
 ## In the Pipeline
 
-#### Lecture Set #1 (Fridays; November 15, 22, 29; 2019)
+#### Lecture Set 1 (Fridays; November 15, 22, 29; 2019)
 
 | Segment    | Speaker       | Topic | Minutes Allocated | Minutes Spent |
 | ---------- | ------------- | ----- | ----------------- | ------------- |
-| Lecture #1 | Leonardo Novo | QMA Completeness      |                   |               |
-| Lecture #2 | Leonardo Novo | TBA      |                   |               |
-| Lecture #3 | Leonardo Novo | TBA      |                   |               |
+| Lecture 1 | Leonardo Novo | QMA Completeness      |                   |               |
+| Lecture 2 | Leonardo Novo | TBA      |                   |               |
+| Lecture 3 | Leonardo Novo | TBA      |                   |               |
 
-#### Lecture Set #2 (Fridays; December 6, 13, 20; 2019)
+#### Lecture Set 2 (Fridays; December 6, 13, 20; 2019)
 
 | Segment    | Speaker       | Topic | Minutes Allocated | Minutes Spent |
 | ---------- | ------------- | ----- | ----------------- | ------------- |
-| Lecture #1 | Chrysoula Vlachou | Non-locality, Entanglement and Device Independence      |                   |               |
-| Lecture #2 | Chrysoula Vlachou | TBA      |                   |               |
-| Lecture #3 | Chrysoula Vlachou | TBA      |                   |               |
+| Lecture 1 | Chrysoula Vlachou | Non-locality, Entanglement and Device Independence      |                   |               |
+| Lecture 2 | Chrysoula Vlachou | TBA      |                   |               |
+| Lecture 3 | Chrysoula Vlachou | TBA      |                   |               |
+
 
 
 
