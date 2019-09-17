@@ -32,20 +32,22 @@ When the next event is held and who will speak is decided at the start of each s
 
 ## Upcoming
 
+#### Lecture Set 1 (Tuesdays; Sep 23, 30, Oct 7, 14; 2019)
 
+| Segment    | Speaker       | Topic | Minutes Allocated | Minutes Spent |
+| ---------- | ------------- | ----- | ----------------- | ------------- |
+| Lecture 1 | Uttam Singh | Quantum Thermodynamics      |                   |               |
+| Lecture 2 | Uttam Singh | TBA      |                   |               |
+| Lecture 3 | Uttam Singh | TBA      |                   |               |
+| Lecture 4 | Uttam Singh | TBA      |                   |               |
 
-#### Meet 9a (11:30 AM onward; Monday, September 16, 2019)
-
-| Segment | Speaker                | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ---------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Shantanav  Chakraborty | How fast do quantum walks mix? (see [abstract](#Shantanav-Chakraborty)) | 50+10             |               |
-| Mini | Leonardo Novo | Quantum Advantage from Energy Measurements | 10 | |
 
 
 
 ## In the Pipeline
 
-#### Lecture Set 1 (Fridays; November 15, 22, 29; 2019)
+
+#### Lecture Set 2 (Fridays; November 15, 22, 29; 2019)
 
 | Segment    | Speaker       | Topic | Minutes Allocated | Minutes Spent |
 | ---------- | ------------- | ----- | ----------------- | ------------- |
@@ -53,7 +55,7 @@ When the next event is held and who will speak is decided at the start of each s
 | Lecture 2 | Leonardo Novo | TBA      |                   |               |
 | Lecture 3 | Leonardo Novo | TBA      |                   |               |
 
-#### Lecture Set 2 (Fridays; December 6, 13, 20; 2019)
+#### Lecture Set 3 (Fridays; December 6, 13, 20; 2019)
 
 | Segment    | Speaker       | Topic | Minutes Allocated | Minutes Spent |
 | ---------- | ------------- | ----- | ----------------- | ------------- |
@@ -93,6 +95,15 @@ When the next event is held and who will speak is decided at the start of each s
 
 
 ## Past
+
+#### Meet 9a (11:30 AM onward; Monday, September 16, 2019)
+
+| Segment | Speaker                | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ---------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Shantanav  Chakraborty | How fast do quantum walks mix? (see [abstract](#Shantanav-Chakraborty)) | 50+10             |        60       |
+| Mini | Leonardo Novo | Quantum Advantage from Energy Measurements | 10 |  15 |
+
+
 
 #### Seminar (12:00 PM onward; Tuesday, September 3, 2019)
 
