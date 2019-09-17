@@ -32,7 +32,7 @@ When the next event is held and who will speak is decided at the start of each s
 
 ## Upcoming
 
-#### Lecture Set 1 (Tuesdays; Sep 23, 30, Oct 7, 14; 2019)
+#### Lecture Set 1 (Mondays; Sep 23, 30, Oct 7, 14; 2019)
 
 | Segment    | Speaker       | Topic | Minutes Allocated | Minutes Spent |
 | ---------- | ------------- | ----- | ----------------- | ------------- |
