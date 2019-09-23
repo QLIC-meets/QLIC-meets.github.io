@@ -32,14 +32,14 @@ When the next event is held and who will speak is decided at the start of each s
 
 ## Upcoming
 
-#### Lecture Set 1 (Mondays; Sep 23, 30, Oct 7, 14; 2019)
+#### Lecture Set 1 (Thursdays; Sep 26; Oct 3, 10, 17; 2019) | Quantum Thermodynamics
 
-| Segment    | Speaker       | Topic | Minutes Allocated | Minutes Spent |
+| Segment/Date | Speaker       | Topic | Minutes Allocated | Minutes Spent |
 | ---------- | ------------- | ----- | ----------------- | ------------- |
-| Lecture 1 | Uttam Singh | Quantum Thermodynamics      |                   |               |
-| Lecture 2 | Uttam Singh | TBA      |                   |               |
-| Lecture 3 | Uttam Singh | TBA      |                   |               |
-| Lecture 4 | Uttam Singh | TBA      |                   |               |
+| Lec 1; Sep 26 | Uttam Singh | Introduction | 120 |               |
+| Lec 2; Oct 3 | Uttam Singh | TBA      | 120 |               |
+| Lec 3; Oct 10 | Uttam Singh | TBA      | 120 |               |
+| Lec 4; Oct 17 | Uttam Singh | TBA      | 120 |               |
 
 
 
