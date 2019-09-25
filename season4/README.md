@@ -142,6 +142,9 @@ When the next event is held and who will speak is decided at the start of each s
 #####  Time reference frames and gravitating quantum clocks
 The standard formulation of quantum theory relies on a fixed space-time metric determining the localisation and causal order of events. In general relativity, the metric is influenced by matter, and it is expected to become indefinite when matter behaves quantum mechanically. Here we explore the problem of operationally defining events and their localisation in the presence of gravitating quantum systems. We develop a framework for "time reference frames," in which events are defined in terms of quantum operations with respect to a quantum clock. We find that, when clocks and quantum systems interact gravitationally, the temporal localisability of events becomes relative, depending on the time reference frame. We argue that the impossibility to find a reference frame in which all events are localised is a signature of an indefinite metric, which might yield an indefinite causal order of events. Even if the metric is indefinite, for any event we can find a time reference frame with respect to which the event is localised in time, while other events may remain delocalised. In this frame, time evolution takes its standard (Schrödinger) form, including the unitary dilation of the quantum operation defining the event. In addition, this form is preserved when moving from the frame localising one event to the frame localising another one, thereby implementing a form of covariance with respect to quantum reference frame transformations.
 
+Main reference: https://arxiv.org/abs/1908.10165, 
+Closely related: https://arxiv.org/abs/1712.07207, https://arxiv.org/abs/1507.01955
+
 
 
 
