@@ -32,19 +32,27 @@ When the next event is held and who will speak is decided at the start of each s
 
 ## Upcoming
 
-#### Lecture Set 1 (Thursdays; Sep 26; Oct 3, 10, 17; 2019) | Quantum Thermodynamics
+#### Meet #9b (Thursday, Sep 26, 10:00–11:30 AM)
 
-| Segment/Date | Speaker       | Topic | Minutes Allocated | Minutes Spent |
-| ---------- | ------------- | ----- | ----------------- | ------------- |
-| Lec 1; Sep 26 | Uttam Singh | Introduction | 120 |               |
-| Lec 2; Oct 3 | Uttam Singh | TBA      | 120 |               |
-| Lec 3; Oct 10 | Uttam Singh | TBA      | 120 |               |
-| Lec 4; Oct 17 | Uttam Singh | TBA      | 120 |               |
+| Segment | Speaker                                                    | Topic | Minutes Allocated | Minutes Spent |
+| ------- | ---------------------------------------------------------- | ----- | ----------------- | ------------- |
+| Talk    | Esteban Castro-Ruiz (see [abstract](#Esteban-Castro-Ruiz)) | TBA   | 45+10             |               |
+| Update  | «open»                                                     |       | 15                |               |
 
 
 
 
 ## In the Pipeline
+
+#### Lecture Set 1 (Thursdays; Sep 26; Oct 3, 10, 17; 2019) | Quantum Thermodynamics
+
+| Segment/Date | Speaker       | Topic | Minutes Allocated | Minutes Spent |
+| ---------- | ------------- | ----- | ----------------- | ------------- |
+| Lec 1; Sep 26 | Uttam Singh | Introduction | 120 |               |
+| Lec 1; Oct 3 | Uttam Singh | TBA      | 120 |               |
+| Lec 2; Oct 10 | Uttam Singh | TBA      | 120 |               |
+| Lec 3; Oct 17 | Uttam Singh | TBA      | 120 |               |
+
 
 
 #### Lecture Set 2 (Fridays; November 15, 22, 29; 2019)
@@ -55,6 +63,8 @@ When the next event is held and who will speak is decided at the start of each s
 | Lecture 2 | Leonardo Novo | TBA      |                   |               |
 | Lecture 3 | Leonardo Novo | TBA      |                   |               |
 
+
+
 #### Lecture Set 3 (Fridays; December 6, 13, 20; 2019)
 
 | Segment    | Speaker       | Topic | Minutes Allocated | Minutes Spent |
@@ -62,6 +72,14 @@ When the next event is held and who will speak is decided at the start of each s
 | Lecture 1 | Chrysoula Vlachou | Non-locality, Entanglement and Device Independence      |                   |               |
 | Lecture 2 | Chrysoula Vlachou | TBA      |                   |               |
 | Lecture 3 | Chrysoula Vlachou | TBA      |                   |               |
+
+#### Lecture Set 4 (Thursdays; February; 2019)
+
+| Segment    | Speaker       | Topic | Minutes Allocated | Minutes Spent |
+| ---------- | ------------- | ----- | ----------------- | ------------- |
+| Lecture 1 | Esteban Castro-Ruiz | QMA Completeness      |                   |               |
+| Lecture 2 | Esteban Castro-Ruiz | TBA      |                   |               |
+| Lecture 3 | Esteban Castro-Ruiz | TBA      |                   |               |
 
 
 
@@ -116,6 +134,14 @@ When the next event is held and who will speak is decided at the start of each s
 
 
 ## Abstracts
+
+
+
+#### Esteban Castro-Ruiz
+
+#####  Time reference frames and gravitating quantum clocks
+The standard formulation of quantum theory relies on a fixed space-time metric determining the localisation and causal order of events. In general relativity, the metric is influenced by matter, and it is expected to become indefinite when matter behaves quantum mechanically. Here we explore the problem of operationally defining events and their localisation in the presence of gravitating quantum systems. We develop a framework for "time reference frames," in which events are defined in terms of quantum operations with respect to a quantum clock. We find that, when clocks and quantum systems interact gravitationally, the temporal localisability of events becomes relative, depending on the time reference frame. We argue that the impossibility to find a reference frame in which all events are localised is a signature of an indefinite metric, which might yield an indefinite causal order of events. Even if the metric is indefinite, for any event we can find a time reference frame with respect to which the event is localised in time, while other events may remain delocalised. In this frame, time evolution takes its standard (Schrödinger) form, including the unitary dilation of the quantum operation defining the event. In addition, this form is preserved when moving from the frame localising one event to the frame localising another one, thereby implementing a form of covariance with respect to quantum reference frame transformations.
+
 
 
 
