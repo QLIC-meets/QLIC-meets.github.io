@@ -36,7 +36,7 @@ When the next event is held and who will speak is decided at the start of each s
 
 | Segment | Speaker                                                    | Topic | Minutes Allocated | Minutes Spent |
 | ------- | ---------------------------------------------------------- | ----- | ----------------- | ------------- |
-| Talk    | Esteban Castro-Ruiz (see [abstract](#Esteban-Castro-Ruiz)) | TBA   | 45+10             |               |
+| Talk    | Esteban Castro-Ruiz (see [abstract](#Esteban-Castro-Ruiz)) | Time reference frames and gravitating quantum clocks   | 45+10             |               |
 | Update  | «open»                                                     |       | 15                |               |
 
 
