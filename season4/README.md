@@ -32,12 +32,6 @@ When the next event is held and who will speak is decided at the start of each s
 
 ## Upcoming
 
-#### Meet #9b (Thursday, Sep 26, 10:00–11:30 AM)
-
-| Segment | Speaker                                                    | Topic | Minutes Allocated | Minutes Spent |
-| ------- | ---------------------------------------------------------- | ----- | ----------------- | ------------- |
-| Talk    | Esteban Castro-Ruiz (see [abstract](#Esteban-Castro-Ruiz)) | Time reference frames and gravitating quantum clocks   | 45+10             |               |
-| Update  | «open»                                                     |       | 15                |               |
 
 
 
@@ -113,6 +107,14 @@ When the next event is held and who will speak is decided at the start of each s
 
 
 ## Past
+
+#### Meet #9b (Thursday, Sep 26, 10:00–11:30 AM)
+
+| Segment | Speaker                                                    | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ---------------------------------------------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Esteban Castro-Ruiz (see [abstract](#Esteban-Castro-Ruiz)) | [Time reference frames and gravitating quantum clocks](https://youtu.be/7FgeuShwGEs) | 45+10             | 60+           |
+| Update  | «open»                                                     |                                                              | 15                |               |
+
 
 #### Meet 9a (11:30 AM onward; Monday, September 16, 2019)
 
