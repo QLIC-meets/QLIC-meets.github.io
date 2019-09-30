@@ -48,7 +48,7 @@ When the next event is held and who will speak is decided at the start of each s
 | Lec 3; Oct  31 | Uttam Singh | TBA      | 120 |               |
 
 
-#### Lecture Set 2 (Fridays; November 15, 22, 29; 2019)
+#### Lecture Set 2 (Thursdays; November 15, 22, 29; 2019)
 
 | Segment    | Speaker       | Topic | Minutes Allocated | Minutes Spent |
 | ---------- | ------------- | ----- | ----------------- | ------------- |
