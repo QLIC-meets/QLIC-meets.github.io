@@ -58,6 +58,12 @@ The lectures will be about finite representation theory and this tool https://re
 
 ## In the Pipeline
 
+#### Meet #11 (Tentative; November 7)
+
+| Segment | Speaker        | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | -------------- | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Mathieu Arnhem | TBA                                                          | 45+10             |               |
+| Update  | Nicolas Cerf   | Resource theory of local Gaussian work extraction for multimode bosonic systems | 15                |               |
 
 
 
@@ -109,12 +115,7 @@ The lectures will be about finite representation theory and this tool https://re
 
 
 
-#### Meet #10a (TBA)
 
-| Segment | Speaker        | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | -------------- | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Mathieu Arnhem | TBA                                                          | 45+10             |               |
-| Update  | Nicolas Cerf   | Resource theory of local Gaussian work extraction for multimode bosonic systems | 15                |               |
 
 
 
