@@ -38,7 +38,7 @@ When the next event is held and who will speak is decided at the start of each s
 
 ## In the Pipeline
 
-#### Lecture Set 1 (Thursdays; Sep 26; Oct 3, 10, 17; 2019) | Quantum Thermodynamics
+#### Lecture Set 1 (Thursdays; Oct 3, 10, 24, 31; 2019) | Quantum Thermodynamics
 
 | Segment/Date | Speaker       | Topic | Minutes Allocated | Minutes Spent |
 | ---------- | ------------- | ----- | ----------------- | ------------- |
