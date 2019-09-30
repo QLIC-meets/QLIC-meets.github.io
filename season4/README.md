@@ -72,7 +72,7 @@ The lectures will be about finite representation theory and this tool https://re
 
 
 
-#### Lecture Set 3 (Thursday; November 15, 22, 29; 2019)
+#### Lecture Set 3 (Thursdays; Dec/Jan; 2019)
 
 | Segment    | Speaker       | Topic | Minutes Allocated | Minutes Spent |
 | ---------- | ------------- | ----- | ----------------- | ------------- |
@@ -82,7 +82,7 @@ The lectures will be about finite representation theory and this tool https://re
 
 
 
-#### Lecture Set 4 (Fridays; December 6, 13, 20; 2019)
+#### Lecture Set 4 (Fridays; March; 2019)
 
 | Segment    | Speaker       | Topic | Minutes Allocated | Minutes Spent |
 | ---------- | ------------- | ----- | ----------------- | ------------- |
@@ -90,7 +90,7 @@ The lectures will be about finite representation theory and this tool https://re
 | Lec 2 | Chrysoula Vlachou | TBA      |                   |               |
 | Lec 3 | Chrysoula Vlachou | TBA      |                   |               |
 
-#### Lecture Set 5 (Thursdays; February; 2019)
+#### Lecture Set 5 (Thursdays; Feb; 2019)
 
 | Segment    | Speaker       | Topic | Minutes Allocated | Minutes Spent |
 | ---------- | ------------- | ----- | ----------------- | ------------- |
