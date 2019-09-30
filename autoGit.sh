@@ -1,2 +1,3 @@
 # git add . && git commit -am "Updated" && git push
-while true; do git add . && git commit -am "updated" && git push; sleep 500; done
+waitFor=${1:-500} 
+while true; do git add . && git commit -am "updated" && git push; sleep waitFor; done
