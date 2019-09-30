@@ -32,12 +32,6 @@ When the next event is held and who will speak is decided at the start of each s
 
 ## Upcoming
 
-
-
-
-
-## In the Pipeline
-
 #### Lecture Set 1 (Thursdays; Oct 3, 10, 24, 31; 2019) | Quantum Thermodynamics
 
 | Segment/Date | Speaker       | Topic | Minutes Allocated | Minutes Spent |
@@ -47,6 +41,10 @@ When the next event is held and who will speak is decided at the start of each s
 | Lec 2; Oct 24 | Uttam Singh | TBA      | 120 |               |
 | Lec 3; Oct  31 | Uttam Singh | TBA      | 120 |               |
 
+
+
+
+## In the Pipeline
 
 #### Lecture Set 2 (Thursdays; November 15, 22, 29; 2019)
 
