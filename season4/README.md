@@ -71,6 +71,7 @@ The lectures will be about finite representation theory and this tool https://re
 | Lec 4 | Stefano Pironio | TBA | 120 | |
 
 
+
 #### Lecture Set 3 (Thursday; November 15, 22, 29; 2019)
 
 | Segment    | Speaker       | Topic | Minutes Allocated | Minutes Spent |
@@ -81,15 +82,15 @@ The lectures will be about finite representation theory and this tool https://re
 
 
 
-#### Lecture Set 3 (Fridays; December 6, 13, 20; 2019)
+#### Lecture Set 4 (Fridays; December 6, 13, 20; 2019)
 
 | Segment    | Speaker       | Topic | Minutes Allocated | Minutes Spent |
 | ---------- | ------------- | ----- | ----------------- | ------------- |
-| Lecture 1 | Chrysoula Vlachou | Non-locality, Entanglement and Device Independence      |                   |               |
-| Lecture 2 | Chrysoula Vlachou | TBA      |                   |               |
-| Lecture 3 | Chrysoula Vlachou | TBA      |                   |               |
+| Lec 1 | Chrysoula Vlachou | Non-locality, Entanglement and Device Independence      |                   |               |
+| Lec 2 | Chrysoula Vlachou | TBA      |                   |               |
+| Lec 3 | Chrysoula Vlachou | TBA      |                   |               |
 
-#### Lecture Set 4 (Thursdays; February; 2019)
+#### Lecture Set 5 (Thursdays; February; 2019)
 
 | Segment    | Speaker       | Topic | Minutes Allocated | Minutes Spent |
 | ---------- | ------------- | ----- | ----------------- | ------------- |
