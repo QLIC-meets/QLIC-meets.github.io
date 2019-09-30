@@ -46,22 +46,34 @@ When the next event is held and who will speak is decided at the start of each s
 
 ## In the Pipeline
 
-#### Lecture Set 2 (Thursdays; November 15, 22, 29; 2019)
+#### Guest Lecture Set 1 (Tuesday, Oct 15 and Wednesday, Oct 16; 2019) | Finite Representation Theory
+
+The lectures will be about finite representation theory and this tool https://replab.github.io/replab/.
 
 | Segment    | Speaker       | Topic | Minutes Allocated | Minutes Spent |
 | ---------- | ------------- | ----- | ----------------- | ------------- |
-| Lec 1 | Stefano Pironio | QMA Completeness      |                   |               |
-| Lec 2 | Stefano Pironio | TBA      |                   |               |
-| Lec 3 | Stefano Pironio | TBA      |                   |               |
+| Lec 1 | Denis Rosset | TBA | 120 |               |
+| Lec 2 | Denis Rosset | TBA      | 120 |               |
 
 
-#### Lecture Set 3 (Fridays; November 15, 22, 29; 2019)
+
+#### Lecture Set 2 (Thursdays; November 14, 21, 28; 2019) | Convex Optimization
 
 | Segment    | Speaker       | Topic | Minutes Allocated | Minutes Spent |
 | ---------- | ------------- | ----- | ----------------- | ------------- |
-| Lecture 1 | Leonardo Novo | QMA Completeness      |                   |               |
-| Lecture 2 | Leonardo Novo | TBA      |                   |               |
-| Lecture 3 | Leonardo Novo | TBA      |                   |               |
+| Lec 1 | Stefano Pironio | Introduction | 120 |               |
+| Lec 2 | Stefano Pironio | TBA      | 120 |               |
+| Lec 3 | Stefano Pironio | TBA      | 120 |               |
+| Lec 4 | Stefano Pironio | TBA | 120 | |
+
+
+#### Lecture Set 3 (Thursday; November 15, 22, 29; 2019)
+
+| Segment    | Speaker       | Topic | Minutes Allocated | Minutes Spent |
+| ---------- | ------------- | ----- | ----------------- | ------------- |
+| Lec 1 | Leonardo Novo | QMA Completeness      |                   |               |
+| Lec 2 | Leonardo Novo | TBA      |                   |               |
+| Lec 3 | Leonardo Novo | TBA      |                   |               |
 
 
 
