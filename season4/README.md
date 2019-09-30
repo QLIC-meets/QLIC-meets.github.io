@@ -43,9 +43,6 @@ When the next event is held and who will speak is decided at the start of each s
 
 
 
-
-## In the Pipeline
-
 #### Guest Lecture Set 1 (Tuesday, Oct 15 and Wednesday, Oct 16; 2019) | Finite Representation Theory
 
 The lectures will be about finite representation theory and this tool https://replab.github.io/replab/.
@@ -54,6 +51,13 @@ The lectures will be about finite representation theory and this tool https://re
 | ---------- | ------------- | ----- | ----------------- | ------------- |
 | Lec 1 | Denis Rosset | TBA | 120 |               |
 | Lec 2 | Denis Rosset | TBA      | 120 |               |
+
+
+
+
+
+## In the Pipeline
+
 
 
 
