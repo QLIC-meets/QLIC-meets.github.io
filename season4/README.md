@@ -36,7 +36,7 @@ When the next event is held and who will speak is decided at the start of each s
 
 | Segment/Date | Speaker       | Topic | Minutes Allocated | Minutes Spent |
 | ---------- | ------------- | ----- | ----------------- | ------------- |
-| Lec 1; Sep 3 | Uttam Singh | Introduction | 120 |               |
+| Lec 1; Sep 3 | Uttam Singh | A resource theoretic perspective (see [[1](https://www.nature.com/articles/ncomms3059)]) | 120 |               |
 | Lec 1; Oct 10 | Uttam Singh | TBA      | 120 |               |
 | Lec 2; Oct 24 | Uttam Singh | TBA      | 120 |               |
 | Lec 3; Oct  31 | Uttam Singh | TBA      | 120 |               |
