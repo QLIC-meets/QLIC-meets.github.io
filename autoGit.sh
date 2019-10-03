@@ -1,3 +1,6 @@
 # git add . && git commit -am "Updated" && git push
-waitFor=${1:-500} 
-while true; do git add . && git commit -am "updated" && git push; sleep $waitFor; done
+#falls back on 500 seconds if no parameter is passed to the script
+waitFor=${1:-500}
+#this fetches the date
+now=$(date)
+while true; do git add . && git commit -am "updated on $now" && git push; sleep $waitFor; done
