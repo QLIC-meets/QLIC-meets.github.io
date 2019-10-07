@@ -258,10 +258,10 @@ QLIC-meets is an initiative to facilitate further collaboration and learning wit
 
 *Format:* 1½ hours. Once every three weeks.
 
-| #    | Event     | Description                                                  | Duration (minutes)          |
-| ---- | --------- | ------------------------------------------------------------ | --------------------------- |
-| 1    | LongTalk  | One member talks about his/her research (or any other topic of interest). | 45 (talk) + 15 (discussion) |
-| 2    | ShortTalk | Optional. One member briefly discusses his/her progress.     | 15                          |
+| #    | Event    | Description                                                  | Duration (minutes)          |
+| ---- | -------- | ------------------------------------------------------------ | --------------------------- |
+| 1    | Talk     | One member talks about his/her research (or any other topic of interest). | 45 (talk) + 15 (discussion) |
+| 2    | Briefing | Optional. One member briefly discusses his/her progress.     | 15                          |
 
 *Typical Schedule*: Thursday, before lunch (11:30 AM—1:00 PM).
 
