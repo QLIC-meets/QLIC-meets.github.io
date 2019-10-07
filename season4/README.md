@@ -58,16 +58,16 @@ The lectures will be about finite representation theory and this tool https://re
 
 ## In the Pipeline
 
-#### Meet #11 (Tentative; November 7)
+#### Meet #11 (Tentative | Thursday, November 7)
 
-| Segment | Speaker        | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | -------------- | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Mathieu Arnhem | TBA                                                          | 45+10             |               |
-| Update  | Nicolas Cerf   | Resource theory of local Gaussian work extraction for multimode bosonic systems | 15                |               |
+| Segment | Speaker                    | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | -------------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Emmanuel Zambrini Cruzeiro | Informationally restricted quantum correlations (see [abstract](#Emmanuel-Zambrini-Cruzeiro)) | 45+10             |               |
+| Update  | Nicolas Cerf               | Resource theory of local Gaussian work extraction for multimode bosonic systems | 15                |               |
 
 
 
-#### Lecture Set 2 (Thursdays; November 14, 21, 28; 2019) | Convex Optimization
+#### Lecture Set 2 (Thursdays; November 14(x), 21, 28(x); 2019) | Convex Optimization
 
 | Segment    | Speaker       | Topic | Minutes Allocated | Minutes Spent |
 | ---------- | ------------- | ----- | ----------------- | ------------- |
@@ -167,43 +167,40 @@ Historically, researchers in quantum physics had polarized attitudes towards rep
 
 Inspired by recent advances in numerical methods [[2](https://link.springer.com/article/10.1007/s13160-010-0007-8)], we wrote RepLAB, a MATLAB/Octave toolbox to compute using groups and representations [[3](https://replab.github.io/replab/)], with two applications:
 
-- providing a way for researchers to play with concrete examples while learning groups and representations
+(i) providing a way for researchers to play with concrete examples while learning groups and representations
 
-- speed up computations involving finite dimensional systems with symmetry [[4](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.070501)].
+(ii) speed up computations involving finite dimensional systems with symmetry [[4](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.070501)].
 
 The tutorial is structured in two sessions.
 
-1) The first session will introduce the fundamentals of group and representation theory through hands-on examples.
+* The **first session** will introduce the fundamentals of group and representation theory through hands-on examples.
+  * Finite and compact groups, and the constructions offered in RepLAB.
+  * Examples of groups in quantum information: symmetries of nonlocality; symmetries of the singlet and GHZ states.
+  * Constructing finite group representations using generator images.
+  * Constructing unitary group representations.
+  * Decomposition of a representation into irreducible representations.
 
-- Finite and compact groups, and the constructions offered in RepLAB.
+* The **second session** will talk about applications to semidefinite programs.
 
-- Examples of groups in quantum information: symmetries of nonlocality; symmetries of the singlet and GHZ states.
+  * Unitary vs non-unitary, real vs complex representations
 
-- Constructing finite group representations using generator images.
+  * Symmetric SDPs as elements of the commutant algebra
 
-- Constructing unitary group representations.
+  * Impact of the irreducible decomposition
 
-- Decomposition of a representation into irreducible representations.
+  * Application to the NPA hierarchy for unbounded dimension systems.
 
-2) The second session will talk about applications to semidefinite programs.
+  * Application to the NPA hierarchy for bounded dimension systems.
 
-- Unitary vs non-unitary, real vs complex representations
+  
 
-- Symmetric SDPs as elements of the commutant algebra
+  Prerequisites
 
-- Impact of the irreducible decomposition
+  >  Working knowledge of Matlab (for example prior use of Yalmip, CVX or QETLAB)
 
-- Application to the NPA hierarchy for unbounded dimension systems.
+  >  A working installation of RepLAB using the instructions here: https://replab.github.io/replab/docs/installation.html
 
-- Application to the NPA hierarchy for bounded dimension systems.
-
-Prerequisites:
-
-- Working knowledge of Matlab (for example prior use of Yalmip, CVX or QETLAB)
-
-- A working installation of RepLAB using the instructions here: https://replab.github.io/replab/docs/installation.html
-
-- If MATLAB is not available, a recent version of Octave https://www.gnu.org/software/octave/ can be used instead.
+  > If MATLAB is not available, a recent version of Octave https://www.gnu.org/software/octave/ can be used instead.
 
 [1] https://ncatlab.org/nlab/show/Gruppenpest
 
@@ -218,6 +215,12 @@ Prerequisites:
 
 
 ## Abstracts
+
+#### Emmanuel-Zambrini-Cruzeiro
+
+##### Informationally restricted quantum correlations
+
+Quantum communication leads to strong correlations, that can outperform classical ones. Complementary to previous works in this area, we investigate correlations in prepare-and-measure scenarios assuming a bound on the information content of the quantum communication, rather than on its Hilbert-space dimension. Specifically, we explore the extent of classical and quantum correlations given an upper bound on the one-shot accessible information. We provide a characterisation of the set of classical correlations and show that quantum correlations are stronger than classical ones. We also show that limiting information rather than dimension leads to stronger quantum correlations. Moreover, we present device-independent tests for placing lower bounds on the information given observed correlations. Finally, we show that when limiting the information, quantum communication is at least as strong a resource as classical communication assisted by pre-shared entanglement.
 
 
 
