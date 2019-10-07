@@ -7,11 +7,9 @@ Welcome to the QLIC-meets page.
 
 QLIC-meets is an initiative to facilitate further collaboration and learning within the two quantum information groups in Brussels: QuIC and LIQ. 
 
+#### QLIC-meets
 
-
-*Provisional Format*: 
-
-1½ hours. Twice a month. Two segments.
+1½ hours. Once every three weeks.
 
 | #    | Segment | Description                                                  | Duration (minutes)          |
 | ---- | ------- | ------------------------------------------------------------ | --------------------------- |
@@ -20,13 +18,25 @@ QLIC-meets is an initiative to facilitate further collaboration and learning wit
 
 
 
-
-
-*The Schedule*: 
+*Typical Schedule*: 
 
 Thursday, before lunch (11:30 AM—1:00 PM).
 
-When the next event is held and who will speak is decided at the start of each session.
+
+
+#### QLIC-lectures
+
+4 lectures. 2 hours each.
+
+*Typical Schedule*: 
+
+Thursday, before lunch (11:00 AM—1:00 PM).
+
+
+
+#### QLIC-seminars
+
+1 hour. Invited/visiting speaker.
 
 
 
