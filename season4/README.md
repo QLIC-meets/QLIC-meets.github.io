@@ -163,8 +163,6 @@ The lectures will be about finite representation theory and this tool https://re
 
 ##### Introduction to numerical representation theory
 
-
-
 Historically, researchers in quantum physics had polarized attitudes towards representation theory. John Slater wrote in the 1920s: "The authors of the 'Gruppenpest' [[1](https://ncatlab.org/nlab/show/Gruppenpest)] wrote papers which were incomprehensible to those like me who had not studied group theory". Such attitudes persist today in quantum information.
 
 Inspired by recent advances in numerical methods [[2](https://link.springer.com/article/10.1007/s13160-010-0007-8)], we wrote RepLAB, a MATLAB/Octave toolbox to compute using groups and representations [[3](https://replab.github.io/replab/)], with two applications:
