@@ -224,7 +224,7 @@ References
 
 Quantum communication leads to strong correlations, that can outperform classical ones. Complementary to previous works in this area, we investigate correlations in prepare-and-measure scenarios assuming a bound on the information content of the quantum communication, rather than on its Hilbert-space dimension. Specifically, we explore the extent of classical and quantum correlations given an upper bound on the one-shot accessible information. We provide a characterisation of the set of classical correlations and show that quantum correlations are stronger than classical ones. We also show that limiting information rather than dimension leads to stronger quantum correlations. Moreover, we present device-independent tests for placing lower bounds on the information given observed correlations. Finally, we show that when limiting the information, quantum communication is at least as strong a resource as classical communication assisted by pre-shared entanglement.
 
-(see  [arXiv:1909.05656](https://arxiv.org/abs/1909.05656))
+(see [arXiv:1909.05656](https://arxiv.org/abs/1909.05656))
 
 
 
