@@ -237,7 +237,7 @@ In quantum mechanics performing a measurement is an invasive process which gener
 
 ## About
 
-QLIC-meets is an initiative to facilitate further collaboration and learning within the two quantum information groups in Brussels: QuIC and LIQ. It has now been extended to include the following segments.
+QLIC-meets is an initiative to facilitate further collaboration and learning within the two quantum information groups in Brussels: QuIC and LIQ. It has now been extended to include the following.
 
 
 
