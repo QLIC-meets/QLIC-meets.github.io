@@ -271,8 +271,6 @@ QLIC-meets is an initiative to facilitate further collaboration and learning wit
 
 #### QLIC-lectures
 
-*Motivation:* Facilitate proper learning of a certain topic instead of only having a superficial understanding.
-
 *Format:* 4 lectures. 2 hours each. Once a week. Two lectures, one week off, remaining two lectures.
 
 *Typical Schedule*: Thursday, before lunch (11:00 AM—1:00 PM).
