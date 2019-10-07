@@ -237,7 +237,18 @@ In quantum mechanics performing a measurement is an invasive process which gener
 
 ## About
 
-QLIC-meets is an initiative to facilitate further collaboration and learning within the two quantum information groups in Brussels: QuIC and LIQ. It has now been extended to include the following.
+QLIC-meets is an initiative to facilitate further collaboration and learning within the two quantum information groups in Brussels: QuIC and LIQ. It has now been extended to include the following. The typical schedule is expected to be as follows.
+
+
+
+| #        | Segment                   |      |
+| -------- | ------------------------- | ---- |
+| Week n+1 | QLIC-lecture 1            |      |
+| Week n+2 | QLIC-lecture 2            |      |
+| Week n+3 | QLIC-meet                 |      |
+| Week n+4 | QLIC-lecture 3            |      |
+| Week n+5 | QLIC-lecture 4 (optional) |      |
+| Week n+6 | QLIC-meet                 |      |
 
 
 
@@ -245,16 +256,14 @@ QLIC-meets is an initiative to facilitate further collaboration and learning wit
 
 #### QLIC-meets
 
-1½ hours. Once every three weeks.
+*Format:* 1½ hours. Once every three weeks.
 
-| #    | Segment | Description                                                  | Duration (minutes)          |
-| ---- | ------- | ------------------------------------------------------------ | --------------------------- |
-| 1    | Talk    | One member talks about his/her research (or any other topic of interest). | 45 (talk) + 15 (discussion) |
-| 2    | Update  | Optional. One member briefly discusses his/her progress.     | 15                          |
+| #    | Event     | Description                                                  | Duration (minutes)          |
+| ---- | --------- | ------------------------------------------------------------ | --------------------------- |
+| 1    | LongTalk  | One member talks about his/her research (or any other topic of interest). | 45 (talk) + 15 (discussion) |
+| 2    | ShortTalk | Optional. One member briefly discusses his/her progress.     | 15                          |
 
-*Typical Schedule*: 
-
-Thursday, before lunch (11:30 AM—1:00 PM).
+*Typical Schedule*: Thursday, before lunch (11:30 AM—1:00 PM).
 
 
 
@@ -262,11 +271,9 @@ Thursday, before lunch (11:30 AM—1:00 PM).
 
 #### QLIC-lectures
 
-4 lectures. 2 hours each. Once a week. Two lectures, one week off, remaining two lectures.
+*Format:* 4 lectures. 2 hours each. Once a week. Two lectures, one week off, remaining two lectures.
 
-*Typical Schedule*: 
-
-Thursday, before lunch (11:00 AM—1:00 PM).
+*Typical Schedule*: Thursday, before lunch (11:00 AM—1:00 PM).
 
 
 
@@ -274,8 +281,6 @@ Thursday, before lunch (11:00 AM—1:00 PM).
 
 #### QLIC-seminars
 
-1 hour. Invited/visiting speaker.
+*Format:* 1 hour. Invited/visiting speaker.
 
-*Typical Schedule*: 
-
-Thursday, before lunch (11:30 AM—1:00 PM).
+*Typical Schedule*: Thursday, before lunch (11:30 AM—1:00 PM).
