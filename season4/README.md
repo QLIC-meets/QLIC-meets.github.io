@@ -16,8 +16,6 @@ QLIC-meets is an initiative to facilitate further collaboration and learning wit
 | 1    | Talk    | One member talks about his/her research (or any other topic of interest). | 45 (talk) + 15 (discussion) |
 | 2    | Update  | Optional. One member briefly discusses his/her progress.     | 15                          |
 
-
-
 *Typical Schedule*: 
 
 Thursday, before lunch (11:30 AM—1:00 PM).
@@ -26,7 +24,7 @@ Thursday, before lunch (11:30 AM—1:00 PM).
 
 #### QLIC-lectures
 
-4 lectures. 2 hours each.
+4 lectures. 2 hours each. Once a week. Two lectures, one week off, remaining two lectures.
 
 *Typical Schedule*: 
 
@@ -37,6 +35,10 @@ Thursday, before lunch (11:00 AM—1:00 PM).
 #### QLIC-seminars
 
 1 hour. Invited/visiting speaker.
+
+*Typical Schedule*: 
+
+Thursday, before lunch (11:30 AM—1:00 PM).
 
 
 
