@@ -241,14 +241,14 @@ QLIC-meets is an initiative to facilitate further collaboration and learning wit
 
 
 
-| #        | Segment                   |      |
-| -------- | ------------------------- | ---- |
-| Week n+1 | QLIC-lecture 1            |      |
-| Week n+2 | QLIC-lecture 2            |      |
-| Week n+3 | QLIC-meet                 |      |
-| Week n+4 | QLIC-lecture 3            |      |
-| Week n+5 | QLIC-lecture 4 (optional) |      |
-| Week n+6 | QLIC-meet                 |      |
+| #        | Segment                          | Duration |
+| -------- | -------------------------------- | -------- |
+| Week n+1 | QLIC-lecture 1                   | 120      |
+| Week n+2 | QLIC-lecture 2                   | 120      |
+| Week n+3 | QLIC-meet                        | 60 + 15  |
+| Week n+4 | QLIC-lecture 3                   | 120      |
+| Week n+5 | QLIC-lecture 4 (optional/buffer) | 120      |
+| Week n+6 | QLIC-meet                        | 60 + 15  |
 
 
 
