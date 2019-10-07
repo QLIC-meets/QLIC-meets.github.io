@@ -1,45 +1,5 @@
 # QLIC-meets | Season 4 (September–December)
-Welcome to the QLIC-meets page. 
-
-
-
-## About
-
-QLIC-meets is an initiative to facilitate further collaboration and learning within the two quantum information groups in Brussels: QuIC and LIQ. 
-
-#### QLIC-meets
-
-1½ hours. Once every three weeks.
-
-| #    | Segment | Description                                                  | Duration (minutes)          |
-| ---- | ------- | ------------------------------------------------------------ | --------------------------- |
-| 1    | Talk    | One member talks about his/her research (or any other topic of interest). | 45 (talk) + 15 (discussion) |
-| 2    | Update  | Optional. One member briefly discusses his/her progress.     | 15                          |
-
-*Typical Schedule*: 
-
-Thursday, before lunch (11:30 AM—1:00 PM).
-
-
-
-#### QLIC-lectures
-
-4 lectures. 2 hours each. Once a week. Two lectures, one week off, remaining two lectures.
-
-*Typical Schedule*: 
-
-Thursday, before lunch (11:00 AM—1:00 PM).
-
-
-
-#### QLIC-seminars
-
-1 hour. Invited/visiting speaker.
-
-*Typical Schedule*: 
-
-Thursday, before lunch (11:30 AM—1:00 PM).
-
+Welcome to the QLIC-meets page. For further information about the meetings see the [About](#About) section.
 
 
 ## Upcoming
@@ -270,3 +230,52 @@ The fundamental problem of sampling from the limiting distribution of quantum wa
 In quantum mechanics performing a measurement is an invasive process which generally disturbs the system. Due to this phenomenon, there exist incompatible quantum measurements, i.e., measurements that cannot be simultaneously performed on a single copy of the system. It is then natural to ask what the most incompatible quantum measurements are. To answer this question, several measures have been proposed to quantify how incompatible a set of measurements is, however their properties are not well-understood. In this work, we develop a general framework that encompasses all the commonly used measures of incompatibility based on robustness to noise. Moreover, we propose several conditions that a measure of incompatibility should satisfy, and investigate whether the existing measures comply with them. We find that some of the widely used measures do not fulfil these basic requirements. We also show that when looking for the most incompatible pairs of measurements, we obtain different answers depending on the exact measure. For one of the measures, we analytically prove that projective measurements onto two mutually unbiased bases are among the most incompatible pairs in every dimension. However, for some of the remaining measures we find that some peculiar measurements turn out to be even more incompatible. 
 
 (see [arXiv:1906.00448](https://arxiv.org/abs/1906.00448))
+
+
+
+
+
+## About
+
+QLIC-meets is an initiative to facilitate further collaboration and learning within the two quantum information groups in Brussels: QuIC and LIQ. It has now been extended to include the following segments.
+
+
+
+
+
+#### QLIC-meets
+
+1½ hours. Once every three weeks.
+
+| #    | Segment | Description                                                  | Duration (minutes)          |
+| ---- | ------- | ------------------------------------------------------------ | --------------------------- |
+| 1    | Talk    | One member talks about his/her research (or any other topic of interest). | 45 (talk) + 15 (discussion) |
+| 2    | Update  | Optional. One member briefly discusses his/her progress.     | 15                          |
+
+*Typical Schedule*: 
+
+Thursday, before lunch (11:30 AM—1:00 PM).
+
+
+
+
+
+#### QLIC-lectures
+
+4 lectures. 2 hours each. Once a week. Two lectures, one week off, remaining two lectures.
+
+*Typical Schedule*: 
+
+Thursday, before lunch (11:00 AM—1:00 PM).
+
+
+
+
+
+#### QLIC-seminars
+
+1 hour. Invited/visiting speaker.
+
+*Typical Schedule*: 
+
+Thursday, before lunch (11:30 AM—1:00 PM).
