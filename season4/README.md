@@ -36,8 +36,8 @@ When the next event is held and who will speak is decided at the start of each s
 
 | Segment/Date | Speaker       | Topic | Minutes Allocated | Minutes Spent |
 | ---------- | ------------- | ----- | ----------------- | ------------- |
-| Lec 1; Sep 3 | Uttam Singh | [A resource theoretic perspective](https://youtu.be/ubjSoUAYuZI) (see [[1](https://www.nature.com/articles/ncomms3059)]) | 120 |               |
-| Lec 1; Oct 10 | Uttam Singh | TBA      | 120 |               |
+| Lec 1; Sep 3 | Uttam Singh | [A resource theoretic perspective](https://youtu.be/ubjSoUAYuZI) (see [[1](https://www.nature.com/articles/ncomms3059)]) | 120 | 125 |
+| Lec 1; Oct 10 | Uttam Singh | A resource theoretic perspective (continued) | 120 |               |
 | Lec 2; Oct 24 | Uttam Singh | TBA      | 120 |               |
 | Lec 3; Oct  31 | Uttam Singh | TBA      | 120 |               |
 
@@ -45,12 +45,12 @@ When the next event is held and who will speak is decided at the start of each s
 
 #### Guest Lecture Set 1 (Tuesday, Oct 15 and Wednesday, Oct 16; 2019) | Finite Representation Theory
 
-The lectures will be about finite representation theory and this tool https://replab.github.io/replab/.
+The lectures will be about finite representation theory and this tool https://replab.github.io/replab/ (see [details](#Denis-Rosset)).
 
 | Segment    | Speaker       | Topic | Minutes Allocated | Minutes Spent |
 | ---------- | ------------- | ----- | ----------------- | ------------- |
-| Lec 1 | Denis Rosset | TBA | 120 |               |
-| Lec 2 | Denis Rosset | TBA      | 120 |               |
+| Lec 1 | Denis Rosset | Fundamentals of group and representation theory with hands-on examples | 120 |               |
+| Lec 2 | Denis Rosset | Applications to Semi-Definite Programming | 120 |               |
 
 
 
@@ -154,6 +154,64 @@ The lectures will be about finite representation theory and this tool https://re
 | Segment | Speaker              | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | -------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
 | Seminar | Sébastien Designolle | Incompatibility robustness of quantum measurements: a unified framework (see [abstract](#Sébastien-Designolle)) | 50+10             | 50            |
+
+
+
+## Lecture Series | Details
+
+#### Denis Rosset
+
+##### Introduction to numerical representation theory
+
+Historically, researchers in quantum physics had polarized attitudes towards representation theory. John Slater wrote in the 1920s: "The authors of the 'Gruppenpest' [[1](https://ncatlab.org/nlab/show/Gruppenpest)] wrote papers which were incomprehensible to those like me who had not studied group theory". Such attitudes persist today in quantum information.
+
+Inspired by recent advances in numerical methods [[2](https://link.springer.com/article/10.1007/s13160-010-0007-8)], we wrote RepLAB, a MATLAB/Octave toolbox to compute using groups and representations [[3](https://replab.github.io/replab/)], with two applications:
+
+- providing a way for researchers to play with concrete examples while learning groups and representations
+
+- speed up computations involving finite dimensional systems with symmetry [[4](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.070501)].
+
+The tutorial is structured in two sessions.
+
+1) The first session will introduce the fundamentals of group and representation theory through hands-on examples.
+
+- Finite and compact groups, and the constructions offered in RepLAB.
+
+- Examples of groups in quantum information: symmetries of nonlocality; symmetries of the singlet and GHZ states.
+
+- Constructing finite group representations using generator images.
+
+- Constructing unitary group representations.
+
+- Decomposition of a representation into irreducible representations.
+
+2) The second session will talk about applications to semidefinite programs.
+
+- Unitary vs non-unitary, real vs complex representations
+
+- Symmetric SDPs as elements of the commutant algebra
+
+- Impact of the irreducible decomposition
+
+- Application to the NPA hierarchy for unbounded dimension systems.
+
+- Application to the NPA hierarchy for bounded dimension systems.
+
+Prerequisites:
+
+- Working knowledge of Matlab (for example prior use of Yalmip, CVX or QETLAB)
+
+- A working installation of RepLAB using the instructions here: https://replab.github.io/replab/docs/installation.html
+
+- If MATLAB is not available, a recent version of Octave https://www.gnu.org/software/octave/ can be used instead.
+
+[1] https://ncatlab.org/nlab/show/Gruppenpest
+
+[2] https://link.springer.com/article/10.1007/s13160-010-0007-8
+
+[3] https://replab.github.io/replab/
+
+[4] https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.070501
 
 
 
