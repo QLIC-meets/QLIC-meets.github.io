@@ -179,9 +179,7 @@ The tutorial is structured in two sessions.
   * Constructing finite group representations using generator images.
   * Constructing unitary group representations.
   * Decomposition of a representation into irreducible representations.
-
 * The **second session** will talk about applications to semidefinite programs.
-
   * Unitary vs non-unitary, real vs complex representations
 
   * Symmetric SDPs as elements of the commutant algebra
@@ -192,15 +190,19 @@ The tutorial is structured in two sessions.
 
   * Application to the NPA hierarchy for bounded dimension systems.
 
-  
 
-  Prerequisites
 
-  >  Working knowledge of Matlab (for example prior use of Yalmip, CVX or QETLAB)
+Prerequisites
 
-  >  A working installation of RepLAB using the instructions here: https://replab.github.io/replab/docs/installation.html
+>  Working knowledge of Matlab (for example prior use of Yalmip, CVX or QETLAB)
 
-  > If MATLAB is not available, a recent version of Octave https://www.gnu.org/software/octave/ can be used instead.
+>  A working installation of RepLAB using the instructions here: https://replab.github.io/replab/docs/installation.html
+
+> If MATLAB is not available, a recent version of Octave https://www.gnu.org/software/octave/ can be used instead.
+
+
+
+References
 
 [1] https://ncatlab.org/nlab/show/Gruppenpest
 
