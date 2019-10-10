@@ -4,15 +4,6 @@ Welcome to the QLIC-meets page. For further information about the meetings see t
 
 ## Upcoming
 
-#### Lecture Set 1 (Thursdays; Oct 3, 10, 24, 31; 2019) | Quantum Thermodynamics
-
-| Segment/Date | Speaker       | Topic | Minutes Allocated | Minutes Spent |
-| ---------- | ------------- | ----- | ----------------- | ------------- |
-| Lec 1; Sep 3 | Uttam Singh | [A resource theoretic perspective](https://youtu.be/ubjSoUAYuZI) (see [[1](https://www.nature.com/articles/ncomms3059)]) | 120 | 125 |
-| Lec 1; Oct 10 | Uttam Singh | A resource theoretic perspective (continued) | 120 |               |
-| Lec 2; Oct 24 | Uttam Singh | TBA      | 120 |               |
-| Lec 3; Oct  31 | Uttam Singh | TBA      | 120 |               |
-
 
 
 #### Guest Lecture Set 1 (Tuesday, Oct 15 and Wednesday, Oct 16; 2019) | Finite Representation Theory
@@ -21,9 +12,19 @@ The lectures will be about finite representation theory and this tool https://re
 
 | Segment    | Speaker       | Topic | Minutes Allocated | Minutes Spent |
 | ---------- | ------------- | ----- | ----------------- | ------------- |
-| Lec 1 | Denis Rosset | Fundamentals of group and representation theory with hands-on examples | 120 |               |
-| Lec 2 | Denis Rosset | Applications to Semi-Definite Programming | 120 |               |
+| Lec 1; Tue, Oct 15 | Denis Rosset | Fundamentals of group and representation theory with hands-on examples | 120 |               |
+| Lec 2; Wed, Oct 16 | Denis Rosset | Applications to Semi-Definite Programming | 120 |               |
 
+
+
+#### Lecture Set 1 (Thursdays; Oct 3, ~~10~~, 24, 31; 2019) | Quantum Thermodynamics
+
+| Segment/Date | Speaker       | Topic | Minutes Allocated | Minutes Spent |
+| ---------- | ------------- | ----- | ----------------- | ------------- |
+| Lec 1; Sep 3 | Uttam Singh | [A resource theoretic perspective](https://youtu.be/ubjSoUAYuZI) (see [[1](https://www.nature.com/articles/ncomms3059)]) | 120 | 125 |
+| ~~Lec 2; Oct 10~~ | ~~Uttam Singh~~ | ~~A resource theoretic perspective (continued)~~ | ~~120~~ |               |
+| Lec 2; Oct 24 | Uttam Singh | A resource theoretic perspective (continued) | 120 |               |
+| Lec 3; Oct  31 | Uttam Singh | TBA      | 120 |               |
 
 
 
