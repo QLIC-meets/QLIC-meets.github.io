@@ -109,7 +109,7 @@ The lectures will be about finite representation theory and this tool https://re
 
 | Segment | Speaker                                                    | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ---------------------------------------------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Esteban Castro-Ruiz (see [abstract](#Esteban-Castro-Ruiz)) | [Time reference frames and gravitating quantum clocks](https://youtu.be/7FgeuShwGEs) | 45+10             | 60+           |
+| Talk    | Esteban Castro-Ruiz (see [abstract](#Esteban-Castro-Ruiz)) | Time reference frames and gravitating quantum clocks <sub><sup>[[video]((https://youtu.be/7FgeuShwGEs))]</sup></sub> | 45+10             | 60+           |
 | Update  | «open»                                                     |                                                              | 15                |               |
 
 
