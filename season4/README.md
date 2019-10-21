@@ -2,6 +2,10 @@
 Welcome to the QLIC-meets page. For further information about the meetings see the [About](#About) section. To access the videos of our QLIC events, please add your Google email to [this spreadsheet](https://docs.google.com/spreadsheets/d/1_8xdH3ih4KBwd91U2FQ1GKMV2C-C8y-pgjTPMlqSnSI/edit?usp=sharing).
 
 
+
+[TOC]
+
+
 ## Upcoming
 
 
@@ -15,80 +19,12 @@ Welcome to the QLIC-meets page. For further information about the meetings see t
 | Lec 3; Oct  31 |  | Uttam Singh | TBA      | 120 |               |
 
 
-
-
-## In the Pipeline
-
 #### Meet #11 (Tentative | Thursday, November 7)
 
 | Segment | Speaker                    | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | -------------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
 | Talk    | Emmanuel Zambrini Cruzeiro | Informationally restricted quantum correlations (see [abstract](#Emmanuel-Zambrini-Cruzeiro)) | 45+10             |               |
 | Update  | Nicolas Cerf               | Resource theory of local Gaussian work extraction for multimode bosonic systems | 15                |               |
-
-
-
-#### Lecture Set 2 (Thursdays; November 14(x), 21, 28(x); 2019) | Convex Optimization
-
-| Segment    | Speaker       | Topic | Minutes Allocated | Minutes Spent |
-| ---------- | ------------- | ----- | ----------------- | ------------- |
-| Lec 1 | Stefano Pironio | Introduction | 120 |               |
-| Lec 2 | Stefano Pironio | TBA      | 120 |               |
-| Lec 3 | Stefano Pironio | TBA      | 120 |               |
-| Lec 4 | Stefano Pironio | TBA | 120 | |
-
-
-
-#### Lecture Set 3 (Thursdays; Dec/Jan; 2019)
-
-| Segment    | Speaker       | Topic | Minutes Allocated | Minutes Spent |
-| ---------- | ------------- | ----- | ----------------- | ------------- |
-| Lec 1 | Leonardo Novo | QMA Completeness      |                   |               |
-| Lec 2 | Leonardo Novo | TBA      |                   |               |
-| Lec 3 | Leonardo Novo | TBA      |                   |               |
-
-
-
-#### Lecture Set 4 (Fridays; March; 2019)
-
-| Segment    | Speaker       | Topic | Minutes Allocated | Minutes Spent |
-| ---------- | ------------- | ----- | ----------------- | ------------- |
-| Lec 1 | Chrysoula Vlachou | Non-locality, Entanglement and Device Independence      |                   |               |
-| Lec 2 | Chrysoula Vlachou | TBA      |                   |               |
-| Lec 3 | Chrysoula Vlachou | TBA      |                   |               |
-
-#### Lecture Set 5 (Thursdays; Feb; 2019)
-
-| Segment    | Speaker       | Topic | Minutes Allocated | Minutes Spent |
-| ---------- | ------------- | ----- | ----------------- | ------------- |
-| Lecture 1 | Esteban Castro-Ruiz | QMA Completeness      |                   |               |
-| Lecture 2 | Esteban Castro-Ruiz | TBA      |                   |               |
-| Lecture 3 | Esteban Castro-Ruiz | TBA      |                   |               |
-
-
-
-
-#### Seminar (TBA)
-
-| Segment | Speaker | Topic | Minutes Allocated | Minutes Spent |
-| ------- | ------- | ----- | ----------------- | ------------- |
-| Seminar |         |       |                   |               |
-
-
-
-
-
-
-
-#### QLIC-meet
-
-[Uncertified Random List Generator](https://mybinder.org/v2/gh/QuIC-meets/QuIC-meets.github.io/master?filepath=season2/lineUp/lineUp.ipynb)
-
-| Session | #5c            | #6a             | #6b    |
-| ------- | -------------- | --------------- | ------ |
-| Talk    | Mathieu Arnhem | «open»          | «open» |
-| Update  | Nicolas Cerf   | Stefano Pironio | «open» |
-
 
 
 ## Past
@@ -231,6 +167,67 @@ In quantum mechanics performing a measurement is an invasive process which gener
 (see [arXiv:1906.00448](https://arxiv.org/abs/1906.00448))
 
 
+
+## In the Pipeline
+
+
+
+#### Lecture Set 2 (Thursdays; November 14(x), 21, 28(x); 2019) | Convex Optimization
+
+| Segment    | Speaker       | Topic | Minutes Allocated | Minutes Spent |
+| ---------- | ------------- | ----- | ----------------- | ------------- |
+| Lec 1 | Stefano Pironio | Introduction | 120 |               |
+| Lec 2 | Stefano Pironio | TBA      | 120 |               |
+| Lec 3 | Stefano Pironio | TBA      | 120 |               |
+| Lec 4 | Stefano Pironio | TBA | 120 | |
+
+
+
+#### Lecture Set 3 (Thursdays; Dec/Jan; 2019)
+
+| Segment    | Speaker       | Topic | Minutes Allocated | Minutes Spent |
+| ---------- | ------------- | ----- | ----------------- | ------------- |
+| Lec 1 | Leonardo Novo | QMA Completeness      |                   |               |
+| Lec 2 | Leonardo Novo | TBA      |                   |               |
+| Lec 3 | Leonardo Novo | TBA      |                   |               |
+
+
+
+#### Lecture Set 4 (Fridays; March; 2019)
+
+| Segment    | Speaker       | Topic | Minutes Allocated | Minutes Spent |
+| ---------- | ------------- | ----- | ----------------- | ------------- |
+| Lec 1 | Chrysoula Vlachou | Non-locality, Entanglement and Device Independence      |                   |               |
+| Lec 2 | Chrysoula Vlachou | TBA      |                   |               |
+| Lec 3 | Chrysoula Vlachou | TBA      |                   |               |
+
+#### Lecture Set 5 (Thursdays; Feb; 2019)
+
+| Segment    | Speaker       | Topic | Minutes Allocated | Minutes Spent |
+| ---------- | ------------- | ----- | ----------------- | ------------- |
+| Lecture 1 | Esteban Castro-Ruiz | QMA Completeness      |                   |               |
+| Lecture 2 | Esteban Castro-Ruiz | TBA      |                   |               |
+| Lecture 3 | Esteban Castro-Ruiz | TBA      |                   |               |
+
+
+
+
+#### Seminar (TBA)
+
+| Segment | Speaker | Topic | Minutes Allocated | Minutes Spent |
+| ------- | ------- | ----- | ----------------- | ------------- |
+| Seminar |         |       |                   |               |
+
+
+
+#### QLIC-meet
+
+[Uncertified Random List Generator](https://mybinder.org/v2/gh/QuIC-meets/QuIC-meets.github.io/master?filepath=season2/lineUp/lineUp.ipynb)
+
+| Session | #5c            | #6a             | #6b    |
+| ------- | -------------- | --------------- | ------ |
+| Talk    | Mathieu Arnhem | «open»          | «open» |
+| Update  | Nicolas Cerf   | Stefano Pironio | «open» |
 
 
 
