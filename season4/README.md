@@ -1,27 +1,15 @@
 # QLIC-meets | Season 4 (September–December)
-Welcome to the QLIC-meets page. For further information about the meetings see the [About](#About) section.
+Welcome to the QLIC-meets page. For further information about the meetings see the [About](#About) section. To access the videos of our QLIC events, please add your Google email to [this spreadsheet](https://docs.google.com/spreadsheets/d/1_8xdH3ih4KBwd91U2FQ1GKMV2C-C8y-pgjTPMlqSnSI/edit?usp=sharing).
 
 
 ## Upcoming
-
-
-
-#### Guest Lecture Set 1 (Tuesday, Oct 15 and Wednesday, Oct 16; 2019) | Finite Representation Theory
-
-The lectures will be about finite representation theory and this tool https://replab.github.io/replab/ (see [details](#Denis-Rosset)).
-
-| Segment    | Speaker       | Topic | Minutes Allocated | Minutes Spent |
-| ---------- | ------------- | ----- | ----------------- | ------------- |
-| Lec 1; Tue, Oct 15 | Denis Rosset | Fundamentals of group and representation theory with hands-on examples | 120 |               |
-| Lec 2; Wed, Oct 16 | Denis Rosset | Applications to Semi-Definite Programming | 120 |               |
-
 
 
 #### Lecture Set 1 (Thursdays; Oct 3, ~~10~~, 24, 31; 2019) | Quantum Thermodynamics
 
 | Segment/Date | Speaker       | Topic | Minutes Allocated | Minutes Spent |
 | ---------- | ------------- | ----- | ----------------- | ------------- |
-| Lec 1; Sep 3 | Uttam Singh | [A resource theoretic perspective](https://youtu.be/ubjSoUAYuZI) (see [[1](https://www.nature.com/articles/ncomms3059)]) | 120 | 125 |
+| Lec 1; Sep 3 | Uttam Singh | A resource theoretic perspective (see [[1](https://www.nature.com/articles/ncomms3059)]) <sub><sup>[[video](https://youtu.be/ubjSoUAYuZI)]</sup></sub> | 120 | 125 |
 | ~~Lec 2; Oct 10~~ | ~~Uttam Singh~~ | ~~A resource theoretic perspective (continued)~~ | ~~120~~ |               |
 | Lec 2; Oct 24 | Uttam Singh | A resource theoretic perspective (continued) | 120 |               |
 | Lec 3; Oct  31 | Uttam Singh | TBA      | 120 |               |
@@ -104,6 +92,16 @@ The lectures will be about finite representation theory and this tool https://re
 
 
 ## Past
+
+#### Guest Lecture Set 1 (Tuesday, Oct 15 and Wednesday, Oct 16; 2019) | Finite Representation Theory
+
+The lectures will be about finite representation theory and this tool https://replab.github.io/replab/ (see [details](#Denis-Rosset)).
+
+| Segment    | Speaker       | Topic | Minutes Allocated | Minutes Spent |
+| ---------- | ------------- | ----- | ----------------- | ------------- |
+| Lec 1; Tue, Oct 15 | Denis Rosset | Fundamentals of group and representation theory with hands-on examples <sub><sup>[[video](https://youtu.be/EcSWXtMo9CY)]</sup></sub> <sub><sup>[[code](./resources/Tut1.zip)]</sup></sub> | 120 | <120 |
+| Lec 2; Wed, Oct 16 | Denis Rosset | Applications to Semi-Definite Programming <sub><sup>[[code](./resources/Tut2.zip)]</sup></sub> | 120 |               |
+
 
 #### Meet #9b (Thursday, Sep 26, 10:00–11:30 AM)
 
