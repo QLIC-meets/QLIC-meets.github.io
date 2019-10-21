@@ -3,8 +3,6 @@ Welcome to the QLIC-meets page. For further information about the meetings see t
 
 
 
-[TOC]
-
 
 ## Upcoming
 
