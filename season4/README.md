@@ -7,12 +7,12 @@ Welcome to the QLIC-meets page. For further information about the meetings see t
 
 #### Lecture Set 1 (Thursdays; Oct 3, ~~10~~, 24, 31; 2019) | Quantum Thermodynamics
 
-| Segment/Date | Speaker       | Topic | Minutes Allocated | Minutes Spent |
-| ---------- | ------------- | ----- | ----------------- | ------------- |
-| Lec 1; Sep 3 | Uttam Singh | A resource theoretic perspective (see [[1](https://www.nature.com/articles/ncomms3059)]) <sub><sup>[[video](https://youtu.be/ubjSoUAYuZI)]</sup></sub> | 120 | 125 |
-| ~~Lec 2; Oct 10~~ | ~~Uttam Singh~~ | ~~A resource theoretic perspective (continued)~~ | ~~120~~ |               |
-| Lec 2; Oct 24 | Uttam Singh | A resource theoretic perspective (continued) | 120 |               |
-| Lec 3; Oct  31 | Uttam Singh | TBA      | 120 |               |
+| Segment/Date | Slot | Speaker       | Topic | Minutes Allocated | Minutes Spent |
+| ---------- | ------------- | ----- | ----------------- | ------------- | ------------- |
+| Lec 1; Sep 3 | 11 AM – 1PM | Uttam Singh | A resource theoretic perspective (see [[1](https://www.nature.com/articles/ncomms3059)]) <sub><sup>[[video](https://youtu.be/ubjSoUAYuZI)]</sup></sub> | 120 | 125 |
+| ~~Lec 2; Oct 10~~ |  | ~~Uttam Singh~~ | ~~A resource theoretic perspective (continued)~~ | ~~120~~ |               |
+| Lec 2; Oct 24 | 2:30 PM – 4:30 PM | Uttam Singh | A resource theoretic perspective (continued) | 120 |               |
+| Lec 3; Oct  31 |  | Uttam Singh | TBA      | 120 |               |
 
 
 
