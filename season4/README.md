@@ -34,7 +34,7 @@ The lectures will be about finite representation theory and this tool https://re
 | Segment    | Speaker       | Topic | Minutes Allocated | Minutes Spent |
 | ---------- | ------------- | ----- | ----------------- | ------------- |
 | Lec 1; Tue, Oct 15 | Denis Rosset | Fundamentals of group and representation theory with hands-on examples <sub><sup>[[video](https://youtu.be/EcSWXtMo9CY)]</sup></sub> <sub><sup>[[code](./resources/Tut1.zip)]</sup></sub> | 120 | <120 |
-| Lec 2; Wed, Oct 16 | Denis Rosset | Applications to Semi-Definite Programming <sub><sup>[[code](./resources/Tut2.zip)]</sup></sub> | 120 |               |
+| Lec 2; Wed, Oct 16 | Denis Rosset | Applications to Semi-Definite Programming <sub><sup>[[video](https://youtu.be/68zjRRXM6y4)]</sup></sub> <sub><sup>[[code](./resources/Tut2.zip)]</sup></sub> | 120 |               |
 
 
 #### Meet #9b (Thursday, Sep 26, 10:00–11:30 AM)
