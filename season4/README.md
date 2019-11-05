@@ -6,26 +6,37 @@ Welcome to the QLIC-meets page. For further information about the meetings see t
 
 ## Upcoming
 
+#### Meet #11 (Thursday, Nov 7, 2019)
+
+| Segment | Speaker                    | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | -------------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Emmanuel Zambrini Cruzeiro | Informationally restricted quantum correlations (see [abstract](#Emmanuel-Zambrini-Cruzeiro)) | 45+10             |               |
+| Update  | Nicolas Cerf (tentative)   | Resource theory of local Gaussian work extraction for multimode bosonic systems | 15                |               |
+
+#### Lecture Set 2 (Thursdays; Nov 21, *28*, Dec 5, 12; 2019) | Convex Optimization
+
+From the basics of convex optimization to its application and the NPA hierarchy. See [details](#Stefano-Pironio).
+
+| Segment/Date | Slot | Speaker       | Topic (tentative) | Minutes Allocated | Minutes Spent |
+| ---------- | ------------- | ----- | ----------------- | ------------- | ------------- |
+| Lec 1; Nov 21 | 11:00 AM – 1:00 PM | Stefano Pironio | Linear Programming | 120 |               |
+| Lec 2; Nov 28 | 10:00 AM – 12:00 PM | Stefano Pironio | Conic Optimization (encompasses semi-definite programming) | 120 |               |
+| Lec 3; Dec 5 | 11:00 AM – 1:00 PM | Stefano Pironio | NPA Primal Formulation | 120 |               |
+| Lec 4; Dec 12 | 11:00 AM – 1:00 PM | Stefano Pironio | NPA Dual Formulation | 120 | |
+
+
+
+## Past
 
 #### Lecture Set 1 (Thursdays; Oct 3, ~~10~~, 24, 31; 2019) | Quantum Thermodynamics
 
 | Segment/Date | Slot | Speaker       | Topic | Minutes Allocated | Minutes Spent |
 | ---------- | ------------- | ----- | ----------------- | ------------- | ------------- |
 | Lec 1; Sep 3 | 11:00 AM – 1:00 PM | Uttam Singh | A resource theoretic perspective (see [[1](https://www.nature.com/articles/ncomms3059)]) <sub><sup>[[video](https://youtu.be/ubjSoUAYuZI)]</sup></sub> <sub><sup>[[notes](./resources/quThermoLec1.pdf)]</sup></sub> | 120 | 125 |
-| ~~Lec 2; Oct 10~~ |  | ~~Uttam Singh~~ | ~~A resource theoretic perspective (continued)~~ | ~~120~~ |               |
-| Lec 2; Oct 24 | 2:30 PM – 4:30 PM | Uttam Singh | A resource theoretic perspective (continued) <sub><sup>[[video](https://youtu.be/iJ5Q5gHoFow)]</sup></sub> | 120 |               |
-| Lec 3; Oct  31 |  | Uttam Singh | TBA      | 120 |               |
+| ~~Lec 2; Oct 10~~ |  | ~~Uttam Singh~~ | ~~A resource theoretic perspective (continued)~~ | ~~120~~ |  |
+| Lec 2; Oct 24 | 2:30 PM – 4:30 PM | Uttam Singh | A resource theoretic perspective (continued) <sub><sup>[[video](https://youtu.be/iJ5Q5gHoFow)]</sup></sub> | 120 | 120 |
+| Lec 3; Oct  31 | 11:00 AM – 1:00 PM | Uttam Singh | Applications to various thermodynamic process <sub><sub>[coming_soon]</sub></sub> | 120 |    120           |
 
-
-#### Meet #11 (Tentative | Thursday, November 7)
-
-| Segment | Speaker                    | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | -------------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Emmanuel Zambrini Cruzeiro | Informationally restricted quantum correlations (see [abstract](#Emmanuel-Zambrini-Cruzeiro)) | 45+10             |               |
-| Update  | Nicolas Cerf               | Resource theory of local Gaussian work extraction for multimode bosonic systems | 15                |               |
-
-
-## Past
 
 #### Guest Lecture Set 1 (Tuesday, Oct 15 and Wednesday, Oct 16; 2019) | Finite Representation Theory
 
@@ -63,6 +74,17 @@ The lectures will be about finite representation theory and this tool https://re
 
 
 ## Lecture Series | Details
+
+
+
+#### Stefano-Pironio
+
+Convex optimization problems are a class of optimization problems for which there exist efficient numerical solvers and which possess a rich theoretical structure. In particular, semidefinite programming, a 
+subfield of a convex optimization, has found many applications in quantum information.
+
+In this series of lectures, I will introduce the basics of convex optimization and its duality theory. The starting point will be linear programming, which is one of the simplest example of convex optimization. I will then move from linear programming to conic optimization, which encompasses semidefinite programming (and actually any convex optimization problem). Finally, I will explain how commutative and non-commutative polynomial optimization problems can be solved through a hierarchy of semidefinite programming relaxations.
+
+
 
 #### Denis Rosset
 
@@ -167,17 +189,6 @@ In quantum mechanics performing a measurement is an invasive process which gener
 
 
 ## In the Pipeline
-
-
-
-#### Lecture Set 2 (Thursdays; November 14(x), 21, 28(x); 2019) | Convex Optimization
-
-| Segment    | Speaker       | Topic | Minutes Allocated | Minutes Spent |
-| ---------- | ------------- | ----- | ----------------- | ------------- |
-| Lec 1 | Stefano Pironio | Introduction | 120 |               |
-| Lec 2 | Stefano Pironio | TBA      | 120 |               |
-| Lec 3 | Stefano Pironio | TBA      | 120 |               |
-| Lec 4 | Stefano Pironio | TBA | 120 | |
 
 
 
