@@ -6,12 +6,12 @@ Welcome to the QLIC-meets page. For further information about the meetings see t
 
 ## Upcoming
 
-#### Meet #11 (Thursday, Nov 7, 2019)
+#### Meet #11 (Thursday, Nov 7, 2019; 11:30 AM to 1:00 PM)
 
 | Segment | Speaker                    | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | -------------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
 | Talk    | Emmanuel Zambrini Cruzeiro | Informationally restricted quantum correlations (see [abstract](#Emmanuel-Zambrini-Cruzeiro)) | 45+10             |               |
-| Update  | Nicolas Cerf (tentative)   | Resource theory of local Gaussian work extraction for multimode bosonic systems | 15                |               |
+| Update  | Nicolas Cerf               | Resource theory of local Gaussian work extraction for multimode bosonic systems | 15                |               |
 
 #### Lecture Set 2 (Thursdays; Nov 21, *28*, Dec 5, 12; 2019) | Convex Optimization
 
