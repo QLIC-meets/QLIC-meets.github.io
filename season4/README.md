@@ -15,14 +15,14 @@ Welcome to the QLIC-meets page. For further information about the meetings see t
 
 #### Lecture Set 2 (Thursdays; Nov 21, *28*, Dec 5, 12; 2019) | Convex Optimization
 
-From the basics of convex optimization to its application and the NPA hierarchy. See [details](#Stefano-Pironio).
+Basics of convex optimization and its duality theory, including (time permitting) certain applications such as polynomial optimization and sum-of-squares decompositions. See [details](#Stefano-Pironio).
 
-| Segment/Date | Slot | Speaker       | Topic (tentative) | Minutes Allocated | Minutes Spent |
-| ---------- | ------------- | ----- | ----------------- | ------------- | ------------- |
-| Lec 1; Nov 21 | 11:00 AM – 1:00 PM | Stefano Pironio | Linear Programming | 120 |               |
-| Lec 2; Nov 28 | 10:00 AM – 12:00 PM | Stefano Pironio | Conic Optimization (encompasses semi-definite programming) | 120 |               |
-| Lec 3; Dec 5 | 11:00 AM – 1:00 PM | Stefano Pironio | NPA Primal Formulation | 120 |               |
-| Lec 4; Dec 12 | 11:00 AM – 1:00 PM | Stefano Pironio | NPA Dual Formulation | 120 | |
+| Segment/Date | Slot | Speaker       | Minutes Allocated | Minutes Spent |
+| ---------- | ------------- | ----- | ------------- | ------------- |
+| Lec 1; Nov 21 | 11:00 AM – 1:00 PM | Stefano Pironio | 120 |               |
+| Lec 2; Nov 28 | 10:00 AM – 12:00 PM | Stefano Pironio | 120 |               |
+| Lec 3; Dec 5 | 11:00 AM – 1:00 PM | Stefano Pironio | 120 |               |
+| Lec 4; Dec 12 | 11:00 AM – 1:00 PM | Stefano Pironio | 120 | |
 
 
 
