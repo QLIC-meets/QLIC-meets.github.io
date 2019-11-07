@@ -37,7 +37,7 @@ Basics of convex optimization and its duality theory, including (time permitting
 | Lec 1; Sep 3 | 11:00 AM – 1:00 PM | Uttam Singh | A resource theoretic perspective (see [[1](https://www.nature.com/articles/ncomms3059)]) <sub><sup>[[video](https://youtu.be/ubjSoUAYuZI)]</sup></sub> <sub><sup>[[notes](./resources/quThermoLec1.pdf)]</sup></sub> | 120 | 125 |
 | ~~Lec 2; Oct 10~~ |  | ~~Uttam Singh~~ | ~~A resource theoretic perspective (continued)~~ | ~~120~~ |  |
 | Lec 2; Oct 24 | 2:30 PM – 4:30 PM | Uttam Singh | A resource theoretic perspective (continued) <sub><sup>[[video](https://youtu.be/iJ5Q5gHoFow)]</sup></sub> | 120 | 120 |
-| Lec 3; Oct  31 | 11:00 AM – 1:00 PM | Uttam Singh | Application to work <sub><sub>[[video](https://youtu.be/gL_3mUzvOSY)]</sub></sub> <sub><sub>[[video_betterAudio](https://youtu.be/y82vnXvdDu0)]</sub></sub> | 120 |    120           |
+| Lec 3; Oct  31 | 11:00 AM – 1:00 PM | Uttam Singh | Application to work <sub><sub>[[video](https://youtu.be/y82vnXvdDu0)]</sub></sub> | 120 |    120           |
 
 
 #### Guest Lecture Set 1 (Tuesday, Oct 15 and Wednesday, Oct 16; 2019) | Finite Representation Theory
