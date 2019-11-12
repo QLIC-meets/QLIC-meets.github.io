@@ -36,8 +36,8 @@ Basics of convex optimization and its duality theory, including (time permitting
 
 | Segment | Speaker                    | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | -------------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Emmanuel Zambrini Cruzeiro | Informationally restricted quantum correlations (see [abstract](#Emmanuel-Zambrini-Cruzeiro)) | 45+10             | 65            |
-| Update  | Nicolas Cerf               | Resource theory of local Gaussian work extraction for multimode bosonic systems | 15                | 30            |
+| Talk    | Emmanuel Zambrini Cruzeiro | Informationally restricted quantum correlations (see [abstract](#Emmanuel-Zambrini-Cruzeiro))  <sub><sup>[[video](https://youtu.be/NlZrD86PPJo)]</sup></sub> | 45+10             | 65            |
+| Update  | Nicolas Cerf               | Resource theory of local Gaussian work extraction for multimode bosonic systems <sub><sup>[[video](https://youtu.be/GYfMSGOT3k4)]</sup></sub> | 15                | 30            |
 
 #### Lecture Set 1 (Thursdays; Oct 3, ~~10~~, 24, 31; 2019) | Quantum Thermodynamics
 
