@@ -13,7 +13,7 @@ Basics of convex optimization and its duality theory, including (time permitting
 | Segment/Date | Slot | Speaker       | Minutes Allocated | Minutes Spent |
 | ---------- | ------------- | ----- | ------------- | ------------- |
 | Lec 1; Nov 21 | 11:00 AM – 1:00 PM | Stefano Pironio | 120 |               |
-| Lec 2; Nov 28 | 10:00 AM – 12:00 PM | Stefano Pironio | 120 |               |
+| Lec 2; Nov 28 | *10:00 AM – 12:00 PM* | Stefano Pironio | 120 |               |
 | Lec 3; Dec 5 | 11:00 AM – 1:00 PM | Stefano Pironio | 120 |               |
 | Lec 4; Dec 12 | 11:00 AM – 1:00 PM | Stefano Pironio | 120 | |
 
