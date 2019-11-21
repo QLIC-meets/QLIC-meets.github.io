@@ -12,7 +12,7 @@ Basics of convex optimization and its duality theory, including (time permitting
 
 | Segment/Date | Slot | Speaker       | Minutes Allocated | Minutes Spent |
 | ---------- | ------------- | ----- | ------------- | ------------- |
-| Lec 1; Nov 21 | 11:00 AM – 1:00 PM | Stefano Pironio | 120 |               |
+| Lec 1; Nov 21 | 11:00 AM – 1:00 PM | Stefano Pironio | 120 | 120 |
 | Lec 2; Nov 28 | *10:00 AM – 12:00 PM* | Stefano Pironio | 120 |               |
 | Lec 3; Dec 5 | 11:00 AM – 1:00 PM | Stefano Pironio | 120 |               |
 | Lec 4; Dec 12 | 11:00 AM – 1:00 PM | Stefano Pironio | 120 | |
@@ -154,7 +154,7 @@ References
 
 ## Abstracts
 
-#### Emmanuel-Zambrini-Cruzeiro
+#### Emmanuel Zambrini Cruzeiro
 
 ##### Informationally restricted quantum correlations
 
@@ -210,7 +210,7 @@ In quantum mechanics performing a measurement is an invasive process which gener
 
 
 
-#### Lecture Set 3 (Thursdays; Dec/Jan; 2019)
+#### Lecture Set 3 (Thursdays; Jan; 2019)
 
 | Segment    | Speaker       | Topic | Minutes Allocated | Minutes Spent |
 | ---------- | ------------- | ----- | ----------------- | ------------- |
@@ -220,22 +220,33 @@ In quantum mechanics performing a measurement is an invasive process which gener
 
 
 
-#### Lecture Set 4 (Fridays; March; 2019)
+#### Lecture Set 4 (Thursdays; Feb; 2019)
 
 | Segment    | Speaker       | Topic | Minutes Allocated | Minutes Spent |
 | ---------- | ------------- | ----- | ----------------- | ------------- |
-| Lec 1 | Chrysoula Vlachou | Non-locality, Entanglement and Device Independence      |                   |               |
+| Lecture 1 | Emmanuel Zambrini Cruzeiro | Bell non-locality \| Self testing and device independent |                   |               |
+| Lecture 2 | Emmanuel Zambrini Cruzeiro | TBA      |                   |               |
+| Lecture 3 | Emmanuel Zambrini Cruzeiro | TBA      |                   |               |
+
+
+
+#### Lecture Set 5 (Thursday; March; 2019)
+
+| Segment    | Speaker       | Topic | Minutes Allocated | Minutes Spent |
+| ---------- | ------------- | ----- | ----------------- | ------------- |
+| Lec 1 | Chrysoula Vlachou | Topological Systems |                   |               |
 | Lec 2 | Chrysoula Vlachou | TBA      |                   |               |
 | Lec 3 | Chrysoula Vlachou | TBA      |                   |               |
 
-#### Lecture Set 5 (Thursdays; Feb; 2019)
 
-| Segment    | Speaker       | Topic | Minutes Allocated | Minutes Spent |
-| ---------- | ------------- | ----- | ----------------- | ------------- |
-| Lecture 1 | Esteban Castro-Ruiz | QMA Completeness      |                   |               |
-| Lecture 2 | Esteban Castro-Ruiz | TBA      |                   |               |
-| Lecture 3 | Esteban Castro-Ruiz | TBA      |                   |               |
 
+#### Lecture Set 6 (Thursdays; ??; 2019)
+
+| Segment   | Speaker             | Topic            | Minutes Allocated | Minutes Spent |
+| --------- | ------------------- | ---------------- | ----------------- | ------------- |
+| Lecture 1 | Esteban Castro-Ruiz | QMA Completeness |                   |               |
+| Lecture 2 | Esteban Castro-Ruiz | TBA              |                   |               |
+| Lecture 3 | Esteban Castro-Ruiz | TBA              |                   |               |
 
 
 
