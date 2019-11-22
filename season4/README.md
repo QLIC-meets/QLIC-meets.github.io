@@ -12,19 +12,18 @@ Basics of convex optimization and its duality theory, including (time permitting
 
 | Segment/Date | Slot | Speaker       | Minutes Allocated | Minutes Spent |
 | ---------- | ------------- | ----- | ------------- | ------------- |
-| Lec 1; Nov 21 | 11:00 AM – 1:00 PM | Stefano Pironio | 120 | 120 |
+| Lec 1; Nov 21 | 11:00 AM – 1:00 PM | Stefano Pironio (See §1.1 and §1.2 of [Ben-Tal and Nemerovski](https://www2.isye.gatech.edu/~nemirovs/Lect_ModConvOpt.pdf)) | 120 | 120 |
 | Lec 2; Nov 28 | *10:00 AM – 12:00 PM* | Stefano Pironio | 120 |               |
 | Lec 3; Dec 5 | 11:00 AM – 1:00 PM | Stefano Pironio | 120 |               |
 | Lec 4; Dec 12 | 11:00 AM – 1:00 PM | Stefano Pironio | 120 | |
 
 
 
-#### Seminar #11 (Friday, Nov 29, 2019; 10:00 to 11:00 AM)
+#### Seminar #11 (Friday, Nov 29, 2019; 11:30 to 12:30 AM)
 
-| Segment | Speaker | Topic | Minutes Allocated | Minutes Spent |
-| ------- | ------- | ----- | ----------------- | ------------- |
-|         |         |       |                   |               |
-|         |         |       |                   |               |
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Stefan Bäuml | Every entangled state provides an advantage in classical communication (see [abstract](#Stefan-Bäuml)) | 45+10             |               |
 
 
 
@@ -153,6 +152,16 @@ References
 
 
 ## Abstracts
+
+#### Stefan Bäuml
+
+##### Every entangled state provides an advantage in classical communication
+
+We investigate the use of noisy entanglement as a resource in classical communication via a quantum channel. In particular, we are interested in the question whether for any entangled state, including bound entangled states, there exists a quantum channel, the classical capacity of which can be increased by providing the state as an additional resource. We partially answer this question by showing, for any entangled state, the existence of a quantum memory channel, the feedback-assisted classical capacity with product encodings of which can be increased by using the state as a resource. Using a different (memoryless) channel construction, we also provide a sufficient entropic condition for an advantage in classical communication (without feedback and for general encodings) and thus provide an example of a state that is not distillable by means of one-way local operations and classical communication but can provide an advantage in the classical capacity of a number of quantum channels. As separable states cannot provide an advantage in classical communication, our condition also provides an entropic entanglement witness.
+
+(reference  JMP 60, 072201 (2019))
+
+
 
 #### Emmanuel Zambrini Cruzeiro
 
