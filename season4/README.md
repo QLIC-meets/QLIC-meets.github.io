@@ -19,7 +19,7 @@ Basics of convex optimization and its duality theory, including (time permitting
 
 
 
-#### Seminar (Friday, Nov 29, 2019; 11:30 to 12:30 AM)
+#### Seminar (Friday, Nov 29, 2019; 11:30 AM to 12:30 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
