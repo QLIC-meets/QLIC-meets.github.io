@@ -19,15 +19,21 @@ Basics of convex optimization and its duality theory, including (time permitting
 
 
 
-#### Seminar (Friday, Nov 29, 2019; 11:30 AM to 12:30 PM)
+#### Seminar (Monday, Dec 9, 2019; 11:30 AM to 12:30 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Stefan Bäuml | Every entangled state provides an advantage in classical communication (see [abstract](#Stefan-Bäuml)) | 45+10             |               |
+| Talk    | Simon Apers <sub>INRIA Paris and CWI Amsterdam</sub> | Quantum Speedup for Graph Sparsification, Cut Approximation and Laplacian Solving (see [abstract](#Simon-Apers) | 45+10             | 40            |
 
 
 
 ## Past
+
+#### Seminar (Friday, Nov 29, 2019; 11:30 AM to 12:30 PM)
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Stefan Bäuml | Every entangled state provides an advantage in classical communication (see [abstract](#Stefan-Bäuml)) | 45+10             | 40            |
 
 #### Meet #11 (Thursday, Nov 7, 2019; 11:30 AM to 1:00 PM)
 
@@ -152,6 +158,15 @@ References
 
 
 ## Abstracts
+
+#### Simon Apers
+
+##### Quantum Speedup for Graph Sparsification, Cut Approximation and Laplacian Solving
+
+Graph sparsification underlies a large number of algorithms, ranging from approximation algorithms for cut problems to solvers for linear systems in the graph Laplacian. In its strongest form, "spectral sparsification" reduces the number of edges to near-linear in the number of nodes, while approximately preserving the cut and spectral structure of the graph. In this work we show that quantum algorithms allow to polynomially speed up spectral sparsification, and thereby many of the derived algorithms. The algorithm builds on a string of existing results, most notably sparsification algorithms by Spielman and Srivastava (STOC’08) and Koutis and Xu (TOPC’16), a spanner construction by Thorup and Zwick (STOC’01), the single-source shortest-paths quantum algorithm by Dürr et al. (ICALP’04) and an efficient k-wise independent hash construction by Christiani, Pagh and Thorup (STOC’15). Combining our sparsification algorithm with existing classical algorithms yields quantum speedups for approximating the max cut, min cut, min st-cut, sparsest cut and balanced separator of a graph. Combining our algorithm with a classical Laplacian solver, we demonstrate speedups for Laplacian solving, for approximating effective resistances, cover times, eigenvalues and eigenvectors of the Laplacian, and for spectral clustering.
+
+This is joint work with Ronald de Wolf.
+
 
 #### Stefan Bäuml
 
