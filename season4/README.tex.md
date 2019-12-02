@@ -21,9 +21,9 @@ Basics of convex optimization and its duality theory, including (time permitting
 
 #### Seminar (Monday, Dec 9, 2019; 11:30 AM to 12:30 PM)
 
-| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Simon Apers <sub>INRIA Paris and CWI Amsterdam</sub> | Quantum Speedup for Graph Sparsification, Cut Approximation and Laplacian Solving (see [abstract](#Simon-Apers) | 45+10             | 40            |
+| Segment | Speaker                                              | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ---------------------------------------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Simon Apers <sub>INRIA Paris and CWI Amsterdam</sub> | Quantum Speedup for Graph Sparsification, Cut Approximation and Laplacian Solving (see [abstract](#Simon-Apers)) | 45+10             | 40            |
 
 
 
