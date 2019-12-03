@@ -33,7 +33,7 @@ Basics of convex optimization and its duality theory, including (time permitting
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Stefan Bäuml | Every entangled state provides an advantage in classical communication (see [abstract](#Stefan-Bäuml)) | 45+10             | 40            |
+| Talk    | Stefan Bäuml | Every entangled state provides an advantage in classical communication (see [abstract](#Stefan-Bäuml)) <sub><sup>[[video](https://youtu.be/qfw9Qk3nlx0)]</sup></sub> aue | 45+10             | 40            |
 
 #### Meet #11 (Thursday, Nov 7, 2019; 11:30 AM to 1:00 PM)
 
