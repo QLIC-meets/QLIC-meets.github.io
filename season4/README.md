@@ -6,18 +6,6 @@ Welcome to the QLIC-meets page. For further information about the meetings see t
 
 
 
-#### Lecture Set 2 (Thursdays; Nov 21, *28*, Dec 5, 12; 2019) | Convex Optimization
-
-Basics of convex optimization and its duality theory, including (time permitting) certain applications such as polynomial optimization and sum-of-squares decompositions. See [details](#Stefano-Pironio).
-
-| Segment/Date | Slot | Speaker       | Minutes Allocated | Minutes Spent |
-| ---------- | ------------- | ----- | ------------- | ------------- |
-| Lec 1; Nov 21 | 11:00 AM – 1:00 PM | Stefano Pironio (LP, theorem of alternatives, Duality; See §1.1 and §1.2 of [Ben-Tal and Nemerovski](https://www2.isye.gatech.edu/~nemirovs/Lect_ModConvOpt.pdf)) <sub><sup>[[video](https://youtu.be/Hb8TUIcsIsc)]</sup></sub> | 120 | 120 |
-| Lec 2; Nov 28 | *10:00 AM – 12:00 PM* | Stefano Pironio (Generalisation to conic optimization) <sub><sup>[[video](https://youtu.be/sGVI2BE4H5Q)]</sup></sub> | 120 | 110 |
-| Lec 3; Dec 5 | 11:00 AM – 1:00 PM | Stefano Pironio | 120 |               |
-| Lec 4; Dec 12 | 11:00 AM – 1:00 PM | Stefano Pironio | 120 | |
-
-
 
 #### Seminar (Monday, Dec 9, 2019; 11:30 AM to 12:30 PM)
 
@@ -27,7 +15,26 @@ Basics of convex optimization and its duality theory, including (time permitting
 
 
 
+#### Seminar (Thursday, Dec 9, 2019; 12:00 PM to 1:00 PM)
+
+| Segment | Speaker                          | Topic | Minutes Allocated | Minutes Spent |
+| ------- | -------------------------------- | ----- | ----------------- | ------------- |
+| Talk    | Armin Tavakoli <sub>Geneva</sub> |       | 45+10             |               |
+
+
+
+
 ## Past
+
+#### Lecture Set 2 (Thursdays; Nov 21, *28*, Dec 5, 12; 2019) | Convex Optimization
+
+Basics of convex optimization and its duality theory, including (time permitting) certain applications such as polynomial optimization and sum-of-squares decompositions. See [details](#Stefano-Pironio).
+
+| Segment/Date | Slot | Speaker       | Minutes Allocated | Minutes Spent |
+| ---------- | ------------- | ----- | ------------- | ------------- |
+| Lec 1; Nov 21 | 11:00 AM – 1:00 PM | Stefano Pironio (LP, theorem of alternatives, Duality; See §1.1 and §1.2 of [Ben-Tal and Nemerovski](https://www2.isye.gatech.edu/~nemirovs/Lect_ModConvOpt.pdf)) <sub><sup>[[video](https://youtu.be/Hb8TUIcsIsc)]</sup></sub> | 120 | 120 |
+| Lec 2; Nov 28 | *10:00 AM – 12:00 PM* | Stefano Pironio (Generalisation to conic optimization) <sub><sup>[[video](https://youtu.be/sGVI2BE4H5Q)]</sup></sub> | 120 | 110 |
+| Lec 3; Dec 5 | 11:00 AM – 1:00 PM | Stefano Pironio (Application to Sum of Squares and the NPA hierarchy) | 120 | 140 |
 
 #### Seminar (Friday, Nov 29, 2019; 11:30 AM to 12:30 PM)
 
