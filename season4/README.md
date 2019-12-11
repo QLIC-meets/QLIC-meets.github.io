@@ -19,7 +19,7 @@ Welcome to the QLIC-meets page. For further information about the meetings see t
 
 | Segment | Speaker                                              | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ---------------------------------------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Simon Apers <sub>INRIA Paris and CWI Amsterdam</sub> | Quantum Speedup for Graph Sparsification, Cut Approximation and Laplacian Solving (see [abstract](#Simon-Apers)) <sub><sup>[[video](https://youtu.be/UccDn-67TGE)]</sup></sub>  | 45+10             | 40            |
+| Talk    | Simon Apers <sub>INRIA Paris and CWI Amsterdam</sub> | Quantum Speedup for Graph Sparsification, Cut Approximation and Laplacian Solving (see [abstract](#Simon-Apers)) <sub><sup>[[video](https://youtu.be/UccDn-67TGE)]</sup></sub>  | 45+10             | 60            |
 
 #### Lecture Set 2 (Thursdays; Nov 21, *28*, Dec 5; 2019) | Convex Optimization
 
