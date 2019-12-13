@@ -2,7 +2,10 @@
 Welcome to the QLIC-meets page. For further information about the meetings see the [About](#About) section. To access future videos of our QLIC events, please add your Google email to [this spreadsheet](https://docs.google.com/spreadsheets/d/1_8xdH3ih4KBwd91U2FQ1GKMV2C-C8y-pgjTPMlqSnSI/edit?usp=sharing). To access existing videos, use this account—ghost.qlic.ulb@gmail.com—the password to which can be requested by email (atul.singh.arora@ulb.ac.be).
 
 
-## Upcoming
+
+## Past
+
+
 
 #### Seminar (Thursday, Dec 12, 2019; 12:00 PM to 1:00 PM)
 
@@ -11,15 +14,11 @@ Welcome to the QLIC-meets page. For further information about the meetings see t
 | Talk    | Armin Tavakoli <sub>Geneva</sub> | Mutually unbiased bases and symmetric informationally complete measurements in bell experiments: bell inequalities, device independent certification and applications | 45+10             |               |
 
 
-
-
-## Past
-
 #### Seminar (Monday, Dec 9, 2019; 11:30 AM to 12:30 PM)
 
 | Segment | Speaker                                              | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ---------------------------------------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Simon Apers <sub>INRIA Paris and CWI Amsterdam</sub> | Quantum Speedup for Graph Sparsification, Cut Approximation and Laplacian Solving (see [abstract](#Simon-Apers)) <sub><sup>[[video](https://youtu.be/UccDn-67TGE)]</sup></sub>  | 45+10             | 60            |
+| Talk    | Simon Apers <sub>INRIA Paris and CWI Amsterdam</sub> | Quantum Speedup for Graph Sparsification, Cut Approximation and Laplacian Solving (see [abstract](#Simon-Apers)) <sub><sup>[[video](https://youtu.be/UccDn-67TGE)]</sup></sub>  | 45+10             | 40            |
 
 #### Lecture Set 2 (Thursdays; Nov 21, *28*, Dec 5; 2019) | Convex Optimization
 
