@@ -11,7 +11,7 @@ Welcome to the QLIC-meets page. For further information about the meetings see t
 
 | Segment | Speaker                          | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | -------------------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Armin Tavakoli <sub>Geneva</sub> | Mutually unbiased bases and symmetric informationally complete measurements in bell experiments: bell inequalities, device independent certification and applications <sub><sup>[[video](<sub><sup>[[video](https://youtu.be/UccDn-67TGE)]</sup></sub>)]</sup></sub> | 45+10             | 50            |
+| Talk    | Armin Tavakoli <sub>Geneva</sub> | Mutually unbiased bases and symmetric informationally complete measurements in bell experiments: bell inequalities, device independent certification and applications <sub><sup>[[video](https://youtu.be/FXZuPkFbdfs)]</sup></sub> | 45+10             | 50            |
 
 
 #### Seminar (Monday, Dec 9, 2019; 11:30 AM to 12:30 PM)
