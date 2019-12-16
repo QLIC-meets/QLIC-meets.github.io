@@ -11,14 +11,14 @@ Welcome to the QLIC-meets page. For further information about the meetings see t
 
 | Segment | Speaker                          | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | -------------------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Armin Tavakoli <sub>Geneva</sub> | Mutually unbiased bases and symmetric informationally complete measurements in bell experiments: bell inequalities, device independent certification and applications | 45+10             |               |
+| Talk    | Armin Tavakoli <sub>Geneva</sub> | Mutually unbiased bases and symmetric informationally complete measurements in bell experiments: bell inequalities, device independent certification and applications <sub><sup>[[video](<sub><sup>[[video](https://youtu.be/UccDn-67TGE)]</sup></sub>)]</sup></sub> | 45+10             | 50            |
 
 
 #### Seminar (Monday, Dec 9, 2019; 11:30 AM to 12:30 PM)
 
 | Segment | Speaker                                              | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ---------------------------------------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Simon Apers <sub>INRIA Paris and CWI Amsterdam</sub> | Quantum Speedup for Graph Sparsification, Cut Approximation and Laplacian Solving (see [abstract](#Simon-Apers)) <sub><sup>[[video](https://youtu.be/UccDn-67TGE)]</sup></sub>  | 45+10             | 40            |
+| Talk    | Simon Apers <sub>INRIA Paris and CWI Amsterdam</sub> | Quantum Speedup for Graph Sparsification, Cut Approximation and Laplacian Solving (see [abstract](#Simon-Apers)) <sub><sup>[[video](https://youtu.be/UccDn-67TGE)]</sup></sub> | 45+10             | 60            |
 
 #### Lecture Set 2 (Thursdays; Nov 21, *28*, Dec 5; 2019) | Convex Optimization
 
