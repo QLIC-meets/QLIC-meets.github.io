@@ -223,68 +223,6 @@ In quantum mechanics performing a measurement is an invasive process which gener
 (see [arXiv:1906.00448](https://arxiv.org/abs/1906.00448))
 
 
-
-## In the Pipeline
-
-
-
-#### QLIC-meet #12a | (Thursday; Dec 19; 2019)
-
-| Segment | Speaker      | Topic                                                      | Minutes Allocated | Minutes Spent |
-| ------- | ------------ | ---------------------------------------------------------- | ----------------- | ------------- |
-| Talk    | Nicolas Cerf | Connection: Rényi entropy, min-entropy and Shannon entropy |                   |               |
-| Update  | «open»       |                                                            |                   |               |
-
-
-
-#### Lecture Set 3 (Thursdays; Jan; 2019)
-
-| Segment    | Speaker       | Topic | Minutes Allocated | Minutes Spent |
-| ---------- | ------------- | ----- | ----------------- | ------------- |
-| Lec 1 | Leonardo Novo | QMA Completeness      |                   |               |
-| Lec 2 | Leonardo Novo | TBA      |                   |               |
-| Lec 3 | Leonardo Novo | TBA      |                   |               |
-
-
-
-#### Lecture Set 4 (Thursdays; Feb; 2019)
-
-| Segment    | Speaker       | Topic | Minutes Allocated | Minutes Spent |
-| ---------- | ------------- | ----- | ----------------- | ------------- |
-| Lecture 1 | Emmanuel Zambrini Cruzeiro | Bell non-locality \| Self testing and device independent |                   |               |
-| Lecture 2 | Emmanuel Zambrini Cruzeiro | TBA      |                   |               |
-| Lecture 3 | Emmanuel Zambrini Cruzeiro | TBA      |                   |               |
-
-
-
-#### Lecture Set 5 (Thursday; March; 2019)
-
-| Segment    | Speaker       | Topic | Minutes Allocated | Minutes Spent |
-| ---------- | ------------- | ----- | ----------------- | ------------- |
-| Lec 1 | Chrysoula Vlachou | Topological Systems |                   |               |
-| Lec 2 | Chrysoula Vlachou | TBA      |                   |               |
-| Lec 3 | Chrysoula Vlachou | TBA      |                   |               |
-
-
-
-#### Lecture Set 6 (Thursdays; ??; 2019)
-
-| Segment   | Speaker             | Topic            | Minutes Allocated | Minutes Spent |
-| --------- | ------------------- | ---------------- | ----------------- | ------------- |
-| Lecture 1 | Esteban Castro-Ruiz | QMA Completeness |                   |               |
-| Lecture 2 | Esteban Castro-Ruiz | TBA              |                   |               |
-| Lecture 3 | Esteban Castro-Ruiz | TBA              |                   |               |
-
-
-
-#### Seminar (TBA)
-
-| Segment | Speaker | Topic | Minutes Allocated | Minutes Spent |
-| ------- | ------- | ----- | ----------------- | ------------- |
-| Seminar |         |       |                   |               |
-
-
-
 #### QLIC-meet
 
 [Uncertified Random List Generator](https://mybinder.org/v2/gh/QuIC-meets/QuIC-meets.github.io/master?filepath=season2/lineUp/lineUp.ipynb)
