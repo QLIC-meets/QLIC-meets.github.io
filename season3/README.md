@@ -1,6 +1,8 @@
 # QLIC-meets | Season 3 (May–August)
 Welcome to the QLIC-meets page. 
 
+All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-meets.github.io/all.html).
+
 
 
 ## About

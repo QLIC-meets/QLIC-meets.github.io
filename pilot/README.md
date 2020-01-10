@@ -1,6 +1,8 @@
 # QuIC-meets | Pilot (Oct – Dec '18)
 Welcome to the QuIC-meets page. 
 
+All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-meets.github.io/all.html).
+
 
 
 ## About
