@@ -1,7 +1,7 @@
 # QuIC-meets | Season 2 (Jan–April)
 Welcome to the QuIC-meets page. 
 
-All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-meets.github.io/all.html).
+All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-meets.github.io/all).
 
 
 
