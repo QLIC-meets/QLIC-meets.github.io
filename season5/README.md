@@ -7,7 +7,7 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Upcoming
 
-#### Seminar (Thursday, Feb 4, 2019; 11:30 AM to 1:00 PM)
+#### Seminar (Thursday, Feb 4, 2020; 11:30 AM to 1:00 PM)
 
 | Segment | Speaker                                                      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------- | ------------- |
@@ -17,9 +17,7 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Lecture Series | Details
 
-
-
-#### TBA
+TBA
 
 
 
@@ -63,7 +61,7 @@ phenomenon of superadditivity of accessible information.
 
 
 
-#### Lecture Set 3 (Thursdays; Jan; 2019)
+#### Lecture Set 3 (Thursdays; Feb; 2020)
 
 | Segment    | Speaker       | Topic | Minutes Allocated | Minutes Spent |
 | ---------- | ------------- | ----- | ----------------- | ------------- |
@@ -73,7 +71,7 @@ phenomenon of superadditivity of accessible information.
 
 
 
-#### Lecture Set 4 (Thursdays; Feb; 2019)
+#### Lecture Set 4 (Thursdays; March; 2020)
 
 | Segment    | Speaker       | Topic | Minutes Allocated | Minutes Spent |
 | ---------- | ------------- | ----- | ----------------- | ------------- |
@@ -83,7 +81,7 @@ phenomenon of superadditivity of accessible information.
 
 
 
-#### Lecture Set 5 (Thursday; March; 2019)
+#### Lecture Set 5 (Thursday; April; 2020)
 
 | Segment    | Speaker       | Topic | Minutes Allocated | Minutes Spent |
 | ---------- | ------------- | ----- | ----------------- | ------------- |
@@ -93,7 +91,7 @@ phenomenon of superadditivity of accessible information.
 
 
 
-#### Lecture Set 6 (Thursdays; ??; 2019)
+#### Lecture Set 6 (Thursdays; May; 2020)
 
 | Segment   | Speaker             | Topic            | Minutes Allocated | Minutes Spent |
 | --------- | ------------------- | ---------------- | ----------------- | ------------- |
