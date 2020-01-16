@@ -7,7 +7,7 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Upcoming
 
-#### Seminar (Thursday, Feb 4, 2020; 11:30 AM to 1:00 PM)
+#### Seminar (Tuesday, Feb 4, 2020; 11:30 AM to 1:00 PM)
 
 | Segment | Speaker                                                      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------- | ------------- |
