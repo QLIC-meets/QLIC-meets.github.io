@@ -68,13 +68,13 @@ phenomenon of superadditivity of accessible information.
 | Lecture 2; <br />Feb 27 | Emmanuel Zambrini Cruzeiro | TBA      |                   |               |
 | Lecture 3; <br />March 12 | Emmanuel Zambrini Cruzeiro | TBA      |                   |               |
 
-#### Lecture Set 4 (Thursdays; March/April; 2020)
+#### Lecture Set 4 (Thursdays; April; 2020)
 
 | Segment/Date | Speaker       | Topic | Minutes Allocated | Minutes Spent |
 | ---------- | ------------- | ----- | ----------------- | ------------- |
-| Lecture 1;<br />March 19 | Leonardo Novo | QMA Completeness      |                   |               |
-| Lecture 2;<br />April 9 | Leonardo Novo | TBA      |                   |               |
-| Lecture 3;<br />April 16 | Leonardo Novo | TBA      |                   |               |
+| Lecture 1;<br />April 9 | Leonardo Novo | TBA    |                   |               |
+| Lecture 2;<br />April 16 | Leonardo Novo | TBA      |                   |               |
+| Lecture 3;<br />April 23 | Leonardo Novo | TBA      |                   |               |
 
 
 
@@ -91,11 +91,11 @@ phenomenon of superadditivity of accessible information.
 
 #### Lecture Set 6 (Thursdays; May; 2020)
 
-| Segment   | Speaker             | Topic            | Minutes Allocated | Minutes Spent |
-| --------- | ------------------- | ---------------- | ----------------- | ------------- |
-| Lecture 1 | Esteban Castro-Ruiz | QMA Completeness |                   |               |
-| Lecture 2 | Esteban Castro-Ruiz | TBA              |                   |               |
-| Lecture 3 | Esteban Castro-Ruiz | TBA              |                   |               |
+| Segment   | Speaker             | Topic                       | Minutes Allocated | Minutes Spent |
+| --------- | ------------------- | --------------------------- | ----------------- | ------------- |
+| Lecture 1 | Esteban Castro-Ruiz | Some fancy relativity stuff |                   |               |
+| Lecture 2 | Esteban Castro-Ruiz | TBA                         |                   |               |
+| Lecture 3 | Esteban Castro-Ruiz | TBA                         |                   |               |
 
 
 
