@@ -7,6 +7,15 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Upcoming
 
+#### QLIC-meet #1a | (Thursday; Jan 30; 2020)
+
+| Segment | Speaker           | Topic                                         | Minutes Allocated | Minutes Spent |
+| ------- | ----------------- | --------------------------------------------- | ----------------- | ------------- |
+| Talk    | Chrysoula Vlachou | Quantum Weak Coin Flipping, analytic solution | 45+10             |               |
+| Update  | «open»            |                                               |                   |               |
+
+
+
 #### Seminar (Tuesday, Feb 4, 2020; 11:30 AM to 1:00 PM)
 
 | Segment | Speaker                                                      | Topic                                                        | Minutes Allocated | Minutes Spent |
@@ -51,33 +60,22 @@ phenomenon of superadditivity of accessible information.
 ## In the Pipeline
 
 
+#### Lecture Set 3 (Thursdays; Feb/March; 2020)
 
-#### QLIC-meet #1a | (Thursday; Jan 30; 2020)
-
-| Segment | Speaker           | Topic                                         | Minutes Allocated | Minutes Spent |
-| ------- | ----------------- | --------------------------------------------- | ----------------- | ------------- |
-| Talk    | Chrysoula Vlachou | Quantum Weak Coin Flipping, analytic solution | 45+10             |               |
-| Update  | «open»            |                                               |                   |               |
-
-
-
-#### Lecture Set 3 (Thursdays; Feb; 2020)
-
-| Segment    | Speaker       | Topic | Minutes Allocated | Minutes Spent |
+| Segment/Date | Speaker       | Topic | Minutes Allocated | Minutes Spent |
 | ---------- | ------------- | ----- | ----------------- | ------------- |
-| Lec 1 | Leonardo Novo | QMA Completeness      |                   |               |
-| Lec 2 | Leonardo Novo | TBA      |                   |               |
-| Lec 3 | Leonardo Novo | TBA      |                   |               |
+| Lecture 1; <br />Feb 20 | Emmanuel Zambrini Cruzeiro | Bell non-locality \| Self testing and device independent |                   |               |
+| Lecture 2; <br />Feb 27 | Emmanuel Zambrini Cruzeiro | TBA      |                   |               |
+| Lecture 3; <br />March 12 | Emmanuel Zambrini Cruzeiro | TBA      |                   |               |
 
+#### Lecture Set 4 (Thursdays; March/April; 2020)
 
-
-#### Lecture Set 4 (Thursdays; March; 2020)
-
-| Segment    | Speaker       | Topic | Minutes Allocated | Minutes Spent |
+| Segment/Date | Speaker       | Topic | Minutes Allocated | Minutes Spent |
 | ---------- | ------------- | ----- | ----------------- | ------------- |
-| Lecture 1 | Emmanuel Zambrini Cruzeiro | Bell non-locality \| Self testing and device independent |                   |               |
-| Lecture 2 | Emmanuel Zambrini Cruzeiro | TBA      |                   |               |
-| Lecture 3 | Emmanuel Zambrini Cruzeiro | TBA      |                   |               |
+| Lecture 1;<br />March 19 | Leonardo Novo | QMA Completeness      |                   |               |
+| Lecture 2;<br />April 9 | Leonardo Novo | TBA      |                   |               |
+| Lecture 3;<br />April 16 | Leonardo Novo | TBA      |                   |               |
+
 
 
 
