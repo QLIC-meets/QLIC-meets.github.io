@@ -1,5 +1,5 @@
 # QLIC-meets | Season 5 (January–April 2020)
-Welcome to the QLIC-meets page. For further information about the meetings see the [About](#About) section. To access future videos of our QLIC events, please add your Google email to [this spreadsheet](https://docs.google.com/spreadsheets/d/1_8xdH3ih4KBwd91U2FQ1GKMV2C-C8y-pgjTPMlqSnSI/edit?usp=sharing). To access existing videos, use this account—ghost.qlic.ulb@gmail.com—the password to which can be requested by email (atul.singh.arora@ulb.ac.be).
+Welcome to the QLIC-meets page. For further information about the meetings see the [About](#About) section. To access future videos of our QLIC events, please add your Google email to [this spreadsheet](https://docs.google.com/spreadsheets/d/1_8xdH3ih4KBwd91U2FQ1GKMV2C-C8y-pgjTPMlqSnSI/edit?usp=sharing). To access existing videos, use this account—ghost.qlic.ulb@gmail.com—the password to which can be requested by email (atul.singh.arora@ulb.ac.be). 
 
 All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-meets.github.io/all).
 
@@ -7,12 +7,12 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Upcoming
 
-#### QLIC-meet #1a | (Thursday; Jan 30; 2020)
+#### QLIC-meet #1a | (Thursday; Jan 30; 2020; 11:00 AM to 12:00 PM)
 
-| Segment | Speaker           | Topic                                         | Minutes Allocated | Minutes Spent |
-| ------- | ----------------- | --------------------------------------------- | ----------------- | ------------- |
-| Talk    | Chrysoula Vlachou | Quantum Weak Coin Flipping, analytic solution | 45+10             |               |
-| Update  | «open»            |                                               |                   |               |
+| Segment | Speaker      | Topic | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ----- | ----------------- | ------------- |
+| Talk    | Ravi Kunjwal | TBA   | 45+10             |               |
+| Update  | «open»       |       |                   |               |
 
 
 
@@ -21,6 +21,16 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 | Segment | Speaker                                                      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------- | ------------- |
 | Talk    | Konrad Banaszek <sub>Centre for Quantum Optical Technologies, Warsaw</sub> | From quantum information science to deep-space optical communication (see [abstract](#Konrad-Banaszek)) <sub><sup>[soon]</sup></sub> | 45+10             |               |
+
+
+
+#### Lecture Set 3 (Thursdays; Feb/March; 2020)
+
+| Segment/Date              | Speaker                    | Topic                                                    | Minutes Allocated | Minutes Spent |
+| ------------------------- | -------------------------- | -------------------------------------------------------- | ----------------- | ------------- |
+| Lecture 1; <br />Feb 20   | Emmanuel Zambrini Cruzeiro | Bell non-locality \| Self testing and device independent | 120               |               |
+| Lecture 2; <br />Feb 27   | Emmanuel Zambrini Cruzeiro | TBA                                                      | 120               |               |
+| Lecture 3; <br />March 12 | Emmanuel Zambrini Cruzeiro | TBA                                                      | 120               |               |
 
 
 
@@ -59,14 +69,14 @@ phenomenon of superadditivity of accessible information.
 
 ## In the Pipeline
 
+#### QLIC-meet #2 | (Thursday; Feb; 2020)
 
-#### Lecture Set 3 (Thursdays; Feb/March; 2020)
+| Segment | Speaker           | Topic                                         | Minutes Allocated | Minutes Spent |
+| ------- | ----------------- | --------------------------------------------- | ----------------- | ------------- |
+| Talk    | Chrysoula Vlachou | Quantum Weak Coin Flipping, analytic solution | 45+10             |               |
+| Update  | «open»            |                                               |                   |               |
 
-| Segment/Date | Speaker       | Topic | Minutes Allocated | Minutes Spent |
-| ---------- | ------------- | ----- | ----------------- | ------------- |
-| Lecture 1; <br />Feb 20 | Emmanuel Zambrini Cruzeiro | Bell non-locality \| Self testing and device independent |                   |               |
-| Lecture 2; <br />Feb 27 | Emmanuel Zambrini Cruzeiro | TBA      |                   |               |
-| Lecture 3; <br />March 12 | Emmanuel Zambrini Cruzeiro | TBA      |                   |               |
+
 
 #### Lecture Set 4 (Thursdays; April; 2020)
 
