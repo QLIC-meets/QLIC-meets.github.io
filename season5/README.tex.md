@@ -7,12 +7,12 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Upcoming
 
-#### QLIC-meet #1a | (Thursday; Jan 30; 2020; 11:00 AM to 12:00 PM)
+#### QLIC-meet #1a | (Thursday; Jan 30; 2020; 11:00 AM to 12:30 PM)
 
-| Segment | Speaker      | Topic | Minutes Allocated | Minutes Spent |
-| ------- | ------------ | ----- | ----------------- | ------------- |
-| Talk    | Ravi Kunjwal | TBA   | 45+10             |               |
-| Update  | «open»       |       |                   |               |
+| Segment | Speaker         | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | --------------- | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Ravi Kunjwal    | TBA                                                          | 45+10             |               |
+| Update  | Matthieu Arnhem | Optimal estimation of parameters encoded in quantum coherent state quadratures | 15                |               |
 
 
 
