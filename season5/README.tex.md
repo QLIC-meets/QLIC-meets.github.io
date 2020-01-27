@@ -74,7 +74,7 @@ applications of these frameworks.
 Based on the following papers:
 
 1. R. Kunjwal, Quantum 4, 219 (2020) <sub><sup>[[1](https://quantum-journal.org/papers/q-2020-01-10-219/)]</sup></sub>,
-2. R. Kunjwal, Quantum 3, 184 (2019) <sub><sup>[[2](https://quantum-journal.org/papers/q-2019-09-09-184/)]</sup></sub>,
+2. R. Kunjwal, Quantum 3, 184 (2019) <sub><sup>[[2](https://quantum-journal.org/papers/q-2019-09-09-184/)]</sup></sub>, 
 3. R. Kunjwal and R.W. Spekkens, Phys. Rev. A 97, 052110 (2018) <sub><sup>[[3](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.97.052110)]</sup></sub>,
 4. R. Kunjwal and R.W. Spekkens, Phys. Rev. Lett. 115, 110403 (2015) <sub><sup>[[4](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.110403)]</sup></sub>.
 
