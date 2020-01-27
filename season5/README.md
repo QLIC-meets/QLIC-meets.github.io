@@ -11,7 +11,7 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 | Segment | Speaker         | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | --------------- | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Ravi Kunjwal    | TBA                                                          | 45+10             |               |
+| Talk    | Ravi Kunjwal    | Noise-robust contextuality for Kochen-Specker type scenarios: two complementary frameworks (see [abstract](#Ravi-Kunjwal)) | 45+10             |               |
 | Update  | Matthieu Arnhem | Optimal estimation of parameters encoded in quantum coherent state quadratures | 15                |               |
 
 
@@ -45,9 +45,38 @@ TBA
 
 ## Abstracts
 
-TBA
+#### Ravi Kunjwal
 
+##### Noise-robust contextuality for Kochen-Specker type scenarios: two complementary frameworks
 
+The Kochen-Specker (KS) theorem is a mathematical result
+that points out the inconsistency between quantum theory and any
+putative underlying model of it where the outcomes of a measurement
+are fixed prior to the act of measurement by some (possibly hidden)
+physical states of the system in a manner that does not depend on
+(operationally irrelevant) details of the measurement context, i.e.,
+the outcome assignments are fixed noncontextually in the model. Thus,
+quantum theory admits KS-contextuality. On the other hand, within the
+generalized approach to contextuality proposed by Spekkens, the
+assumption of deterministic outcome assignments is relaxed and,
+instead, noncontextuality for preparation procedures is invoked to
+obtain constraints on the operational statistics. I will present two
+complementary hypergraph frameworks that accomplish the project of
+accommodating Kochen-Specker (KS) type scenarios within the
+generalized approach to contextuality due to Spekkens. One of these
+frameworks generalizes the graph-theoretic framework of Cabello,
+Severini, and Winter for statistical proofs of KS-contextuality and
+the other one outlines how one can obtain noise-robust
+noncontextuality inequalities based on logical proofs KS
+contextuality. Time permitting, I will speculate on possible
+applications of these frameworks.
+
+Based on the following papers:
+
+1. R. Kunjwal, Quantum 4, 219 (2020) <sub><sup>[[1](https://quantum-journal.org/papers/q-2020-01-10-219/)]</sup></sub>,
+2. R. Kunjwal, Quantum 3, 184 (2019)<sub><sup>[[2](https://quantum-journal.org/papers/q-2019-09-09-184/)]</sup></sub>,
+3. R. Kunjwal and R.W. Spekkens, Phys. Rev. A 97, 052110 (2018) <sub><sup>[[3](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.97.052110)]</sup></sub>,
+4. R. Kunjwal and R.W. Spekkens, Phys. Rev. Lett. 115, 110403 (2015) <sub><sup>[[4](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.110403)]</sup></sub>.
 
 
 
