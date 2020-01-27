@@ -134,10 +134,10 @@ Based on the following papers:
 
 [Uncertified Random List Generator](https://mybinder.org/v2/gh/QuIC-meets/QuIC-meets.github.io/master?filepath=season2/lineUp/lineUp.ipynb)
 
-| Session | #5c            | #6a             | #6b    |
-| ------- | -------------- | --------------- | ------ |
-| Talk    | Mathieu Arnhem | «open»          | «open» |
-| Update  | Nicolas Cerf   | Stefano Pironio | «open» |
+| Session | #2                | #3     | #4     |
+| ------- | ----------------- | ------ | ------ |
+| Talk    | Chrysoula Vlachou | "open" | "open" |
+| Update  | "open"            | "open" | "open" |
 
 
 
