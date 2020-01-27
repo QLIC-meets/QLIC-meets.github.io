@@ -20,7 +20,7 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 | Segment | Speaker                                                      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Konrad Banaszek <sub>Centre for Quantum Optical Technologies, Warsaw</sub> | From quantum information science to deep-space optical communication (see [abstract](#Konrad-Banaszek)) <sub><sup>[soon]</sup></sub> | 45+10             |               |
+| Talk    | Konrad Banaszek <sub>Centre for Quantum Optical Technologies, Warsaw</sub> | Why photon counting is great: Applications in imaging and communications | 45+10             |               |
 
 
 
@@ -45,25 +45,9 @@ TBA
 
 ## Abstracts
 
-#### Konrad Banaszek
+TBA
 
-##### From quantum information science to deep-space optical communication
 
-Quantum theory of electromagnetic radiation defines fundamental
-limits on the capacity of optical communication channels. Analysing
-the quantum limits requires a change of paradigm from measuring
-quantities well defined in classical systems, such as the amplitude
-or the phase, to exploring quantum state distinguishability. This
-approach is discussed in the context of deep-space optical
-communication, in particular transmission of data collected by
-space missions beyond the near-Earth region. We review the
-efficiency of pulse position modulation (PPM) as the coding
-standard in this regime. An inherent feature of the PPM standard is
-the high ratio of the peak-to-average signal power, which may limit
-the electrical-to-optical conversion efficiency of the transmitter.
-We describe a possible solution to this problem in the form of
-structured optical receivers which exploit the quantum mechanical
-phenomenon of superadditivity of accessible information.
 
 
 
