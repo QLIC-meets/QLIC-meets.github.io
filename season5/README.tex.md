@@ -26,11 +26,14 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 #### Lecture Set 3 (Thursdays; Feb/March; 2020)
 
+Lecture series on Bell nonlocality, an overview of the field with a focus on recent results and applications.
+
 | Segment/Date              | Speaker                    | Topic                                                    | Minutes Allocated | Minutes Spent |
 | ------------------------- | -------------------------- | -------------------------------------------------------- | ----------------- | ------------- |
-| Lecture 1; <br />Feb 20   | Emmanuel Zambrini Cruzeiro | Bell non-locality \| Self testing and device independent | 120               |               |
-| Lecture 2; <br />Feb 27   | Emmanuel Zambrini Cruzeiro | TBA                                                      | 120               |               |
-| Lecture 3; <br />March 12 | Emmanuel Zambrini Cruzeiro | TBA                                                      | 120               |               |
+| Lecture 1; <br />Feb 20   | Emmanuel Zambrini Cruzeiro | Bell non-locality \| Nonlocal games and correlations | 120               |               |
+| Lecture 2; <br />Feb 27   | Emmanuel Zambrini Cruzeiro | Bell non-locality \| Nonlocality in quantum theory | 120               |               |
+| Lecture 3; <br />March 12 | Emmanuel Zambrini Cruzeiro | Bell non-locality \| Applications of quantum nonlocality  | 120               |               |
+| Lecture 4; <br />Feb 27   | Emmanuel Zambrini Cruzeiro | Bell non-locality \| Selected topics of Bell nonlocality: open problems | 120               |               |
 
 
 
