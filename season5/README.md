@@ -24,22 +24,33 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 
 
-#### Lecture Set 3 (Thursdays; Feb/March; 2020)
+#### Lecture Set 3 (Thursdays; Feb 20, 27 and March 12, 19; 2020) | Bell nonlocality
 
-Lecture series on Bell nonlocality, an overview of the field with a focus on recent results and applications.
 
-| Segment/Date              | Speaker                    | Topic                                                    | Minutes Allocated | Minutes Spent |
-| ------------------------- | -------------------------- | -------------------------------------------------------- | ----------------- | ------------- |
-| Lecture 1; <br />Feb 20   | Emmanuel Zambrini Cruzeiro | Bell non-locality \| Nonlocal games and correlations | 120               |               |
-| Lecture 2; <br />Feb 27   | Emmanuel Zambrini Cruzeiro | Bell non-locality \| Nonlocality in quantum theory | 120               |               |
-| Lecture 3; <br />March 12 | Emmanuel Zambrini Cruzeiro | Bell non-locality \| Applications of quantum nonlocality  | 120               |               |
-| Lecture 4; <br />Feb 27   | Emmanuel Zambrini Cruzeiro | Bell non-locality \| Selected topics of Bell nonlocality: open problems | 120               |               |
+Lecture series on Bell nonlocality, an overview of the field with a focus on recent results and applications (see [references](#Emmanuel-Zambrini-Cruzeiro)).
+
+| Segment/Date           | Slot | Speaker                    | Topic                                                    | Minutes Allocated | Minutes Spent |
+| ----------------------|-------| -------------------------- | -------------------------------------------------------- | ----------------- | ------------- |
+| Lecture 1; <br />Feb 20   |11:00 AM – 1:00 PM| Emmanuel Zambrini Cruzeiro | Nonlocal games and correlations | 120               |               |
+| Lecture 2; <br />Feb 27   |11:00 AM – 1:00 PM| Emmanuel Zambrini Cruzeiro | Nonlocality in quantum theory | 120               |               |
+| Lecture 3; <br />March 12 |11:00 AM – 1:00 PM| Emmanuel Zambrini Cruzeiro | Applications of quantum nonlocality  | 120               |               |
+| Lecture 4; <br />March 19 |11:00 AM – 1:00 PM| Emmanuel Zambrini Cruzeiro | Selected topics of Bell nonlocality: open problems | 120               |               |
+
+
 
 
 
 ## Lecture Series | Details
 
-TBA
+#### Emmanuel Zambrini Cruzeiro
+
+Some references:
+
+[1] Scarani, Valerio. Bell nonlocality. Oxford University Press, 2019. 
+
+[2] Brunner, Nicolas, et al. "Bell nonlocality." Reviews of Modern Physics 86.2 (2014): 419.
+
+[3] Preskill, John. "Lecture notes for physics 229: Quantum information and computation." California Institute of Technology 16 (1998).
 
 
 
@@ -80,6 +91,8 @@ Based on the following papers:
 2. R. Kunjwal, Quantum 3, 184 (2019) <sub><sup>[[2](https://quantum-journal.org/papers/q-2019-09-09-184/)]</sup></sub>, 
 3. R. Kunjwal and R.W. Spekkens, Phys. Rev. A 97, 052110 (2018) <sub><sup>[[3](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.97.052110)]</sup></sub>,
 4. R. Kunjwal and R.W. Spekkens, Phys. Rev. Lett. 115, 110403 (2015) <sub><sup>[[4](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.110403)]</sup></sub>.
+
+
 
 
 
@@ -141,6 +154,8 @@ Based on the following papers:
 | ------- | ----------------- | ------ | ------ |
 | Talk    | Chrysoula Vlachou | "open" | "open" |
 | Update  | "open"            | "open" | "open" |
+
+
 
 
 
