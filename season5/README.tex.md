@@ -21,7 +21,7 @@ Lecture series on Bell nonlocality, an overview of the field with a focus on rec
 
 
 
-#### QLIC-meet #2 | (Thursday; March 5; 2020; 11:30 AM to 13:00 PM)
+#### QLIC-meet #2 | (Thursday; March 5; 2020; 11:30 AM to 1:00 PM)
 
 | Segment | Speaker                  | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------------------ | ------------------------------------------------------------ | ----------------- | ------------- |
