@@ -21,6 +21,26 @@ Lecture series on Bell nonlocality, an overview of the field with a focus on rec
 
 
 
+#### QLIC-meet #2 | (Thursday; March 5; 2020; 11:30 AM to 13:00 PM)
+
+| Segment | Speaker                  | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Zacharie van Herstraeten | Quantum thermodynamics in a multipartite setting (see [abstract](#Zacharie-van-Herstraeten)) | 45+10             |               |
+| Update  | Timothée Hoffreumon      | TBA                                                          | 15                |               |
+
+
+
+#### Lecture Set 4 (Thursdays; April,16, 23 and 30; 2020)
+
+| Segment/Date | Slot | Speaker       | Topic | Minutes Allocated | Minutes Spent |
+| ----------|------- | ------------- | ----- | ----------------- | ------------- |
+| Lecture 1;<br />April 16 |11:00 AM – 1:00 PM| Leonardo Novo | TBA    | 120 |               |
+| Lecture 2;<br />April 23 |11:00 AM – 1:00 PM| Leonardo Novo | TBA      | 120 |               |
+| Lecture 3;<br />April 30 |11:00 AM – 1:00 PM| Leonardo Novo | TBA      | 120 |               |
+
+
+
+
 ## Past
 
 #### Seminar (Tuesday, Feb 4, 2020; 11:30 AM to 1:00 PM)
@@ -40,6 +60,7 @@ Lecture series on Bell nonlocality, an overview of the field with a focus on rec
 | Update  | Matthieu Arnhem | Optimal estimation of parameters encoded in quantum coherent state quadratures | 15                |       15        |
 
 
+
 ## Lecture Series | Details
 
 #### Emmanuel Zambrini Cruzeiro
@@ -51,8 +72,6 @@ Some references:
 [2] Brunner, Nicolas, et al. "Bell nonlocality." Reviews of Modern Physics 86.2 (2014): 419.
 
 [3] Preskill, John. "Lecture notes for physics 229: Quantum information and computation." California Institute of Technology 16 (1998).
-
-
 
 
 
@@ -88,53 +107,43 @@ applications of these frameworks.
 Based on the following papers:
 
 1. R. Kunjwal, Quantum 4, 219 (2020) <sub><sup>[[1](https://quantum-journal.org/papers/q-2020-01-10-219/)]</sup></sub>,
+
 2. R. Kunjwal, Quantum 3, 184 (2019) <sub><sup>[[2](https://quantum-journal.org/papers/q-2019-09-09-184/)]</sup></sub>, 
+
 3. R. Kunjwal and R.W. Spekkens, Phys. Rev. A 97, 052110 (2018) <sub><sup>[[3](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.97.052110)]</sup></sub>,
+
 4. R. Kunjwal and R.W. Spekkens, Phys. Rev. Lett. 115, 110403 (2015) <sub><sup>[[4](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.110403)]</sup></sub>.
 
+   
 
+
+#### Zacharie van Herstraeten 
+
+##### Quantum thermodynamics in a multipartite setting
+
+Quantum thermodynamics can be cast as a resource theory by considering free access to a heat bath, thereby viewing the Gibbs state at a fixed temperature as a free state and hence any other state as a resource. Here, we consider a multipartite scenario where several parties attempt at extracting work locally, each having access to a local heat bath (possibly with a different temperature), assisted with an energy-preserving global unitary. As a specific model, we analyze a collection of harmonic oscillators or a multimode bosonic system. Focusing on the Gaussian paradigm, we construct a reasonable resource theory of local activity for a multimode bosonic system, where we identify as free any state that is obtained from a product of thermal states (possibly at different temperatures) acted upon by any linear-optics (passive Gaussian) transformation. The associated free operations are then all linear-optics transformations supplemented with tensoring and partial tracing. We show that the local Gaussian extractable work (if each party applies a Gaussian unitary, assisted with linear optics) is zero if and only if the covariance matrix of the system is that of a free state. Further, we develop a resource theory of local Gaussian extractable work, defined as the difference between the trace and symplectic trace of the covariance matrix of the system. We prove that it is a resource monotone that cannot increase under free operations. We also provide examples illustrating the distillation of local activity and local Gaussian extractable work.
 
 
 
 ## In the Pipeline
 
-#### QLIC-meet #2 | (Thursday; Feb; 2020)
-
-| Segment | Speaker           | Topic                                         | Minutes Allocated | Minutes Spent |
-| ------- | ----------------- | --------------------------------------------- | ----------------- | ------------- |
-| Talk    | Chrysoula Vlachou | Quantum Weak Coin Flipping, analytic solution | 45+10             |               |
-| Update  | «open»            |                                               |                   |               |
-
-
-
-#### Lecture Set 4 (Thursdays; April; 2020)
-
-| Segment/Date | Speaker       | Topic | Minutes Allocated | Minutes Spent |
-| ---------- | ------------- | ----- | ----------------- | ------------- |
-| Lecture 1;<br />April 9 | Leonardo Novo | TBA    |                   |               |
-| Lecture 2;<br />April 16 | Leonardo Novo | TBA      |                   |               |
-| Lecture 3;<br />April 23 | Leonardo Novo | TBA      |                   |               |
-
-
-
-
-#### Lecture Set 5 (Thursday; April; 2020)
-
-| Segment    | Speaker       | Topic | Minutes Allocated | Minutes Spent |
-| ---------- | ------------- | ----- | ----------------- | ------------- |
-| Lec 1 | Chrysoula Vlachou | Topological Systems |                   |               |
-| Lec 2 | Chrysoula Vlachou | TBA      |                   |               |
-| Lec 3 | Chrysoula Vlachou | TBA      |                   |               |
-
-
-
-#### Lecture Set 6 (Thursdays; May; 2020)
+#### Lecture Set 5 (Thursdays; May; 2020)
 
 | Segment   | Speaker             | Topic                       | Minutes Allocated | Minutes Spent |
 | --------- | ------------------- | --------------------------- | ----------------- | ------------- |
 | Lecture 1 | Esteban Castro-Ruiz | Some fancy relativity stuff |                   |               |
 | Lecture 2 | Esteban Castro-Ruiz | TBA                         |                   |               |
 | Lecture 3 | Esteban Castro-Ruiz | TBA                         |                   |               |
+
+
+
+#### Lecture Set 6 (Thursday; June; 2020)
+
+| Segment    | Speaker       | Topic | Minutes Allocated | Minutes Spent |
+| ---------- | ------------- | ----- | ----------------- | ------------- |
+| Lec 1 | Chrysoula Vlachou | Topological Systems |                   |               |
+| Lec 2 | Chrysoula Vlachou | TBA      |                   |               |
+| Lec 3 | Chrysoula Vlachou | TBA      |                   |               |
 
 
 
@@ -152,8 +161,8 @@ Based on the following papers:
 
 | Session | #2                | #3     | #4     |
 | ------- | ----------------- | ------ | ------ |
-| Talk    | Chrysoula Vlachou | "open" | "open" |
-| Update  | "open"            | "open" | "open" |
+| Talk    | Zacharie van Herstraeten | "open" | "open" |
+| Update  | Timothée Hoffreumon        | "open" | "open" |
 
 
 
