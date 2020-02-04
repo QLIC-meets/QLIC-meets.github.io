@@ -7,15 +7,6 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Upcoming
 
-
-#### Seminar (Tuesday, Feb 4, 2020; 11:30 AM to 1:00 PM)
-
-| Segment | Speaker                                                      | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Konrad Banaszek <sub>Centre for Quantum Optical Technologies, Warsaw</sub> | Why photon counting is great: Applications in imaging and communications | 45+10             |               |
-
-
-
 #### Lecture Set 3 (Thursdays; Feb 20, 27 and March 12, 19; 2020) | Bell nonlocality
 
 
@@ -31,6 +22,15 @@ Lecture series on Bell nonlocality, an overview of the field with a focus on rec
 
 
 ## Past
+
+#### Seminar (Tuesday, Feb 4, 2020; 11:30 AM to 1:00 PM)
+
+| Segment | Speaker                                                      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Konrad Banaszek <sub>Centre for Quantum Optical Technologies, Warsaw</sub> | Why photon counting is great: Applications in imaging and communications | 45+10             | 60            |
+
+
+
 
 #### QLIC-meet #1a | (Thursday; Jan 30; 2020; 11:00 AM to 12:30 PM)
 
