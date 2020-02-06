@@ -19,7 +19,11 @@ Lecture series on Bell nonlocality, an overview of the field with a focus on rec
 | Lecture 3; <br />March 12 |11:00 AM – 1:00 PM| Emmanuel Zambrini Cruzeiro | Applications of quantum nonlocality  | 120               |               |
 | Lecture 4; <br />March 19 |11:00 AM – 1:00 PM| Emmanuel Zambrini Cruzeiro | Selected topics of Bell nonlocality: open problems | 120               |               |
 
-[More](#Confirmed) 
+
+
+[More upcoming](#Confirmed) 
+
+
 
 
 ## Past
@@ -28,7 +32,7 @@ Lecture series on Bell nonlocality, an overview of the field with a focus on rec
 
 | Segment | Speaker                                                      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Konrad Banaszek <sub>Centre for Quantum Optical Technologies, Warsaw</sub> | Why photon counting is great: Applications in imaging and communications | 45+10             | 60            |
+| Talk    | Konrad Banaszek <sub>Centre for Quantum Optical Technologies, Warsaw</sub> | Why photon counting is great: Applications in imaging and communications <sub><sup>[[video](https://youtu.be/lqw22Wfc9SI)]</sup></sub> | 45+10             | 60            |
 
 
 
