@@ -26,26 +26,6 @@ Lecture series on Bell nonlocality, an overview of the field with a focus on rec
 
 
 
-## Past
-
-#### Seminar (Tuesday, Feb 4, 2020; 11:30 AM to 1:00 PM)
-
-| Segment | Speaker                                                      | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Konrad Banaszek <sub>Centre for Quantum Optical Technologies, Warsaw</sub> | Why photon counting is great: Applications in imaging and communications <sub><sup>[[video](https://youtu.be/lqw22Wfc9SI)]</sup></sub> | 45+10             | 60            |
-
-
-
-
-#### QLIC-meet #1a | (Thursday; Jan 30; 2020; 11:00 AM to 12:30 PM)
-
-| Segment | Speaker         | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | --------------- | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Ravi Kunjwal    | Noise-robust contextuality for Kochen-Specker type scenarios: two complementary frameworks (see [abstract](#Ravi-Kunjwal)) <sub><sup>[[video](https://youtu.be/QNFu1RLMN4c)]</sup></sub> | 45+10             |     60          |
-| Update  | Matthieu Arnhem | Optimal estimation of parameters encoded in quantum coherent state quadratures <sub><sup>[[video](https://youtu.be/wH9tPSvyQF4)]</sup></sub> | 15                |       15        |
-
-
-
 ## Lecture Series | Details
 
 #### Emmanuel Zambrini Cruzeiro
@@ -129,6 +109,25 @@ Quantum thermodynamics can be cast as a resource theory by considering free acce
 | Lecture 2;<br />April 23 |11:00 AM – 1:00 PM| Leonardo Novo | TBA      | 120 |               |
 | Lecture 3;<br />April 30 |11:00 AM – 1:00 PM| Leonardo Novo | TBA      | 120 |               |
 
+
+
+## Past
+
+#### Seminar (Tuesday, Feb 4, 2020; 11:30 AM to 1:00 PM)
+
+| Segment | Speaker                                                      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Konrad Banaszek <sub>Centre for Quantum Optical Technologies, Warsaw</sub> | Why photon counting is great: Applications in imaging and communications <sub><sup>[[video](https://youtu.be/lqw22Wfc9SI)]</sup></sub> | 45+10             | 60            |
+
+
+
+
+#### QLIC-meet #1a | (Thursday; Jan 30; 2020; 11:00 AM to 12:30 PM)
+
+| Segment | Speaker         | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | --------------- | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Ravi Kunjwal    | Noise-robust contextuality for Kochen-Specker type scenarios: two complementary frameworks (see [abstract](#Ravi-Kunjwal)) <sub><sup>[[video](https://youtu.be/QNFu1RLMN4c)]</sup></sub> | 45+10             |     60          |
+| Update  | Matthieu Arnhem | Optimal estimation of parameters encoded in quantum coherent state quadratures <sub><sup>[[video](https://youtu.be/wH9tPSvyQF4)]</sup></sub> | 15                |       15        |
 
 
 
