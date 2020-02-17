@@ -7,17 +7,17 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Upcoming
 
-#### Lecture Set 3 (Thursdays; Feb 20, 27 and March 12, 19; 2020) | Bell nonlocality
+#### Lecture Set 3 (Thursdays; Feb 27 and March 5, 19, 26; 2020) | Bell nonlocality
 
 
 Lecture series on Bell nonlocality, an overview of the field with a focus on recent results and applications (see [references](#Emmanuel-Zambrini-Cruzeiro)).
 
 | Segment/Date           | Slot | Speaker                    | Topic                                                    | Minutes Allocated | Minutes Spent |
 | ----------------------|-------| -------------------------- | -------------------------------------------------------- | ----------------- | ------------- |
-| Lecture 1; <br />Feb 20   |11:00 AM – 1:00 PM| Emmanuel Zambrini Cruzeiro | Nonlocal games and correlations | 120               |               |
-| Lecture 2; <br />Feb 27   |11:00 AM – 1:00 PM| Emmanuel Zambrini Cruzeiro | Nonlocality in quantum theory | 120               |               |
-| Lecture 3; <br />March 12 |11:00 AM – 1:00 PM| Emmanuel Zambrini Cruzeiro | Applications of quantum nonlocality  | 120               |               |
-| Lecture 4; <br />March 19 |11:00 AM – 1:00 PM| Emmanuel Zambrini Cruzeiro | Selected topics of Bell nonlocality: open problems | 120               |               |
+| Lecture 1; <br />Feb 27  |11:00 AM – 1:00 PM| Emmanuel Zambrini Cruzeiro | Nonlocal games and correlations | 120               |               |
+| Lecture 2; <br />March 5 |11:00 AM – 1:00 PM| Emmanuel Zambrini Cruzeiro | Nonlocality in quantum theory | 120               |               |
+| Lecture 3; <br />March 19 |11:00 AM – 1:00 PM| Emmanuel Zambrini Cruzeiro | Applications of quantum nonlocality  | 120               |               |
+| Lecture 4; <br />March 26 |11:00 AM – 1:00 PM| Emmanuel Zambrini Cruzeiro | Selected topics of Bell nonlocality: open problems | 120               |               |
 
 
 
@@ -112,7 +112,7 @@ Quantum thermodynamics can be cast as a resource theory by considering free acce
 
 ## Confirmed
 
-#### QLIC-meet #2 | (Thursday; March 5; 2020; 11:30 AM to 1:00 PM)
+#### QLIC-meet #2 | (Thursday; March 12; 2020; 11:30 AM to 1:00 PM)
 
 | Segment | Speaker                  | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------------------ | ------------------------------------------------------------ | ----------------- | ------------- |
