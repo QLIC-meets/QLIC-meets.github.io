@@ -7,6 +7,16 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Upcoming
 
+
+#### QLIC-meet #2 | (Thursday; March 12; 2020; 11:30 AM to 1:00 PM)
+
+| Segment | Speaker                  | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Zacharie van Herstraeten | Quantum thermodynamics in a multipartite setting (see [abstract](#Zacharie-van-Herstraeten)) | 45+10             |               |
+| Update  | Timothée Hoffreumon      | The Multiround Process Matrix                                | 15                |               |
+
+
+
 #### Lecture Set 3 (Thursdays; Feb 27 and March 5, 19, 26; 2020) | Bell nonlocality
 
 
@@ -91,15 +101,6 @@ Quantum thermodynamics can be cast as a resource theory by considering free acce
 
 
 ## Confirmed
-
-#### QLIC-meet #2 | (Thursday; March 12; 2020; 11:30 AM to 1:00 PM)
-
-| Segment | Speaker                  | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ------------------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Zacharie van Herstraeten | Quantum thermodynamics in a multipartite setting (see [abstract](#Zacharie-van-Herstraeten)) | 45+10             |               |
-| Update  | Timothée Hoffreumon      | TBA                                                          | 15                |               |
-
-
 
 #### Lecture Set 4 (Thursdays; April,16, 23 and 30; 2020)
 
