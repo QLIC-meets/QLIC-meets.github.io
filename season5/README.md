@@ -7,27 +7,18 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Upcoming
 
+#### Lecture Set 3 (Thursdays; Feb 27 and March 5, ~~19, 26~~; 2020) | Bell nonlocality
 
-#### QLIC-meet #2 | (Thursday; March 12; 2020; 11:30 AM to 1:00 PM)
-
-| Segment | Speaker                  | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ------------------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Zacharie van Herstraeten | Quantum thermodynamics in a multipartite setting (see [abstract](#Zacharie-van-Herstraeten)) | 45+10             |               |
-| Update  | Timothée Hoffreumon      | The Multiround Process Matrix                                | 15                |               |
-
-
-
-#### Lecture Set 3 (Thursdays; Feb 27 and March 5, 19, 26; 2020) | Bell nonlocality
-
+**TWO LAST LECTURES POSPONED - date to be defined according to the evolution of the situation at the ULB**
 
 Lecture series on Bell nonlocality, an overview of the field with a focus on recent results and applications (see [references](#Emmanuel-Zambrini-Cruzeiro)).
 
 | Segment/Date           | Slot | Speaker                    | Topic                                                    | Minutes Allocated | Minutes Spent |
 | ----------------------|-------| -------------------------- | -------------------------------------------------------- | ----------------- | ------------- |
-| Lecture 1; <br />Feb 27  |11:00 AM – 1:00 PM| Emmanuel Zambrini Cruzeiro | Nonlocal games and correlations | 120               |               |
-| Lecture 2; <br />March 5 |11:00 AM – 1:00 PM| Emmanuel Zambrini Cruzeiro | Nonlocality in quantum theory | 120               |               |
-| Lecture 3; <br />March 19 |11:00 AM – 1:00 PM| Emmanuel Zambrini Cruzeiro | Applications of quantum nonlocality  | 120               |               |
-| Lecture 4; <br />March 26 |11:00 AM – 1:00 PM| Emmanuel Zambrini Cruzeiro | Selected topics of Bell nonlocality: open problems | 120               |               |
+| Lecture 1; <br />Feb 27  |11:00 AM – 1:00 PM| Emmanuel Zambrini Cruzeiro | Nonlocal games and correlations | 120               | 120 |
+| Lecture 2; <br />March 5 |11:00 AM – 1:00 PM| Emmanuel Zambrini Cruzeiro | Nonlocality in quantum theory | 120               | 120 |
+| Lecture 3; <br />~~March 19~~ |11:00 AM – 1:00 PM| Emmanuel Zambrini Cruzeiro | Applications of quantum nonlocality  | 120               |               |
+| Lecture 4; <br />~~March 26~~ |11:00 AM – 1:00 PM| Emmanuel Zambrini Cruzeiro | Selected topics of Bell nonlocality: open problems | 120               |               |
 
 
 
@@ -102,17 +93,19 @@ Quantum thermodynamics can be cast as a resource theory by considering free acce
 
 ## Confirmed
 
-#### Lecture Set 4 (Thursdays; April,16, 23 and 30; 2020)
+#### Lecture Set 4 (Thursdays; ~~April,16, 23 and 30~~; 2020)
+
+**POSPONED - date to be defined according to the evolution of the situation at the ULB**
 
 | Segment/Date | Slot | Speaker       | Topic | Minutes Allocated | Minutes Spent |
 | ----------|------- | ------------- | ----- | ----------------- | ------------- |
-| Lecture 1;<br />April 16 |11:00 AM – 1:00 PM| Leonardo Novo | TBA    | 120 |               |
-| Lecture 2;<br />April 23 |11:00 AM – 1:00 PM| Leonardo Novo | TBA      | 120 |               |
-| Lecture 3;<br />April 30 |11:00 AM – 1:00 PM| Leonardo Novo | TBA      | 120 |               |
+| Lecture 1;<br />~~April 16~~ |11:00 AM – 1:00 PM| Leonardo Novo | TBA    | 120 |               |
+| Lecture 2;<br />~~April 23~~ |11:00 AM – 1:00 PM| Leonardo Novo | TBA      | 120 |               |
+| Lecture 3;<br />~~April 30~~ |11:00 AM – 1:00 PM| Leonardo Novo | TBA      | 120 |               |
 
 
 
-#### QLIC-meet #3 | (Thursday; May 14; 2020; 11:30 AM to 1:00 PM)
+#### QLIC-meet #3 | (Thursday; TBA; 2020; 11:30 AM to 1:00 PM)
 
 | Segment | Speaker           | Topic | Minutes Allocated | Minutes Spent |
 | ------- | ----------------- | ----- | ----------------- | ------------- |
@@ -121,17 +114,28 @@ Quantum thermodynamics can be cast as a resource theory by considering free acce
 
 
 
-#### Lecture Set 5 (Wednesday; May, 20; Thursdays; May, 28 and June, 4 ; 2020)
+#### Lecture Set 5 (TBA ; 2020)
 
-| Segment/Date           | Slot               | Speaker             | Topic                       | Minutes Allocated | Minutes Spent |
-| ---------------------- | ------------------ | ------------------- | --------------------------- | ----------------- | ------------- |
-| Lecture 1;<br />May 20 | 11:00 AM – 1:00 PM | Esteban Castro-Ruiz | Some fancy relativity stuff | 120               |               |
-| Lecture 2;<br />May 28 | 11:00 AM – 1:00 PM | Esteban Castro-Ruiz | TBA                         | 120               |               |
-| Lecture 3;<br />June 4 | 11:00 AM – 1:00 PM | Esteban Castro-Ruiz | TBA                         | 120               |               |
+| Segment/Date        | Slot               | Speaker             | Topic                       | Minutes Allocated | Minutes Spent |
+| ------------------- | ------------------ | ------------------- | --------------------------- | ----------------- | ------------- |
+| Lecture 1;<br />TBD | 11:00 AM – 1:00 PM | Esteban Castro-Ruiz | Some fancy relativity stuff | 120               |               |
+| Lecture 2;<br />TBD | 11:00 AM – 1:00 PM | Esteban Castro-Ruiz | TBA                         | 120               |               |
+| Lecture 3;<br />TBD | 11:00 AM – 1:00 PM | Esteban Castro-Ruiz | TBA                         | 120               |               |
 
 
 
 ## Past
+
+
+
+#### QLIC-meet #2 | (Thursday; March 12; 2020; 11:30 AM to 1:00 PM)
+
+| Segment | Speaker                  | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Zacharie van Herstraeten | Quantum thermodynamics in a multipartite setting (see [abstract](#Zacharie-van-Herstraeten)) | 45+10             | 45            |
+| Update  | Timothée Hoffreumon      | The Multiround Process Matrix                                | 15                | 30            |
+
+
 
 #### Seminar (Tuesday, Feb 4, 2020; 11:30 AM to 1:00 PM)
 
