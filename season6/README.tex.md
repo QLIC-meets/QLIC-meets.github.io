@@ -23,7 +23,7 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed
 
-#### QLIC-meet #3 | (Thursday; May 14; 2020; 11:30 AM to 1:00 PM)
+#### QLIC-meet #3 | (Thursday; TBA; 2020; 11:30 AM to 1:00 PM)
 
 | Segment | Speaker           | Topic | Minutes Allocated | Minutes Spent |
 | ------- | ----------------- | ----- | ----------------- | ------------- |
@@ -32,13 +32,13 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 
 
-#### Lecture Set 5 (Wednesday; May, 20; Thursdays; May, 28 and June, 4 ; 2020)
+#### Lecture Set 5 (Wednesday; TBA ; 2020)
 
-| Segment/Date           | Slot               | Speaker             | Topic                       | Minutes Allocated | Minutes Spent |
-| ---------------------- | ------------------ | ------------------- | --------------------------- | ----------------- | ------------- |
-| Lecture 1;<br />May 20 | 11:00 AM – 1:00 PM | Esteban Castro-Ruiz | Some fancy relativity stuff | 120               |               |
-| Lecture 2;<br />May 28 | 11:00 AM – 1:00 PM | Esteban Castro-Ruiz | TBA                         | 120               |               |
-| Lecture 3;<br />June 4 | 11:00 AM – 1:00 PM | Esteban Castro-Ruiz | TBA                         | 120               |               |
+| Segment/Date        | Slot               | Speaker             | Topic                       | Minutes Allocated | Minutes Spent |
+| ------------------- | ------------------ | ------------------- | --------------------------- | ----------------- | ------------- |
+| Lecture 1;<br />TBA | 11:00 AM – 1:00 PM | Esteban Castro-Ruiz | Some fancy relativity stuff | 120               |               |
+| Lecture 2;<br />TBA | 11:00 AM – 1:00 PM | Esteban Castro-Ruiz | TBA                         | 120               |               |
+| Lecture 3;<br />TBA | 11:00 AM – 1:00 PM | Esteban Castro-Ruiz | TBA                         | 120               |               |
 
 
 
@@ -52,7 +52,7 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 
 
-#### Lecture Set 6 (Thursday; June; 2020)
+#### Lecture Set 6 (Thursday; TBA; 2020)
 
 | Segment    | Speaker       | Topic | Minutes Allocated | Minutes Spent |
 | ---------- | ------------- | ----- | ----------------- | ------------- |
