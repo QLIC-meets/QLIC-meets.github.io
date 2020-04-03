@@ -9,7 +9,7 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 #### Lecture Set 3 (Thursdays; Feb 27 and March 5, ~~19, 26~~; 2020) | Bell nonlocality
 
-**TWO LAST LECTURES POSPONED - date to be defined according to the evolution of the situation at the ULB**
+**TWO LAST LECTURES POSTPONED - date to be defined according to the evolution of the situation at the ULB**
 
 Lecture series on Bell nonlocality, an overview of the field with a focus on recent results and applications (see [references](#Emmanuel-Zambrini-Cruzeiro)).
 
@@ -95,7 +95,7 @@ Quantum thermodynamics can be cast as a resource theory by considering free acce
 
 #### Lecture Set 4 (Thursdays; ~~April,16, 23 and 30~~; 2020)
 
-**POSPONED - date to be defined according to the evolution of the situation at the ULB**
+**POSTPONED - date to be defined according to the evolution of the situation at the ULB**
 
 | Segment/Date | Slot | Speaker       | Topic | Minutes Allocated | Minutes Spent |
 | ----------|------- | ------------- | ----- | ----------------- | ------------- |
