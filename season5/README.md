@@ -177,7 +177,7 @@ Quantum thermodynamics can be cast as a resource theory by considering free acce
 
 #### QLIC-meet
 
-[Uncertified Random List Generator](https://mybinder.org/v2/gh/QuIC-meets/QuIC-meets.github.io/master?filepath=season2/lineUp/lineUp.ipynb)
+[Uncertified Random List Generator](https://mybinder.org/v2/gh/QLIC-meets/QLIC-meets.github.io/master?filepath=season2/lineUp/lineUp.ipynb)
 
 | Session | #2                | #3     | #4     |
 | ------- | ----------------- | ------ | ------ |
@@ -219,6 +219,8 @@ QLIC-meets is an initiative to facilitate further collaboration and learning wit
 *Typical Schedule*: Thursday, before lunch (11:30 AM—1:00 PM).
 
 
+
+[Uncertified Random List Generator](https://mybinder.org/v2/gh/QLIC-meets/QLIC-meets.github.io/master?filepath=season5/lineUp/lineUp.ipynb)
 
 
 

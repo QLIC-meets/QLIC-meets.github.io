@@ -9,6 +9,8 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 [More upcoming](#Confirmed) 
 
+[Uncertified Random List Generator](https://mybinder.org/v2/gh/QLIC-meets/QLIC-meets.github.io/master?filepath=season6/lineUp/lineUp.ipynb)
+
 
 
 
