@@ -7,9 +7,26 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Upcoming
 
-#### Lecture Set 3 (Thursdays; Feb 27 and March 5, ~~19, 26~~; 2020) | Bell nonlocality
 
-**TWO LAST LECTURES POSTPONED - date to be defined according to the evolution of the situation at the ULB**
+
+#### QLIC-meet #3 | (Thursday; April 30; 2020; 11:30 AM to 1:00 PM; On Teams)
+
+This meet is the first one of a series that will be held online on Teams. 
+
+Link to join the team: https://teams.microsoft.com/l/team/19%3afcf32cb364ab4a398a621ce204598757%40thread.tacv2/conversations?groupId=1487fcdf-5dd9-4d1c-b954-864688f6b9cc&tenantId=30a5145e-75bd-4212-bb02-8ff9c0ea4ae9
+
+| Segment | Speaker          | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ---------------- | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Atul Singh Arora | Embezzlement: Universal entanglement transformations without communication (see [abstract](#Atul-Singh-Arora)) | 45+10             |               |
+| Update  |                  |                                                              |                   |               |
+
+*Note: The presentation style will be experimental, given the online format. I intend to use a mix of scanned hand-written notes and live writing on the Surface. I apologise for any resulting inconvenience in advance.*
+
+
+
+#### Lecture Set 3 (Thursdays; Feb 27, March 5 and May 7, 14; 2020) | Bell nonlocality
+
+The two last lectures will be given on Teams (https://teams.microsoft.com/l/team/19%3afcf32cb364ab4a398a621ce204598757%40thread.tacv2/conversations?groupId=1487fcdf-5dd9-4d1c-b954-864688f6b9cc&tenantId=30a5145e-75bd-4212-bb02-8ff9c0ea4ae9) due to the situation. The dates will be confirmed soon.
 
 Lecture series on Bell nonlocality, an overview of the field with a focus on recent results and applications (see [references](#Emmanuel-Zambrini-Cruzeiro)).
 
@@ -17,8 +34,8 @@ Lecture series on Bell nonlocality, an overview of the field with a focus on rec
 | ----------------------|-------| -------------------------- | -------------------------------------------------------- | ----------------- | ------------- |
 | Lecture 1; <br />Feb 27  |11:00 AM – 1:00 PM| Emmanuel Zambrini Cruzeiro | Nonlocal games and correlations | 120               | 120 |
 | Lecture 2; <br />March 5 |11:00 AM – 1:00 PM| Emmanuel Zambrini Cruzeiro | Nonlocality in quantum theory | 120               | 120 |
-| Lecture 3; <br />~~March 19~~ |11:00 AM – 1:00 PM| Emmanuel Zambrini Cruzeiro | Applications of quantum nonlocality  | 120               |               |
-| Lecture 4; <br />~~March 26~~ |11:00 AM – 1:00 PM| Emmanuel Zambrini Cruzeiro | Selected topics of Bell nonlocality: open problems | 120               |               |
+| Lecture 3; <br />May 7 (to be confirmed) |11:00 AM – 1:00 PM| Emmanuel Zambrini Cruzeiro | Applications of quantum nonlocality  | 120               |               |
+| Lecture 4; <br />May 14 (to be confirmed) |11:00 AM – 1:00 PM| Emmanuel Zambrini Cruzeiro | Selected topics of Bell nonlocality: open problems | 120               |               |
 
 
 
@@ -43,6 +60,12 @@ Some references:
 
 
 ## Abstracts
+
+#### Atul Singh Arora
+
+##### Embezzlement: Universal entanglement transformations without communication
+
+Van Dam and Hayden (in 2003; DOI: 10.1103/PhysRevA.67.060302) introduced a concept, commonly referred to as embezzlement, wherein for any bipartite entangled quantum state φ, there is an entangled state ψ, from which a high fidelity approximation of φ⊗ψ can be produced using only local operations. The original article is just two pages. Cleve, Liu and Paulsen recently (in 2017; DOI: 10.1063/1.4974818) showed that perfect embezzlement is possible in a commuting operator framework while it (perfect embezzlement) is impossible in the tensor product framework (even using infinite dimensions). This seems to require some fancy mathematics. I intend to cover at least the first article and perhaps state some results from the second.
 
 #### Ravi Kunjwal
 
@@ -93,6 +116,15 @@ Quantum thermodynamics can be cast as a resource theory by considering free acce
 
 ## Confirmed
 
+#### QLIC-meet #4 | (Thursday; TBA; 2020; 11:30 AM to 1:00 PM)
+
+| Segment | Speaker           | Topic | Minutes Allocated | Minutes Spent |
+| ------- | ----------------- | ----- | ----------------- | ------------- |
+| Talk    | Chrysoula Vlachou | TBA   | 45+10             |               |
+| Update  | "open             |       | 15                |               |
+
+
+
 #### Lecture Set 4 (Thursdays; ~~April,16, 23 and 30~~; 2020)
 
 **POSTPONED - date to be defined according to the evolution of the situation at the ULB**
@@ -105,7 +137,7 @@ Quantum thermodynamics can be cast as a resource theory by considering free acce
 
 
 
-#### QLIC-meet #3 | (Thursday; TBA; 2020; 11:30 AM to 1:00 PM)
+#### QLIC-meet #4 | (Thursday; TBA; 2020; 11:30 AM to 1:00 PM)
 
 | Segment | Speaker           | Topic | Minutes Allocated | Minutes Spent |
 | ------- | ----------------- | ----- | ----------------- | ------------- |
