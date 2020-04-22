@@ -11,9 +11,7 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 #### QLIC-meet #3 | (Thursday; April 30; 2020; 11:30 AM to 1:00 PM; On Teams)
 
-This meet is the first one of a series that will be held online on Teams. 
-
-Link to join the team: https://teams.microsoft.com/l/team/19%3afcf32cb364ab4a398a621ce204598757%40thread.tacv2/conversations?groupId=1487fcdf-5dd9-4d1c-b954-864688f6b9cc&tenantId=30a5145e-75bd-4212-bb02-8ff9c0ea4ae9
+This meet is the first one of a series that will be held online on Teams (use [this link](https://teams.microsoft.com/l/team/19%3afcf32cb364ab4a398a621ce204598757%40thread.tacv2/conversations?groupId=1487fcdf-5dd9-4d1c-b954-864688f6b9cc&tenantId=30a5145e-75bd-4212-bb02-8ff9c0ea4ae9) to join).
 
 | Segment | Speaker          | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ---------------- | ------------------------------------------------------------ | ----------------- | ------------- |
@@ -26,7 +24,7 @@ Link to join the team: https://teams.microsoft.com/l/team/19%3afcf32cb364ab4a398
 
 #### Lecture Set 3 (Thursdays; Feb 27, March 5 and May 7, 14; 2020) | Bell nonlocality
 
-The two last lectures will be given on Teams (https://teams.microsoft.com/l/team/19%3afcf32cb364ab4a398a621ce204598757%40thread.tacv2/conversations?groupId=1487fcdf-5dd9-4d1c-b954-864688f6b9cc&tenantId=30a5145e-75bd-4212-bb02-8ff9c0ea4ae9) due to the situation. The dates will be confirmed soon.
+The remaining two lectures will be delivered on Teams (use [this link](https://teams.microsoft.com/l/team/19%3afcf32cb364ab4a398a621ce204598757%40thread.tacv2/conversations?groupId=1487fcdf-5dd9-4d1c-b954-864688f6b9cc&tenantId=30a5145e-75bd-4212-bb02-8ff9c0ea4ae9)), due to the situation. The dates will be confirmed soon.
 
 Lecture series on Bell nonlocality, an overview of the field with a focus on recent results and applications (see [references](#Emmanuel-Zambrini-Cruzeiro)).
 
