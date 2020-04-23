@@ -30,9 +30,9 @@ Lecture series on Bell nonlocality, an overview of the field with a focus on rec
 
 | Segment/Date           | Slot | Speaker                    | Topic                                                    | Minutes Allocated | Minutes Spent |
 | ----------------------|-------| -------------------------- | -------------------------------------------------------- | ----------------- | ------------- |
-| Lecture 1; <br />Feb 27  |11:00 AM – 1:00 PM| Emmanuel Zambrini Cruzeiro | Nonlocal games and correlations | 120               | 120 |
-| Lecture 2; <br />March 5 |11:00 AM – 1:00 PM| Emmanuel Zambrini Cruzeiro | Nonlocality in quantum theory | 120               | 120 |
-| Lecture 3; <br />May 7 (to be confirmed) |11:00 AM – 1:00 PM| Emmanuel Zambrini Cruzeiro | Applications of quantum nonlocality  | 120               |               |
+| Lecture 1; <br />Feb 27  |11:00 AM – 1:00 PM| Emmanuel Zambrini Cruzeiro | Nonlocal games and correlations <sub><sup>[[video](https://youtu.be/IKEikcaUF-E)]</sup></sub> | 120               | 120 |
+| Lecture 2; <br />March 5 |11:00 AM – 1:00 PM| Emmanuel Zambrini Cruzeiro | Nonlocality in quantum theory <sub><sup>[[video](https://youtu.be/2-Qs-adz60k)]</sup></sub> | 120               | 120 |
+| Lecture 3; <br />May 7 (to be confirmed) |11:00 AM – 1:00 PM| Emmanuel Zambrini Cruzeiro | Applications of quantum nonlocality | 120               |               |
 | Lecture 4; <br />May 14 (to be confirmed) |11:00 AM – 1:00 PM| Emmanuel Zambrini Cruzeiro | Selected topics of Bell nonlocality: open problems | 120               |               |
 
 
@@ -69,26 +69,11 @@ Van Dam and Hayden (in 2003; DOI: 10.1103/PhysRevA.67.060302) introduced a conce
 
 ##### Noise-robust contextuality for Kochen-Specker type scenarios: two complementary frameworks
 
-The Kochen-Specker (KS) theorem is a mathematical result
-that points out the inconsistency between quantum theory and any
-putative underlying model of it where the outcomes of a measurement
-are fixed prior to the act of measurement by some (possibly hidden)
-physical states of the system in a manner that does not depend on
-(operationally irrelevant) details of the measurement context, i.e.,
-the outcome assignments are fixed noncontextually in the model. Thus,
-quantum theory admits KS-contextuality. On the other hand, within the
-generalized approach to contextuality proposed by Spekkens, the
-assumption of deterministic outcome assignments is relaxed and,
-instead, noncontextuality for preparation procedures is invoked to
-obtain constraints on the operational statistics. I will present two
-complementary hypergraph frameworks that accomplish the project of
-accommodating Kochen-Specker (KS) type scenarios within the
-generalized approach to contextuality due to Spekkens. One of these
-frameworks generalizes the graph-theoretic framework of Cabello,
-Severini, and Winter for statistical proofs of KS-contextuality and
-the other one outlines how one can obtain noise-robust
-noncontextuality inequalities based on logical proofs KS
-contextuality. Time permitting, I will speculate on possible
+The Kochen-Specker (KS) theorem is a mathematical result that points out the inconsistency between quantum theory and any putative underlying model of it where the outcomes of a measurement
+are fixed prior to the act of measurement by some (possibly hidden) physical states of the system in a manner that does not depend on (operationally irrelevant) details of the measurement context, i.e.,
+the outcome assignments are fixed noncontextually in the model. Thus, quantum theory admits KS-contextuality. On the other hand, within the generalized approach to contextuality proposed by Spekkens, the assumption of deterministic outcome assignments is relaxed and, instead, noncontextuality for preparation procedures is invoked to obtain constraints on the operational statistics. I will present two
+complementary hypergraph frameworks that accomplish the project of accommodating Kochen-Specker (KS) type scenarios within the generalized approach to contextuality due to Spekkens. One of these
+frameworks generalizes the graph-theoretic framework of Cabello, Severini, and Winter for statistical proofs of KS-contextuality and the other one outlines how one can obtain noise-robust noncontextuality inequalities based on logical proofs KS contextuality. Time permitting, I will speculate on possible
 applications of these frameworks.
 
 Based on the following papers:
@@ -119,7 +104,7 @@ Quantum thermodynamics can be cast as a resource theory by considering free acce
 | Segment | Speaker           | Topic | Minutes Allocated | Minutes Spent |
 | ------- | ----------------- | ----- | ----------------- | ------------- |
 | Talk    | Chrysoula Vlachou | TBA   | 45+10             |               |
-| Update  | "open             |       | 15                |               |
+| Update  | "open"            |       | 15                |               |
 
 
 
@@ -162,8 +147,8 @@ Quantum thermodynamics can be cast as a resource theory by considering free acce
 
 | Segment | Speaker                  | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Zacharie van Herstraeten | Quantum thermodynamics in a multipartite setting (see [abstract](#Zacharie-van-Herstraeten)) | 45+10             | 45            |
-| Update  | Timothée Hoffreumon      | The Multiround Process Matrix                                | 15                | 30            |
+| Talk    | Zacharie van Herstraeten | Quantum thermodynamics in a multipartite setting (see [abstract](#Zacharie-van-Herstraeten)) <sub><sup>[[video](https://youtu.be/YflC8w9cGY4)]</sup></sub> | 45+10             | 45            |
+| Update  | Timothée Hoffreumon      | The Multiround Process Matrix <sub><sup>[[video](https://youtu.be/RFt9-rJAROo)]</sup></sub> | 15                | 30            |
 
 
 
