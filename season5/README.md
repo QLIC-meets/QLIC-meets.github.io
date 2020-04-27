@@ -99,7 +99,7 @@ Quantum thermodynamics can be cast as a resource theory by considering free acce
 
 ## Confirmed
 
-#### QLIC-meet #4 | (Wedneesday; May 20; 2020; 11:30 AM to 1:00 PM)
+#### QLIC-meet #4 | (Wednesday; May 20; 2020; 11:30 AM to 1:00 PM)
 
 | Segment | Speaker           | Topic | Minutes Allocated | Minutes Spent |
 | ------- | ----------------- | ----- | ----------------- | ------------- |
