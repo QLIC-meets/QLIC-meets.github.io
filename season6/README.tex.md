@@ -30,7 +30,7 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 | Segment | Speaker           | Topic | Minutes Allocated | Minutes Spent |
 | ------- | ----------------- | ----- | ----------------- | ------------- |
 | Talk    | Chrysoula Vlachou | TBA   | 45+10             |               |
-| Update  | "open             |       | 15                |               |
+| Update  | "open"            |       | 15                |               |
 
 
 
