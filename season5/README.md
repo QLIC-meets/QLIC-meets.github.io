@@ -16,7 +16,7 @@ This meet is the first one of a series that will be held online on Teams (use [t
 | Segment | Speaker          | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ---------------- | ------------------------------------------------------------ | ----------------- | ------------- |
 | Talk    | Atul Singh Arora | Embezzlement: Universal entanglement transformations without communication (see [abstract](#Atul-Singh-Arora)) | 45+10             |               |
-| Update  |                  |                                                              |                   |               |
+| Update  | Célia Griffet    | QLIC-preview                                                 | 15                |               |
 
 *Note: The presentation style will be experimental, given the online format. I intend to use a mix of scanned hand-written notes and live writing on the Surface. I apologise for any resulting inconvenience in advance.*
 
