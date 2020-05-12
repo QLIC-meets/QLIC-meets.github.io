@@ -8,20 +8,6 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 ## Upcoming
 
 
-
-#### QLIC-meet #3 | (Thursday; April 30; 2020; 11:30 AM to 1:00 PM; On Teams)
-
-This meet is the first one of a series that will be held online on Teams (use [this link](https://teams.microsoft.com/l/team/19%3afcf32cb364ab4a398a621ce204598757%40thread.tacv2/conversations?groupId=1487fcdf-5dd9-4d1c-b954-864688f6b9cc&tenantId=30a5145e-75bd-4212-bb02-8ff9c0ea4ae9) to join).
-
-| Segment | Speaker          | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ---------------- | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Atul Singh Arora | Embezzlement: Universal entanglement transformations without communication (see [abstract](#Atul-Singh-Arora)) | 45+10             |               |
-| Update  | Célia Griffet    | QLIC-preview                                                 | 15                |               |
-
-*Note: The presentation style will be experimental, given the online format. I intend to use a mix of scanned hand-written notes and live writing on the Surface. I apologise for any resulting inconvenience in advance.*
-
-
-
 #### Lecture Set 3 (Thursdays; Feb 27, March 5 and May 7, 14; 2020) | Bell nonlocality
 
 The remaining two lectures will be delivered on Teams (use [this link](https://teams.microsoft.com/l/team/19%3afcf32cb364ab4a398a621ce204598757%40thread.tacv2/conversations?groupId=1487fcdf-5dd9-4d1c-b954-864688f6b9cc&tenantId=30a5145e-75bd-4212-bb02-8ff9c0ea4ae9)), due to the situation. The dates will be confirmed soon.  
@@ -32,7 +18,7 @@ Lecture series on Bell nonlocality, an overview of the field with a focus on rec
 | ----------------------|-------| -------------------------- | -------------------------------------------------------- | ----------------- | ------------- |
 | Lecture 1; <br />Feb 27  |11:00 AM – 1:00 PM| Emmanuel Zambrini Cruzeiro | Nonlocal games and correlations <sub><sup>[[video](https://youtu.be/IKEikcaUF-E)]</sup></sub> | 120               | 120 |
 | Lecture 2; <br />March 5 |11:00 AM – 1:00 PM| Emmanuel Zambrini Cruzeiro | Nonlocality in quantum theory <sub><sup>[[video](https://youtu.be/2-Qs-adz60k)]</sup></sub> | 120               | 120 |
-| Lecture 3; <br />May 7 |2:00 PM – 4:00 PM| Emmanuel Zambrini Cruzeiro | Applications of quantum nonlocality | 120               |               |
+| Lecture 3; <br />May 7 |2:00 PM – 4:00 PM| Emmanuel Zambrini Cruzeiro | Applications of quantum nonlocality <sub><sup>[[unedited video](https://web.microsoftstream.com/video/123391e5-e94f-43af-ae47-00ff3cae0324)]</sup></sub> | 120               | ~110 |
 | Lecture 4; <br />May 14 |2:00 PM – 4:00 PM| Emmanuel Zambrini Cruzeiro | Selected topics of Bell nonlocality: open problems | 120               |               |
 
 
@@ -140,6 +126,19 @@ Quantum thermodynamics can be cast as a resource theory by considering free acce
 
 
 ## Past
+
+
+#### QLIC-meet #3 | (Thursday; April 30; 2020; 11:30 AM to 1:00 PM; On Teams)
+
+This meet is the first one of a series that will be held online on Teams (use [this link](https://teams.microsoft.com/l/team/19%3afcf32cb364ab4a398a621ce204598757%40thread.tacv2/conversations?groupId=1487fcdf-5dd9-4d1c-b954-864688f6b9cc&tenantId=30a5145e-75bd-4212-bb02-8ff9c0ea4ae9) to join).
+
+| Segment | Speaker          | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ---------------- | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Atul Singh Arora | Embezzlement: Universal entanglement transformations without communication (see [abstract](#Atul-Singh-Arora)) <sub><sup>[[unedited video](https://web.microsoftstream.com/video/d267a5d2-ef76-471d-bd55-e8d7976abac5)]</sup></sub> | 45+10             | ~60           |
+| Update  | Célia Griffet    | QLIC-preview <sub><sup>[[unedited video](https://web.microsoftstream.com/video/d267a5d2-ef76-471d-bd55-e8d7976abac5)]</sup></sub> | 15                | ~20           |
+
+*Note: The presentation style will be experimental, given the online format. I intend to use a mix of scanned hand-written notes and live writing on the Surface. I apologise for any resulting inconvenience in advance.*
+
 
 
 
