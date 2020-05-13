@@ -21,7 +21,12 @@ Lecture series on Bell nonlocality, an overview of the field with a focus on rec
 | Lecture 3; <br />May 7 |2:00 PM – 4:00 PM| Emmanuel Zambrini Cruzeiro | Applications of quantum nonlocality <sub><sup>[[unedited video](https://web.microsoftstream.com/video/123391e5-e94f-43af-ae47-00ff3cae0324)]</sup></sub> | 120               | ~110 |
 | Lecture 4; <br />May 14 |2:00 PM – 4:00 PM| Emmanuel Zambrini Cruzeiro | Selected topics of Bell nonlocality: open problems | 120               |               |
 
+#### QLIC-meet #4 | (Wednesday; May 20; 2020; 11:30 AM to 1:00 PM)
 
+| Segment | Speaker           | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ----------------- | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Chrysoula Vlachou | Quantum key distribution overcoming extreme noise: simultaneous subspace coding using high-dimensional entanglement (see [abstract](#Chrysoula-Vlachou)) | 45+10             |               |
+| Update  | "open"            |                                                              | 15                |               |
 
 [More upcoming](#Confirmed) 
 
@@ -44,6 +49,15 @@ Some references:
 
 
 ## Abstracts
+
+#### Chrysoula Vlachou
+
+##### Quantum key distribution overcoming extreme noise: simultaneous subspace coding using high-dimensional entanglement
+
+High-dimensional entanglement promises to increase the information capacity of photons and is now routinely generated exploiting spatio-temporal degrees of freedom of single photons. A curious feature of these systems is the possibility to certify entanglement despite strong noise in the data. We show that it is also possible to exploit this noisy entanglement by introducing a protocol that uses mutliple subspaces of the high-dimensional system simultaneously. Our protocol can be used to increase key rates in realistic conditions. To that end, we conduct two simulations of our protocol for noise models that apply to the two most commonly used sources of high-dimensional entanglement: time-bins and spatial modes.
+
+
+
 
 #### Atul Singh Arora
 
@@ -84,14 +98,6 @@ Quantum thermodynamics can be cast as a resource theory by considering free acce
 
 
 ## Confirmed
-
-#### QLIC-meet #4 | (Wednesday; May 20; 2020; 11:30 AM to 1:00 PM)
-
-| Segment | Speaker           | Topic | Minutes Allocated | Minutes Spent |
-| ------- | ----------------- | ----- | ----------------- | ------------- |
-| Talk    | Chrysoula Vlachou | TBA   | 45+10             |               |
-| Update  | "open"            |       | 15                |               |
-
 
 
 #### Lecture Set 4 (Thursdays; ~~April,16, 23 and 30~~; 2020)
