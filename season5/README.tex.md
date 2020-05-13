@@ -22,10 +22,10 @@ Lecture series on Bell nonlocality, an overview of the field with a focus on rec
 
 #### QLIC-meet #4 | (Wednesday; May 20; 2020; 11:30 AM to 1:00 PM)
 
-| Segment | Speaker           | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ----------------- | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Chrysoula Vlachou | Quantum key distribution overcoming extreme noise: simultaneous subspace coding using high-dimensional entanglement (see [abstract](#Chrysoula-Vlachou)) | 45+10             |               |
-| Update  | "open"            |                                                              | 15                |               |
+| Segment | Speaker               | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | --------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Chrysoula Vlachou     | Quantum key distribution overcoming extreme noise: simultaneous subspace coding using high-dimensional entanglement (see [abstract](#Chrysoula-Vlachou)) | 45+10             |               |
+| Update  | Shantanav Chakraborty | About the Twitter account's usage policy                     | 15                |               |
 
 [More upcoming](#Confirmed) 
 
