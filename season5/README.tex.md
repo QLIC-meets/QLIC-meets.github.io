@@ -30,7 +30,7 @@ Lecture series on Bell nonlocality, an overview of the field with a focus on rec
 
 [More upcoming](#Confirmed) 
 
-
+ 
 
 
 ## Lecture Series | Details
