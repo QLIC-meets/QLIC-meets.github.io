@@ -7,6 +7,15 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Upcoming
 
+#### QLIC-meet #4 | (Wednesday; May 20; 2020; 11:30 AM to 1:00 PM)
+
+| Segment | Speaker               | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | --------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Chrysoula Vlachou     | Quantum key distribution overcoming extreme noise: simultaneous subspace coding using high-dimensional entanglement (see [abstract](#Chrysoula-Vlachou)) | 45+10             |               |
+| Update  | Shantanav Chakraborty | About the Twitter account's usage policy                     | 15                |               |
+
+
+
 [More upcoming](#Confirmed) 
 
 [Uncertified Random List Generator](https://mybinder.org/v2/gh/QLIC-meets/QLIC-meets.github.io/master?filepath=season6/lineUp/lineUp.ipynb)
@@ -20,6 +29,12 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 
 ## Abstracts
+
+#### Chrysoula Vlachou
+
+##### Quantum key distribution overcoming extreme noise: simultaneous subspace coding using high-dimensional entanglement
+
+High-dimensional entanglement promises to increase the information capacity of photons and is now routinely generated exploiting spatio-temporal degrees of freedom of single photons. A curious feature of these systems is the possibility to certify entanglement despite strong noise in the data. We show that it is also possible to exploit this noisy entanglement by introducing a protocol that uses mutliple subspaces of the high-dimensional system simultaneously. Our protocol can be used to increase key rates in realistic conditions. To that end, we conduct two simulations of our protocol for noise models that apply to the two most commonly used sources of high-dimensional entanglement: time-bins and spatial modes.
 
 
 
