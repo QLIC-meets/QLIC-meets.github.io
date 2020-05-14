@@ -40,16 +40,19 @@ High-dimensional entanglement promises to increase the information capacity of p
 
 ## Confirmed
 
-#### QLIC-meet #3 | (Thursday; TBA; 2020; 11:30 AM to 1:00 PM)
-
-| Segment | Speaker           | Topic | Minutes Allocated | Minutes Spent |
-| ------- | ----------------- | ----- | ----------------- | ------------- |
-| Talk    | Chrysoula Vlachou | TBA   | 45+10             |               |
-| Update  | "open"            |       | 15                |               |
+#### Lecture Set 4 (Thursdays; May 20 and June 04 and 11; 2020)
 
 
 
-#### Lecture Set 5 (Wednesday; TBA ; 2020)
+| Segment/Date            | Slot               | Speaker       | Topic | Minutes Allocated | Minutes Spent |
+| ----------------------- | ------------------ | ------------- | ----- | ----------------- | ------------- |
+| Lecture 1;<br />May 20  | 11:00 AM – 1:00 PM | Leonardo Novo | TBA   | 120               |               |
+| Lecture 2;<br />June 04 | 11:00 AM – 1:00 PM | Leonardo Novo | TBA   | 120               |               |
+| Lecture 3;<br />June 11 | 11:00 AM – 1:00 PM | Leonardo Novo | TBA   | 120               |               |
+
+
+
+#### Lecture Set 5 (Thursday; TBA ; 2020)
 
 | Segment/Date        | Slot               | Speaker             | Topic                       | Minutes Allocated | Minutes Spent |
 | ------------------- | ------------------ | ------------------- | --------------------------- | ----------------- | ------------- |
