@@ -20,7 +20,7 @@ Lecture series on Bell nonlocality, an overview of the field with a focus on rec
 | Lecture 1; <br />Feb 27  |11:00 AM – 1:00 PM| Emmanuel Zambrini Cruzeiro | Nonlocal games and correlations <sub><sup>[[video](https://youtu.be/IKEikcaUF-E)]</sup></sub> | 120               | 120 |
 | Lecture 2; <br />March 5 |11:00 AM – 1:00 PM| Emmanuel Zambrini Cruzeiro | Nonlocality in quantum theory <sub><sup>[[video](https://youtu.be/2-Qs-adz60k)]</sup></sub> | 120               | 120 |
 | Lecture 3; <br />May 7 |2:00 PM – 4:00 PM| Emmanuel Zambrini Cruzeiro | Applications of quantum nonlocality <sub><sup>[[unedited video](https://web.microsoftstream.com/video/123391e5-e94f-43af-ae47-00ff3cae0324)]</sup></sub> | 120               | ~110 |
-| Lecture 4; <br />May 14 |2:00 PM – 4:00 PM| Emmanuel Zambrini Cruzeiro | Selected topics of Bell nonlocality: open problems | 120               |               |
+| Lecture 4; <br />May 14 |2:00 PM – 4:00 PM| Emmanuel Zambrini Cruzeiro | Selected topics of Bell nonlocality: open problems | 120               | ~90 |
 
 
 
