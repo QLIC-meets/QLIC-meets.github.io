@@ -163,11 +163,15 @@ Secondary. Instant dissemination of recent results within QLIC.
 
  
 
+
+
 *Suggested Formats:* 
 
 Option I: A 10-15 minute short video.
 
 Option II: A long presentation structured such that the first 10-15 minutes of the introduction can form a short video for Twitter.
+
+
 
 
 
