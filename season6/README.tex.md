@@ -148,3 +148,35 @@ QLIC-meets is an initiative to facilitate further collaboration and learning wit
 *Format:* 1 hour. Invited/visiting speaker.
 
 *Typical Schedule*: Thursday, before lunch (11:30 AM—1:00 PM).
+
+
+
+
+
+#### QLIC-preview
+
+*Objective:* Twofold (if feasible).
+
+Primary. A short video description that can accompany the Twitter announcement of the article.
+
+Secondary. Instant dissemination of recent results within QLIC.
+
+ 
+
+*Suggested Formats:* 
+
+Option I: A 10-15 minute short video.
+
+Option II: A long presentation structured such that the first 10-15 minutes of the introduction can form a short video for Twitter.
+
+
+
+*Remarks*
+
+NB. For Option I, the speaker may choose to just record it themselves or we can do it with a live audience.
+
+NB 2. In both cases, the first 10-15 minutes will be "question-free" to aid the time restriction.
+
+
+
+*Typical Schedule:* These will be organised independently of the other QLIC-events, preferably within the first two weeks of the announcement on arXiv.
