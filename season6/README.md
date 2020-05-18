@@ -173,6 +173,10 @@ Option II: A long presentation structured such that the first 10-15 minutes of t
 
 
 
+*Typical Schedule:* These will be organised independently of the other QLIC-events, preferably within the first two weeks of the announcement on arXiv.
+
+
+
 
 
 *Remarks*
@@ -180,7 +184,3 @@ Option II: A long presentation structured such that the first 10-15 minutes of t
 NB. For Option I, the speaker may choose to just record it themselves or we can do it with a live audience.
 
 NB 2. In both cases, the first 10-15 minutes will be "question-free" to aid the time restriction.
-
-
-
-*Typical Schedule:* These will be organised independently of the other QLIC-events, preferably within the first two weeks of the announcement on arXiv.
