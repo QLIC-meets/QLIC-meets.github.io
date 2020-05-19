@@ -25,6 +25,17 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Lecture Series | Details
 
+#### Leonardo Novo 
+
+##### How to make neutral particles "feel" an artificial gauge field?
+
+The purpose of quantum simulation is to make a certain controllable quantum system behave like a different quantum system that we would like to study but it's hard to prepare and control. A particularly interesting system is that of charged quantum particles in a magnetic field, which gives rise to physical phenomena like the Quantum Hall effect. I will explain how we can study the physics of this system using neutral particles, such as neutral atoms or photons, by using a periodic driving force  that effectively creates an artificial magnetic field. To explain this I will review some important theoretical tools such as Floquet's theorem or the Magnus expansion.   
+
+##### Hamiltonian complexity and universal adiabatic quantum computation
+
+How hard is it to predict the ground state energy of a physical system? In the classical case, Baharona has shown  in 1982 that predicting the ground state energy of a system of interacting classical spins is NP-complete which, loosely speaking, represents the class of problems whose solution is easy to verify but, in general, is hard to come up with (think of sudoku, for example). In a ground-breaking result, Kitaev has shown that determining the ground state energy of a quantum Hamiltonian is QMA-complete i.e., the class of problems which can be easily verified by a quantum computer. The main idea behind the proof is to relate the output state of a quantum circuit to the ground state of a Hamiltonian via a construction due to Feynman (Feynman clock).I will explain Kitaev's proof and demonstrate how these tools were used to prove
+that the model of adiabatic quantum computation, which is based on the slow evolution of a Hamiltonian, is as powerful as the more familiar circuit model of quantum computation.
+
 
 
 
@@ -44,12 +55,12 @@ High-dimensional entanglement promises to increase the information capacity of p
 
 
 
-| Segment/Date            | Slot               | Speaker       | Topic | Minutes Allocated | Minutes Spent |
-| ----------------------- | ------------------ | ------------- | ----- | ----------------- | ------------- |
-| Lecture 1;<br />May 28  | 11:00 AM – 1:00 PM | Leonardo Novo | TBA   | 120               |               |
-| Lecture 2;<br />June 04 | 11:00 AM – 1:00 PM | Leonardo Novo | TBA   | 120               |               |
-| Lecture 3;<br />June 11 | 11:00 AM – 1:00 PM | Leonardo Novo | TBA   | 120               |               |
-| Lecture 4;<br />June 18 | 11:00 AM – 1:00 PM | Leonardo Novo | TBA   | 120               |               |
+| Segment/Date            | Slot               | Speaker       | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ----------------------- | ------------------ | ------------- | ------------------------------------------------------------ | ----------------- | ------------- |
+| Lecture 1;<br />May 28  | 11:00 AM – 1:00 PM | Leonardo Novo | How to make neutral particles "feel" an artificial gauge field? (see [details](#Leonardo-Novo)) | 120               |               |
+| Lecture 2;<br />June 04 | 11:00 AM – 1:00 PM | Leonardo Novo | Hamiltonian complexity and universal adiabatic quantum computation (see [details](#Hamiltonian-complexity-and-universal-adiabatic-quantum-computation)) | 120               |               |
+| Lecture 3;<br />June 11 | 11:00 AM – 1:00 PM | Leonardo Novo | Hamiltonian complexity and universal adiabatic quantum computation (see [details](#Hamiltonian-complexity-and-universal-adiabatic-quantum-computation)) | 120               |               |
+| Lecture 4;<br />June 18 | 11:00 AM – 1:00 PM | Leonardo Novo | TBA (The subject will depend on the previous lectures)       | 120               |               |
 
 
 
