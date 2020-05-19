@@ -40,7 +40,7 @@ High-dimensional entanglement promises to increase the information capacity of p
 
 ## Confirmed
 
-#### Lecture Set 4 (Thursdays; May 28 and June 04 and 11; 2020)
+#### Lecture Set 4 (Thursdays; May 28 and June 04, 11 and 18; 2020)
 
 
 
@@ -49,6 +49,7 @@ High-dimensional entanglement promises to increase the information capacity of p
 | Lecture 1;<br />May 28  | 11:00 AM – 1:00 PM | Leonardo Novo | TBA   | 120               |               |
 | Lecture 2;<br />June 04 | 11:00 AM – 1:00 PM | Leonardo Novo | TBA   | 120               |               |
 | Lecture 3;<br />June 11 | 11:00 AM – 1:00 PM | Leonardo Novo | TBA   | 120               |               |
+| Lecture 4;<br />June 18 | 11:00 AM – 1:00 PM | Leonardo Novo | TBA   | 120               |               |
 
 
 
