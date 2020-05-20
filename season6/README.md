@@ -9,6 +9,8 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 #### QLIC-meet #4 | (Wednesday; May 20; 2020; 11:30 AM to 1:00 PM)
 
+[Google meet link](https://meet.google.com/vnf-hwuw-fzv)
+
 | Segment | Speaker               | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | --------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
 | Talk    | Chrysoula Vlachou     | Quantum key distribution overcoming extreme noise: simultaneous subspace coding using high-dimensional entanglement (see [abstract](#Chrysoula-Vlachou)) | 45+10             |               |
