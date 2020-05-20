@@ -13,7 +13,7 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 | Segment | Speaker               | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | --------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Chrysoula Vlachou     | Quantum key distribution overcoming extreme noise: simultaneous subspace coding using high-dimensional entanglement (see [abstract](#Chrysoula-Vlachou)) | 45+10             |               |
+| Talk    | Chrysoula Vlachou     | Quantum key distribution overcoming extreme noise: simultaneous subspace coding using high-dimensional entanglement (see [abstract](#Chrysoula-Vlachou))  <sub><sup>[[unedited video](https://universitelibrebruxelles.sharepoint.com/sites/GRP_QLIC-meets/Documents%20partages/General/QLIC-meet_Chrysoula_2020-05-20%2011-34-34.mkv)]</sup></sub> | 45+10             | ~50           |
 | Update  | Shantanav Chakraborty | About the Twitter account's usage policy                     | 15                |               |
 
 
