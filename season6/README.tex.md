@@ -7,14 +7,16 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Upcoming
 
-#### QLIC-meet #4 | (Wednesday; May 20; 2020; 11:30 AM to 1:00 PM)
+#### Lecture Set 4 (Thursdays; May 28 and June 04, 11 and 18; 2020)
 
-[Google meet link](https://meet.google.com/vnf-hwuw-fzv)
 
-| Segment | Speaker               | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | --------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Chrysoula Vlachou     | Quantum key distribution overcoming extreme noise: simultaneous subspace coding using high-dimensional entanglement (see [abstract](#Chrysoula-Vlachou))  <sub><sup>[[unedited video](https://universitelibrebruxelles.sharepoint.com/sites/GRP_QLIC-meets/Documents%20partages/General/QLIC-meet_Chrysoula_2020-05-20%2011-34-34.mkv)]</sup></sub> | 45+10             | ~50           |
-| Update  | Shantanav Chakraborty | About the Twitter account's usage policy                     | 15                |               |
+
+| Segment/Date            | Slot               | Speaker       | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ----------------------- | ------------------ | ------------- | ------------------------------------------------------------ | ----------------- | ------------- |
+| Lecture 1;<br />May 28  | 11:00 AM – 1:00 PM | Leonardo Novo | How to make neutral particles "feel" an artificial gauge field? (see [details](#Leonardo-Novo)) | 120               |               |
+| Lecture 2;<br />June 04 | 11:00 AM – 1:00 PM | Leonardo Novo | Hamiltonian complexity and universal adiabatic quantum computation (see [details](#Hamiltonian-complexity-and-universal-adiabatic-quantum-computation)) | 120               |               |
+| Lecture 3;<br />June 11 | 11:00 AM – 1:00 PM | Leonardo Novo | Hamiltonian complexity and universal adiabatic quantum computation (see [details](#Hamiltonian-complexity-and-universal-adiabatic-quantum-computation)) | 120               |               |
+| Lecture 4;<br />June 18 | 11:00 AM – 1:00 PM | Leonardo Novo | TBA (The subject will depend on the previous lectures)       | 120               |               |
 
 
 
@@ -52,18 +54,6 @@ High-dimensional entanglement promises to increase the information capacity of p
 
 ## Confirmed
 
-#### Lecture Set 4 (Thursdays; May 28 and June 04, 11 and 18; 2020)
-
-
-
-| Segment/Date            | Slot               | Speaker       | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ----------------------- | ------------------ | ------------- | ------------------------------------------------------------ | ----------------- | ------------- |
-| Lecture 1;<br />May 28  | 11:00 AM – 1:00 PM | Leonardo Novo | How to make neutral particles "feel" an artificial gauge field? (see [details](#Leonardo-Novo)) | 120               |               |
-| Lecture 2;<br />June 04 | 11:00 AM – 1:00 PM | Leonardo Novo | Hamiltonian complexity and universal adiabatic quantum computation (see [details](#Hamiltonian-complexity-and-universal-adiabatic-quantum-computation)) | 120               |               |
-| Lecture 3;<br />June 11 | 11:00 AM – 1:00 PM | Leonardo Novo | Hamiltonian complexity and universal adiabatic quantum computation (see [details](#Hamiltonian-complexity-and-universal-adiabatic-quantum-computation)) | 120               |               |
-| Lecture 4;<br />June 18 | 11:00 AM – 1:00 PM | Leonardo Novo | TBA (The subject will depend on the previous lectures)       | 120               |               |
-
-
 
 #### Lecture Set 5 (Thursday; TBA ; 2020)
 
@@ -78,6 +68,16 @@ High-dimensional entanglement promises to increase the information capacity of p
 
 
 ## Past
+
+#### QLIC-meet #4 | (Wednesday; May 20; 2020; 11:30 AM to 1:00 PM)
+
+[Google meet link](https://meet.google.com/vnf-hwuw-fzv)
+
+| Segment | Speaker               | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | --------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Chrysoula Vlachou     | Quantum key distribution overcoming extreme noise: simultaneous subspace coding using high-dimensional entanglement (see [abstract](#Chrysoula-Vlachou))  <sub><sup>[[unedited video](https://universitelibrebruxelles.sharepoint.com/sites/GRP_QLIC-meets/Documents%20partages/General/QLIC-meet_Chrysoula_2020-05-20%2011-34-34.mkv)]</sup></sub> | 45+10             | ~50           |
+| Update  | Shantanav Chakraborty | About the Twitter account's usage policy                     | 15                |               |
+
 
 
 
