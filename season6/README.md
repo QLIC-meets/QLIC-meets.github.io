@@ -14,7 +14,7 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 | Segment/Date            | Slot               | Speaker       | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ----------------------- | ------------------ | ------------- | ------------------------------------------------------------ | ----------------- | ------------- |
 | Lecture 1;<br />May 28  | 11:00 AM – 1:00 PM | Leonardo Novo | How to make neutral particles "feel" an artificial gauge field? (see [details](#Leonardo-Novo)) <sub><sup>[[unedited video]](https://web.microsoftstream.com/video/926ae9af-a9c1-4699-8653-345b9bb94a06)</sup></sub> | 120               |               |
-| Lecture 2;<br />June 04 | 11:00 AM – 1:00 PM | Leonardo Novo | Hamiltonian complexity and universal adiabatic quantum computation (see [details](#Hamiltonian-complexity-and-universal-adiabatic-quantum-computation)) | 120               |               |
+| Lecture 2;<br />June 04 | 11:00 AM – 1:00 PM | Leonardo Novo | Hamiltonian complexity and universal adiabatic quantum computation (see [details](#Hamiltonian-complexity-and-universal-adiabatic-quantum-computation)) <sub><sup>[[unedited video](https://web.microsoftstream.com/video/c14c8ced-18bb-4a85-a9a5-96111efc2faa)]</sup></sub> | 120               |               |
 | Lecture 3;<br />June 11 | 11:00 AM – 1:00 PM | Leonardo Novo | Hamiltonian complexity and universal adiabatic quantum computation (see [details](#Hamiltonian-complexity-and-universal-adiabatic-quantum-computation)) | 120               |               |
 | Lecture 4;<br />June 18 | 11:00 AM – 1:00 PM | Leonardo Novo | TBA (The subject will depend on the previous lectures)       | 120               |               |
 
