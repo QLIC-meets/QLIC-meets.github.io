@@ -29,6 +29,26 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Lecture Series | Details
 
+#### Esteban Castro-Ruiz
+
+#### Techniques and Applications of Space-Time Quantum Reference Frames 
+
+##### Lecture 1
+
+Motivation and introduction. Transformation between spatial quantum reference frames. Relativity of entanglement and superposition. Transformation of the Hamiltonian. Equivalence principle for superposition of accelerations.
+
+##### Lecture 2
+
+ "Perspective neutral" formulation of quantum reference frame transformations. Group averaging. "Jumping" onto the perspective of a quantum reference frame. Equivalence between the perspective neutral approach and the approach of Lecture 1.
+
+##### Lecture 3
+
+Quantum reference frames for time. History states. Transformations between quantum temporal reference frames. Transformation of the evolution operator. Superpositions of mass/energy and relativity of the localisation of events. Open questions.
+
+
+
+
+
 #### Leonardo Novo 
 
 ##### How to make neutral particles "feel" an artificial gauge field?
@@ -55,13 +75,13 @@ High-dimensional entanglement promises to increase the information capacity of p
 ## Confirmed
 
 
-#### Lecture Set 5 (Thursday; TBA ; 2020)
+#### Lecture Set 5 (Thursday; TBA ; 2020) | Techniques and Applications of Space-Time Quantum Reference Frames
 
-| Segment/Date        | Slot               | Speaker             | Topic                       | Minutes Allocated | Minutes Spent |
-| ------------------- | ------------------ | ------------------- | --------------------------- | ----------------- | ------------- |
-| Lecture 1;<br />TBA | 11:00 AM – 1:00 PM | Esteban Castro-Ruiz | Some fancy relativity stuff | 120               |               |
-| Lecture 2;<br />TBA | 11:00 AM – 1:00 PM | Esteban Castro-Ruiz | TBA                         | 120               |               |
-| Lecture 3;<br />TBA | 11:00 AM – 1:00 PM | Esteban Castro-Ruiz | TBA                         | 120               |               |
+| Segment/Date        | Slot               | Speaker             | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------------------- | ------------------ | ------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
+| Lecture 1;<br />TBA | 11:00 AM – 1:00 PM | Esteban Castro-Ruiz | Motivation and introduction... (see [details](#Esteban-Castro-Ruiz)) | 120               |               |
+| Lecture 2;<br />TBA | 11:00 AM – 1:00 PM | Esteban Castro-Ruiz | "Perspective neutral" formulation of quantum reference frame transformations... (see [details](#Esteban-Castro-Ruiz)) | 120               |               |
+| Lecture 3;<br />TBA | 11:00 AM – 1:00 PM | Esteban Castro-Ruiz | Quantum reference frames for time... (see [details](#Esteban-Castro-Ruiz)) | 120               |               |
 
 
 
