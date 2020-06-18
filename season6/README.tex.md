@@ -7,16 +7,15 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Upcoming
 
-#### Lecture Set 4 (Thursdays; May 28 and June 04, 11 and 18; 2020)
+#### Lecture Set 5 (Thursdays, July 9, 16, 23 and 30; 2020) | Techniques and Applications of Space-Time Quantum Reference Frames
 
+| Segment/Date                  | Slot               | Speaker             | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ----------------------------- | ------------------ | ------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
+| Lecture 1;<br />July 9, 2020  | 11:00 AM – 1:00 PM | Esteban Castro-Ruiz | Motivation and introduction... (see [details](#Esteban-Castro-Ruiz)) | 120               |               |
+| Lecture 2;<br />July 16, 2020 | 11:00 AM – 1:00 PM | Esteban Castro-Ruiz | "Perspective neutral" formulation of quantum reference frame transformations... (see [details](#Esteban-Castro-Ruiz)) | 120               |               |
+| Lecture 3;<br />July 23, 2020 | 11:00 AM – 1:00 PM | Esteban Castro-Ruiz | Quantum reference frames for time... (see [details](#Esteban-Castro-Ruiz)) | 120               |               |
+| Lecture 4;<br />July 30, 2020 | 11:00 AM – 1:00 PM | Esteban Castro-Ruiz | «Buffer»                                                     | 120               |               |
 
-
-| Segment/Date            | Slot               | Speaker       | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ----------------------- | ------------------ | ------------- | ------------------------------------------------------------ | ----------------- | ------------- |
-| Lecture 1;<br />May 28  | 11:00 AM – 1:00 PM | Leonardo Novo | How to make neutral particles "feel" an artificial gauge field? (see [details](#Leonardo-Novo)) <sub><sup>[[unedited video]](https://web.microsoftstream.com/video/926ae9af-a9c1-4699-8653-345b9bb94a06)</sup></sub> | 120               | 90            |
-| Lecture 2;<br />June 04 | 11:00 AM – 1:00 PM | Leonardo Novo | Hamiltonian complexity and universal adiabatic quantum computation (see [details](#Hamiltonian-complexity-and-universal-adiabatic-quantum-computation)) <sub><sup>[[unedited video](https://web.microsoftstream.com/video/c14c8ced-18bb-4a85-a9a5-96111efc2faa)]</sup></sub> | 120               | 110           |
-| Lecture 3;<br />June 11 | 11:00 AM – 1:00 PM | Leonardo Novo | Hamiltonian complexity and universal adiabatic quantum computation (see [details](#Hamiltonian-complexity-and-universal-adiabatic-quantum-computation)) <sub><sup>[[unedited video](https://web.microsoftstream.com/video/75978227-b4d2-425c-870c-92f8b7bc67b8)]</sup></sub> | 120               | 120           |
-| Lecture 4;<br />June 18 | 11:00 AM – 1:00 PM | Leonardo Novo | Technical details (associated with Lectures 2 and 3)         | 120               |               |
 
 
 
@@ -68,19 +67,24 @@ High-dimensional entanglement promises to increase the information capacity of p
 
 ## Confirmed
 
-
-#### Lecture Set 5 (Thursdays, July 9, 16, 23 and 30; 2020) | Techniques and Applications of Space-Time Quantum Reference Frames
-
-| Segment/Date                  | Slot               | Speaker             | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ----------------------------- | ------------------ | ------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
-| Lecture 1;<br />July 9, 2020  | 11:00 AM – 1:00 PM | Esteban Castro-Ruiz | Motivation and introduction... (see [details](#Esteban-Castro-Ruiz)) | 120               |               |
-| Lecture 2;<br />July 16, 2020 | 11:00 AM – 1:00 PM | Esteban Castro-Ruiz | "Perspective neutral" formulation of quantum reference frame transformations... (see [details](#Esteban-Castro-Ruiz)) | 120               |               |
-| Lecture 3;<br />July 23, 2020 | 11:00 AM – 1:00 PM | Esteban Castro-Ruiz | Quantum reference frames for time... (see [details](#Esteban-Castro-Ruiz)) | 120               |               |
-| Lecture 4;<br />July 30, 2020 | 11:00 AM – 1:00 PM | Esteban Castro-Ruiz | «Buffer»                                                     | 120               |               |
-
-
+(Awaiting confirmation)
 
 ## Past
+
+
+#### Lecture Set 4 (Thursdays; May 28 and June 04, 11 and 18; 2020)
+
+
+
+| Segment/Date            | Slot               | Speaker       | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ----------------------- | ------------------ | ------------- | ------------------------------------------------------------ | ----------------- | ------------- |
+| Lecture 1;<br />May 28  | 11:00 AM – 1:00 PM | Leonardo Novo | How to make neutral particles "feel" an artificial gauge field? (see [details](#Leonardo-Novo)) <sub><sup>[[unedited video]](https://web.microsoftstream.com/video/926ae9af-a9c1-4699-8653-345b9bb94a06)</sup></sub> | 120               | 90            |
+| Lecture 2;<br />June 04 | 11:00 AM – 1:00 PM | Leonardo Novo | Hamiltonian complexity and universal adiabatic quantum computation (see [details](#Hamiltonian-complexity-and-universal-adiabatic-quantum-computation)) <sub><sup>[[unedited video](https://web.microsoftstream.com/video/c14c8ced-18bb-4a85-a9a5-96111efc2faa)]</sup></sub> | 120               | 110           |
+| Lecture 3;<br />June 11 | 11:00 AM – 1:00 PM | Leonardo Novo | Hamiltonian complexity and universal adiabatic quantum computation (see [details](#Hamiltonian-complexity-and-universal-adiabatic-quantum-computation)) <sub><sup>[[unedited video](https://web.microsoftstream.com/video/75978227-b4d2-425c-870c-92f8b7bc67b8)]</sup></sub> | 120               | 120           |
+| Lecture 4;<br />June 18 | 11:00 AM – 1:00 PM | Leonardo Novo | Technical details (associated with Lectures 2 and 3) <sub><sup>[[unedited video](https://web.microsoftstream.com/video/5a5837f2-2278-4a89-8f05-1b3097c5db60)]</sup></sub> | 120               |               |
+
+
+
 
 #### QLIC-meet #4 | (Wednesday; May 20; 2020; 11:30 AM to 1:00 PM)
 
