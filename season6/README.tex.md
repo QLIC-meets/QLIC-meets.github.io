@@ -7,14 +7,23 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Upcoming
 
-#### Lecture Set 5 (Thursdays, July 9, 16, 23 and 30; 2020) | Techniques and Applications of Space-Time Quantum Reference Frames
+#### QLIC-meet #5 | (Thursday; July 9; 2020; 11:30 AM to 1:00 PM)
 
-| Segment/Date                  | Slot               | Speaker             | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ----------------------------- | ------------------ | ------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
-| Lecture 1;<br />July 9, 2020  | 11:00 AM – 1:00 PM | Esteban Castro-Ruiz | Motivation and introduction... (see [details](#Esteban-Castro-Ruiz)) | 120               |               |
-| Lecture 2;<br />July 16, 2020 | 11:00 AM – 1:00 PM | Esteban Castro-Ruiz | "Perspective neutral" formulation of quantum reference frame transformations... (see [details](#Esteban-Castro-Ruiz)) | 120               |               |
-| Lecture 3;<br />July 23, 2020 | 11:00 AM – 1:00 PM | Esteban Castro-Ruiz | Quantum reference frames for time... (see [details](#Esteban-Castro-Ruiz)) | 120               |               |
-| Lecture 4;<br />July 30, 2020 | 11:00 AM – 1:00 PM | Esteban Castro-Ruiz | «Buffer»                                                     | 120               |               |
+| Segment | Speaker      | Topic | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ----- | ----------------- | ------------- |
+| Talk    | Ravi Kunjwal | TBA   | 45+10             |               |
+| Update  | Uttam Singh  | TBA   | 15                |               |
+
+
+
+#### Lecture Set 5 (Thursdays, July 16, 23, 30 and August 6; 2020) | Techniques and Applications of Space-Time Quantum Reference Frames
+
+| Segment/Date                   | Slot               | Speaker             | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------------------------------ | ------------------ | ------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
+| Lecture 1;<br />July 16, 2020  | 11:00 AM – 1:00 PM | Esteban Castro-Ruiz | Motivation and introduction... (see [details](#Esteban-Castro-Ruiz)) | 120               |               |
+| Lecture 2;<br />July 23, 2020  | 11:00 AM – 1:00 PM | Esteban Castro-Ruiz | "Perspective neutral" formulation of quantum reference frame transformations... (see [details](#Esteban-Castro-Ruiz)) | 120               |               |
+| Lecture 3;<br />July 30, 2020  | 11:00 AM – 1:00 PM | Esteban Castro-Ruiz | Quantum reference frames for time... (see [details](#Esteban-Castro-Ruiz)) | 120               |               |
+| Lecture 4;<br />August 6, 2020 | 11:00 AM – 1:00 PM | Esteban Castro-Ruiz | «Buffer»                                                     | 120               |               |
 
 
 
