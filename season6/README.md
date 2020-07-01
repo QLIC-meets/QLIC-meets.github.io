@@ -9,10 +9,10 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 #### QLIC-meet #5 | (Thursday; July 9; 2020; 11:30 AM to 1:00 PM)
 
-| Segment | Speaker      | Topic | Minutes Allocated | Minutes Spent |
-| ------- | ------------ | ----- | ----------------- | ------------- |
-| Talk    | Ravi Kunjwal | TBA   | 45+10             |               |
-| Update  | Uttam Singh  | TBA   | 15                |               |
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Ravi Kunjwal | The Frauchiger-Renner no-go theorem (see [details](#Ravi-Kunjwal)) | 45+10             |               |
+| Update  | Uttam Singh  | TBA                                                          | 15                |               |
 
 
 
@@ -65,6 +65,14 @@ How hard is it to predict the ground state energy of a physical system? In the c
 
 
 ## Abstracts
+
+#### Ravi Kunjwal
+
+##### The Frauchiger-Renner no-go theorem
+
+I have decided to read and present a paper I have meant to get to for a few years now, namely, the Frauchiger-Renner result constraining interpretations of quantum theory: https://arxiv.org/abs/1604.07422. I might also advertise some of my own recent work, unrelated to the Frauchiger-Renner theorem. Some good talks on the said recent work can be found [here](http://pirsa.org/displayFlash.php?id=20040095), [here](https://www.youtube.com/watch?v=uO08ci5dK6Q), and [here](https://www.youtube.com/watch?v=h4uFaV6rFSc).
+
+
 
 #### Chrysoula Vlachou
 
