@@ -102,6 +102,15 @@ High-dimensional entanglement promises to increase the information capacity of p
 
 
 
+#### QLIC-meet
+
+| Session | #2           | #3           | #4          |
+| ------- | ------------ | ------------ | ----------- |
+| Talk    | Ravi Kunjwal | Julian Wechs | Uttam Singh |
+| Update  | Uttam Singh  | "open"       | "open"      |
+
+
+
 #### Lecture Set 6 (Thursday; TBA; 2020)
 
 | Segment    | Speaker       | Topic | Minutes Allocated | Minutes Spent |
@@ -109,6 +118,18 @@ High-dimensional entanglement promises to increase the information capacity of p
 | Lec 1 | Chrysoula Vlachou | Topological Systems |                   |               |
 | Lec 2 | Chrysoula Vlachou | TBA      |                   |               |
 | Lec 3 | Chrysoula Vlachou | TBA      |                   |               |
+
+
+
+#### Lecture Set 6 (Thursday; TBA; 2020)
+
+| Segment | Speaker       | Topic              | Minutes Allocated | Minutes Spent |
+| ------- | ------------- | ------------------ | ----------------- | ------------- |
+| Lec 1   | Siddharth Das | Information Theory |                   |               |
+| Lec 2   | Siddharth Das | TBA                |                   |               |
+| Lec 3   | Siddharth Das | TBA                |                   |               |
+
+
 
 
 
