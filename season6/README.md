@@ -12,7 +12,7 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
 | Talk    | Ravi Kunjwal | The Frauchiger-Renner no-go theorem (see [details](#Ravi-Kunjwal)) | 45+10             |               |
-| Update  | Uttam Singh  | TBA                                                          | 15                |               |
+| Update  | Uttam Singh  | Thermal efficiency of quantum memory compression (see [details](#Uttam-Singh))      | 15                |               |
 
 
 
@@ -65,6 +65,14 @@ How hard is it to predict the ground state energy of a physical system? In the c
 
 
 ## Abstracts
+
+#### Uttam Singh
+
+#### Thermal efficiency of quantum memory compression 
+
+I will present a paper  written by Samuel P. Loomis and James P. Crutchfield (https://arxiv.org/abs/1911.00998).
+
+Quantum coherence allows for reduced-memory simulators of classical processes. Using recent results in single-shot quantum thermodynamics, we derive a minimal work cost rate for quantum simulators that is quasistatically attainable in the limit of asymptotically-infinite parallel simulation. Comparing this cost with the classical regime reveals that quantizing classical simulators not only results in memory compression but also in reduced dissipation. We explore this advantage across a suite of representative examples.
 
 #### Ravi Kunjwal
 
