@@ -7,13 +7,6 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Upcoming
 
-#### QLIC-meet #5 | (Thursday; July 9; 2020; 11:30 AM to 1:00 PM)
-
-| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Ravi Kunjwal | The Frauchiger-Renner no-go theorem (see [details](#Ravi-Kunjwal)) | 45+10             |               |
-| Update  | Uttam Singh  | Thermal efficiency of quantum memory compression (see [details](#Uttam-Singh))      | 15                |               |
-
 
 
 #### Lecture Set 5 (Thursdays, July 16, 23, 30 and August 6; 2020) | Techniques and Applications of Space-Time Quantum Reference Frames
@@ -92,9 +85,32 @@ High-dimensional entanglement promises to increase the information capacity of p
 
 ## Confirmed
 
-(Awaiting confirmation)
+#### QLIC-meet #6 | (Thursday; TBA; 2020; 11:30 AM to 1:00 PM)
+
+| Segment | Speaker     | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ----------- | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Uttam Singh | Thermal efficiency of quantum memory compression (see [details](#Uttam-Singh)) <sub><sup>[[unedited video](https://web.microsoftstream.com/video/6054825a-4f0c-4e7a-ad98-9a9a4cf39801)]</sup></sub> | 45+10             |               |
+| Update  | «open»      |                                                              | 15                |               |
+
+#### QLIC-meet #7 | (Thursday; TBA; 2020; 11:30 AM to 1:00 PM)
+
+| Segment | Speaker      | Topic | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ----- | ----------------- | ------------- |
+| Talk    | Julian Wechs | TBA   | 45+10             |               |
+| Update  | «open»       |       | 15                |               |
+
+
 
 ## Past
+
+#### QLIC-meet #5 | (Thursday; July 9; 2020; 11:30 AM to 1:00 PM)
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent            |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------------------ |
+| Talk    | Ravi Kunjwal | The Frauchiger-Renner no-go theorem (see [details](#Ravi-Kunjwal)) | 45+10             | 60+ (highly interactive) |
+| Update  | Uttam Singh  | Thermal efficiency of quantum memory compression (see [details](#Uttam-Singh)) | 15                | (postponed)              |
+
+
 
 
 #### Lecture Set 4 (Thursdays; May 28 and June 04, 11 and 18; 2020)
