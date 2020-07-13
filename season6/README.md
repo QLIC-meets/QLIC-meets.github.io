@@ -89,7 +89,7 @@ High-dimensional entanglement promises to increase the information capacity of p
 
 | Segment | Speaker     | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ----------- | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Uttam Singh | Thermal efficiency of quantum memory compression (see [details](#Uttam-Singh)) <sub><sup>[[unedited video](https://web.microsoftstream.com/video/6054825a-4f0c-4e7a-ad98-9a9a4cf39801)]</sup></sub> | 45+10             |               |
+| Talk    | Uttam Singh | Thermal efficiency of quantum memory compression (see [details](#Uttam-Singh)) | 45+10             |               |
 | Update  | «open»      |                                                              | 15                |               |
 
 #### QLIC-meet #7 | (Thursday; TBA; 2020; 11:30 AM to 1:00 PM)
@@ -105,10 +105,10 @@ High-dimensional entanglement promises to increase the information capacity of p
 
 #### QLIC-meet #5 | (Thursday; July 9; 2020; 11:30 AM to 1:00 PM)
 
-| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent            |
-| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------------------ |
-| Talk    | Ravi Kunjwal | The Frauchiger-Renner no-go theorem (see [details](#Ravi-Kunjwal)) | 45+10             | 60+ (highly interactive) |
-| Update  | Uttam Singh  | Thermal efficiency of quantum memory compression (see [details](#Uttam-Singh)) | 15                | (postponed)              |
+| Segment    | Speaker         | Topic                                                        | Minutes Allocated | Minutes Spent            |
+| ---------- | --------------- | ------------------------------------------------------------ | ----------------- | ------------------------ |
+| Talk       | Ravi Kunjwal    | The Frauchiger-Renner no-go theorem (see [details](#Ravi-Kunjwal)) <sub><sup>[[unedited video](https://web.microsoftstream.com/video/6054825a-4f0c-4e7a-ad98-9a9a4cf39801)]</sup></sub> | 45+10             | 60+ (highly interactive) |
+| ~~Update~~ | ~~Uttam Singh~~ | ~~Thermal efficiency of quantum memory compression (see [details](#Uttam-Singh))~~ | ~~15~~            | (postponed)              |
 
 
 
