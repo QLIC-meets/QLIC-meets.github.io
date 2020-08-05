@@ -13,10 +13,10 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 | Segment/Date                   | Slot               | Speaker             | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------------------------------ | ------------------ | ------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
-| Lecture 1;<br />July 16, 2020  | 11:00 AM – 1:00 PM | Esteban Castro-Ruiz | Motivation and introduction... (see [details](#Esteban-Castro-Ruiz)) | 120               |               |
-| Lecture 2;<br />July 23, 2020  | 11:00 AM – 1:00 PM | Esteban Castro-Ruiz | "Perspective neutral" formulation of quantum reference frame transformations... (see [details](#Esteban-Castro-Ruiz)) | 120               |               |
-| Lecture 3;<br />July 30, 2020  | 11:00 AM – 1:00 PM | Esteban Castro-Ruiz | Quantum reference frames for time... (see [details](#Esteban-Castro-Ruiz)) | 120               |               |
-| Lecture 4;<br />August 6, 2020 | 11:00 AM – 1:00 PM | Esteban Castro-Ruiz | «Buffer»                                                     | 120               |               |
+| Lecture 1;<br />July 16, 2020  | 11:00 AM – 1:00 PM | Esteban Castro-Ruiz | Motivation and introduction... (see [details](#Esteban-Castro-Ruiz)) <sub><sup>[[unedited video](https://web.microsoftstream.com/video/e5d79d28-e237-4343-886e-e3620b05d187)]</sup></sub> | 120               | ~120          |
+| Lecture 2;<br />July 23, 2020  | 11:00 AM – 1:00 PM | Esteban Castro-Ruiz | "Perspective neutral" formulation of quantum reference frame transformations... (see [details](#Esteban-Castro-Ruiz)) <sub><sup>[[unedited video](https://web.microsoftstream.com/video/841147de-5903-4375-9d56-f60615f11b16)]</sup></sub> | 120               | ~120          |
+| Lecture 3;<br />July 30, 2020  | 11:00 AM – 1:00 PM | Esteban Castro-Ruiz | Quantum reference frames for time  (see [details](#Esteban-Castro-Ruiz)) <sub><sup>[[unedited video](https://web.microsoftstream.com/video/2e4b67fd-c127-4985-b4ac-f953396326d9)]</sup></sub> | 120               | ~120          |
+| Lecture 4;<br />August 6, 2020 | 11:00 AM – 1:00 PM | Esteban Castro-Ruiz | Quantum reference frames for time, continued                 | 120               |               |
 
 
 
