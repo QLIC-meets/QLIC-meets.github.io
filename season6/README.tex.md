@@ -7,19 +7,12 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Upcoming
 
+#### QLIC-meet #6 | (Thursday; TBA; 2020; 11:30 AM to 1:00 PM)
 
-
-#### Lecture Set 5 (Thursdays, July 16, 23, 30 and August 6; 2020) | Techniques and Applications of Space-Time Quantum Reference Frames
-
-| Segment/Date                   | Slot               | Speaker             | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------------------------------ | ------------------ | ------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
-| Lecture 1;<br />July 16, 2020  | 11:00 AM – 1:00 PM | Esteban Castro-Ruiz | Motivation and introduction... (see [details](#Esteban-Castro-Ruiz)) <sub><sup>[[unedited video](https://web.microsoftstream.com/video/e5d79d28-e237-4343-886e-e3620b05d187)]</sup></sub> | 120               | ~120          |
-| Lecture 2;<br />July 23, 2020  | 11:00 AM – 1:00 PM | Esteban Castro-Ruiz | "Perspective neutral" formulation of quantum reference frame transformations... (see [details](#Esteban-Castro-Ruiz)) <sub><sup>[[unedited video](https://web.microsoftstream.com/video/841147de-5903-4375-9d56-f60615f11b16)]</sup></sub> | 120               | ~120          |
-| Lecture 3;<br />July 30, 2020  | 11:00 AM – 1:00 PM | Esteban Castro-Ruiz | Quantum reference frames for time  (see [details](#Esteban-Castro-Ruiz)) <sub><sup>[[unedited video](https://web.microsoftstream.com/video/2e4b67fd-c127-4985-b4ac-f953396326d9)]</sup></sub> | 120               | ~120          |
-| Lecture 4;<br />August 6, 2020 | 11:00 AM – 1:00 PM | Esteban Castro-Ruiz | Quantum reference frames for time, continued                 | 120               |               |
-
-
-
+| Segment | Speaker     | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ----------- | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Uttam Singh | Thermal efficiency of quantum memory compression (see [details](#Uttam-Singh)) | 45+10             |               |
+| Update  | «open»      |                                                              | 15                |               |
 
 [More upcoming](#Confirmed) 
 
@@ -38,7 +31,7 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 **Lecture 2**. "Perspective neutral" formulation of quantum reference frame transformations. Group averaging. "Jumping" onto the perspective of a quantum reference frame. Equivalence between the perspective neutral approach and the approach of Lecture 1.
 
-**Lecture 3**. Quantum reference frames for time. History states. Transformations between quantum temporal reference frames. Transformation of the evolution operator. Superpositions of mass/energy and relativity of the localisation of events. Open questions.
+**Lecture 3 and 4**. Quantum reference frames for time. History states. Transformations between quantum temporal reference frames. Transformation of the evolution operator. Superpositions of mass/energy and relativity of the localisation of events. Open questions.
 
 
 
@@ -85,12 +78,6 @@ High-dimensional entanglement promises to increase the information capacity of p
 
 ## Confirmed
 
-#### QLIC-meet #6 | (Thursday; TBA; 2020; 11:30 AM to 1:00 PM)
-
-| Segment | Speaker     | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ----------- | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Uttam Singh | Thermal efficiency of quantum memory compression (see [details](#Uttam-Singh)) | 45+10             |               |
-| Update  | «open»      |                                                              | 15                |               |
 
 #### QLIC-meet #7 | (Thursday; TBA; 2020; 11:30 AM to 1:00 PM)
 
@@ -102,6 +89,17 @@ High-dimensional entanglement promises to increase the information capacity of p
 
 
 ## Past
+
+#### Lecture Set 5 (Thursdays, July 16, 23, 30 and August 6; 2020) | Techniques and Applications of Space-Time Quantum Reference Frames
+
+| Segment/Date                   | Slot               | Speaker             | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------------------------------ | ------------------ | ------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
+| Lecture 1;<br />July 16, 2020  | 11:00 AM – 1:00 PM | Esteban Castro-Ruiz | Motivation and introduction... (see [details](#Esteban-Castro-Ruiz)) <sub><sup>[[unedited video](https://web.microsoftstream.com/video/e5d79d28-e237-4343-886e-e3620b05d187)]</sup></sub> | 120               | ~120          |
+| Lecture 2;<br />July 23, 2020  | 11:00 AM – 1:00 PM | Esteban Castro-Ruiz | "Perspective neutral" formulation of quantum reference frame transformations... (see [details](#Esteban-Castro-Ruiz)) <sub><sup>[[unedited video](https://web.microsoftstream.com/video/841147de-5903-4375-9d56-f60615f11b16)]</sup></sub> | 120               | ~120          |
+| Lecture 3;<br />July 30, 2020  | 11:00 AM – 1:00 PM | Esteban Castro-Ruiz | Quantum reference frames for time  (see [details](#Esteban-Castro-Ruiz)) <sub><sup>[[unedited video](https://web.microsoftstream.com/video/2e4b67fd-c127-4985-b4ac-f953396326d9)]</sup></sub> | 120               | ~120          |
+| Lecture 4;<br />August 6, 2020 | 11:00 AM – 1:00 PM | Esteban Castro-Ruiz | Quantum reference frames for time, continued <sub><sup>[[unedited video](https://web.microsoftstream.com/video/5720c577-56af-499f-942f-a821d8740f87)]</sup></sub> | 120               | ~120          |
+
+
 
 #### QLIC-meet #5 | (Thursday; July 9; 2020; 11:30 AM to 1:00 PM)
 
