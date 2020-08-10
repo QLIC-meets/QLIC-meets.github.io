@@ -7,7 +7,7 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Upcoming
 
-#### QLIC-meet #6 | (Thursday; TBA; 2020; 11:30 AM to 1:00 PM)
+#### QLIC-meet #6 | (Thursday; August 20; 2020; 11:30 AM to 1:00 PM)
 
 | Segment | Speaker     | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ----------- | ------------------------------------------------------------ | ----------------- | ------------- |
