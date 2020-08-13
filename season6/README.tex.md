@@ -14,6 +14,17 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 | Talk    | Uttam Singh | Thermal efficiency of quantum memory compression (see [details](#Uttam-Singh)) | 45+10             |               |
 | Update  | «open»      |                                                              | 15                |               |
 
+#### Lecture Set 6 (Thursday; September, 24, October 1, 8 and 15 (buffer) ; 2020) | Quantum key distribution and fundamental limitations
+
+| Segment/Date                       | Slot               | Speaker        | Topic                                                | Minutes Allocated | Minutes Spent |
+| ---------------------------------- | ------------------ | -------------- | ---------------------------------------------------- | ----------------- | ------------- |
+| Lecture 1;<br />September 24, 2020 | 11:00 AM – 1:00 PM | Siddhartha Das | Quantum key distribution and fundamental limitations | 120               |               |
+| Lecture 2;<br />October 1, 2020    | 11:00 AM – 1:00 PM | Siddhartha Das |                                                      | 120               |               |
+| Lecture 3;<br />October 8, 2020    | 11:00 AM – 1:00 PM | Siddhartha Das |                                                      | 120               |               |
+| Lecture 4;<br />October 15, 2020   | 11:00 AM – 1:00 PM | Siddhartha Das | Buffer                                               | 120               |               |
+
+
+
 [More upcoming](#Confirmed) 
 
 [Uncertified Random List Generator](https://mybinder.org/v2/gh/QLIC-meets/QLIC-meets.github.io/master?filepath=season6/lineUp/lineUp.ipynb)
@@ -77,16 +88,6 @@ High-dimensional entanglement promises to increase the information capacity of p
 
 
 ## Confirmed
-
-#### Lecture Set 6 (Thursday; September, 24, October 1, 8 and 15 (buffer) ; 2020) | Quantum key distribution and fundamental limitations
-
-| Segment/Date                       | Slot               | Speaker        | Topic                                                | Minutes Allocated | Minutes Spent |
-| ---------------------------------- | ------------------ | -------------- | ---------------------------------------------------- | ----------------- | ------------- |
-| Lecture 1;<br />September 24, 2020 | 11:00 AM – 1:00 PM | Siddhartha Das | Quantum key distribution and fundamental limitations | 120               |               |
-| Lecture 2;<br />October 1, 2020    | 11:00 AM – 1:00 PM | Siddhartha Das |                                                      | 120               |               |
-| Lecture 3;<br />October 8, 2020    | 11:00 AM – 1:00 PM | Siddhartha Das |                                                      | 120               |               |
-| Lecture 4;<br />October 15, 2020   | 11:00 AM – 1:00 PM | Siddhartha Das | Buffer                                               | 120               |               |
-
 
 
 
