@@ -78,6 +78,17 @@ High-dimensional entanglement promises to increase the information capacity of p
 
 ## Confirmed
 
+#### Lecture Set 6 (Thursday; September, 24, October 1, 8 and 15 (buffer) ; 2020) | Quantum key distribution and fundamental limitations
+
+| Segment/Date                       | Slot               | Speaker        | Topic                                                | Minutes Allocated | Minutes Spent |
+| ---------------------------------- | ------------------ | -------------- | ---------------------------------------------------- | ----------------- | ------------- |
+| Lecture 1;<br />September 24, 2020 | 11:00 AM – 1:00 PM | Siddhartha Das | Quantum key distribution and fundamental limitations | 120               |               |
+| Lecture 2;<br />October 1, 2020    | 11:00 AM – 1:00 PM | Siddhartha Das |                                                      | 120               |               |
+| Lecture 3;<br />October 8, 2020    | 11:00 AM – 1:00 PM | Siddhartha Das |                                                      | 120               |               |
+| Lecture 4;<br />October 15, 2020   | 11:00 AM – 1:00 PM | Siddhartha Das | Buffer                                               | 120               |               |
+
+
+
 
 #### QLIC-meet #7 | (Thursday; TBA; 2020; 11:30 AM to 1:00 PM)
 
@@ -158,15 +169,6 @@ High-dimensional entanglement promises to increase the information capacity of p
 | Lec 2 | Chrysoula Vlachou | TBA      |                   |               |
 | Lec 3 | Chrysoula Vlachou | TBA      |                   |               |
 
-
-
-#### Lecture Set 6 (Thursday; TBA; 2020)
-
-| Segment | Speaker       | Topic              | Minutes Allocated | Minutes Spent |
-| ------- | ------------- | ------------------ | ----------------- | ------------- |
-| Lec 1   | Siddharth Das | Information Theory |                   |               |
-| Lec 2   | Siddharth Das | TBA                |                   |               |
-| Lec 3   | Siddharth Das | TBA                |                   |               |
 
 
 
