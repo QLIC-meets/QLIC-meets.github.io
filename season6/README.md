@@ -5,7 +5,7 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 
 
-## Upcoming
+## Upcoming 
 
 #### QLIC-meet #6 | (Thursday; August 20; 2020; 11:30 AM to 1:00 PM)
 
@@ -91,10 +91,10 @@ High-dimensional entanglement promises to increase the information capacity of p
 
 #### QLIC-meet #7 | (Thursday; September  17; 2020; 11:30 AM to 1:00 PM)
 
-| Segment | Speaker     | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ----------- | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Simon Apers |  | 45+10             |               |
-| Update  | «open»      |                                                              | 15                |               |
+| Segment | Speaker     | Topic | Minutes Allocated | Minutes Spent |
+| ------- | ----------- | ----- | ----------------- | ------------- |
+| Talk    | Simon Apers | TBA   | 45+10             |               |
+| Update  | «open»      |       | 15                |               |
 
 #### QLIC-meet #8 | (Thursday; TBA; 2020; 11:30 AM to 1:00 PM)
 
