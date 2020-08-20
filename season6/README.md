@@ -91,10 +91,10 @@ High-dimensional entanglement promises to increase the information capacity of p
 
 #### QLIC-meet #7 | (Thursday; September 3; 2020; 11:30 AM to 1:00 PM)
 
-| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Julian Wechs | Quantum processes with indefinite causal order and their physical realisation | 45+10             |               |
-| Update  | «open»       |                                                              | 15                |               |
+| Segment | Speaker             | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Julian Wechs        | Quantum processes with indefinite causal order and their physical realisation | 45+10             |               |
+| Update  | Timothée Hoffreumon | TBA                                                          | 15                |               |
 
 
 
