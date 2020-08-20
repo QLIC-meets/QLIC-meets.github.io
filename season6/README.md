@@ -7,12 +7,12 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Upcoming 
 
-#### QLIC-meet #6 | (Thursday; August 20; 2020; 11:30 AM to 1:00 PM)
+#### QLIC-meet #7 | (Thursday; September 3; 2020; 11:30 AM to 1:00 PM)
 
-| Segment | Speaker     | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ----------- | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Uttam Singh | Thermal efficiency of quantum memory compression (see [details](#Uttam-Singh)) | 45+10             |               |
-| Update  | «open»      |                                                              | 15                |               |
+| Segment | Speaker             | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Julian Wechs        | Quantum processes with indefinite causal order and their physical realisation | 45+10             |               |
+| Update  | Timothée Hoffreumon | TBA                                                          | 15                |               |
 
 #### Lecture Set 6 (Thursday; September, 24, October 1, 8 and 15 (buffer) ; 2020) | Quantum key distribution and fundamental limitations
 
@@ -89,24 +89,26 @@ High-dimensional entanglement promises to increase the information capacity of p
 
 ## Confirmed
 
-#### QLIC-meet #7 | (Thursday; September 3; 2020; 11:30 AM to 1:00 PM)
-
-| Segment | Speaker             | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Julian Wechs        | Quantum processes with indefinite causal order and their physical realisation | 45+10             |               |
-| Update  | Timothée Hoffreumon | TBA                                                          | 15                |               |
-
-
 
 #### QLIC-meet #8 | (Thursday; September  17; 2020; 11:30 AM to 1:00 PM)
 
-| Segment | Speaker     | Topic | Minutes Allocated | Minutes Spent |
-| ------- | ----------- | ----- | ----------------- | ------------- |
-| Talk    | Simon Apers | TBA   | 45+10             |               |
-| Update  | «open»      |       | 15                |               |
+| Segment | Speaker       | Topic | Minutes Allocated | Minutes Spent |
+| ------- | ------------- | ----- | ----------------- | ------------- |
+| Talk    | Simon Apers   | TBA   | 45+10             |               |
+| Update  | Leonardo Novo | TBA   | 15                |               |
 
 
 ## Past
+
+
+
+#### QLIC-meet #6 | (Thursday; August 20; 2020; 11:30 AM to 1:00 PM)
+
+| Segment | Speaker     | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ----------- | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Uttam Singh | Thermal efficiency of quantum memory compression (see [details](#Uttam-Singh)) | 45+10             | 60            |
+| Update  | «open»      |                                                              | 15                |               |
+
 
 #### Lecture Set 5 (Thursdays, July 16, 23, 30 and August 6; 2020) | Techniques and Applications of Space-Time Quantum Reference Frames
 
