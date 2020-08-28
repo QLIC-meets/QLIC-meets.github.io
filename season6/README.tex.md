@@ -12,7 +12,7 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 | Segment | Speaker             | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
 | Talk    | Julian Wechs        | Quantum processes with indefinite causal order and their physical realisation | 45+10             |               |
-| Update  | Timothée Hoffreumon | TBA                                                          | 15                |               |
+| Update  | Timothée Hoffreumon | The conal representation of quantum states and the correspondence between qubit quantum operations and special relativity (see [abstract](#Timothée-Hoffreumon))| 15                |               |
 
 #### Lecture Set 6 (Thursday; September, 24, October 1, 8 and 15 (buffer) ; 2020) | Quantum key distribution and fundamental limitations
 
@@ -62,6 +62,15 @@ How hard is it to predict the ground state energy of a physical system? In the c
 
 
 ## Abstracts
+
+#### Timothée Hoffreumon
+
+#### The conal representation of quantum states and the correspondence between qubit quantum operations and special relativity
+
+In this update, I will try to summarize an interesting series of articles of Arrighi and Patricot (Phys. Rev. A 68, 042310 (2003), https://arxiv.org/abs/quant-ph/0212062 and J. Phys. A: Math. Gen. 36 (2003) L287-L296, https://arxiv.org/abs/quant-ph/0212135), in which the authors introduced a way of representing quantum operations as real vectors, called the conal representation. 
+While fundamentally the correspondence is not very different from usual ‘operation as state’ representations (like e.g. using the Choi-Jamiolkowski isomorphism), it bears an intriguing connection with the mathematics of special relativity (i.e. Minkowski space-time) in the case of a 2-dimensional quantum system.
+
+
 
 #### Uttam Singh
 
