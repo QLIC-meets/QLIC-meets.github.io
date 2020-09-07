@@ -7,13 +7,6 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Upcoming 
 
-#### QLIC-meet #7 | (Monday; September 7; 2020; 11:30 AM to 1:00 PM)
-
-| Segment | Speaker             | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Julian Wechs        | Quantum processes with indefinite causal order and their physical realisation | 45+10             |               |
-| Update  | Timothée Hoffreumon | The conal representation of quantum states and the correspondence between qubit quantum operations and special relativity (see [abstract](#Timothée-Hoffreumon))| 15                |               |
-
 #### Lecture Set 6 (Thursday; September, 24, October 1, 8 and 15 (buffer) ; 2020) | Quantum key distribution and fundamental limitations
 
 | Segment/Date                       | Slot               | Speaker        | Topic                                                | Minutes Allocated | Minutes Spent |
@@ -23,7 +16,12 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 | Lecture 3;<br />October 8, 2020    | 11:00 AM – 1:00 PM | Siddhartha Das |                                                      | 120               |               |
 | Lecture 4;<br />October 15, 2020   | 11:00 AM – 1:00 PM | Siddhartha Das | Buffer                                               | 120               |               |
 
+#### QLIC-meet #8 | (Thursday; September  29; 2020; 11:30 AM to 1:00 PM)
 
+| Segment | Speaker       | Topic | Minutes Allocated | Minutes Spent |
+| ------- | ------------- | ----- | ----------------- | ------------- |
+| Talk    | Simon Apers   | TBA   | 45+10             |               |
+| Update  | Leonardo Novo | TBA   | 15                |               |
 
 [More upcoming](#Confirmed) 
 
@@ -98,18 +96,14 @@ High-dimensional entanglement promises to increase the information capacity of p
 
 ## Confirmed
 
-
-#### QLIC-meet #8 | (Thursday; September  17; 2020; 11:30 AM to 1:00 PM)
-
-| Segment | Speaker       | Topic | Minutes Allocated | Minutes Spent |
-| ------- | ------------- | ----- | ----------------- | ------------- |
-| Talk    | Simon Apers   | TBA   | 45+10             |               |
-| Update  | Leonardo Novo | TBA   | 15                |               |
-
-
 ## Past
 
+#### QLIC-meet #7 | (Monday; September 7; 2020; 11:30 AM to 1:00 PM)
 
+| Segment | Speaker             | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Julian Wechs        | Quantum processes with indefinite causal order and their physical realisation | 45+10             | 70            |
+| Update  | Timothée Hoffreumon | The conal representation of quantum states and the correspondence between qubit quantum operations and special relativity (see [abstract](#Timothée-Hoffreumon)) | 15                | 20            |
 
 #### QLIC-meet #6 | (Thursday; August 20; 2020; 11:30 AM to 1:00 PM)
 
