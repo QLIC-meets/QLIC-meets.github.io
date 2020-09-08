@@ -4,30 +4,66 @@ Welcome to the QLIC-meets page. For further information about the meetings see t
 All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-meets.github.io/all). 
 
 
+## Past
 
-## Upcoming 
+#### QLIC-meet #7 | (Monday; September 7; 2020; 11:30 AM to 1:00 PM)
 
-#### Lecture Set 6 (Thursday; September, 24, October 1, 8 and 15 (buffer) ; 2020) | Quantum key distribution and fundamental limitations
+| Segment | Speaker             | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Julian Wechs        | Quantum processes with indefinite causal order and their physical realisation | 45+10             | 70            |
+| Update  | Timothée Hoffreumon | The conal representation of quantum states and the correspondence between qubit quantum operations and special relativity (see [abstract](#Timothée-Hoffreumon)) | 15                | 20            |
 
-| Segment/Date                       | Slot               | Speaker        | Topic                                                | Minutes Allocated | Minutes Spent |
-| ---------------------------------- | ------------------ | -------------- | ---------------------------------------------------- | ----------------- | ------------- |
-| Lecture 1;<br />September 24, 2020 | 11:00 AM – 1:00 PM | Siddhartha Das | Quantum key distribution and fundamental limitations | 120               |               |
-| Lecture 2;<br />October 1, 2020    | 11:00 AM – 1:00 PM | Siddhartha Das |                                                      | 120               |               |
-| Lecture 3;<br />October 8, 2020    | 11:00 AM – 1:00 PM | Siddhartha Das |                                                      | 120               |               |
-| Lecture 4;<br />October 15, 2020   | 11:00 AM – 1:00 PM | Siddhartha Das | Buffer                                               | 120               |               |
+#### QLIC-meet #6 | (Thursday; August 20; 2020; 11:30 AM to 1:00 PM)
 
-#### QLIC-meet #8 | (Thursday; September  29; 2020; 11:30 AM to 1:00 PM)
-
-| Segment | Speaker       | Topic | Minutes Allocated | Minutes Spent |
-| ------- | ------------- | ----- | ----------------- | ------------- |
-| Talk    | Simon Apers   | TBA   | 45+10             |               |
-| Update  | Leonardo Novo | TBA   | 15                |               |
-
-[More upcoming](#Confirmed) 
-
-[Uncertified Random List Generator](https://mybinder.org/v2/gh/QLIC-meets/QLIC-meets.github.io/master?filepath=season6/lineUp/lineUp.ipynb)
+| Segment | Speaker     | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ----------- | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Uttam Singh | Thermal efficiency of quantum memory compression (see [details](#Uttam-Singh)) | 45+10             | 60            |
+| Update  | «open»      |                                                              | 15                |               |
 
 
+#### Lecture Set 5 (Thursdays, July 16, 23, 30 and August 6; 2020) | Techniques and Applications of Space-Time Quantum Reference Frames
+
+| Segment/Date                   | Slot               | Speaker             | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------------------------------ | ------------------ | ------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
+| Lecture 1;<br />July 16, 2020  | 11:00 AM – 1:00 PM | Esteban Castro-Ruiz | Motivation and introduction... (see [details](#Esteban-Castro-Ruiz)) <sub><sup>[[unedited video](https://web.microsoftstream.com/video/e5d79d28-e237-4343-886e-e3620b05d187)]</sup></sub> | 120               | ~120          |
+| Lecture 2;<br />July 23, 2020  | 11:00 AM – 1:00 PM | Esteban Castro-Ruiz | "Perspective neutral" formulation of quantum reference frame transformations... (see [details](#Esteban-Castro-Ruiz)) <sub><sup>[[unedited video](https://web.microsoftstream.com/video/841147de-5903-4375-9d56-f60615f11b16)]</sup></sub> | 120               | ~120          |
+| Lecture 3;<br />July 30, 2020  | 11:00 AM – 1:00 PM | Esteban Castro-Ruiz | Quantum reference frames for time  (see [details](#Esteban-Castro-Ruiz)) <sub><sup>[[unedited video](https://web.microsoftstream.com/video/2e4b67fd-c127-4985-b4ac-f953396326d9)]</sup></sub> | 120               | ~120          |
+| Lecture 4;<br />August 6, 2020 | 11:00 AM – 1:00 PM | Esteban Castro-Ruiz | Quantum reference frames for time, continued <sub><sup>[[unedited video](https://web.microsoftstream.com/video/5720c577-56af-499f-942f-a821d8740f87)]</sup></sub> | 120               | ~120          |
+
+
+
+#### QLIC-meet #5 | (Thursday; July 9; 2020; 11:30 AM to 1:00 PM)
+
+| Segment    | Speaker         | Topic                                                        | Minutes Allocated | Minutes Spent            |
+| ---------- | --------------- | ------------------------------------------------------------ | ----------------- | ------------------------ |
+| Talk       | Ravi Kunjwal    | The Frauchiger-Renner no-go theorem (see [details](#Ravi-Kunjwal)) <sub><sup>[[unedited video](https://web.microsoftstream.com/video/6054825a-4f0c-4e7a-ad98-9a9a4cf39801)]</sup></sub> | 45+10             | 60+ (highly interactive) |
+| ~~Update~~ | ~~Uttam Singh~~ | ~~Thermal efficiency of quantum memory compression (see [details](#Uttam-Singh))~~ | ~~15~~            | (postponed)              |
+
+
+
+
+#### Lecture Set 4 (Thursdays; May 28 and June 04, 11 and 18; 2020)
+
+
+
+| Segment/Date            | Slot               | Speaker       | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ----------------------- | ------------------ | ------------- | ------------------------------------------------------------ | ----------------- | ------------- |
+| Lecture 1;<br />May 28  | 11:00 AM – 1:00 PM | Leonardo Novo | How to make neutral particles "feel" an artificial gauge field? (see [details](#Leonardo-Novo)) <sub><sup>[[unedited video]](https://web.microsoftstream.com/video/926ae9af-a9c1-4699-8653-345b9bb94a06)</sup></sub> <sub><sup>[[slides]](./leo/LeoLecture1_quantSim.pdf)</sup></sub> | 120               | 90            |
+| Lecture 2;<br />June 04 | 11:00 AM – 1:00 PM | Leonardo Novo | Hamiltonian complexity and universal adiabatic quantum computation (see [details](#Hamiltonian-complexity-and-universal-adiabatic-quantum-computation)) <sub><sup>[[unedited video](https://web.microsoftstream.com/video/c14c8ced-18bb-4a85-a9a5-96111efc2faa)] </sup></sub> <sub><sup>[[slides]](./leo/LeoLectures2and3_QMA.pdf)</sup></sub> | 120               | 110           |
+| Lecture 3;<br />June 11 | 11:00 AM – 1:00 PM | Leonardo Novo | Hamiltonian complexity and universal adiabatic quantum computation (see [details](#Hamiltonian-complexity-and-universal-adiabatic-quantum-computation)) <sub><sup>[[unedited video](https://web.microsoftstream.com/video/75978227-b4d2-425c-870c-92f8b7bc67b8)]</sup></sub> | 120               | 120           |
+| Lecture 4;<br />June 18 | 11:00 AM – 1:00 PM | Leonardo Novo | Technical details (associated with Lectures 2 and 3) <sub><sup>[[unedited video](https://web.microsoftstream.com/video/5a5837f2-2278-4a89-8f05-1b3097c5db60)]</sup></sub> <sub><sup>[[slides]](./leo/LeoLecture4_technical.pdf)</sup></sub> | 120               |               |
+
+
+
+
+#### QLIC-meet #4 | (Wednesday; May 20; 2020; 11:30 AM to 1:00 PM)
+
+[Google meet link](https://meet.google.com/vnf-hwuw-fzv)
+
+| Segment | Speaker               | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | --------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Chrysoula Vlachou     | Quantum key distribution overcoming extreme noise: simultaneous subspace coding using high-dimensional entanglement (see [abstract](#Chrysoula-Vlachou))  <sub><sup>[[unedited video](https://universitelibrebruxelles.sharepoint.com/sites/GRP_QLIC-meets/Documents%20partages/General/QLIC-meet_Chrysoula_2020-05-20%2011-34-34.mkv)]</sup></sub> | 45+10             | ~50           |
+| Update  | Shantanav Chakraborty | About the Twitter account's usage policy                     | 15                |               |
 
 
 ## Lecture Series | Details
@@ -93,113 +129,6 @@ I have decided to read and present a paper I have meant to get to for a few year
 High-dimensional entanglement promises to increase the information capacity of photons and is now routinely generated exploiting spatio-temporal degrees of freedom of single photons. A curious feature of these systems is the possibility to certify entanglement despite strong noise in the data. We show that it is also possible to exploit this noisy entanglement by introducing a protocol that uses mutliple subspaces of the high-dimensional system simultaneously. Our protocol can be used to increase key rates in realistic conditions. To that end, we conduct two simulations of our protocol for noise models that apply to the two most commonly used sources of high-dimensional entanglement: time-bins and spatial modes.
 
 
-
-## Confirmed
-
-## Past
-
-#### QLIC-meet #7 | (Monday; September 7; 2020; 11:30 AM to 1:00 PM)
-
-| Segment | Speaker             | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Julian Wechs        | Quantum processes with indefinite causal order and their physical realisation | 45+10             | 70            |
-| Update  | Timothée Hoffreumon | The conal representation of quantum states and the correspondence between qubit quantum operations and special relativity (see [abstract](#Timothée-Hoffreumon)) | 15                | 20            |
-
-#### QLIC-meet #6 | (Thursday; August 20; 2020; 11:30 AM to 1:00 PM)
-
-| Segment | Speaker     | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ----------- | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Uttam Singh | Thermal efficiency of quantum memory compression (see [details](#Uttam-Singh)) | 45+10             | 60            |
-| Update  | «open»      |                                                              | 15                |               |
-
-
-#### Lecture Set 5 (Thursdays, July 16, 23, 30 and August 6; 2020) | Techniques and Applications of Space-Time Quantum Reference Frames
-
-| Segment/Date                   | Slot               | Speaker             | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------------------------------ | ------------------ | ------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
-| Lecture 1;<br />July 16, 2020  | 11:00 AM – 1:00 PM | Esteban Castro-Ruiz | Motivation and introduction... (see [details](#Esteban-Castro-Ruiz)) <sub><sup>[[unedited video](https://web.microsoftstream.com/video/e5d79d28-e237-4343-886e-e3620b05d187)]</sup></sub> | 120               | ~120          |
-| Lecture 2;<br />July 23, 2020  | 11:00 AM – 1:00 PM | Esteban Castro-Ruiz | "Perspective neutral" formulation of quantum reference frame transformations... (see [details](#Esteban-Castro-Ruiz)) <sub><sup>[[unedited video](https://web.microsoftstream.com/video/841147de-5903-4375-9d56-f60615f11b16)]</sup></sub> | 120               | ~120          |
-| Lecture 3;<br />July 30, 2020  | 11:00 AM – 1:00 PM | Esteban Castro-Ruiz | Quantum reference frames for time  (see [details](#Esteban-Castro-Ruiz)) <sub><sup>[[unedited video](https://web.microsoftstream.com/video/2e4b67fd-c127-4985-b4ac-f953396326d9)]</sup></sub> | 120               | ~120          |
-| Lecture 4;<br />August 6, 2020 | 11:00 AM – 1:00 PM | Esteban Castro-Ruiz | Quantum reference frames for time, continued <sub><sup>[[unedited video](https://web.microsoftstream.com/video/5720c577-56af-499f-942f-a821d8740f87)]</sup></sub> | 120               | ~120          |
-
-
-
-#### QLIC-meet #5 | (Thursday; July 9; 2020; 11:30 AM to 1:00 PM)
-
-| Segment    | Speaker         | Topic                                                        | Minutes Allocated | Minutes Spent            |
-| ---------- | --------------- | ------------------------------------------------------------ | ----------------- | ------------------------ |
-| Talk       | Ravi Kunjwal    | The Frauchiger-Renner no-go theorem (see [details](#Ravi-Kunjwal)) <sub><sup>[[unedited video](https://web.microsoftstream.com/video/6054825a-4f0c-4e7a-ad98-9a9a4cf39801)]</sup></sub> | 45+10             | 60+ (highly interactive) |
-| ~~Update~~ | ~~Uttam Singh~~ | ~~Thermal efficiency of quantum memory compression (see [details](#Uttam-Singh))~~ | ~~15~~            | (postponed)              |
-
-
-
-
-#### Lecture Set 4 (Thursdays; May 28 and June 04, 11 and 18; 2020)
-
-
-
-| Segment/Date            | Slot               | Speaker       | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ----------------------- | ------------------ | ------------- | ------------------------------------------------------------ | ----------------- | ------------- |
-| Lecture 1;<br />May 28  | 11:00 AM – 1:00 PM | Leonardo Novo | How to make neutral particles "feel" an artificial gauge field? (see [details](#Leonardo-Novo)) <sub><sup>[[unedited video]](https://web.microsoftstream.com/video/926ae9af-a9c1-4699-8653-345b9bb94a06)</sup></sub> <sub><sup>[[slides]](./leo/LeoLecture1_quantSim.pdf)</sup></sub> | 120               | 90            |
-| Lecture 2;<br />June 04 | 11:00 AM – 1:00 PM | Leonardo Novo | Hamiltonian complexity and universal adiabatic quantum computation (see [details](#Hamiltonian-complexity-and-universal-adiabatic-quantum-computation)) <sub><sup>[[unedited video](https://web.microsoftstream.com/video/c14c8ced-18bb-4a85-a9a5-96111efc2faa)] </sup></sub> <sub><sup>[[slides]](./leo/LeoLectures2and3_QMA.pdf)</sup></sub> | 120               | 110           |
-| Lecture 3;<br />June 11 | 11:00 AM – 1:00 PM | Leonardo Novo | Hamiltonian complexity and universal adiabatic quantum computation (see [details](#Hamiltonian-complexity-and-universal-adiabatic-quantum-computation)) <sub><sup>[[unedited video](https://web.microsoftstream.com/video/75978227-b4d2-425c-870c-92f8b7bc67b8)]</sup></sub> | 120               | 120           |
-| Lecture 4;<br />June 18 | 11:00 AM – 1:00 PM | Leonardo Novo | Technical details (associated with Lectures 2 and 3) <sub><sup>[[unedited video](https://web.microsoftstream.com/video/5a5837f2-2278-4a89-8f05-1b3097c5db60)]</sup></sub> <sub><sup>[[slides]](./leo/LeoLecture4_technical.pdf)</sup></sub> | 120               |               |
-
-
-
-
-#### QLIC-meet #4 | (Wednesday; May 20; 2020; 11:30 AM to 1:00 PM)
-
-[Google meet link](https://meet.google.com/vnf-hwuw-fzv)
-
-| Segment | Speaker               | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | --------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Chrysoula Vlachou     | Quantum key distribution overcoming extreme noise: simultaneous subspace coding using high-dimensional entanglement (see [abstract](#Chrysoula-Vlachou))  <sub><sup>[[unedited video](https://universitelibrebruxelles.sharepoint.com/sites/GRP_QLIC-meets/Documents%20partages/General/QLIC-meet_Chrysoula_2020-05-20%2011-34-34.mkv)]</sup></sub> | 45+10             | ~50           |
-| Update  | Shantanav Chakraborty | About the Twitter account's usage policy                     | 15                |               |
-
-
-
-
-## In the Pipeline
-
-
-
-#### QLIC-meet
-
-| Session | #2           | #3           | #4          |
-| ------- | ------------ | ------------ | ----------- |
-| Talk    | Ravi Kunjwal | Julian Wechs | Uttam Singh |
-| Update  | Uttam Singh  | "open"       | "open"      |
-
-
-
-#### Lecture Set 6 (Thursday; TBA; 2020)
-
-| Segment    | Speaker       | Topic | Minutes Allocated | Minutes Spent |
-| ---------- | ------------- | ----- | ----------------- | ------------- |
-| Lec 1 | Chrysoula Vlachou | Topological Systems |                   |               |
-| Lec 2 | Chrysoula Vlachou | TBA      |                   |               |
-| Lec 3 | Chrysoula Vlachou | TBA      |                   |               |
-
-
-
-
-
-
-#### Seminar (TBA)
-
-| Segment | Speaker | Topic | Minutes Allocated | Minutes Spent |
-| ------- | ------- | ----- | ----------------- | ------------- |
-| Seminar |         |       |                   |               |
-
-
-
-#### QLIC-meet
-
-| Session | #2                | #3     | #4     |
-| ------- | ----------------- | ------ | ------ |
-| Talk | "open" | "open" | "open" |
-| Update  | "open"  | "open" | "open" |
 
 
 
