@@ -9,12 +9,12 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 #### Lecture Set 6 (Thursday; September, 24, October 1, 8 and 15 (buffer) ; 2020) | Quantum key distribution and fundamental limitations
 
-| Segment/Date                       | Slot               | Speaker        | Topic                                                | Minutes Allocated | Minutes Spent |
-| ---------------------------------- | ------------------ | -------------- | ---------------------------------------------------- | ----------------- | ------------- |
-| Lecture 1;<br />September 24, 2020 | 11:00 AM – 1:00 PM | Siddhartha Das | Quantum key distribution and fundamental limitations | 120               |               |
-| Lecture 2;<br />October 1, 2020    | 11:00 AM – 1:00 PM | Siddhartha Das |                                                      | 120               |               |
-| Lecture 3;<br />October 8, 2020    | 11:00 AM – 1:00 PM | Siddhartha Das |                                                      | 120               |               |
-| Lecture 4;<br />October 15, 2020   | 11:00 AM – 1:00 PM | Siddhartha Das | Buffer                                               | 120               |               |
+| Segment/Date                       | Slot               | Speaker        | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ---------------------------------- | ------------------ | -------------- | ------------------------------------------------------------ | ----------------- | ------------- |
+| Lecture 1;<br />September 24, 2020 | 11:00 AM – 1:00 PM | Siddhartha Das | Quantum key distribution and fundamental limitations (see [details](#Siddhartha-Das)) | 120               |               |
+| Lecture 2;<br />October 1, 2020    | 11:00 AM – 1:00 PM | Siddhartha Das | Private states and bounds on the QKD capacities over channels | 120               |               |
+| Lecture 3;<br />October 8, 2020    | 11:00 AM – 1:00 PM | Siddhartha Das | Bounds on measurement device independent QKD protocols       | 120               |               |
+| Lecture 4;<br />October 15, 2020   | 11:00 AM – 1:00 PM | Siddhartha Das | Buffer                                                       | 120               |               |
 
 #### QLIC-meet #8 | (Thursday; September  29; 2020; 11:30 AM to 1:00 PM)
 
@@ -32,9 +32,18 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Lecture Series | Details
 
+### Siddhartha Das 
+
+#### Quantum key distribution and fundamental limitations
 
 
+My main objective is to discuss some tools/methods to arrive at upper bounds on entanglement-based quantum key distribution protocols.
 
+For the first lecture, I plan to start with discussion on the meaning of quantum key distribution. After brief review of quantum key distribution, we would then talk vaguely about two types of QKD schemes, without entanglement (BB84) and with entanglement (E91). After this, I plan to discuss preliminaries: fidelity, trace distance, generalized divergence, entanglement measures, etc for states and channels. Here, I will briefly mention the relation between entanglement distillation and quantum key distillation from quantum states. I will then formally introduce the protocol for quantum key distribution. Depending on time (else it will be part of the second lecture), I will see if I can discuss bounds on the protocol or not. Idea would be to give a rough sketch for proof of a non-trivial lower bound on the rate of quantum key distribution. 
+
+In the second lecture: We will discuss private states and bounds on the quantum key distribution capacities over channels. 
+
+In the third lecture: We will discuss bounds on measurement device independent quantum key distribution protocols. 
 
 
 ## Abstracts
