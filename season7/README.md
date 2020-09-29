@@ -11,8 +11,8 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 | Segment | Speaker       | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------- | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Simon Apers   | qLx=b, or using quantum algorithms to solve Laplacian systems (see [abstract](#Simon-Apers))| 45+10             |               |
-| Update  | Leonardo Novo | TBA                                                          | 15                |               |
+| Talk    | Simon Apers   | qLx=b, or using quantum algorithms to solve Laplacian systems (see [abstract](#Simon-Apers)) | 45+10             |               |
+| Update  | Leonardo Novo | Floquet meets analog quantum computation                     | 15                |               |
 
 #### Lecture Set 6 (Thursday; September, 24, October 1, 8 and 15 (buffer) ; 2020) | Quantum key distribution and fundamental limitations
 
