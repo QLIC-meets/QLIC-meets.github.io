@@ -7,21 +7,15 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Upcoming 
 
-#### QLIC-meet #8 | (Tuesday; September  29; 2020; 11:30 AM to 1:00 PM)
+#### Lecture Set 7 (TBA; 2020) |Timothée Hoffreumon
+| Segment/Date        | Slot               | Speaker             | Topic | Minutes Allocated | Minutes Spent |
+| ------------------- | ------------------ | ------------------- | ----- | ----------------- | ------------- |
+| Lecture 1;<br />TBA | 11:00 AM – 1:00 PM | Timothée Hoffreumon |       | 120               |               |
+| Lecture 2;<br />TBA | 11:00 AM – 1:00 PM | Timothée Hoffreumon |       | 120               |               |
+| Lecture 3;<br />TBA | 11:00 AM – 1:00 PM | Timothée Hoffreumon |       | 120               |               |
+| Lecture 4;<br />TBA | 11:00 AM – 1:00 PM | Timothée Hoffreumon |       | 120               |               |
 
-| Segment | Speaker       | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ------------- | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Simon Apers   | qLx=b, or using quantum algorithms to solve Laplacian systems (see [abstract](#Simon-Apers)) | 45+10             |               |
-| Update  | Leonardo Novo | Floquet meets analog quantum computation                     | 15                |               |
 
-#### Lecture Set 6 (Thursday; September, 24, October 1, 8 and 15 (buffer) ; 2020) | Quantum key distribution and fundamental limitations
-
-| Segment/Date                       | Slot               | Speaker        | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ---------------------------------- | ------------------ | -------------- | ------------------------------------------------------------ | ----------------- | ------------- |
-| Lecture 1;<br />September 24, 2020 | 11:00 AM – 1:00 PM | Siddhartha Das | Quantum key distribution and fundamental limitations (see [details](#Siddhartha-Das)) | 120               | 120           |
-| Lecture 2;<br />October 1, 2020    | 11:00 AM – 1:00 PM | Siddhartha Das | Private states and bounds on the QKD capacities over channels | 120               |               |
-| Lecture 3;<br />October 8, 2020    | 11:00 AM – 1:00 PM | Siddhartha Das | Bounds on measurement device independent QKD protocols       | 120               |               |
-| Lecture 4;<br />October 15, 2020   | 11:00 AM – 1:00 PM | Siddhartha Das | Buffer                                                       | 120               |               |
 
 
 [More upcoming](#Confirmed) 
@@ -60,7 +54,23 @@ Solving Laplacian systems is a central topic in the computational sciences and h
 
 ## Past
 
-#### 
+
+#### QLIC-meet #8 | (Tuesday; September  29; 2020; 11:30 AM to 1:00 PM)
+
+| Segment | Speaker       | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------- | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Simon Apers   | qLx=b, or using quantum algorithms to solve Laplacian systems (see [abstract](#Simon-Apers)) | 45+10             | 55            |
+| Update  | Leonardo Novo | Floquet meets analog quantum computation                     | 15                | 15            |
+
+#### Lecture Set 6 (Thursday; September, 24, October 1, 8 and 15 (buffer) ; 2020) | Quantum key distribution and fundamental limitations
+
+| Segment/Date                       | Slot               | Speaker        | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ---------------------------------- | ------------------ | -------------- | ------------------------------------------------------------ | ----------------- | ------------- |
+| Lecture 1;<br />September 24, 2020 | 11:00 AM – 1:00 PM | Siddhartha Das | Quantum key distribution and fundamental limitations (see [details](#Siddhartha-Das)) | 120               | 120           |
+| Lecture 2;<br />October 1, 2020    | 11:00 AM – 1:00 PM | Siddhartha Das | Private states and bounds on the QKD capacities over channels | 120               | 120           |
+| Lecture 3;<br />October 8, 2020    | 11:00 AM – 1:00 PM | Siddhartha Das | Bounds on measurement device independent QKD protocols       | 120               | 120           |
+| Lecture 4;<br />October 15, 2020   | 11:00 AM – 1:00 PM | Siddhartha Das | Buffer                                                       | 120               | 120           |
+
 
 
 ## In the Pipeline
