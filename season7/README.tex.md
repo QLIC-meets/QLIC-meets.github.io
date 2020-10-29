@@ -15,7 +15,7 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 | Lecture 3;<br />TBA | 11:00 AM – 1:00 PM | Timothée Hoffreumon |       | 120               |               |
 | Lecture 4;<br />TBA | 11:00 AM – 1:00 PM | Timothée Hoffreumon |       | 120               |               |
 
-
+ 
 
 
 [More upcoming](#Confirmed) 
