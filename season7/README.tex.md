@@ -3,7 +3,7 @@ Welcome to the QLIC-meets page. For further information about the meetings see t
 
 All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-meets.github.io/all). 
 
-
+ 
 
 ## Upcoming 
 
