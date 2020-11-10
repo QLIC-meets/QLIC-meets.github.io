@@ -19,10 +19,10 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 #### QLIC-meet #8 | (Thursday; December  3; 2020; 11:30 AM to 1:00 PM)
 
-| Segment | Speaker        | Topic | Minutes Allocated | Minutes Spent |
-| ------- | -------------- | ----- | ----------------- | ------------- |
-| Talk    | Michele Masini | TBA   | 45+10             |               |
-| Update  | open           | open  | 15                |               |
+| Segment | Speaker        | Topic                                                 | Minutes Allocated | Minutes Spent |
+| ------- | -------------- | ----------------------------------------------------- | ----------------- | ------------- |
+| Talk    | Michele Masini | Detection and creation of coherence in interferometry (see [abstract](#Michele-Masini)) | 45+10             |               |
+| Update  | open           | open                                                  | 15                |               |
 
 [More upcoming](#Confirmed) 
 
@@ -48,6 +48,12 @@ In the third lecture: We will discuss bounds on measurement device independent q
 
 
 ## Abstracts
+
+### Michele Masini
+
+#### Detection and creation of coherence in interferometry
+
+The creation of relative phases between the probability amplitudes of a quantum state is a typical quantum signature and their detectability is strictly related to the amount of quantum coherence present in the quantum state we consider. Recently, we showed that one can use the addition of relative phases to identify a concrete framework in which the ability to detect or create coherence plays a role. In this talk, I will start introducing the concept of a multi-path interferometer and the one of a channel resource theory. Later, I will use these concepts to infer our concrete framework, focusing on the ability to detect coherence. I will point out our findings and explain what are the problems that we had to face. I will focus on the physical reasons behind these problems and on their solutions.
 
 ### Simon Apers
 
