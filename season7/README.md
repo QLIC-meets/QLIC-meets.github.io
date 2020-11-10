@@ -7,16 +7,22 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Upcoming 
 
-#### Lecture Set 7 (TBA; 2020) |Timothée Hoffreumon
-| Segment/Date        | Slot               | Speaker             | Topic | Minutes Allocated | Minutes Spent |
-| ------------------- | ------------------ | ------------------- | ----- | ----------------- | ------------- |
-| Lecture 1;<br />TBA | 11:00 AM – 1:00 PM | Timothée Hoffreumon |       | 120               |               |
-| Lecture 2;<br />TBA | 11:00 AM – 1:00 PM | Timothée Hoffreumon |       | 120               |               |
-| Lecture 3;<br />TBA | 11:00 AM – 1:00 PM | Timothée Hoffreumon |       | 120               |               |
-| Lecture 4;<br />TBA | 11:00 AM – 1:00 PM | Timothée Hoffreumon |       | 120               |               |
+#### Lecture Set 7 (Thursday;  November 19, 26, December 10 and 17 ; 2020) |Introduction to Process Matrix formalism
+| Segment/Date                      | Slot              | Speaker             | Topic                                    | Minutes Allocated | Minutes Spent |
+| --------------------------------- | ----------------- | ------------------- | ---------------------------------------- | ----------------- | ------------- |
+| Lecture 1;<br />November 19, 2020 | 2:00 PM – 4:00 PM | Timothée Hoffreumon | Introduction to Process Matrix formalism | 120               |               |
+| Lecture 2;<br />November 26, 2020 | 2:00 PM – 4:00 PM | Timothée Hoffreumon | Introduction to Process Matrix formalism | 120               |               |
+| Lecture 3;<br />December 10, 2020 | 2:00 PM – 4:00 PM | Timothée Hoffreumon | Introduction to Process Matrix formalism | 120               |               |
+| Lecture 4;<br />December 17, 2020 | 2:00 PM – 4:00 PM | Timothée Hoffreumon | Introduction to Process Matrix formalism | 120               |               |
 
  
 
+#### QLIC-meet #8 | (Thursday; December  3; 2020; 11:30 AM to 1:00 PM)
+
+| Segment | Speaker        | Topic | Minutes Allocated | Minutes Spent |
+| ------- | -------------- | ----- | ----------------- | ------------- |
+| Talk    | Michele Masini | TBA   | 45+10             |               |
+| Update  | open           | open  | 15                |               |
 
 [More upcoming](#Confirmed) 
 
