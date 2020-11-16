@@ -10,7 +10,7 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 #### Lecture Set 7 (Thursday;  November 19, 26, December 10 and 17 ; 2020) |Introduction to Process Matrix formalism
 | Segment/Date                      | Slot              | Speaker             | Topic                                    | Minutes Allocated | Minutes Spent |
 | --------------------------------- | ----------------- | ------------------- | ---------------------------------------- | ----------------- | ------------- |
-| Lecture 1;<br />November 19, 2020 | 2:00 PM – 4:00 PM | Timothée Hoffreumon | Introduction to Process Matrix formalism | 120               |               |
+| Lecture 1;<br />November 19, 2020 | 2:00 PM – 4:00 PM | Timothée Hoffreumon | Introduction to Process Matrix formalism (see [details](#Timothée-Hoffreumon)) | 120               |               |
 | Lecture 2;<br />November 26, 2020 | 2:00 PM – 4:00 PM | Timothée Hoffreumon | Introduction to Process Matrix formalism | 120               |               |
 | Lecture 3;<br />December 10, 2020 | 2:00 PM – 4:00 PM | Timothée Hoffreumon | Introduction to Process Matrix formalism | 120               |               |
 | Lecture 4;<br />December 17, 2020 | 2:00 PM – 4:00 PM | Timothée Hoffreumon | Introduction to Process Matrix formalism | 120               |               |
@@ -32,6 +32,30 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 
 ## Lecture Series | Details
+
+### Timothée Hoffreumon
+
+#### Introduction to Process Matrix formalism
+
+The goal of these lectures is to give a gentle introduction to the process matrix formalism.
+The lectures will be deliberately informal; the envisioned goal is to have a casual chat on the topic while introducing the main concepts. To do so, participants  are invited to ask as many questions as possible -keep in mind that I am not even the most competent person in the field at QuIC-.
+The first lecture will consist of re-deriving the results of the paper that kicked off the field, quantum correlations with no causal order [1], without assuming more background than introductory channel formalism. This will allow us to review the mathematical concept of channel-state duality, aka the Choi-Jamiolkowski isomorphism. Then, we will motivate the need for an object going beyond channel formalism, and carefully derive the process matrix. This will allow us to introduce, define, and talk about two main topics of the field: causal separability and causal inequality violation.
+With the remaining time, and depending on what the audience is interested in, we can explore several paths. For example, we can talk in more details about the representations of quantum channels: Kraus, Stinespring, Sudarshan, ... Otherwise, the notion of indefinite causal structure can be further motivated by presenting the quantum switch as well as the no-go theorem of ref. [2]. Another direction that can be explored is the Gleason-like derivation of the process matrix [3].
+The second lecture will introduce the more advanced topics needed for the third lecture: causal witness as well as the projective characterization methods for PMs [4], and causal activation [5]. During the remaining time, and depending on the audience interest we will briefly talk about some of the following concepts: dynamics of PM [6], the purification postulate [7], no-go theorem for the composition of PM [8], and/or violation of causal inequality by classical processes [9].
+In the third lecture I will explain the Multi-round Process Matrix (MPM) [10] extension of the PM. I will basically follow the structure of the paper: the concept of quantum combs will be introduced first in order to present the projective characterization of the MPM. Then I will motivate the definition of causal separability for the MPM and show how it differs from the PM definition through an example of activation. Depending on the remaining time, we will delve deeper in the projective characterization methods. I can either present how they can be used to show that the MPM is an affine sum of quantum combs (theorem 2 of [10]), or how they can be generalized to higher-order quantum transformation [11] (this is unpublished work about my ongoing research though).
+
+[1] Oreshkov, O., Costa, F. & Brukner, Č. Quantum correlations with no causal order. Nat Commun 3, 1092 (2012). arXiv:1105.4464v3
+[2] Chiribella, G., et al. Quantum computation without definite causal structure. Phys. Rev. A 88 022318 (2013). arXiv:0912.0195v4
+[3] Shrapnel, S., Costa, F. & Milburn, G. Updating the Born rule. New J. Phys. 20 053010 (2018). arXiv:1702.01845v1
+[4] Araújo, M., et al. Witnessing causal nonseparability. New J. Phys. 17 102001 (2015). arXiv:1506.03776v2
+[5] Oreshkov, O. & Giarmatzi, Ch. Causal and causally separable processes. New J. Phys. 18 093020 (2016). arXiv:1506.05449v3
+[6] Castro-Ruiz, E., Giacomini, F. & Bruckner, Č. Dynamics of quantum causal structures. Phys. Rev. X 8 011047 (2018). arXiv:1710.03139v2
+[7] Araùjo, M., et al. A purification postulate for quantum mechanics with indefinite causal order. Quantum 1 10 (2017). arXiv:1611.08535v4
+[8] Jia, D. & Shakarwade, N. Tensor products of process matrices with indefinite causal structure. Phys Rev. A 97 032110 (2018); Guérin, P.A., et al. Composition rules for quantum processes: a no-go theorem. New J. Phys. 21 012001 (2019) arXiv:1806.10374v2
+[9] Baumeler, Ä., Feix, A., & Wolf, S. Maximal incompatibility of locally classical behavior and global causal order in multi-party scenarios. Phys. Rev. A 90 042106 (2014). arXiv:1403.7333v3
+[10] Hoffreumon, T. & Oreshkov, O. The Multi-round Process Matrix. (2020). arXiv:2005.04204v1
+[11] Bisio, A. & Perinotti, P. Theoretical framework for higher-order quantum theory. Proc. R. Soc. A 475 20180706 (2019). arXiv:1806.09554v3
+
 
 ### Siddhartha Das 
 
