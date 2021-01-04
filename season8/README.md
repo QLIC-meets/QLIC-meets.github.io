@@ -7,10 +7,10 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 #### QLIC-meet #9 | (Thursday; December  3; 2020; 11:30 AM to 1:00 PM)
 
-| Segment | Speaker        | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | -------------- | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Michele Masini | Contextuality in Entanglement-assisted One-shot Classical Communication (see [abstract](#Ravi-Kunjwal)) | 45+10             | 45            |
-| Update  | open           | open                                                         | 15                |               |
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Ravi Kunjwal | Contextuality in Entanglement-assisted One-shot Classical Communication (see [abstract](#Ravi-Kunjwal)) | 45+10             | 45            |
+| Update  | open         | open                                                         | 15                |               |
 
 
 
