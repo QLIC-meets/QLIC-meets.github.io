@@ -3,34 +3,6 @@ Welcome to the QLIC-meets page. For further information about the meetings see t
 
 All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-meets.github.io/all). 
 
- 
-
-## Upcoming 
-
-#### Lecture Set 7 (Thursday;  November 19, 26, December 10 and 17 ; 2020) |Introduction to Process Matrix formalism
-| Segment/Date                      | Slot              | Speaker             | Topic                                    | Minutes Allocated | Minutes Spent |
-| --------------------------------- | ----------------- | ------------------- | ---------------------------------------- | ----------------- | ------------- |
-| Lecture 1;<br />November 19, 2020 | 2:00 PM – 4:00 PM | Timothée Hoffreumon | Introduction to Process Matrix formalism (see [details](#Timothée-Hoffreumon)) | 120               |               |
-| Lecture 2;<br />November 26, 2020 | 2:00 PM – 4:00 PM | Timothée Hoffreumon | Introduction to Process Matrix formalism | 120               |               |
-| Lecture 3;<br />December 10, 2020 | 2:00 PM – 4:00 PM | Timothée Hoffreumon | Introduction to Process Matrix formalism | 120               |               |
-| Lecture 4;<br />December 17, 2020 | 2:00 PM – 4:00 PM | Timothée Hoffreumon | Introduction to Process Matrix formalism | 120               |               |
-
- 
-
-#### QLIC-meet #9 | (Thursday; December  3; 2020; 11:30 AM to 1:00 PM)
-
-| Segment | Speaker        | Topic                                                 | Minutes Allocated | Minutes Spent |
-| ------- | -------------- | ----------------------------------------------------- | ----------------- | ------------- |
-| Talk    | Michele Masini | Detection and creation of coherence in interferometry (see [abstract](#Michele-Masini)) | 45+10             |               |
-| Update  | open           | open                                                  | 15                |               |
-
-[More upcoming](#Confirmed) 
-
-[Uncertified Random List Generator](https://mybinder.org/v2/gh/QLIC-meets/QLIC-meets.github.io/master?filepath=season6/lineUp/lineUp.ipynb)
-
-
-
-
 ## Lecture Series | Details
 
 ### Timothée Hoffreumon
@@ -101,9 +73,24 @@ The creation of relative phases between the probability amplitudes of a quantum 
 Solving Laplacian systems is a central topic in the computational sciences and has seen remarkable progress in the past few decades. In this talk I will discuss existing and ongoing work on the use of quantum algorithms to solve Laplacian systems.
 
 
-## Confirmed
-
 ## Past
+
+#### Lecture Set 7 (Thursday;  November 19, 26, December 10 and 17 ; 2020) |Introduction to Process Matrix formalism
+| Segment/Date                      | Slot              | Speaker             | Topic                                                        | Minutes Allocated | Minutes Spent |
+| --------------------------------- | ----------------- | ------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
+| Lecture 1;<br />November 19, 2020 | 2:00 PM – 4:00 PM | Timothée Hoffreumon | Introduction to Process Matrix formalism (see [details](#Timothée-Hoffreumon)) | 120               | 120           |
+| Lecture 2;<br />November 26, 2020 | 2:00 PM – 4:00 PM | Timothée Hoffreumon | Introduction to Process Matrix formalism                     | 120               | 120           |
+| Lecture 3;<br />December 10, 2020 | 2:00 PM – 4:00 PM | Timothée Hoffreumon | Introduction to Process Matrix formalism                     | 120               | 120           |
+| Lecture 4;<br />December 17, 2020 | 2:00 PM – 4:00 PM | Timothée Hoffreumon | Introduction to Process Matrix formalism                     | 120               | 120           |
+
+ 
+
+#### QLIC-meet #9 | (Thursday; December  3; 2020; 11:30 AM to 1:00 PM)
+
+| Segment | Speaker        | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | -------------- | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Michele Masini | Detection and creation of coherence in interferometry (see [abstract](#Michele-Masini)) | 45+10             | 45            |
+| Update  | open           | open                                                         | 15                |               |
 
 
 #### QLIC-meet #8 | (Tuesday; September  29; 2020; 11:30 AM to 1:00 PM)
