@@ -3,6 +3,45 @@ Welcome to the QLIC-meets page. For further information about the meetings see t
 
 All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-meets.github.io/all). 
 
+## Past
+
+#### Lecture Set 7 (Thursday;  November 19, 26, December 10 and 17 ; 2020) |Introduction to Process Matrix formalism
+| Segment/Date                      | Slot              | Speaker             | Topic                                                        | Minutes Allocated | Minutes Spent |
+| --------------------------------- | ----------------- | ------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
+| Lecture 1;<br />November 19, 2020 | 2:00 PM – 4:00 PM | Timothée Hoffreumon | Introduction to Process Matrix formalism (see [details](#Timothée-Hoffreumon)) | 120               | 120           |
+| Lecture 2;<br />November 26, 2020 | 2:00 PM – 4:00 PM | Timothée Hoffreumon | Introduction to Process Matrix formalism                     | 120               | 120           |
+| Lecture 3;<br />December 10, 2020 | 2:00 PM – 4:00 PM | Timothée Hoffreumon | Introduction to Process Matrix formalism                     | 120               | 120           |
+| Lecture 4;<br />December 17, 2020 | 2:00 PM – 4:00 PM | Timothée Hoffreumon | Introduction to Process Matrix formalism                     | 120               | 120           |
+
+ 
+
+#### QLIC-meet #9 | (Thursday; December  3; 2020; 11:30 AM to 1:00 PM)
+
+| Segment | Speaker        | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | -------------- | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Michele Masini | Detection and creation of coherence in interferometry (see [abstract](#Michele-Masini)) | 45+10             | 45            |
+| Update  | open           | open                                                         | 15                |               |
+
+
+#### QLIC-meet #8 | (Tuesday; September  29; 2020; 11:30 AM to 1:00 PM)
+
+| Segment | Speaker       | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------- | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Simon Apers   | qLx=b, or using quantum algorithms to solve Laplacian systems (see [abstract](#Simon-Apers)) | 45+10             | 55            |
+| Update  | Leonardo Novo | Floquet meets analog quantum computation                     | 15                | 15            |
+
+#### Lecture Set 6 (Thursday; September, 24, October 1, 8 and 15 (buffer) ; 2020) | Quantum key distribution and fundamental limitations
+
+| Segment/Date                       | Slot               | Speaker        | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ---------------------------------- | ------------------ | -------------- | ------------------------------------------------------------ | ----------------- | ------------- |
+| Lecture 1;<br />September 24, 2020 | 11:00 AM – 1:00 PM | Siddhartha Das | Quantum key distribution and fundamental limitations (see [details](#Siddhartha-Das)) | 120               | 120           |
+| Lecture 2;<br />October 1, 2020    | 11:00 AM – 1:00 PM | Siddhartha Das | Private states and bounds on the QKD capacities over channels | 120               | 120           |
+| Lecture 3;<br />October 8, 2020    | 11:00 AM – 1:00 PM | Siddhartha Das | Bounds on measurement device independent QKD protocols       | 120               | 120           |
+| Lecture 4;<br />October 15, 2020   | 11:00 AM – 1:00 PM | Siddhartha Das | Buffer                                                       | 120               | 120           |
+
+
+
+
 ## Lecture Series | Details
 
 ### Timothée Hoffreumon
@@ -71,43 +110,6 @@ The creation of relative phases between the probability amplitudes of a quantum 
 #### qLx=b, or using quantum algorithms to solve Laplacian systems
 
 Solving Laplacian systems is a central topic in the computational sciences and has seen remarkable progress in the past few decades. In this talk I will discuss existing and ongoing work on the use of quantum algorithms to solve Laplacian systems.
-
-
-## Past
-
-#### Lecture Set 7 (Thursday;  November 19, 26, December 10 and 17 ; 2020) |Introduction to Process Matrix formalism
-| Segment/Date                      | Slot              | Speaker             | Topic                                                        | Minutes Allocated | Minutes Spent |
-| --------------------------------- | ----------------- | ------------------- | ------------------------------------------------------------ | ----------------- | ------------- |
-| Lecture 1;<br />November 19, 2020 | 2:00 PM – 4:00 PM | Timothée Hoffreumon | Introduction to Process Matrix formalism (see [details](#Timothée-Hoffreumon)) | 120               | 120           |
-| Lecture 2;<br />November 26, 2020 | 2:00 PM – 4:00 PM | Timothée Hoffreumon | Introduction to Process Matrix formalism                     | 120               | 120           |
-| Lecture 3;<br />December 10, 2020 | 2:00 PM – 4:00 PM | Timothée Hoffreumon | Introduction to Process Matrix formalism                     | 120               | 120           |
-| Lecture 4;<br />December 17, 2020 | 2:00 PM – 4:00 PM | Timothée Hoffreumon | Introduction to Process Matrix formalism                     | 120               | 120           |
-
- 
-
-#### QLIC-meet #9 | (Thursday; December  3; 2020; 11:30 AM to 1:00 PM)
-
-| Segment | Speaker        | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | -------------- | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Michele Masini | Detection and creation of coherence in interferometry (see [abstract](#Michele-Masini)) | 45+10             | 45            |
-| Update  | open           | open                                                         | 15                |               |
-
-
-#### QLIC-meet #8 | (Tuesday; September  29; 2020; 11:30 AM to 1:00 PM)
-
-| Segment | Speaker       | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ------------- | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Simon Apers   | qLx=b, or using quantum algorithms to solve Laplacian systems (see [abstract](#Simon-Apers)) | 45+10             | 55            |
-| Update  | Leonardo Novo | Floquet meets analog quantum computation                     | 15                | 15            |
-
-#### Lecture Set 6 (Thursday; September, 24, October 1, 8 and 15 (buffer) ; 2020) | Quantum key distribution and fundamental limitations
-
-| Segment/Date                       | Slot               | Speaker        | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ---------------------------------- | ------------------ | -------------- | ------------------------------------------------------------ | ----------------- | ------------- |
-| Lecture 1;<br />September 24, 2020 | 11:00 AM – 1:00 PM | Siddhartha Das | Quantum key distribution and fundamental limitations (see [details](#Siddhartha-Das)) | 120               | 120           |
-| Lecture 2;<br />October 1, 2020    | 11:00 AM – 1:00 PM | Siddhartha Das | Private states and bounds on the QKD capacities over channels | 120               | 120           |
-| Lecture 3;<br />October 8, 2020    | 11:00 AM – 1:00 PM | Siddhartha Das | Bounds on measurement device independent QKD protocols       | 120               | 120           |
-| Lecture 4;<br />October 15, 2020   | 11:00 AM – 1:00 PM | Siddhartha Das | Buffer                                                       | 120               | 120           |
 
 
 
