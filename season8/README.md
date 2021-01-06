@@ -9,7 +9,7 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Ravi Kunjwal | Contextuality in Entanglement-assisted One-shot Classical Communication (see [abstract](#Ravi-Kunjwal)) | 45+10             | 45            |
+| Talk    | Ravi Kunjwal | Contextuality in Entanglement-assisted One-shot Classical Communication (see [abstract](#Ravi-Kunjwal)) | 45+10             |               |
 | Update  | open         | open                                                         | 15                |               |
 
 
