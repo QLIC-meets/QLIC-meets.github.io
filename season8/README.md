@@ -5,7 +5,7 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed 
 
-#### QLIC-meet #9 | (Thursday; February  4; 2021; 11:30 AM to 1:00 PM)
+#### QLIC-meet #1 | (Thursday; February  4; 2021; 11:30 AM to 1:00 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
@@ -13,6 +13,12 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 | Update  | open         | open                                                         | 15                |               |
 
 
+#### QLIC-meet #2 | (Thursday; February  11; 2021; 11:30 AM to 1:00 PM)
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Jef Pauwels | Prepare-and-measure scenarios with entanglement (see [abstract](#Jef-Pauwels)) | 45+10             |               |
+| Update  | open         | open                                                         | 15                |               |
 
 
 ## Lecture Series | Details
@@ -20,6 +26,14 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 
 ## Abstracts
+
+
+### Jef Pauwels
+
+#### Prepare-and-measure scenarios with entanglement
+
+We investigate the correlations that can arise in prepare-and-measure communication scenarios where the source (Alice) and the measurement device (Bob) can share prior entanglement. The paradigmatic example of such a scenario is the quantum dense coding protocol, where the communication capacity of a qubit can be amplified if a two-qubit entangled state is shared between Alice and Bob. We prove that the most general correlations that can be established between Alice and Bob actually require higher-dimensional entanglement. This motivates us to investigate the set of correlations that can be obtained from communicating either a classical or a quantum d-dimensional system in the presence of an unlimited amount of entanglement. We show how such correlations can be bounded through a series of semidefinite programming relaxations. For classical communication, this follows from a reduction to standard Bell nonlocality. For general communication, in particular quantum, this follows from a relaxation to the set of informationally-restricted quantum correlations. As an application, we introduce device-independent tests of the dimension of classical and quantum systems that, in contrast to previous results, do not make the implicit assumption that Alice and Bob share no entanglement. As another application, we establish several relations between communication with and without entanglement as resources for creating correlations. 
+
 
 ### Ravi Kunjwal
 
