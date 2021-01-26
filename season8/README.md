@@ -21,7 +21,18 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 | Update  | open         | open                                                         | 15                |               |
 
 
+
+#### Lecture Set 1 (Thursday;  April 22, 29, May 6 ; 2021) |
+| Segment/Date                   | Slot               | Speaker     | Topic | Minutes Allocated | Minutes Spent |
+| ------------------------------ | ------------------ | ----------- | ----- | ----------------- | ------------- |
+| Lecture 1;<br />April 22, 2021 | 11:00 AM – 1:00 PM | Simon Apers |       | 120               |               |
+| Lecture 2;<br />April 29, 2021 | 11:00 AM – 1:00 PM | Simon Apers |       | 120               |               |
+| Lecture 3;<br />May 6, 2021    | 11:00 AM – 1:00 PM | Simon Apers |       | 120               |               |
+| Lecture 4;<br />               | 11:00 AM – 1:00 PM | Simon Apers |       | 120               |               |
+
 ## Lecture Series | Details
+
+
 
 
 
