@@ -20,7 +20,12 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 | Talk    | Jef Pauwels | Prepare-and-measure scenarios with entanglement (see [abstract](#Jef-Pauwels)) | 45+10             |               |
 | Update  | open         | open                                                         | 15                |               |
 
+#### QLIC-meet #3 | (Thursday; February  25; 2021; 11:30 AM to 1:00 PM)
 
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Thomas Van Himbeeck | Dimensional Reduction in Quantum Key Distribution for Continuous- and Discrete-Variable Protocols | 45+10             |               |
+| Update  | open         | open                                                         | 15                |               |
 
 #### Lecture Set 1 (Thursday;  April 22, 29, May 6 ; 2021) |
 | Segment/Date                   | Slot               | Speaker     | Topic | Minutes Allocated | Minutes Spent |
