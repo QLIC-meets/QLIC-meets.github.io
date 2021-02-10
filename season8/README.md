@@ -5,14 +5,6 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed 
 
-#### QLIC-meet #1 | (Thursday; February  4; 2021; 11:30 AM to 1:00 PM)
-
-| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Ravi Kunjwal | Contextuality in Entanglement-assisted One-shot Classical Communication (see [abstract](#Ravi-Kunjwal)) | 45+10             |               |
-| Update  | open         | open                                                         | 15                |               |
-
-
 #### QLIC-meet #2 | (Thursday; February  11; 2021; 11:30 AM to 1:00 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
@@ -58,6 +50,14 @@ We investigate the correlations that can arise in prepare-and-measure communicat
 We consider the problem of entanglement-assisted one-shot classical communication. In the zeroerror regime, entanglement can increase the one-shot zero-error capacity of a family of classical channels following the strategy of Cubitt et al., Phys. Rev. Lett. 104, 230503 (2010). This strategy uses the Kochen-Specker theorem which is applicable only to projective measurements. As such, in the regime of noisy states and/or measurements, this strategy cannot increase the capacity. To accommodate generically noisy situations, we examine the one-shot success probability of sending a fixed number of classical messages. We show that preparation contextuality powers the quantum advantage in this task, increasing the one-shot success probability beyond its classical maximum. Our treatment extends beyond Cubitt et al. and includes, for example, the experimentally implemented protocol of Prevedel et al., Phys. Rev. Lett. 106, 110505 (2011). We then show a mapping between this communication task and a corresponding nonlocal game. This mapping generalizes the connection with pseudotelepathy games previously noted in the zero-error case. Finally, after motivating a constraint we term context-independent guessing, we show that contextuality witnessed by noise-robust noncontextuality inequalities obtained in R. Kunjwal, Quantum 4, 219 (2020), is sufficient for enhancing the one-shot success probability. This provides an operational meaning to these inequalities and the associated hypergraph invariant, the weighted max-predictability, introduced in R. Kunjwal, Quantum 3, 184 (2019). Our results show that the task of entanglement-assisted oneshot classical communication provides a fertile groud to study the interplay of the Kochen-Specker theorem, Spekkens contextuality, and Bell nonlocality.
 
 
+## Past
+
+#### QLIC-meet #1 | (Thursday; February  4; 2021; 11:30 AM to 1:00 PM)
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Ravi Kunjwal | Contextuality in Entanglement-assisted One-shot Classical Communication (see [abstract](#Ravi-Kunjwal)) | 45+10             | 70            |
+| Update  | open         | open                                                         | 15                |               |
 
 
 ## About
