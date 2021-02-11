@@ -5,13 +5,6 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed 
 
-#### QLIC-meet #2 | (Thursday; February  11; 2021; 11:30 AM to 1:00 PM)
-
-| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Jef Pauwels | Prepare-and-measure scenarios with entanglement (see [abstract](#Jef-Pauwels)) | 45+10             |               |
-| Update  | open         | open                                                         | 15                |               |
-
 #### QLIC-meet #3 | (Thursday; February  25; 2021; 11:30 AM to 1:00 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
@@ -51,6 +44,13 @@ We consider the problem of entanglement-assisted one-shot classical communicatio
 
 
 ## Past
+
+#### QLIC-meet #2 | (Thursday; February  11; 2021; 11:30 AM to 1:00 PM)
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Jef Pauwels | Prepare-and-measure scenarios with entanglement (see [abstract](#Jef-Pauwels)) | 45+10             |  50             |
+| Update  | open         | open                                                         | 15                |               |
 
 #### QLIC-meet #1 | (Thursday; February  4; 2021; 11:30 AM to 1:00 PM)
 
