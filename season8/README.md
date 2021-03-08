@@ -10,7 +10,7 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
 | Talk    | Jarek Korbicz |  | 45+10             |               |
-| 
+
 
 #### Lecture Set 1 (Thursday;  April 22, 29, May 6 ; 2021) |
 | Segment/Date                   | Slot               | Speaker     | Topic | Minutes Allocated | Minutes Spent |
