@@ -5,12 +5,12 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed 
 
-#### QLIC-meet #3 | (Thursday; February  25; 2021; 11:30 AM to 1:00 PM)
+#### QLIC- seminar #1 | (Thursday; March  25; 2021; 11:30 AM to 12:30 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Thomas Van Himbeeck | Dimensional Reduction in Quantum Key Distribution for Continuous- and Discrete-Variable Protocols | 45+10             |               |
-| Update  | open         | open                                                         | 15                |               |
+| Talk    | Jarek Korbicz |  | 45+10             |               |
+| 
 
 #### Lecture Set 1 (Thursday;  April 22, 29, May 6 ; 2021) |
 | Segment/Date                   | Slot               | Speaker     | Topic | Minutes Allocated | Minutes Spent |
@@ -44,6 +44,13 @@ We consider the problem of entanglement-assisted one-shot classical communicatio
 
 
 ## Past
+
+#### QLIC-meet #3 | (Thursday; February  25; 2021; 11:30 AM to 1:00 PM)
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Thomas Van Himbeeck | Dimensional Reduction in Quantum Key Distribution for Continuous- and Discrete-Variable Protocols | 45+10             |               |
+| Update  | open         | open                                                         | 15                |               |
 
 #### QLIC-meet #2 | (Thursday; February  11; 2021; 11:30 AM to 1:00 PM)
 
