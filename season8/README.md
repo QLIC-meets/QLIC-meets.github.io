@@ -12,14 +12,21 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
 | Talk    | Jarek Korbicz |  | 45+10             |               |
 
+#### QLIC- meet #4 | (Thursday; April 29; 2021; 11:00 AM to 12:00 PM)
 
-#### Lecture Set 1 (Thursday;  April 22, 29, May 6 ; 2021) |
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Célia Griffet |  | 45+10             |               |
+
+
+
+#### Lecture Set 1 (Thursday;  May 6, 13, 20 and 27 ; 2021) |
 | Segment/Date                   | Slot               | Speaker     | Topic | Minutes Allocated | Minutes Spent |
 | ------------------------------ | ------------------ | ----------- | ----- | ----------------- | ------------- |
-| Lecture 1;<br />April 22, 2021 | 11:00 AM – 1:00 PM | Simon Apers |       | 120               |               |
-| Lecture 2;<br />April 29, 2021 | 11:00 AM – 1:00 PM | Simon Apers |       | 120               |               |
-| Lecture 3;<br />May 6, 2021    | 11:00 AM – 1:00 PM | Simon Apers |       | 120               |               |
-| Lecture 4;<br />               | 11:00 AM – 1:00 PM | Simon Apers |       | 120               |               |
+| Lecture 1;<br /><May 6, 2021 | 11:00 AM – 1:00 PM | Simon Apers |       | 120               |               |
+| Lecture 2;<br />May 13, 2021 | 11:00 AM – 1:00 PM | Simon Apers |       | 120               |               |
+| Lecture 3;<br />May 20, 2021 | 11:00 AM – 1:00 PM | Simon Apers |       | 120               |               |
+| Lecture 4;<br />May 27, 2021 | 11:00 AM – 1:00 PM | Simon Apers |       | 120               |               |
 
 ## Lecture Series | Details
 
