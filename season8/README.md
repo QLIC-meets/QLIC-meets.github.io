@@ -10,7 +10,7 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Jarek Korbicz |  | 45+10             |               |
+| Talk    | Jarek Korbicz | Objectivity in Quantum Mechanics (see [abstract](#Jarek-Korbicz))| 45+10             |               |
 
 #### QLIC- meet #4 | (Thursday; April 29; 2021; 11:00 AM to 12:00 PM)
 
@@ -36,6 +36,15 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Abstracts
 
+### Jarek Korbicz
+
+#### Objectivity in Quantum Mechanics
+
+I will present an introduction to a recent research of advanced forms of decoherence known under the name of quantum Darwinism and their connection to
+the problem of objectivity. It arises in the quantum-to-classical transition since quantum observations in general disturb the observed system, yet in everyday life
+we see the world as objective. I will concentrate especially on a rigorous tool known as Spectrum Broadcast Structures (SBS). These are specific, multipartite
+quantum states encoding a certain operational notion of objectivity. I will define them, motivate their use and briefly overview their appearance in well known
+models of open quantum systems.
 
 ### Jef Pauwels
 
