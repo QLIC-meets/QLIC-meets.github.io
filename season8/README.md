@@ -6,13 +6,13 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 ## Confirmed 
 
 
-#### QLIC- seminar #1 | (Thursday; March  25; 2021; 11:30 AM to 12:30 PM)
+#### QLIC- meet #4 | (Thursday; April 22; 2021; 11:30 AM to 12:30 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Jarek Korbicz | Objectivity in Quantum Mechanics (see [abstract](#Jarek-Korbicz))| 45+10             |               |
+| Talk    | Hamed Mohammady || 45+10             |               |
 
-#### QLIC- meet #4 | (Thursday; April 29; 2021; 11:00 AM to 12:00 PM)
+#### QLIC- meet #5| (Thursday; April 29; 2021; 11:00 AM to 12:00 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
@@ -61,6 +61,13 @@ We consider the problem of entanglement-assisted one-shot classical communicatio
 
 
 ## Past
+
+#### QLIC- seminar #1 | (Thursday; March  25; 2021; 11:30 AM to 12:30 PM)
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Jarek Korbicz | Objectivity in Quantum Mechanics (see [abstract](#Jarek-Korbicz))| 45+10             |       60        |
+
 
 #### QLIC-meet #3 | (Thursday; February  25; 2021; 11:30 AM to 1:00 PM)
 
