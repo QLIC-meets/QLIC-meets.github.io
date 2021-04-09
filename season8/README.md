@@ -10,7 +10,7 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Hamed Mohammady || 45+10             |               |
+| Talk    | Hamed Mohammady | Quantum measurements produce classical heat (see [abstract](#Hamed-Mohammady))| 45+10             |               |
 
 #### QLIC- meet #5| (Thursday; April 29; 2021; 11:00 AM to 12:00 PM)
 
@@ -35,6 +35,12 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 
 ## Abstracts
+
+### Hamed Mohammady
+
+#### Quantum measurements produce classical heat
+
+Quantum measurement is ultimately a physical process, resulting from an interaction between the measured system, and a measurement apparatus. Considering the physical process of measurement within a thermodynamic context naturally raises the following question: how can the work and heat resulting from the measurement process be interpreted? In this talk, I shall consider the physical realisation of an arbitrary discrete observable as a measurement scheme, which is decomposed into two processes: premeasurement, followed by objectification. Premeasurement results from a unitary interaction between the measured system and a quantum probe of the measurement apparatus, whereas objectification is the process by which the probe is "measured" by a pointer observable, thus revealing a definite measurement outcome. Since premeasurement involves a mechanical manipulation of the system and probe by the external observer, this process is identified with work. On the other hand, the apparatus is mechanically isolated during objectification. As such, objectification is identified with heat. I will argue that in order for the apparatus to serve as a measurement, the heat will necessarily be a classically fluctuating quantity.
 
 ### Jarek Korbicz
 
