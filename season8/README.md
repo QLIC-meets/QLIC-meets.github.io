@@ -20,18 +20,21 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 
 
-#### Lecture Set 1 (Thursday;  May 6, 13, 20 and 27 ; 2021) |
+#### Lecture Set 1 (Thursday;  May 6, 13, 20 and 27 ; 2021) | Quantum computers in Monte Carlo (see [abstract](#Simon-Apers))
 | Segment/Date                   | Slot               | Speaker     | Topic | Minutes Allocated | Minutes Spent |
 | ------------------------------ | ------------------ | ----------- | ----- | ----------------- | ------------- |
-| Lecture 1;<br /><May 6, 2021 | 11:00 AM – 1:00 PM | Simon Apers |       | 120               |               |
-| Lecture 2;<br />May 13, 2021 | 11:00 AM – 1:00 PM | Simon Apers |       | 120               |               |
-| Lecture 3;<br />May 20, 2021 | 11:00 AM – 1:00 PM | Simon Apers |       | 120               |               |
-| Lecture 4;<br />May 27, 2021 | 11:00 AM – 1:00 PM | Simon Apers |       | 120               |               |
+| Lecture 1;<br /><May 6, 2021 | 11:00 AM – 1:00 PM | Simon Apers | Markov chains and the Monte Carlo method | 120               |               |
+| Lecture 2;<br />May 13, 2021 | 11:00 AM – 1:00 PM | Simon Apers | Quantum Chebyshev inequality | 120               |               |
+| Lecture 3;<br />May 20, 2021 | 11:00 AM – 1:00 PM | Simon Apers | Quantum walks and quantum simulated annealing | 120               |               |
+| Lecture 4;<br />May 27, 2021 | 11:00 AM – 1:00 PM | Simon Apers | Schrödinger Monte Carlo and quantum Gibbs sampling | 120               |               |
 
 ## Lecture Series | Details
 
+### Simon Apers
 
+#### Quantum computers in Monte Carlo
 
+The Monte Carlo method is one of the key computational techniques in statistics, machine learning, finance, chemistry, etc. In this lecture series we consider the use of quantum computers to speed up the Monte Carlo method. We will introduce quantum algorithmic techniques such as the quantum Metropolis algorithm, the quantum Chebyshev inequality, and the use of quantum walks and quantum simulated annealing. These techniques lead to quantum speedups for applications in e.g. Bayesian inference, approximate counting and estimating partition functions.
 
 
 ## Abstracts
