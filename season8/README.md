@@ -6,17 +6,11 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 ## Confirmed 
 
 
-#### QLIC- meet #4 | (Thursday; April 22; 2021; 11:30 AM to 12:30 PM)
-
-| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Hamed Mohammady | Quantum measurements produce classical heat (see [abstract](#Hamed-Mohammady))| 45+10             |               |
-
 #### QLIC- meet #5| (Thursday; April 29; 2021; 11:00 AM to 12:00 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Célia Griffet |  | 45+10             |               |
+| Talk    | Célia Griffet | Intermediate evaluation  | 45+10             |               |
 
 
 
@@ -70,6 +64,13 @@ We consider the problem of entanglement-assisted one-shot classical communicatio
 
 
 ## Past
+
+
+#### QLIC- meet #4 | (Thursday; April 22; 2021; 11:30 AM to 12:30 PM)
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Hamed Mohammady | Quantum measurements produce classical heat (see [abstract](#Hamed-Mohammady))| 45+10             |               |
 
 #### QLIC- seminar #1 | (Thursday; March  25; 2021; 11:30 AM to 12:30 PM)
 
