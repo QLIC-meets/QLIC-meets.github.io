@@ -6,14 +6,6 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 ## Confirmed 
 
 
-#### QLIC- meet #5| (Thursday; April 29; 2021; 11:00 AM to 12:00 PM)
-
-| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Célia Griffet | Intermediate evaluation  | 45+10             |               |
-
-
-
 #### Lecture Set 1 (Thursday;  May 6, 20, 27 and June 3; 2021) | Quantum computers in Monte Carlo (see [abstract](#Simon-Apers))
 | Segment/Date                   | Slot               | Speaker     | Topic | Minutes Allocated | Minutes Spent |
 | ------------------------------ | ------------------ | ----------- | ----- | ----------------- | ------------- |
@@ -64,6 +56,14 @@ We consider the problem of entanglement-assisted one-shot classical communicatio
 
 
 ## Past
+
+
+#### QLIC- meet #5| (Thursday; April 29; 2021; 11:00 AM to 12:00 PM)
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Célia Griffet | Intermediate evaluation  | 45+10             |               |
+
 
 
 #### QLIC- meet #4 | (Thursday; April 22; 2021; 11:30 AM to 12:30 PM)
