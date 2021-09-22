@@ -1,4 +1,4 @@
-# QLIC-meets | Season 9 (Saptember–December 2021)
+# QLIC-meets | Season 9 (September–December 2021)
 Welcome to the QLIC-meets page. For further information about the meetings see the [About](#About) section. To access future videos of our QLIC events, please add your Google email to [this spreadsheet](https://docs.google.com/spreadsheets/d/1_8xdH3ih4KBwd91U2FQ1GKMV2C-C8y-pgjTPMlqSnSI/edit?usp=sharing). To access existing videos, use this account—ghost.qlic.ulb@gmail.com—the password to which can be requested by email (cgriffet@ulb.ac.be).   
 
 All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-meets.github.io/all). 
@@ -19,7 +19,7 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## To be confirmed
 
-#### QLIC- seminar #1 | (Thursday; October 4; 2021. 2:30 PM)
+#### QLIC- seminar #1 | (Thursday; October 4; 2021; 2:30 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
