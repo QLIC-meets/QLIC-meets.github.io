@@ -5,7 +5,7 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed 
 
-#### QLIC- meet #1| (Thursday; September 30; 2021; 11:30 AM to 12:30 PM)
+#### QLIC- meet #1| (Thursday; September 30; 2021; 2:00 PM to 3:00 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
@@ -19,7 +19,7 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## To be confirmed
 
-#### QLIC- seminar #1 | (Thursday; October 4; 2021; 2:30 PM)
+#### QLIC- seminar #1 | (Thursday; October 4; 2021; 2:30 PM to 3:30 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
