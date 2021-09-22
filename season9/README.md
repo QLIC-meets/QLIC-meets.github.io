@@ -19,11 +19,11 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## To be confirmed
 
-#### QLIC- seminar #1 | (Thursday; October 4; 2021)
+#### QLIC- seminar #1 | (Thursday; October 4; 2021. 2:30 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Tobias Haas | )| 45+10             |              |
+| Talk    | Tobias Haas | | 45+10             |              |
 
 
 ## About
