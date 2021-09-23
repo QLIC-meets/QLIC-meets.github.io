@@ -3,7 +3,7 @@ Welcome to the QLIC-meets page. For further information about the meetings see t
 
 * [Season 9](https://qlic-meets.github.io/s9) (Sep-Dec 2021)
 
-* [Season 8](https://qlic-meets.github.io/s8) (Apr-Jun 2021)
+* [Season 8](https://qlic-meets.github.io/s8) (Jan-Jun 2021)
 
 * [Season 7](https://qlic-meets.github.io/s7) (Aug-Dec 2020)
 
