@@ -11,7 +11,7 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
 | Talk    | Timothée Hoffreumon | Intermediate evaluation  | 45+10             |               |
 
-#### QLIC- seminar #1 | (Thursday; October 4; 2021; 2:30 PM to 3:30 PM)
+#### QLIC- seminar #1 | (Monday; October 4; 2021; 2:30 PM to 3:30 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
