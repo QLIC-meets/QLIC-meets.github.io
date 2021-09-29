@@ -15,16 +15,17 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Tobi Haas | Entropic entanglement criteria in phase space (see [abstract](#Tobi-Haas)) | 45+10             |              |
+| Talk    | Tobias Haas | Entropic entanglement criteria in phase space (see [abstract](#Tobias-Haas)) | 45+10             |              |
 
 
 ## Lecture Series | Details
 
 ## Abstracts
 
-### Tobi Haas
+### Tobias Haas
 
 Typically, entropic uncertainty relations and inseparability criteria are formulated for marginal distributions in phase space. In this talk, I discuss an approach based on the Husimi Q-distribution, which can be measured following the heterodyne detection protocol. The associated entropy, known as the Wehrl entropy, fulfills an entropic uncertainty relation and can be used to construct entanglement witnesses. In particular, I will discuss the Wehrl mutual information, which is a perfect entanglement witness for all pure states, and I will derive a general inseparability criterion based on the Wehrl entropy, which certifies entanglement in previously undetectable regions.
+
 ArXiv link: https://arxiv.org/abs/2106.08788 
 
 
