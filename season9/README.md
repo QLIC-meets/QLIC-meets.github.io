@@ -5,17 +5,19 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed 
 
-#### QLIC- meet #1| (Thursday; September 30; 2021; 2:00 PM to 3:00 PM)
-
-| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Timothée Hoffreumon | Intermediate evaluation  | 45+10             |               |
 
 #### QLIC- seminar #1 | (Monday; October 4; 2021; 2:30 PM to 3:30 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
 | Talk    | Tobias Haas | Entropic entanglement criteria in phase space (see [abstract](#Tobias-Haas)) | 45+10             |              |
+
+
+#### QLIC- meet #2| (Thursday; October 21; 2021; 11:30 AM to 12:30 PM)
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Ravi Kunjwal | Contextuality in composite systems: the role of entanglement in the Kochen-Specker theorem (see [abstract](#Ravi-Kunjwal)) | 45+10             |               |
 
 
 ## Lecture Series | Details
@@ -28,8 +30,20 @@ Typically, entropic uncertainty relations and inseparability criteria are formul
 
 ArXiv link: https://arxiv.org/abs/2106.08788 
 
+### Ravi Kunjwal
+
+The Kochen-Specker (KS) theorem reveals the nonclassicality of single quantum systems. In contrast, Bell's theorem and entanglement require composite quantum systems. However, here we find that for multiqubit systems entanglement and the violation of Bell inequalities are key to proofs of the Kochen-Specker theorem. First, we show that any logical proof of the KS theorem -- explicitly, any KS set -- on a multiqubit system necessarily requires entangled projections. It follows that unentangled but nonlocal measurements -- whose eigenstates exhibit "nonlocality without entanglement" -- are insufficient for logical proofs of KS-contextuality on multiqubit systems. Our result also implies that proving Gleason's theorem on a multiqubit system necessarily requires entangled projections, a result originally due to Wallach. We then construct a KS-noncontextual ontological model for unentangled multiqubit measurements and separable states. The model demonstrates that entangled states are necessary to obtain statistical proofs of KS-contextuality with unentangled measurements. We go on to show that they are not, however, sufficient. A multiqubit entangled state supports a (finite) statistical proof of the KS theorem if and only if it violates a Bell inequality with projective measurements. Thus, there exist multiqubit entangled states (e.g. Werner states) that cannot exhibit KS-contextuality in this setting. We then establish the relationship between entanglement and the theorems of both KS and Gleason more generally in multiqudit systems by constructing new examples of KS sets. Finally, we discuss some implications of our results for the role of contextuality as a resource within the paradigm of quantum computation with state injection.
+
+ArXiv link: https://arxiv.org/abs/2109.13594
 
 ## Past
+
+#### QLIC- meet #1| (Thursday; September 30; 2021; 2:00 PM to 3:00 PM)
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Timothée Hoffreumon | Intermediate evaluation  | 45+10             |               |
+
 
 ## About
 
