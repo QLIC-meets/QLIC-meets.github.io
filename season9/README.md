@@ -5,20 +5,20 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed 
 
-
-#### QLIC- seminar #1 | (Monday; October 4; 2021; 2:30 PM to 3:30 PM)
-
-| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Tobias Haas | Entropic entanglement criteria in phase space (see [abstract](#Tobias-Haas)) | 45+10             |              |
-
-
 #### QLIC- meet #2| (Thursday; October 21; 2021; 11:30 AM to 12:30 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
 | Talk    | Ravi Kunjwal | Contextuality in composite systems: the role of entanglement in the Kochen-Specker theorem (see [abstract](#Ravi-Kunjwal)) | 45+10             |               |
 
+
+#### Lecture Set 1 (Thursday;  November 18, 25 and December 9, 16 ; 2021) | Quantum Information in Quantum Gravity )
+| Segment/Date                   | Slot               | Speaker     | Topic | Minutes Allocated | Minutes Spent |
+| ------------------------------ | ------------------ | ----------- | ----- | ----------------- | ------------- |
+| Lecture 1;<br /><November 18, 2021 | 11:00 AM – 1:00 PM | Lin-Qing Chen |  | 120               |     120          |
+| Lecture 2;<br />November 25, 2021 | 11:00 AM – 1:00 PM | Lin-Qing Chen |  | 120               |               |
+| Lecture 3;<br />December 9, 2021 | 11:00 AM – 1:00 PM | Lin-Qing Chen |  | 120               |               |
+| Lecture 4;<br />December 16, 2021 | 11:00 AM – 1:00 PM | Lin-Qing Chen |  | 120               |               |
 
 ## Lecture Series | Details
 
@@ -37,6 +37,12 @@ The Kochen-Specker (KS) theorem reveals the nonclassicality of single quantum sy
 ArXiv link: https://arxiv.org/abs/2109.13594
 
 ## Past
+
+#### QLIC- seminar #1 | (Monday; October 4; 2021; 2:30 PM to 3:30 PM)
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Tobias Haas | Entropic entanglement criteria in phase space (see [abstract](#Tobias-Haas)) | 45+10             |              |
 
 #### QLIC- meet #1| (Thursday; September 30; 2021; 2:00 PM to 3:00 PM)
 
