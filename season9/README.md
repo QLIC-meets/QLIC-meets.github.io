@@ -15,10 +15,17 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 #### Lecture Set 1 (Thursday;  November 18, 25 and December 9, 16 ; 2021) | Quantum Information in Quantum Gravity )
 | Segment/Date                   | Slot               | Speaker     | Topic | Minutes Allocated | Minutes Spent |
 | ------------------------------ | ------------------ | ----------- | ----- | ----------------- | ------------- |
-| Lecture 1;<br /><November 18, 2021 | 11:00 AM – 1:00 PM | Lin-Qing Chen |  | 120               |     120          |
+| Lecture 1;<br /><November 18, 2021 | 11:00 AM – 1:00 PM | Lin-Qing Chen |  | 120               |             |
 | Lecture 2;<br />November 25, 2021 | 11:00 AM – 1:00 PM | Lin-Qing Chen |  | 120               |               |
 | Lecture 3;<br />December 9, 2021 | 11:00 AM – 1:00 PM | Lin-Qing Chen |  | 120               |               |
-| Lecture 4;<br />December 16, 2021 | 11:00 AM – 1:00 PM | Lin-Qing Chen |  | 120               |               |
+| Lecture 4;<br />December 16, 2021 To be confirmed| 11:00 AM – 1:00 PM | Lin-Qing Chen |  | 120               |               |
+
+#### QLIC- meet #3| (Thursday; December 2; 2021; 11:30 AM to 12:30 PM)
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Antoine Restivo |  | 45+10             |               |
+
 
 ## Lecture Series | Details
 
