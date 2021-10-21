@@ -5,13 +5,6 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed 
 
-#### QLIC- meet #2| (Thursday; October 21; 2021; 11:30 AM to 12:30 PM)
-
-| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Ravi Kunjwal | Contextuality in composite systems: the role of entanglement in the Kochen-Specker theorem (see [abstract](#Ravi-Kunjwal)) | 45+10             |               |
-
-
 #### Lecture Set 1 (Thursday;  November 18, 25 and December 9, 16 ; 2021) | Quantum Information in Quantum Gravity )
 | Segment/Date                   | Slot               | Speaker     | Topic | Minutes Allocated | Minutes Spent |
 | ------------------------------ | ------------------ | ----------- | ----- | ----------------- | ------------- |
@@ -44,6 +37,13 @@ The Kochen-Specker (KS) theorem reveals the nonclassicality of single quantum sy
 ArXiv link: https://arxiv.org/abs/2109.13594
 
 ## Past
+
+#### QLIC- meet #2| (Thursday; October 21; 2021; 11:30 AM to 12:30 PM)
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Ravi Kunjwal | Contextuality in composite systems: the role of entanglement in the Kochen-Specker theorem (see [abstract](#Ravi-Kunjwal)) | 45+10             |               |
+
 
 #### QLIC- seminar #1 | (Monday; October 4; 2021; 2:30 PM to 3:30 PM)
 
