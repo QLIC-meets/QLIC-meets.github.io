@@ -13,6 +13,11 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 | Lecture 3;<br />December 15, 2021 | 11:00 AM – 1:00 PM | Lin-Qing Chen |  | 120               |               |
 | Lecture 4;<br />December 23, 2021 To be confirmed| 11:00 AM – 1:00 PM | Lin-Qing Chen |  | 120               |               |
 
+#### QLIC- seminar #2 | (Monday; November 15; 2021; 11:30 AM to 12:30 PM)
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Natália Móller |  | 45+10             |              |
 
 
 #### QLIC- meet #3| (Thursday; December 2; 2021; 11:30 AM to 12:30 PM)
@@ -21,13 +26,7 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
 | Talk    | Antoine Restivo |  | 45+10             |               |
 
-## To be confirmed
 
-#### QLIC- seminar #2 | (Monday; November 15, 16 or 17; 2021)
-
-| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Natália Móller |  | 45+10             |              |
 
 #### QLIC- seminar #3 | (Thursday; December 16; 2021; 11:30 AM to 12:30 PM)
 
