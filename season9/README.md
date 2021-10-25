@@ -5,6 +5,12 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed 
 
+#### QLIC- seminar #2 | (Monday; November 15; 2021; 11:30 AM to 12:30 PM)
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Natália Móller |  | 45+10             |              |
+
 #### Lecture Set 1 (Thursday and Wednesday;  November 25 and December 9, 15, 23 ; 2021) | Quantum Information in Quantum Gravity )
 | Segment/Date                   | Slot               | Speaker     | Topic | Minutes Allocated | Minutes Spent |
 | ------------------------------ | ------------------ | ----------- | ----- | ----------------- | ------------- |
@@ -12,12 +18,6 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 | Lecture 2;<br />December 9, 2021 | 11:00 AM – 1:00 PM | Lin-Qing Chen |  | 120               |               |
 | Lecture 3;<br />December 15, 2021 | 11:00 AM – 1:00 PM | Lin-Qing Chen |  | 120               |               |
 | Lecture 4;<br />December 23, 2021 To be confirmed| 11:00 AM – 1:00 PM | Lin-Qing Chen |  | 120               |               |
-
-#### QLIC- seminar #2 | (Monday; November 15; 2021; 11:30 AM to 12:30 PM)
-
-| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Natália Móller |  | 45+10             |              |
 
 
 #### QLIC- meet #3| (Thursday; December 2; 2021; 11:30 AM to 12:30 PM)
