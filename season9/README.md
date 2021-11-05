@@ -5,11 +5,15 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed 
 
-#### QLIC- seminar #2 | (Monday; November 15; 2021; 11:30 AM to 12:30 PM)
+#### QLIC- seminar #2 and Master Thesis defense | (Monday; November 15; 2021; 11:00 AM to 12:30 PM)
 
-| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| Segment | Speaker      | Topic                                                        | Hour | Minutes Allocated |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Natália Móller |  | 45+10             |              |
+| Ma Thesis defense  | Stéphane Louïes | Quantum algorithm for the estimation of Markov chain hitting times | 11:00 AM to 11:30 AM          |       30       |
+
+| Segment | Speaker      | Topic                                                        | Hour | Minutes Allocated |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Natália Móller |  |  11:30 AM to 12:30 PM            |     45+10         |
 
 #### Lecture Set 1 (Thursday and Wednesday;  November 25 and December 9, 15, 23 ; 2021) | Quantum Information in Quantum Gravity )
 | Segment/Date                   | Slot               | Speaker     | Topic | Minutes Allocated | Minutes Spent |
