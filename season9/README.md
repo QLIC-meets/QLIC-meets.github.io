@@ -13,7 +13,7 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 | Segment | Speaker      | Topic                                                        | Hour | Minutes Allocated |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Natália Móller |  |  11:30 AM to 12:30 PM            |     45+10         |
+| Talk    | Natália Móller | Quantum switch in the gravity of Earth (see [abstract](#Natália-Móller)) |  11:30 AM to 12:30 PM            |     45+10         |
 
 #### Lecture Set 1 (Thursday and Wednesday;  November 25 and December 9, 15, 23 ; 2021) | Quantum Information in Quantum Gravity )
 | Segment/Date                   | Slot               | Speaker     | Topic | Minutes Allocated | Minutes Spent |
@@ -42,6 +42,13 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 ## Lecture Series | Details
 
 ## Abstracts
+
+### Natália Móller
+
+Testing physical effects in the interface of quantum physics and general relativity has been a hard task of modern physics, where no observations nor experiments have been performed yet. Since we have no experimental tests, there are several quantum gravity theories and we cannot distinguish which one is the best one. Moreover, there are many difficulties in formulating a quantum gravity theory. Among other reasons, one could claim that we would need to formulate this theory in order to allow a quantum superposition of events in spacetime, where past and future could exchange their roles.
+   Quantum information tasks with no definite order were born inspired by these ideas, where there is a quantum uncertainty in the order of even. The most well-known task of this family is the quantum switch, where operations A and B are applied on a qubit in an order controlled by a control qubit, which could make this order of operations indefinite. These tasks with indefinite order found many applications, such as more efficient quantum computation or a better performance for thermal machines, and have already been realized in optical experiments. However, it has not been fully explored in the context of gravity yet.
+   In this seminar, I will discuss the possibilities of using the quantum switch to testify and simulate the indefinite order in a curved spacetime. Moreover, we show how this task could be used to testify quantum mechanics in curved spacetime using the gravity of Earth for that, and how far it is from the current technology.
+
 
 ### Tobias Haas
 
