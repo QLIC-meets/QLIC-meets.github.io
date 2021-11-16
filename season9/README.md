@@ -5,16 +5,6 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed 
 
-#### QLIC- seminar #2 and Master Thesis defense | (Monday; November 15; 2021; 11:00 AM to 12:30 PM)
-
-| Segment | Speaker      | Topic                                                        | Hour | Minutes Allocated |
-| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Ma Thesis defense  | Stéphane Louïes | Quantum algorithm for the estimation of Markov chain hitting times | 11:00 AM to 11:30 AM          |       30       |
-
-| Segment | Speaker      | Topic                                                        | Hour | Minutes Allocated |
-| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Natália Móller | Quantum switch in the gravity of Earth (see [abstract](#Natália-Móller)) |  11:30 AM to 12:30 PM            |     45+10         |
-
 #### Lecture Set 1 (Thursday and Wednesday;  November 25 and December 9, 15, 23 ; 2021) | Quantum Information in Quantum Gravity )
 | Segment/Date                   | Slot               | Speaker     | Topic | Minutes Allocated | Minutes Spent |
 | ------------------------------ | ------------------ | ----------- | ----- | ----------------- | ------------- |
@@ -28,7 +18,7 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Antoine Restivo |  | 45+10             |               |
+| Talk    | Antoine Restivo | A possibilistic approach to network nonlocality (see [abstract](#Antoine-Restivo)) | 45+10             |               |
 
 
 
@@ -42,6 +32,12 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 ## Lecture Series | Details
 
 ## Abstracts
+
+### Antoine Restivo 
+
+Recently, growing interest has been devoted to the question of quantum nonlocality in networks. This area of research aims at characterizing correlations in a network configuration, where several independent sources distribute entangled states to subsets of nodes (parties). Notably, it was shown that the network configuration allows for novel forms of nonlocal correlations, departing radically from standard quantum Bell nonlocality (network nonlocality can be demonstrated without the needs of different measurement settings).
+However, it is fair to say that a general understanding of nonlocality in networks is still far away. Among the main challenges is the characterisation of local correlations and the limits imposed by the no-signaling principle in a given network structure. All methods developed in the context of Bell nonlocality are mostly useless here. The main difficulty arises from the independence assumption of the various sources in the network, which makes the problem nonlinear. 
+In the present work, we explore a possibilistic approach to the question of nonlocality in networks. The main idea is to move away from probabilities, and consider only possibilities. That is, we are only interested to know if an event occurs with some non-zero probability or, on the contrary, is impossible. We then ask which patterns (i.e. a combination of possible and impossible events) are compatible with a local and non-signaling model for a given network structure.  Next we apply it to specific examples, namely the well-known “triangle network” and the square network (both for the case of binary outputs and without inputs) and classify all patterns. Moreover, our methods allow for the derivation of non-linear Bell-type inequalities for networks, which can then be applied to actual probability distributions. We use these inequalities to show that any pattern that is incompatible with a local model (assuming fully independent sources) is also in- compatible with a local model where the different sources can be partially correlated.
 
 ### Natália Móller
 
@@ -63,6 +59,17 @@ The Kochen-Specker (KS) theorem reveals the nonclassicality of single quantum sy
 ArXiv link: https://arxiv.org/abs/2109.13594
 
 ## Past
+
+#### QLIC- seminar #2 and Master Thesis defense | (Monday; November 15; 2021; 11:00 AM to 12:30 PM)
+
+| Segment | Speaker      | Topic                                                        | Hour | Minutes Allocated |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Ma Thesis defense  | Stéphane Louïes | Quantum algorithm for the estimation of Markov chain hitting times | 11:00 AM to 11:30 AM          |       30       |
+
+| Segment | Speaker      | Topic                                                        | Hour | Minutes Allocated |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Natália Móller | Quantum switch in the gravity of Earth (see [abstract](#Natália-Móller)) |  11:30 AM to 12:30 PM            |     45+10         |
+
 
 #### QLIC- meet #2| (Thursday; October 21; 2021; 11:30 AM to 12:30 PM)
 
