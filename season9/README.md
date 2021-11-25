@@ -13,7 +13,7 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 
 
-#### Lecture Set 1 (Thursday and Wednesday;  November 25 and December 9, 15, 23 ; 2021) | Quantum Information in Quantum Gravity )
+#### Lecture Set 1 (Thursday and Wednesday;  November 25 and December 8, 15, 23 ; 2021) | Quantum Information in Quantum Gravity )
 | Segment/Date                   | Slot               | Speaker     | Topic | Minutes Allocated | Minutes Spent |
 | ------------------------------ | ------------------ | ----------- | ----- | ----------------- | ------------- |
 | Lecture 1;<br /><November 25, 2021 | 11:00 AM – 1:00 PM | Lin-Qing Chen |  | 120               |             |
