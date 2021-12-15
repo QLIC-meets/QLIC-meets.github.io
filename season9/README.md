@@ -19,12 +19,16 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Augustin Vanrietvelde | | 45+10             |              |
+| Talk    | Augustin Vanrietvelde | Routed quantum circuits (see [abstract](#Augustin-Vanrietvelde)) | 45+10             |              |
 
 
 ## Lecture Series | Details
 
 ## Abstracts
+
+### Augustin Vanrietvelde
+
+I will present the results of a recently published paper(https://arxiv.org/abs/2011.08120). In this paper, we argue that the quantum-theoretical structures studied in several recent lines of research cannot be adequately described within the standard framework of quantum circuits. This is in particular the case whenever the combination of subsystems is described by a nontrivial blend of direct sums and tensor products of Hilbert spaces. I will describe how this happens in the description of scenarios where a particle is sent in a superposition of paths, and in the study of the causal structure of unitary channels. I will then describe the extension to the framework of quantum circuits that we propose, given by routed linear maps and routed quantum circuits, with which this type of structure can be described in an elementary and systematic way. Time willing, I will outline the application of this formalism to the problem of the coherent control of quantum channels, and a potential application (https://arxiv.org/abs/2106.12463) to the study of indefinite causal order.
 
 ### Armin Tavakoli 
 
