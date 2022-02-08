@@ -6,20 +6,6 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 ## Confirmed 
 
 
-#### Lecture Set 1 (Thursday and Wednesday;  November 25 and December 8, 15, 23 ; 2021) | Quantum Information in Quantum Gravity )
-| Segment/Date                   | Slot               | Speaker     | Topic | Minutes Allocated | Minutes Spent |
-| ------------------------------ | ------------------ | ----------- | ----- | ----------------- | ------------- |
-| Lecture 1;<br /><November 25, 2021 | 11:00 AM – 1:00 PM | Lin-Qing Chen |  | 120               |             |
-| Lecture 2;<br />December 8, 2021 | 11:00 AM – 1:00 PM | Lin-Qing Chen |  | 120               |               |
-| Lecture 3;<br />December 15, 2021 | 11:00 AM – 1:00 PM | Lin-Qing Chen |  | 120               |               |
-| Lecture 4;<br />December 23, 2021 To be confirmed| 11:00 AM – 1:00 PM | Lin-Qing Chen |  | 120               |               |
-
-
-#### QLIC- seminar #4 | (Thursday; December 16; 2021; 11:30 AM to 12:30 PM)
-
-| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Augustin Vanrietvelde | Routed quantum circuits (see [abstract](#Augustin-Vanrietvelde)) | 45+10             |              |
 
 
 ## Lecture Series | Details
@@ -61,6 +47,21 @@ ArXiv link: https://arxiv.org/abs/2109.13594
 
 ## Past
 
+
+#### Lecture Set 1 (Thursday and Wednesday;  November 25 and December 8, 15, 23 ; 2021) | Quantum Information in Quantum Gravity )
+| Segment/Date                   | Slot               | Speaker     | Topic | Minutes Allocated | Minutes Spent |
+| ------------------------------ | ------------------ | ----------- | ----- | ----------------- | ------------- |
+| Lecture 1;<br /><November 25, 2021 | 11:00 AM – 1:00 PM | Lin-Qing Chen |  | 120               |             |
+| Lecture 2;<br />December 8, 2021 | 11:00 AM – 1:00 PM | Lin-Qing Chen |  | 120               |               |
+| Lecture 3;<br />December 15, 2021 | 11:00 AM – 1:00 PM | Lin-Qing Chen |  | 120               |               |
+| Lecture 4;<br />December 23, 2021 To be confirmed| 11:00 AM – 1:00 PM | Lin-Qing Chen |  | 120               |               |
+
+
+#### QLIC- seminar #4 | (Thursday; December 16; 2021; 11:30 AM to 12:30 PM)
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Augustin Vanrietvelde | Routed quantum circuits (see [abstract](#Augustin-Vanrietvelde)) | 45+10             |              |
 
 #### QLIC- meet #3| (Thursday; December 2; 2021; 11:30 AM to 12:30 PM)
 
