@@ -12,6 +12,13 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 | Talk    | Ravi Kunjwal | How quantum nonlocality without entanglement witnesses classical communication without causal order (see [abstract](#Ravi-Kunjwal)) | 45+10             |               |
 
 
+#### QLIC- meet #2| (Thursday; February 24; 2022; 11:30 AM to 12:30 PM)
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Julian Wechs | Existence of processes violating causal inequalities on time-delocalised subsystems (see [abstract](#Julian-Wechs)) | 45+10             |               |
+
+
 
 
 #### Lecture Set 1 (Thursday;  March  To be confirmed; 2022 | Quantum Measurements meet Quantum Thermodynamics )
@@ -27,9 +34,11 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Abstracts
 
- I will discuss a recent result on an intimate link between two a priori distinct phenomena: quantum nonlocality without entanglement and classical noncausality. The first phenomenon refers to a multipartite scenario where the parties are unable to perfectly discriminate orthogonal product states drawn from an ensemble by using local operations and classical communication (LOCC). The second (hypothetical) phenomenon refers to a multipartite scenario where the parties can communicate classically but the local operations of each party are in the future of the other parties, i.e., they cannot be ordered causally. Using an example with three parties, we show how quantum nonlocality without entanglement can witness the failure of causality. Time permitting, I will also discuss generalizations of this result to the multiqubit case and beyond. Based on arXiv:2202.00440.
-
 ### Ravi Kunjwal
+I will discuss a recent result on an intimate link between two a priori distinct phenomena: quantum nonlocality without entanglement and classical noncausality. The first phenomenon refers to a multipartite scenario where the parties are unable to perfectly discriminate orthogonal product states drawn from an ensemble by using local operations and classical communication (LOCC). The second (hypothetical) phenomenon refers to a multipartite scenario where the parties can communicate classically but the local operations of each party are in the future of the other parties, i.e., they cannot be ordered causally. Using an example with three parties, we show how quantum nonlocality without entanglement can witness the failure of causality. Time permitting, I will also discuss generalizations of this result to the multiqubit case and beyond. Based on arXiv:2202.00440.
+
+### Julian Wechs
+It has been shown that it is theoretically possible for there to exist quantum and classical processes in which the operations performed by separate parties do not occur in a well-defined causal order. A central question is whether and how such processes can be realised in practice. In order to provide a rigorous argument for the notion that certain such processes have a realisation in standard quantum theory, the concept of time-delocalised quantum subsystem has been introduced. In this paper, we show that realisations on time-delocalised subsystems exist for all unitary extensions of tripartite processes. Remarkably, this class contains processes that violate causal inequalities, i.e., that can generate correlations that witness the incompatibility with definite causal order in a device-independent manner. We consider a known striking example of such a tripartite classical process that has a unitary extension, and study its realisation on time-delocalised subsystems. We then discuss the question of what a violation of causal inequalities implies in this setting, and argue that it is indeed a meaningful concept to show the absence of a definite causal order between the variables of interest.
 
 
 
