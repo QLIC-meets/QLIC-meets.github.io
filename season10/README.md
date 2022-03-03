@@ -5,18 +5,13 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed 
 
-#### QLIC- meet #1| (Wednesday; February 16; 2022; 11:30 AM to 12:30 PM)
+
+
+#### QLIC- seminar #1| (Monday; March 7; 2022; 2:00 PM to 3:00 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Ravi Kunjwal | How quantum nonlocality without entanglement witnesses classical communication without causal order (see [abstract](#Ravi-Kunjwal)) | 45+10             |               |
-
-
-#### QLIC- meet #2| (Thursday; February 24; 2022; 11:30 AM to 12:30 PM)
-
-| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Julian Wechs | Existence of processes violating causal inequalities on time-delocalised subsystems (see [abstract](#Julian-Wechs)) | 45+10             |               |
+| Talk    | Amin Baumeler | Graph-theoretic criteria on causal structures and violations of causal order (see [abstract](#Amin-Baumeler)) | 45+10             |               |
 
 
 
@@ -34,6 +29,9 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Abstracts
 
+### Amin Baumeler
+It is known that some classical and quantum processes exhibit directed cyclic causal structures. Here, we present a graph-theoretic criterium that singles out all admissible causal structures, and that quantum processes do not allow for more exotic causal structures compared to classical processes. Moreover, we present graph-theoretic criteria for the (non-)violation of causal inequalities. These results were jointly established with E. Tselentis.
+
 ### Ravi Kunjwal
 I will discuss a recent result on an intimate link between two a priori distinct phenomena: quantum nonlocality without entanglement and classical noncausality. The first phenomenon refers to a multipartite scenario where the parties are unable to perfectly discriminate orthogonal product states drawn from an ensemble by using local operations and classical communication (LOCC). The second (hypothetical) phenomenon refers to a multipartite scenario where the parties can communicate classically but the local operations of each party are in the future of the other parties, i.e., they cannot be ordered causally. Using an example with three parties, we show how quantum nonlocality without entanglement can witness the failure of causality. Time permitting, I will also discuss generalizations of this result to the multiqubit case and beyond. Based on arXiv:2202.00440.
 
@@ -44,6 +42,20 @@ It has been shown that it is theoretically possible for there to exist quantum a
 
 ## Past
 
+#### QLIC- meet #2| (Thursday; February 24; 2022; 11:30 AM to 12:30 PM)
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Julian Wechs | Existence of processes violating causal inequalities on time-delocalised subsystems (see [abstract](#Julian-Wechs)) | 45+10             |               |
+
+
+
+
+#### QLIC- meet #1| (Wednesday; February 16; 2022; 11:30 AM to 12:30 PM)
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Ravi Kunjwal | How quantum nonlocality without entanglement witnesses classical communication without causal order (see [abstract](#Ravi-Kunjwal)) | 45+10             |               |
 
 
 ## About
