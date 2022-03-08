@@ -6,28 +6,38 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 ## Confirmed 
 
 
+#### Lecture Set 1 (Thursday;  March  24, 31, April 21 and 28; 2022 | Quantum Measurements meet Quantum Thermodynamics )
+| Segment/Date                   | Slot               | Speaker     | Topic | Minutes Allocated | Minutes Spent |
+| ------------------------------ | ------------------ | ----------- | ----- | ----------------- | ------------- |
+| Lecture 1;<br />, 2022, March 24| 11:00 AM – 1:00 PM | Hamed Mohammady |  | 120               |             |
+| Lecture 2;<br />, 2022, March 31| 11:00 AM – 1:00 PM | Hamed Mohammady  |  | 120               |               |
+| Lecture 3;<br />, 2022, April 21| 11:00 AM – 1:00 PM | Hamed Mohammady  |  | 120               |               |
+| Lecture 4;<br />, 2022, April 28| 11:00 AM – 1:00 PM | Hamed Mohammady  |  | 120               |               |
 
-#### QLIC- seminar #1| (Monday; March 7; 2022; 2:00 PM to 3:00 PM)
+
+
+#### QLIC- meet #3| (Wednesday; April 20; 2022; 11:30 AM to 12:30 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Amin Baumeler | Graph-theoretic criteria on causal structures and violations of causal order (see [abstract](#Amin-Baumeler)) | 45+10             |               |
-
-
-
-
-#### Lecture Set 1 (Thursday;  March  To be confirmed; 2022 | Quantum Measurements meet Quantum Thermodynamics )
-| Segment/Date                   | Slot               | Speaker     | Topic | Minutes Allocated | Minutes Spent |
-| ------------------------------ | ------------------ | ----------- | ----- | ----------------- | ------------- |
-| Lecture 1;<br />, 2022 To be confirmed| 11:00 AM – 1:00 PM | Hamed Mohammady |  | 120               |             |
-| Lecture 2;<br />, 2022 To be confirmed| 11:00 AM – 1:00 PM | Hamed Mohammady  |  | 120               |               |
-| Lecture 3;<br />, 2022 To be confirmed| 11:00 AM – 1:00 PM | Hamed Mohammady  |  | 120               |               |
-| Lecture 4;<br />, 2022 To be confirmed| 11:00 AM – 1:00 PM | Hamed Mohammady  |  | 120               |               |
+| Talk    | Benoît Seron | Intermediate evaluation: Boson bunching is not maximized by indistinguishable particles (see [abstract](#Benoît-Seron)) | 45+10             |               |
 
 
 ## Lecture Series | Details
 
 ## Abstracts
+
+### Benoît Seron
+Boson bunching is amongst the most remarkable features of quantum physics. A celebrated example in optics
+is the Hong-Ou-Mandel effect, where the bunching of two photons arises from a destructive quantum interference between the trajectories where they both either cross a beam splitter or are reflected. This effect takes its
+roots in the indistinguishability of identical photons. Hence, it is generally admitted – and experimentally verified – that bunching vanishes as soon as photons can be distinguished, e.g., when they occupy distinct time bins
+or have different polarizations. Here we disproof this alleged straightforward link between indistinguishability
+and bunching by exploiting a recent finding in the theory of matrix permanents. We exhibit a family of optical
+circuits where the bunching of photons into two modes can be significantly boosted by making them partially
+distinguishable via an appropriate polarization pattern. This boosting effect is already visible in a 7-photon interferometric process, making the observation of this phenomenon within reach of current photonic technology.
+This unexpected behavior questions our understanding of multiparticle interference in the grey zone between
+indistinguishable bosons and classical particles.
+
 
 ### Amin Baumeler
 It is known that some classical and quantum processes exhibit directed cyclic causal structures. Here, we present a graph-theoretic criterium that singles out all admissible causal structures, and that quantum processes do not allow for more exotic causal structures compared to classical processes. Moreover, we present graph-theoretic criteria for the (non-)violation of causal inequalities. These results were jointly established with E. Tselentis.
@@ -41,6 +51,14 @@ It has been shown that it is theoretically possible for there to exist quantum a
 
 
 ## Past
+
+#### QLIC- seminar #1| (Monday; March 7; 2022; 2:00 PM to 3:00 PM)
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Amin Baumeler | Graph-theoretic criteria on causal structures and violations of causal order (see [abstract](#Amin-Baumeler)) | 45+10             |               |
+
+
 
 #### QLIC- meet #2| (Thursday; February 24; 2022; 11:30 AM to 12:30 PM)
 
