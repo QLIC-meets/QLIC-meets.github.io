@@ -9,7 +9,7 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 #### Lecture Set 1 (Thursday;  March  24, 31, April 21 and 28; 2022 | Quantum Measurements meet Quantum Thermodynamics )
 | Segment/Date                   | Slot               | Speaker     | Topic | Minutes Allocated | Minutes Spent |
 | ------------------------------ | ------------------ | ----------- | ----- | ----------------- | ------------- |
-| Lecture 1;<br /> 2022, March 24| 11:00 AM – 1:00 PM | Hamed Mohammady |  | 120               |             |
+| Lecture 1;<br /> 2022, March 24| 11:00 AM – 1:00 PM | Hamed Mohammady | Quantum Measurements meet Quantum Thermodynamics (see [abstract](#Hamed-Mohammady)) | 120               |             |
 | Lecture 2;<br /> 2022, March 31| 11:00 AM – 1:00 PM | Hamed Mohammady  |  | 120               |               |
 | Lecture 3;<br /> 2022, April 21| 11:00 AM – 1:00 PM | Hamed Mohammady  |  | 120               |               |
 | Lecture 4;<br /> 2022, April 28| 11:00 AM – 1:00 PM | Hamed Mohammady  |  | 120               |               |
@@ -24,6 +24,12 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 
 ## Lecture Series | Details
+
+### Hamed Mohammady
+
+#### Lecture 1 - Abstract
+
+When a closed quantum system undergoes unitary evolution, so that its entropy does not change and no "heat" can be said to have been exchanged with an environment, it seems natural to interpret the change in the system's energy as "work". But what does it mean when we speak of "change" in energy? In this lecture I shall give a brief overview of the different senses in which this deceptively simple question has been addressed, and the difficulties that arise when attempting to give a satisfactory answer.
 
 ## Abstracts
 
