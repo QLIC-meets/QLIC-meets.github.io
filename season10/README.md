@@ -16,7 +16,7 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 
 
-#### QLIC- meet #3| (Wednesday; April 20; 2022; 11:30 AM to 12:30 PM)
+#### QLIC- meet #3| (Wednesday; April Date to be confirmed; 2022; 11:30 AM to 12:30 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
