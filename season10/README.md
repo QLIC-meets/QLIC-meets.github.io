@@ -6,17 +6,17 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 ## Confirmed 
 
 
-#### Lecture Set 1 (Thursday;  March  24, 31, April 28 and May 5; 2022 | Quantum Measurements meet Quantum Thermodynamics )
+#### Lecture Set 1 (Thursday;  March  24, April 20, 28 and May 5; 2022 | Quantum Measurements meet Quantum Thermodynamics )
 | Segment/Date                   | Slot               | Speaker     | Topic | Minutes Allocated | Minutes Spent |
 | ------------------------------ | ------------------ | ----------- | ----- | ----------------- | ------------- |
 | Lecture 1;<br /> 2022, March 24| 11:00 AM – 1:00 PM | Hamed Mohammady | Quantum Measurements meet Quantum Thermodynamics (see [abstract](#Hamed-Mohammady)) | 120               |             |
-| Lecture 2;<br /> 2022, March 31| 11:00 AM – 1:00 PM | Hamed Mohammady  |  | 120               |               |
+| Lecture 2;<br /> 2022, Wednesday April 20| 11:00 AM – 1:00 PM | Hamed Mohammady  |  | 120               |               |
 | Lecture 3;<br /> 2022, April 28| 11:00 AM – 1:00 PM | Hamed Mohammady  |  | 120               |               |
 | Lecture 4;<br /> 2022, May 5| 11:00 AM – 1:00 PM | Hamed Mohammady  |  | 120               |               |
 
 
 
-#### QLIC- meet #3| (Wednesday; April 21; 2022; 11:30 AM to 12:30 PM)
+#### QLIC- meet #3| (Thursday; April 21; 2022; 11:30 AM to 12:30 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
