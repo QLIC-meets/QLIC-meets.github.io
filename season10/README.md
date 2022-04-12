@@ -23,6 +23,13 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 | Talk    | Benoît Seron | Intermediate evaluation: Boson bunching is not maximized by indistinguishable particles (see [abstract](#Benoît-Seron)) | 45+10             |               |
 
 
+#### Lecture Set 2 (Thursday;  May  12, 19 and Wednesday May 25; 2022 | Contextuality and GPTs )
+| Segment/Date                   | Slot               | Speaker     | Topic | Minutes Allocated | Minutes Spent |
+| ------------------------------ | ------------------ | ----------- | ----- | ----------------- | ------------- |
+| Lecture 1;<br /> 2022, May 12| 11:00 AM – 1:00 PM | Ravi Kunjwal | Contextuality | 120               |             |
+| Lecture 2;<br /> 2022, May 19| 11:00 AM – 1:00 PM | Ravi Kunjwal  | Generalized Probabilistic Theories (GPTs) | 120               |               |
+| Lecture 3;<br /> 2022, Wednesday May 25| 11:00 AM – 1:00 PM | Ravi Kunjwal  | Contextuality in GPTs | 120               |               |
+
 ## Lecture Series | Details
 
 ### Hamed Mohammady
