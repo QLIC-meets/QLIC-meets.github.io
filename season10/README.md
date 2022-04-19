@@ -6,13 +6,13 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 ## Confirmed 
 
 
-#### Lecture Set 1 (Thursday;  March  24, April 20, 28 and May 5; 2022 | Quantum Measurements meet Quantum Thermodynamics )
+#### Lecture Set 1 (Thursday;  March  24, April 28 and May 5, 12; 2022 | Quantum Measurements meet Quantum Thermodynamics )
 | Segment/Date                   | Slot               | Speaker     | Topic | Minutes Allocated | Minutes Spent |
 | ------------------------------ | ------------------ | ----------- | ----- | ----------------- | ------------- |
 | Lecture 1;<br /> 2022, March 24| 11:00 AM – 1:00 PM | Hamed Mohammady | Quantum Measurements meet Quantum Thermodynamics (see [abstract](#Hamed-Mohammady)) | 120               |             |
-| Lecture 2;<br /> 2022, Wednesday April 20| 11:00 AM – 1:00 PM | Hamed Mohammady  |  | 120               |               |
-| Lecture 3;<br /> 2022, April 28| 11:00 AM – 1:00 PM | Hamed Mohammady  |  | 120               |               |
-| Lecture 4;<br /> 2022, May 5| 11:00 AM – 1:00 PM | Hamed Mohammady  |  | 120               |               |
+| Lecture 2;<br /> 2022, April 28| 11:00 AM – 1:00 PM | Hamed Mohammady  |  | 120               |               |
+| Lecture 3;<br /> 2022, May 5| 11:00 AM – 1:00 PM | Hamed Mohammady  |  | 120               |               |
+| Lecture 4;<br /> 2022, May 12| 11:00 AM – 1:00 PM | Hamed Mohammady  |  | 120               |               |
 
 
 
@@ -23,10 +23,10 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 | Talk    | Benoît Seron | Intermediate evaluation: Boson bunching is not maximized by indistinguishable particles (see [abstract](#Benoît-Seron)) | 45+10             |               |
 
 
-#### Lecture Set 2 (Thursday;  May  12, 19 and Wednesday May 25; 2022 | Contextuality and GPTs )
+#### Lecture Set 2 (Thursday;  May  10, 19 and Wednesday May 25; 2022 | Contextuality and GPTs )
 | Segment/Date                   | Slot               | Speaker     | Topic | Minutes Allocated | Minutes Spent |
 | ------------------------------ | ------------------ | ----------- | ----- | ----------------- | ------------- |
-| Lecture 1;<br /> 2022, May 12| 11:00 AM – 1:00 PM | Ravi Kunjwal | Contextuality | 120               |             |
+| Lecture 1;<br /> 2022, May 10| 10:30 AM – 12:30 PM | Ravi Kunjwal | Contextuality | 120               |             |
 | Lecture 2;<br /> 2022, May 19| 11:00 AM – 1:00 PM | Ravi Kunjwal  | Generalized Probabilistic Theories (GPTs) | 120               |               |
 | Lecture 3;<br /> 2022, Wednesday May 25| 11:00 AM – 1:00 PM | Ravi Kunjwal  | Contextuality in GPTs | 120               |               |
 
