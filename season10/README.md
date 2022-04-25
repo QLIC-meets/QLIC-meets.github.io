@@ -14,13 +14,11 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 | Lecture 3;<br /> 2022, May 5| 11:00 AM – 1:00 PM | Hamed Mohammady  |  | 120               |               |
 | Lecture 4;<br /> 2022, May 12| 11:00 AM – 1:00 PM | Hamed Mohammady  |  | 120               |               |
 
-
-
-#### QLIC- meet #3| (Thursday; April 21; 2022; 11:30 AM to 12:30 PM)
+#### QLIC- meet #4| (Monday; May 23; 2022; 11:30 AM to 12:30 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Benoît Seron | Intermediate evaluation: Boson bunching is not maximized by indistinguishable particles (see [abstract](#Benoît-Seron)) | 45+10             |               |
+| Talk    | Stefano Pironio | How (not) to fix scientific publishing (in Quantum Information) | 45+10             |               |
 
 
 #### Lecture Set 2 (Thursday;  May  10, 19 and Wednesday May 25; 2022 | Contextuality and GPTs )
@@ -64,6 +62,13 @@ It has been shown that it is theoretically possible for there to exist quantum a
 
 
 ## Past
+
+#### QLIC- meet #3| (Thursday; April 21; 2022; 11:30 AM to 12:30 PM)
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Benoît Seron | Intermediate evaluation: Boson bunching is not maximized by indistinguishable particles (see [abstract](#Benoît-Seron)) | 45+10             |               |
+
 
 #### QLIC- seminar #1| (Monday; March 7; 2022; 2:00 PM to 3:00 PM)
 
