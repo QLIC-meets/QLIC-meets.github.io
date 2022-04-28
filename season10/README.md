@@ -21,10 +21,10 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 | Talk    | Stefano Pironio | How (not) to fix scientific publishing (in Quantum Information) | 45+10             |               |
 
 
-#### Lecture Set 2 (Thursday;  May  10, 19 and Wednesday May 25; 2022 | Contextuality and GPTs )
+#### Lecture Set 2 (Thursday;  May  17, 19 and Wednesday May 25; 2022 | Contextuality and GPTs )
 | Segment/Date                   | Slot               | Speaker     | Topic | Minutes Allocated | Minutes Spent |
 | ------------------------------ | ------------------ | ----------- | ----- | ----------------- | ------------- |
-| Lecture 1;<br /> 2022, May 10| 10:30 AM – 12:30 PM | Ravi Kunjwal | Contextuality | 120               |             |
+| Lecture 1;<br /> 2022, May 17| 10:30 AM – 12:30 PM | Ravi Kunjwal | Contextuality | 120               |             |
 | Lecture 2;<br /> 2022, May 19| 11:00 AM – 1:00 PM | Ravi Kunjwal  | Generalized Probabilistic Theories (GPTs) | 120               |               |
 | Lecture 3;<br /> 2022, Wednesday May 25| 11:00 AM – 1:00 PM | Ravi Kunjwal  | Contextuality in GPTs | 120               |               |
 
