@@ -14,7 +14,7 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 | Lecture 3;<br /> 2022, May 5| 11:00 AM – 1:00 PM | Hamed Mohammady  |  | 120               |               |
 | Lecture 4;<br /> 2022, | 11:00 AM – 1:00 PM | Hamed Mohammady  |  | 120               |               |
 
-#### QLIC- meet #4| (Monday; May 23; 2022; 11:30 AM to 12:30 PM)
+#### QLIC- meet #4| (Monday; June 27; 2022; 11:30 AM to 12:30 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
