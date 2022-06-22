@@ -6,27 +6,14 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 ## Confirmed 
 
 
-#### Lecture Set 1 (Thursday;  March  24, April 28 and May 5; 2022 | Quantum Measurements meet Quantum Thermodynamics )
-| Segment/Date                   | Slot               | Speaker     | Topic | Minutes Allocated | Minutes Spent |
-| ------------------------------ | ------------------ | ----------- | ----- | ----------------- | ------------- |
-| Lecture 1;<br /> 2022, March 24| 11:00 AM – 1:00 PM | Hamed Mohammady | Quantum Measurements meet Quantum Thermodynamics (see [abstract](#Hamed-Mohammady)) | 120               |             |
-| Lecture 2;<br /> 2022, April 28| 11:00 AM – 1:00 PM | Hamed Mohammady  |  | 120               |               |
-| Lecture 3;<br /> 2022, May 5| 11:00 AM – 1:00 PM | Hamed Mohammady  |  | 120               |               |
-| Lecture 4;<br /> 2022, | 11:00 AM – 1:00 PM | Hamed Mohammady  |  | 120               |               |
 
 #### QLIC- meet #4| (Monday; June 27; 2022; 11:30 AM to 12:30 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Stefano Pironio | How (not) to fix scientific publishing (in Quantum Information) | 45+10             |               |
+| Talk    | Stefano Pironio | How to fix academic publishing in Quantum Information (see [abstract](#Stefano-Pironio)) | 45+10             |               |
 
 
-#### Lecture Set 2 (Thursday;  May  17, 19 and Tuesday May 24; 2022 | Contextuality and GPTs )
-| Segment/Date                   | Slot               | Speaker     | Topic | Minutes Allocated | Minutes Spent |
-| ------------------------------ | ------------------ | ----------- | ----- | ----------------- | ------------- |
-| Lecture 1;<br /> 2022, May 17| 10:30 AM – 12:30 PM | Ravi Kunjwal | Contextuality | 120               |             |
-| Lecture 2;<br /> 2022, May 19| 11:00 AM – 1:00 PM | Ravi Kunjwal  | Generalized Probabilistic Theories (GPTs) | 120               |               |
-| Lecture 3;<br /> 2022, Tuesday May 24| 10:30 AM – 12:30 PM | Ravi Kunjwal  | Contextuality in GPTs | 120               |               |
 
 ## Lecture Series | Details
 
@@ -37,6 +24,9 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 When a closed quantum system undergoes unitary evolution, so that its entropy does not change and no "heat" can be said to have been exchanged with an environment, it seems natural to interpret the change in the system's energy as "work". But what does it mean when we speak of "change" in energy? In this lecture I shall give a brief overview of the different senses in which this deceptively simple question has been addressed, and the difficulties that arise when attempting to give a satisfactory answer.
 
 ## Abstracts
+
+### Stefano Pironio
+Academic publishing is considered in a state of crisis and many solutions have been proposed to fix it. Most such solutions are either too incremental to satisfactorily address the problem or, on the contrary, require changes too radical to be widely adopted. I argue that all proposed solutions are based on a false premise and propose a very simple solution, even simpler than the status quo.
 
 ### Benoît Seron
 Boson bunching is amongst the most remarkable features of quantum physics. A celebrated example in optics
@@ -62,6 +52,23 @@ It has been shown that it is theoretically possible for there to exist quantum a
 
 
 ## Past
+
+#### Lecture Set 2 (Thursday;  May  17, 19 and Tuesday May 24; 2022 | Contextuality and GPTs )
+| Segment/Date                   | Slot               | Speaker     | Topic | Minutes Allocated | Minutes Spent |
+| ------------------------------ | ------------------ | ----------- | ----- | ----------------- | ------------- |
+| Lecture 1;<br /> 2022, May 17| 10:30 AM – 12:30 PM | Ravi Kunjwal | Contextuality | 120               |             |
+| Lecture 2;<br /> 2022, May 19| 11:00 AM – 1:00 PM | Ravi Kunjwal  | Generalized Probabilistic Theories (GPTs) | 120               |               |
+| Lecture 3;<br /> 2022, Tuesday May 24| 10:30 AM – 12:30 PM | Ravi Kunjwal  | Contextuality in GPTs | 120               |               |
+
+
+#### Lecture Set 1 (Thursday;  March  24, April 28 and May 5; 2022 | Quantum Measurements meet Quantum Thermodynamics )
+| Segment/Date                   | Slot               | Speaker     | Topic | Minutes Allocated | Minutes Spent |
+| ------------------------------ | ------------------ | ----------- | ----- | ----------------- | ------------- |
+| Lecture 1;<br /> 2022, March 24| 11:00 AM – 1:00 PM | Hamed Mohammady | Quantum Measurements meet Quantum Thermodynamics (see [abstract](#Hamed-Mohammady)) | 120               |             |
+| Lecture 2;<br /> 2022, April 28| 11:00 AM – 1:00 PM | Hamed Mohammady  |  | 120               |               |
+| Lecture 3;<br /> 2022, May 5| 11:00 AM – 1:00 PM | Hamed Mohammady  |  | 120               |               |
+| Lecture 4;<br /> 2022, | 11:00 AM – 1:00 PM | Hamed Mohammady  |  | 120               |               |
+
 
 #### QLIC- meet #3| (Thursday; April 21; 2022; 11:30 AM to 12:30 PM)
 
