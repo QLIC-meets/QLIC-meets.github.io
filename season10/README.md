@@ -3,18 +3,6 @@ Welcome to the QLIC-meets page. For further information about the meetings see t
 
 All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-meets.github.io/all). 
 
-## Confirmed 
-
-
-
-#### QLIC- meet #4| (Monday; June 27; 2022; 11:30 AM to 12:30 PM)
-
-| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Stefano Pironio | How to fix academic publishing in Quantum Information (see [abstract](#Stefano-Pironio)) | 45+10             |               |
-
-
-
 ## Lecture Series | Details
 
 ### Hamed Mohammady
@@ -52,6 +40,12 @@ It has been shown that it is theoretically possible for there to exist quantum a
 
 
 ## Past
+
+#### QLIC- meet #4| (Monday; June 27; 2022; 11:30 AM to 12:30 PM)
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Stefano Pironio | How to fix academic publishing in Quantum Information (see [abstract](#Stefano-Pironio)) | 45+10             |               |
 
 #### Lecture Set 2 (Thursday;  May  17, 19 and Tuesday May 24; 2022 | Contextuality and GPTs )
 | Segment/Date                   | Slot               | Speaker     | Topic | Minutes Allocated | Minutes Spent |
