@@ -5,7 +5,11 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed 
 
+#### QLIC-meet #1| (Thursday; October 29; 2022; 11:30 AM to 12:30 PM)
 
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Tobi Haas | A Universe in Heidelberg (see [abstract](#Tobi-Haas)) | 30+30             |               |
 
 #### QLIC-seminar #2| (Friday; October 7; 2022; 11:30 AM to 12:30 PM)
 
@@ -19,7 +23,7 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
 | Talk    | Otavio Dantas Molitor |  | 30+30             |               |
 
-#### QLIC-meet #1| To be confirmed (Thursday; November 10; 2022; 11:30 AM to 12:30 PM) 
+#### QLIC-meet #2| To be confirmed (Thursday; November 10; 2022; 11:30 AM to 12:30 PM) 
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
@@ -29,6 +33,10 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 
 ## Abstracts
+
+### Tobi Haas
+When quantum fields experience spacetime curvature, many fascinating phenomena arise. This includes cosmological particle production, which occurs when the spacetime metric is explicitly time-dependent. However, detecting this phenomenon in the night sky remains an open challenge. Following recent theoretical and experimental developments in Heidelberg, we report on a novel quantum field simulator to engineer a quantum field experiencing an expanding universe of positive as well as negative spatial curvature in a 2+1 dimensional Bose-Einstein condensate with adjustable trapping potential and interaction strength. We demonstrate the successful implementation by comparing novel analytical results to the propagation of acoustic excitations and, for the first time, observe cosmological particle production in the lab, in agreement with cosmological predictions.
+Related publications: arXiv:2202.10399 (accepted in Nature), PRA 106 033313, PRD 105 105020
 
 ### Markus Frembs
 Quantum correlations in general and quantum entanglement in particular embody both our continued struggle towards a foundational understanding of quantum theory as well as the latter’s advantage over classical physics in various information processing tasks. Consequently, the problems of classifying (i) quantum states from more general (non-signalling) correlations, and (ii) entangled states within the set of all quantum states, are at the heart of the subject of quantum information theory.
