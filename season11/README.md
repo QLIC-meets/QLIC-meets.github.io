@@ -7,13 +7,23 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 
 
-#### QLIC-seminar #1| (Wednesday; September 7; 2022; 11:00 AM to 12:00 PM)
+#### QLIC-seminar #2| (Friday; October 7; 2022; 11:30 AM to 12:30 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Markus Frembs | Bipartite entanglement and the arrow of time (see [abstract](#Markus-Frembs)) | 30+30             |               |
+| Talk    | Alex B. Grilo |  | 30+30             |               |
 
+#### QLIC-seminar #3| (Thursday; October 13; 2022; 11:30 AM to 12:30 PM)
 
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Otavio Dantas Molitor |  | 30+30             |               |
+
+#### QLIC-meet #1| (Thursday; November 10; 2022; 11:30 AM to 12:30 PM)
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Jef Pauwels |  | 30+30             |               |
 
 ## Lecture Series | Details
 
@@ -29,7 +39,11 @@ Second, I will show that time orientations are intimately connected with quantum
 
 ## Past
 
+#### QLIC-seminar #1| (Wednesday; September 7; 2022; 11:00 AM to 12:00 PM)
 
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Markus Frembs | Bipartite entanglement and the arrow of time (see [abstract](#Markus-Frembs)) | 30+30             |               |
 
 ## About
 
