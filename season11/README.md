@@ -15,7 +15,7 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Alex B. Grilo |  | 30+30             |               |
+| Talk    | Alex B. Grilo | Post-Quantum Zero-Knowledge with Space-Bounded Simulation (see [abstract](#Alex-B.-Grilo)) | 30+30             |               |
 
 #### QLIC-seminar #3| (Thursday; October 13; 2022; 11:30 AM to 12:30 PM)
 
@@ -33,6 +33,15 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 
 ## Abstracts
+
+### Alex B. Grilo
+The traditional definition of quantum zero-knowledge stipulates that the knowledge gained by any quantum polynomial-time verifier in an interactive protocol can be simulated by a quantum polynomial-time algorithm. One drawback of this definition is that it allows the simulator to consume significantly more computational resources than the verifier. We argue that this drawback renders the existing notion of quantum zero-knowledge not viable for certain settings, especially when dealing with near-term quantum devices.
+
+In this work, we initiate a fine-grained notion of post-quantum zero-knowledge that is more compatible with near-term quantum devices. We introduce the notion of (s,f) space-bounded quantum zero-knowledge. In this new notion, we require that an s-qubit malicious verifier can be simulated by a f(s)-qubit quantum polynomial-time algorithm, for some function f, with no restriction on the amount of the classical memory consumed by either the verifier or the simulator.
+
+We explore this notion and establish both positive and negative results:
+- For verifiers with logarithmic quantum space sss and (arbitrary) polynomial classical space, we show that (s,f)-space-bounded QZK, for f(s)=2s, can be achieved based on the existence of post-quantum one-way functions. Moreover, our protocol runs in constant rounds.
+- For verifiers with super-logarithmic quantum space sss, assuming the existence of post-quantum secure one-way functions, we show that (s,f)-space-bounded QZK protocols, for any function f, with fully black box simulation (classical analogue of black-box simulation) can only be achieved for languages in BQP.
 
 ### Tobi Haas
 When quantum fields experience spacetime curvature, many fascinating phenomena arise. This includes cosmological particle production, which occurs when the spacetime metric is explicitly time-dependent. However, detecting this phenomenon in the night sky remains an open challenge. Following recent theoretical and experimental developments in Heidelberg, we report on a novel quantum field simulator to engineer a quantum field experiencing an expanding universe of positive as well as negative spatial curvature in a 2+1 dimensional Bose-Einstein condensate with adjustable trapping potential and interaction strength. We demonstrate the successful implementation by comparing novel analytical results to the propagation of acoustic excitations and, for the first time, observe cosmological particle production in the lab, in agreement with cosmological predictions.
