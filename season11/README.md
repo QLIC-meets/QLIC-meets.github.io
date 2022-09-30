@@ -25,7 +25,7 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 | Talk    | Hamed Mohammady | Generalised Wigner-Araki-Yanase theorem  (see [abstract](#Hamed-Mohammady)) | 30+30             |               |
 
 
-#### QLIC-meet #2| (Thursday; November 10; 2022; 11:30 AM to 12:30 PM) 
+#### QLIC-meet #3| (Thursday; November 10; 2022; 11:30 AM to 12:30 PM) 
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
