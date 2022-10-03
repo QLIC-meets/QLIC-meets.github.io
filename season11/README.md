@@ -17,12 +17,7 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
 | Talk    | Nicola Pinzani |   | 30+30             |               |
-
-#### QLIC-seminar #4| (Thursday; October 13; 2022; 11:30 AM to 12:30 PM)
-
-| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Otavio Dantas Molitor | Salient signatures of entanglement in the surrounding environment (see [abstract](#Otavio-Dantas-Molitor)) | 30+30             |               |
+           |               |
 
 #### QLIC-meet #2| (Thursday; October 20; 2022; 11:30 AM to 12:30 PM)
 
@@ -45,9 +40,7 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 ### Hamed Mohammady
 Quantum Measurement is a physical process, resulting from an interaction between the measured system and a measuring apparatus, and so is constrained by the fundamental laws of nature. One such example is that of conservation laws, where the interaction between system and apparatus conserves some quantity such as the total energy, charge, or angular momentum. The Wigner-Araki-Yanase theorem states that for any sharp observable (i.e. an observable represented by a self-adjoint operator) not commuting with the system part of a conserved quantity, either the measurement cannot be repeatable or it cannot be accurate. We extend this result to the setting of general unsharp observables, i.e., observables represented as positive operator valued measures (POVMs), in the form of a quantitative bound. It is shown that while a large coherence of the conserved quantity in the apparatus preparation is a necessary condition for accurate or repeatable measurements of unsharp observables not commuting with the conserved quantity, it is not sufficient. 
 
-### Otavio Dantas Molitor
-We develop a model in which presence of entanglement in a quantum system can be confirmed through coarse observations of the environment surrounding the system. This counter-intuitive effect becomes possible when interaction between the system and its environment is proportional to an observable being an entanglement witness. While presenting three intuitive examples we show that: i) a cloud of an ideal gas, when subject to a linear potential coupled with the entanglement witness, accelerates in the direction dictated by the sign of the witness; ii) quadratures of electromagnetic field in a cavity coupled with two qubits (or a four-level atom) are displaced in the same manner; iii) for a quantum environment given by a single qubit, its state occupies only one hemisphere of the Bloch sphere, again in full agreement with the sign of the witness.
-https://arxiv.org/abs/2209.05197
+
 
 ### Alex B. Grilo
 The traditional definition of quantum zero-knowledge stipulates that the knowledge gained by any quantum polynomial-time verifier in an interactive protocol can be simulated by a quantum polynomial-time algorithm. One drawback of this definition is that it allows the simulator to consume significantly more computational resources than the verifier. We argue that this drawback renders the existing notion of quantum zero-knowledge not viable for certain settings, especially when dealing with near-term quantum devices.
