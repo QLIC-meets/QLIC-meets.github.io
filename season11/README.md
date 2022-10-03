@@ -12,7 +12,13 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
 | Talk    | Alex B. Grilo | Post-Quantum Zero-Knowledge with Space-Bounded Simulation (see [abstract](#Alex-B-Grilo)) | 30+30             |               |
 
-#### QLIC-seminar #3| (Thursday; October 13; 2022; 11:30 AM to 12:30 PM)
+#### QLIC-seminar #3| (Monday; October 10; 2022; 11:30 AM to 12:30 PM)
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Nicola Pinzani |   | 30+30             |               |
+
+#### QLIC-seminar #4| (Thursday; October 13; 2022; 11:30 AM to 12:30 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
