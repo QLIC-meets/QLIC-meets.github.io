@@ -16,7 +16,7 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Nicola Pinzani |   | 30+30             |               |
+| Talk    | Nicola Pinzani | The Topology and Geometry of Causality (see [abstract](#Nicola-Pinzani)) | 30+30             |               |
            |               |
 
 #### QLIC-meet #2| (Thursday; October 20; 2022; 11:30 AM to 12:30 PM)
@@ -36,6 +36,11 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 
 ## Abstracts
+
+### Nicola Pinzani 
+In my talk I am going to present a unified operational framework for the study of causality, non-locality and contextuality, in a fully device-independent and theory-independent setting. Our investigation proceeds from two complementary fronts: a topological one, using tools from sheaf theory, and a geometric one, based on polytopes and linear programming. From the topological perspective, we understand experimental outcome probabilities as bundles of compatible contextual data over certain topological spaces, encoding causality constraints. From the geometric perspective, we understand the same experimental outcome probabilities as points in high-dimensional causal polytopes, which we explicitly construct and fully characterise. 
+Our work is a significant extension of both the established Abramsky-Brandenburger framework for contextuality and the current body of work on indefinite causality. We provide definitions of causal fraction and causal separability for empirical models relative to a broad class of causal constraints: this allows us to construct and characterise novel examples which explicitly connect causal inseparability to non-locality and contextuality. In particular, we demonstrate the existence of "causal contextuality", a phenomenon where causal structure is explicitly correlated to the classical inputs and outputs of local instruments, so that contextuality of the associated empirical model directly implies causal inseparability.
+
 
 ### Hamed Mohammady
 Quantum Measurement is a physical process, resulting from an interaction between the measured system and a measuring apparatus, and so is constrained by the fundamental laws of nature. One such example is that of conservation laws, where the interaction between system and apparatus conserves some quantity such as the total energy, charge, or angular momentum. The Wigner-Araki-Yanase theorem states that for any sharp observable (i.e. an observable represented by a self-adjoint operator) not commuting with the system part of a conserved quantity, either the measurement cannot be repeatable or it cannot be accurate. We extend this result to the setting of general unsharp observables, i.e., observables represented as positive operator valued measures (POVMs), in the form of a quantitative bound. It is shown that while a large coherence of the conserved quantity in the apparatus preparation is a necessary condition for accurate or repeatable measurements of unsharp observables not commuting with the conserved quantity, it is not sufficient. 
