@@ -5,18 +5,19 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed 
 
-
-#### QLIC-seminar #2| (Friday; October 7; 2022; 11:30 AM to 12:30 PM)
-
-| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Alex B. Grilo | Post-Quantum Zero-Knowledge with Space-Bounded Simulation (see [abstract](#Alex-B-Grilo)) | 30+30             |               |
-
 #### QLIC-seminar #3| (Monday; October 10; 2022; 11:30 AM to 12:30 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
 | Talk    | Nicola Pinzani | The Topology and Geometry of Causality (see [abstract](#Nicola-Pinzani)) | 30+30             |               |
+
+
+
+#### QLIC-meet #3| (Thursday; October 13; 2022; 11:30 AM to 12:30 PM)
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Arne Darras and Serge Deside | FRIA rehearsal| 30+30             |               |
 
 
 #### QLIC-meet #2| (Thursday; October 20; 2022; 11:30 AM to 12:30 PM)
@@ -68,6 +69,12 @@ Second, I will show that time orientations are intimately connected with quantum
 
 
 ## Past
+
+#### QLIC-seminar #2| (Friday; October 7; 2022; 11:30 AM to 12:30 PM)
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Alex B. Grilo | Post-Quantum Zero-Knowledge with Space-Bounded Simulation (see [abstract](#Alex-B-Grilo)) | 30+30             |               |
 
 #### QLIC-meet #1| (Thursday; September 29; 2022; 11:30 AM to 12:30 PM)
 
