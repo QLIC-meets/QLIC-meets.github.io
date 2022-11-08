@@ -11,12 +11,17 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Jef Pauwels |  | 30+30             |               |
+| Talk    | Jef Pauwels | Adaptive advantage in entanglement-assisted communications (see [abstract](#Jef-Pauwels)) | 30+30             |               |
 
 ## Lecture Series | Details
 
 
 ## Abstracts
+
+### Jef Pauwels
+Entanglement is known to boost the efficiency of classical communication. In distributed computation, for instance, exploiting entanglement can reduce the number of communicated bits or increase the probability to obtain a correct answer. Entanglement-assisted classical communication protocols usually consist of two successive rounds: first a Bell test round, in which the parties measure their local shares of the entangled state, and then a communication round, where they exchange classical messages. Here, we go beyond this standard approach and investigate adaptive uses of entanglement: we allow the receiver to wait for the arrival of the sender's message before measuring his share of the entangled state. We first show that such adaptive protocols improve the success probability in Random Access Codes. Second, we show that once adaptive measurements are used, an entanglement-assisted bit becomes a strictly stronger resource than a qubit in prepare-and-measure scenarios. We briefly discuss extension of these ideas to scenarios involving quantum communication and identify resource inequalities.
+
+ 
 
 ### Nicola Pinzani 
 In my talk I am going to present a unified operational framework for the study of causality, non-locality and contextuality, in a fully device-independent and theory-independent setting. Our investigation proceeds from two complementary fronts: a topological one, using tools from sheaf theory, and a geometric one, based on polytopes and linear programming. From the topological perspective, we understand experimental outcome probabilities as bundles of compatible contextual data over certain topological spaces, encoding causality constraints. From the geometric perspective, we understand the same experimental outcome probabilities as points in high-dimensional causal polytopes, which we explicitly construct and fully characterise. 
