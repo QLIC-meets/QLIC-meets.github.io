@@ -1,22 +1,24 @@
 # QLIC-meets | Season 11 (September–December 2022)
-Welcome to the QLIC-meets page. For further information about the meetings see the [About](#About) section. To access future videos of our QLIC events, please add your Google email to [this spreadsheet](https://docs.google.com/spreadsheets/d/1_8xdH3ih4KBwd91U2FQ1GKMV2C-C8y-pgjTPMlqSnSI/edit?usp=sharing). To access existing videos, use this account—ghost.qlic.ulb@gmail.com—the password to which can be requested by email (cgriffet@ulb.ac.be).   
+Welcome to the QLIC-meets page. For further information about the meetings see the [About](#About) section. For any information, you can contact Serge Deside (serge.deside@ulb.be) or Léo Pioge (leo.pioge@ulb.be).  
 
 All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-meets.github.io/all). 
 
 ## Confirmed 
 
-
-
-#### QLIC-meet #3| (Thursday; November 10; 2022; 11:30 AM to 12:30 PM) 
+#### QLIC-seminar #4| (Wednesday; November 16; 2022; 2:00 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Jef Pauwels | Adaptive advantage in entanglement-assisted communications (see [abstract](#Jef-Pauwels)) | 30+30             |               |
+| Talk    | Roope Uola | Genuinely high-dimensional quantum devices (see [abstract](#Roope-Uola)) |              |               |
+
 
 ## Lecture Series | Details
 
 
 ## Abstracts
+
+### Roope Uola 
+High-dimensional quantum systems form a rapidly developing research field that covers both theoretical and experimental aspects of quantum communication and, more generally, quantum information theory. These systems provide various advantages over their low-dimensional counterparts in terms of, for example, noise resilience and information carrying capacity. In order to reach such benefits, one needs to possess a system that is not effectively low-dimensional. In this theory talk, I will introduce the concept of genuine high-dimensionality for a range of quantum devices, and discuss how this leads to experimentally testable criteria, that can rule out central low-dimensional simulation protocols in a semi-device independent manner.
 
 ### Jef Pauwels
 Entanglement is known to boost the efficiency of classical communication. In distributed computation, for instance, exploiting entanglement can reduce the number of communicated bits or increase the probability to obtain a correct answer. Entanglement-assisted classical communication protocols usually consist of two successive rounds: first a Bell test round, in which the parties measure their local shares of the entangled state, and then a communication round, where they exchange classical messages. Here, we go beyond this standard approach and investigate adaptive uses of entanglement: we allow the receiver to wait for the arrival of the sender's message before measuring his share of the entangled state. We first show that such adaptive protocols improve the success probability in Random Access Codes. Second, we show that once adaptive measurements are used, an entanglement-assisted bit becomes a strictly stronger resource than a qubit in prepare-and-measure scenarios. We briefly discuss extension of these ideas to scenarios involving quantum communication and identify resource inequalities.
@@ -55,13 +57,18 @@ Second, I will show that time orientations are intimately connected with quantum
 
 ## Past
 
-#### QLIC-seminar #3| (Monday; October 10; 2022; 11:30 AM to 12:30 PM)
+#### QLIC-meet #3| (Thursday; November 10; 2022; 11:30 AM to 12:30 PM) 
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Nicola Pinzani | The Topology and Geometry of Causality (see [abstract](#Nicola-Pinzani)) | 30+30             |               |
+| Talk    | Jef Pauwels | Adaptive advantage in entanglement-assisted communications (see [abstract](#Jef-Pauwels)) | 30+30             |               |
 
 
+#### QLIC-meet #2| (Thursday; October 20; 2022; 11:30 AM to 12:30 PM)
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Hamed Mohammady | Generalised Wigner-Araki-Yanase theorem  (see [abstract](#Hamed-Mohammady)) | 30+30             |               |
 
 #### QLIC-meet #3| (Thursday; October 13; 2022; 11:30 AM to 12:30 PM)
 
@@ -70,11 +77,11 @@ Second, I will show that time orientations are intimately connected with quantum
 | Talk    | Arne Darras and Serge Deside | FRIA rehearsal| 30+30             |               |
 
 
-#### QLIC-meet #2| (Thursday; October 20; 2022; 11:30 AM to 12:30 PM)
+#### QLIC-seminar #3| (Monday; October 10; 2022; 11:30 AM to 12:30 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Hamed Mohammady | Generalised Wigner-Araki-Yanase theorem  (see [abstract](#Hamed-Mohammady)) | 30+30             |               |
+| Talk    | Nicola Pinzani | The Topology and Geometry of Causality (see [abstract](#Nicola-Pinzani)) | 30+30             |               |
 
 
 #### QLIC-seminar #2| (Friday; October 7; 2022; 11:30 AM to 12:30 PM)
