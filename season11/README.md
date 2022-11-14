@@ -5,7 +5,7 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed 
 
-#### QLIC-seminar #4| (Wednesday; November 16; 2022; 2:00 PM)
+#### QLIC-seminar #4| (Wednesday; November 16; 2022; 1:30 PM) - location : The Plaine campus, room N4.117
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
