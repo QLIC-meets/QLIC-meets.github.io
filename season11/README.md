@@ -5,11 +5,7 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed 
 
-#### QLIC-seminar #4| (Wednesday; November 16; 2022; 1:30 PM) - location : The Plaine campus, room N4.117
 
-| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Roope Uola | Genuinely high-dimensional quantum devices (see [abstract](#Roope-Uola)) |              |               |
 
 
 ## Lecture Series | Details
@@ -56,6 +52,12 @@ Second, I will show that time orientations are intimately connected with quantum
 
 
 ## Past
+
+#### QLIC-seminar #4| (Wednesday; November 16; 2022; 1:30 PM) - Location : The Plaine campus, room N4.117
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Roope Uola | Genuinely high-dimensional quantum devices (see [abstract](#Roope-Uola)) |              |               |
 
 #### QLIC-meet #3| (Thursday; November 10; 2022; 11:30 AM to 12:30 PM) 
 
