@@ -53,7 +53,7 @@ Second, I will show that time orientations are intimately connected with quantum
 
 ## Past
 
-#### QLIC-seminar #4| (Wednesday; November 16; 2022; 1:30 PM) - Location : The Plaine campus, room N4.117
+#### QLIC-seminar #4 | (Wednesday; November 16; 2022; 1:30 PM) - Location : The Plaine campus, room N4.117
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
@@ -66,40 +66,40 @@ Second, I will show that time orientations are intimately connected with quantum
 | Talk    | Jef Pauwels | Adaptive advantage in entanglement-assisted communications (see [abstract](#Jef-Pauwels)) | 30+30             |               |
 
 
-#### QLIC-meet #2| (Thursday; October 20; 2022; 11:30 AM to 12:30 PM)
+#### QLIC-meet #2 | (Thursday; October 20; 2022; 11:30 AM to 12:30 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
 | Talk    | Hamed Mohammady | Generalised Wigner-Araki-Yanase theorem  (see [abstract](#Hamed-Mohammady)) | 30+30             |               |
 
-#### QLIC-meet #3| (Thursday; October 13; 2022; 11:30 AM to 12:30 PM)
+#### QLIC-meet #3 | (Thursday; October 13; 2022; 11:30 AM to 12:30 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
 | Talk    | Arne Darras and Serge Deside | FRIA rehearsal| 30+30             |               |
 
 
-#### QLIC-seminar #3| (Monday; October 10; 2022; 11:30 AM to 12:30 PM)
+#### QLIC-seminar #3 | (Monday; October 10; 2022; 11:30 AM to 12:30 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
 | Talk    | Nicola Pinzani | The Topology and Geometry of Causality (see [abstract](#Nicola-Pinzani)) | 30+30             |               |
 
 
-#### QLIC-seminar #2| (Friday; October 7; 2022; 11:30 AM to 12:30 PM)
+#### QLIC-seminar #2 | (Friday; October 7; 2022; 11:30 AM to 12:30 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
 | Talk    | Alex B. Grilo | Post-Quantum Zero-Knowledge with Space-Bounded Simulation (see [abstract](#Alex-B-Grilo)) | 30+30             |               |
 
-#### QLIC-meet #1| (Thursday; September 29; 2022; 11:30 AM to 12:30 PM)
+#### QLIC-meet #1 | (Thursday; September 29; 2022; 11:30 AM to 12:30 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
 | Talk    | Tobi Haas | A Universe in Heidelberg (see [abstract](#Tobi-Haas)) | 30+30             |               |
 
 
-#### QLIC-seminar #1| (Wednesday; September 7; 2022; 11:00 AM to 12:00 PM)
+#### QLIC-seminar #1 | (Wednesday; September 7; 2022; 11:00 AM to 12:00 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
