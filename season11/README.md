@@ -59,7 +59,7 @@ Second, I will show that time orientations are intimately connected with quantum
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
 | Talk    | Roope Uola | Genuinely high-dimensional quantum devices (see [abstract](#Roope-Uola)) |              |               |
 
-#### QLIC-meet #3| (Thursday; November 10; 2022; 11:30 AM to 12:30 PM) 
+#### QLIC-meet #3 | (Thursday; November 10; 2022; 11:30 AM to 12:30 PM) 
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
