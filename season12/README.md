@@ -5,12 +5,6 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed 
 
-#### QLIC-seminar #1 | (Friday; February 3; 2023; 2:30 PM to 3:30 PM)
-
-| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Atul Singh Arora | Quantum Depth in the Random Oracle Model (see [abstract](#Atul-Singh-Arora)) | 30+30         |               |
-
 #### QLIC-meet #1 | (Thursday; March 2; 2023; 11:30 AM to 12:30 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
@@ -37,7 +31,11 @@ Related publications: [arXiv:2211.17160](https://arxiv.org/pdf/2211.17160.pdf), 
 
 ## Past
 
+#### QLIC-seminar #1 | (Friday; February 3; 2023; 2:30 PM to 3:30 PM)
 
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Atul Singh Arora | Quantum Depth in the Random Oracle Model (see [abstract](#Atul-Singh-Arora)) | 30+30         |               |
 
 ## About
 
