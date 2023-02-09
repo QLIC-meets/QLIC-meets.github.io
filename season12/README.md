@@ -9,7 +9,7 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Kannan Vijayadharan |  | 30+30         |               |
+| Talk    | Kannan Vijayadharan | Post selection loophole-free genuine time-bin entanglement at 1550nm for quantum networks (see [abstract](#Kannan-Vijayadharan)) | 30+30         |               |
 
 #### QLIC-meet #2 | (Friday; March 3; 2023; 11:30 AM to 12:30 PM)
 
@@ -21,6 +21,14 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Abstracts
 
+### Kannan Vijayadharan
+Entanglement is a unique and invaluable resource for quantum information processing because it highlights the non-locality property. While various different methods exist for harnessing it, entangled photons are very promising for distribution of entanglement over long distances. However for device independent (DI) quantum communication protocols, loophole-free violation of Bell inequalities is required. A post-selection loophole-free scheme using active switches is proposed here which allows the use full detection statistics, eliminating the need for postselection.
+
+### Tobias Haas
+We present a general class of entanglement criteria for continuous variable systems. Our criteria are based on the Husimi Q-distribution and allow for optimization over the set of all concave functions rendering them extremely general and versatile. We show that several entropic criteria and second moment criteria are obtained as special cases. Our criteria reveal entanglement of families of states undetected by any commonly used criteria and provide clear advantages under typical experimental constraints such as finite detector resolution and measurement statistics.
+
+Related publications: [arXiv:2211.17160](https://arxiv.org/pdf/2211.17160.pdf), [arXiv:2211.17165](https://arxiv.org/pdf/2211.17165.pdf), [arXiv:2211.17168](https://arxiv.org/pdf/2211.17168.pdf).
+
 ### Atul Singh Arora
 We give a comprehensive characterisation of the computational power of shallow quantum circuits combined with classical computation. Specifically, for classes of search problems, we show that the following statements hold, relative to a random oracle:
 (a) $\mathsf{BPP}^{\mathsf{QNC}^{\mathsf{BPP}}} \neq \mathsf{BQP}$. This refutes Jozsa's conjecture [QIP 05] in the random oracle model. As a result, this gives the first instantiatable separation between the classes by replacing the oracle with a cryptographic hash function, yielding a resolution to one of Aaronson's ten semi-grand challenges in quantum computing.
@@ -30,10 +38,6 @@ We give a comprehensive characterisation of the computational power of shallow q
 Reference: [arXiv:2210.06454](https://arxiv.org/pdf/2210.06454.pdf).
 
 
-### Tobias Haas
-We present a general class of entanglement criteria for continuous variable systems. Our criteria are based on the Husimi Q-distribution and allow for optimization over the set of all concave functions rendering them extremely general and versatile. We show that several entropic criteria and second moment criteria are obtained as special cases. Our criteria reveal entanglement of families of states undetected by any commonly used criteria and provide clear advantages under typical experimental constraints such as finite detector resolution and measurement statistics.
-
-Related publications: [arXiv:2211.17160](https://arxiv.org/pdf/2211.17160.pdf), [arXiv:2211.17165](https://arxiv.org/pdf/2211.17165.pdf), [arXiv:2211.17168](https://arxiv.org/pdf/2211.17168.pdf).
 
 ## Past
 
