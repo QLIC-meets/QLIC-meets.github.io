@@ -5,7 +5,7 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed 
 
-#### QLIC-meet #2 | (Monday; February 13; 2023; 11:30 AM to 12:30 PM)
+#### QLIC-meet #1 | (Monday; February 13; 2023; 11:30 AM to 12:30 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
