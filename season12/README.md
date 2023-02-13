@@ -5,12 +5,6 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed 
 
-#### QLIC-meet #1 | (Monday; February 13; 2023; 11:30 AM to 12:30 PM)
-
-| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Kannan Vijayadharan | Post selection loophole-free genuine time-bin entanglement at 1550nm for quantum networks (see [abstract](#Kannan-Vijayadharan)) | 30+30         |               |
-
 #### QLIC-meet #2 | (Friday; March 3; 2023; 11:30 AM to 12:30 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
@@ -38,8 +32,13 @@ We give a comprehensive characterisation of the computational power of shallow q
 Reference: [arXiv:2210.06454](https://arxiv.org/pdf/2210.06454.pdf).
 
 
-
 ## Past
+
+#### QLIC-meet #1 | (Monday; February 13; 2023; 11:30 AM to 12:30 PM)
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Kannan Vijayadharan | Post selection loophole-free genuine time-bin entanglement at 1550nm for quantum networks (see [abstract](#Kannan-Vijayadharan)) | 30+30         |               |
 
 #### QLIC-seminar #1 | (Friday; February 3; 2023; 2:30 PM to 3:30 PM)
 
