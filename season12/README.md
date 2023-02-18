@@ -5,13 +5,13 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed 
 
-#### QLIC-meet #2 | (Tuesday; February 28; 2023; 11:30 AM to 12:30 PM)
+#### QLIC-meet #1 | (Tuesday; February 28; 2023; 11:30 AM to 12:30 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
 | Talk    | Ravi Kunjwal | Qualitative equivalence between incompatibility and nonlocality (see [abstract](#Ravi-Kunjwal)) | 30+30         |               |
 
-#### QLIC-meet #3 | (Friday; March 3; 2023; 11:30 AM to 1:00 PM)
+#### QLIC-meet #2 | (Friday; March 3; 2023; 11:30 AM to 1:00 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
@@ -50,7 +50,7 @@ Reference: [arXiv:2210.06454](https://arxiv.org/abs/2210.06454).
 
 ## Past
 
-#### QLIC-meet #1 | (Monday; February 13; 2023; 11:30 AM to 12:30 PM)
+#### QLIC-seminar #2 | (Monday; February 13; 2023; 11:30 AM to 12:30 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
