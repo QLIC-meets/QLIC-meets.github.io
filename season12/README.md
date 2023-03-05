@@ -5,12 +5,6 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed 
 
-#### QLIC-meet #1 | (Friday; March 3; 2023; 11:30 AM to 1:00 PM)
-
-| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Tobias Haas | General class of continuous variable entanglement criteria (see [abstract](#Tobias-Haas)) | 30+30         |               |
-| Talk    | Célia Griffet | Interferometric measurement of the quadrature coherence scale using two replicas of a quantum optical state (see [abstract](#Célia-Griffet)) | 15+15         |               |
 
 
 ## Lecture Series | Details
@@ -43,6 +37,14 @@ Reference: [arXiv:2210.06454](https://arxiv.org/abs/2210.06454).
 
 
 ## Past
+
+#### QLIC-meet #1 | (Friday; March 3; 2023; 11:30 AM to 1:00 PM)
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Tobias Haas | General class of continuous variable entanglement criteria (see [abstract](#Tobias-Haas)) | 30+30         |               |
+| Talk    | Célia Griffet | Interferometric measurement of the quadrature coherence scale using two replicas of a quantum optical state (see [abstract](#Célia-Griffet)) | 15+15         |               |
+
 
 #### QLIC-seminar #2 | (Monday; February 13; 2023; 11:30 AM to 12:30 PM)
 
