@@ -5,11 +5,18 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed 
 
+#### QLIC-seminar #3 | (Tuesday; March 7; 2023; 12:00 PM) | location: La Plaine Campus (N4.117)
 
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Ahana Goshal | Towards a local version of the second law of thermodynamics (see [abstract](#Ahana-Goshal)) | 30+30         |               |
 
 ## Lecture Series | Details
 
 ## Abstracts
+
+### Ahana Goshal
+A local version of the second law of thermodynamics is undoubtedly a fundamentally important area of research, and is all the more important with the advent of quantum devices and networks. Here we intend to provide two investigations in this direction. In the first part, we define and study two thermodynamical quantities: the heat current deficit and the entropy production rate deficit, which are differences between the global and local versions of the corresponding quantities. The investigation leads, in certain cases, to a complementarity of the time-integrated heat current deficit and the relative entropy of entanglement between the two systems. In the second part, we obtain the Gorini-Kossakowski-Sudarshan-Lindblad master equation for two or more quantum systems connected locally to a combination of Markovian and non-Markovian heat baths. We analyze the thermodynamic quantities for such a mixed set of local environments, and derive a modified form of the Spohn’s theorem for that setup. The modification of the theorem naturally leads to a witness as well as an easily computable quantifier of non-Markovianity.
 
 ### Célia Griffet
 Assessing whether a quantum state $\hat \rho$ is nonclassical ($\textit{i.e.}$, incompatible with a mixture of coherent states) is a ubiquitous question in quantum optics, yet a nontrivial experimental task because many nonclassicality witnesses are nonlinear in $\hat \rho$. In particular, if we want to witness or measure the nonclassicality of a state by evaluating its quadrature coherence scale, this $\textit{a priori}$ requires full state tomography. Here, we provide an experimentally friendly procedure for directly accessing this quantity with a simple linear interferometer involving two replicas (independent and identical copies) of the state $\hat \rho$ supplemented with photon number measurements. This finding, that we interpret as an extension of the Hong-Ou-Mandel effect, illustrates the wide applicability of the multicopy interferometric technique in order to circumvent state tomography in quantum optics.
