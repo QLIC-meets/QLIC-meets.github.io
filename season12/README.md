@@ -5,11 +5,7 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed 
 
-#### QLIC-seminar #3 | (Tuesday; March 7; 2023; 12:00 PM) | location: La Plaine Campus (N4.117)
 
-| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Ahana Goshal | Towards a local version of the second law of thermodynamics (see [abstract](#Ahana-Goshal)) | 30+30         |               |
 
 ## Lecture Series | Details
 
@@ -41,6 +37,12 @@ Reference: [arXiv:2210.06454](https://arxiv.org/abs/2210.06454).
 
 
 ## Past
+
+#### QLIC-seminar #3 | (Tuesday; March 7; 2023; 12:00 PM) | location: La Plaine Campus (N4.117)
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Ahana Goshal | Towards a local version of the second law of thermodynamics (see [abstract](#Ahana-Goshal)) | 30+30         |               |
 
 #### QLIC-meet #1 | (Friday; March 3; 2023; 11:30 AM to 1:00 PM)
 
