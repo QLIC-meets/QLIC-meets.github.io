@@ -5,7 +5,7 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed 
 
-#### QLIC-seminar #4 | (Tuesday; March 7; 2023; 11:00 AM) | location: La Plaine Campus (N4.117)
+#### QLIC-seminar #4 | (Tuesday; March 14; 2023; 11:00 AM) | location: La Plaine Campus (N4.117)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
