@@ -5,7 +5,11 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed 
 
+#### QLIC-seminar #4 | (Tuesday; March 7; 2023; 11:00 AM) | location: La Plaine Campus (N4.117)
 
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | [Aysajan Abidin](https://www.esat.kuleuven.be/cosic/people/aysajan-abidin/) | Quantum protocol for distance bounding (see [distance-bouncing protocol](https://en.wikipedia.org/wiki/Distance-bounding_protocol)) | 30+30         |               |
 
 ## Lecture Series | Details
 
