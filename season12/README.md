@@ -9,7 +9,7 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | [Aysajan Abidin](https://www.esat.kuleuven.be/cosic/people/aysajan-abidin/) | Quantum protocol for distance bounding (see [distance-bouncing protocol](https://en.wikipedia.org/wiki/Distance-bounding_protocol)) | 30+30         |               |
+| Talk    | [Aysajan Abidin](https://www.esat.kuleuven.be/cosic/people/aysajan-abidin/) | Quantum protocol for distance bounding (see [distance-bounding protocol](https://en.wikipedia.org/wiki/Distance-bounding_protocol)) | 30+30         |               |
 
 ## Lecture Series | Details
 
