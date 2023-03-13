@@ -5,17 +5,18 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed 
 
+#### QLIC-seminar #4 | (Tuesday; March 14; 2023; 11:00 AM) | location: La Plaine Campus (N4.117)
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | [Aysajan Abidin](https://www.esat.kuleuven.be/cosic/people/aysajan-abidin/) | Quantum Distance Bounding (see [abstract](#Aysajan-Abidin)) | 30+30         |               |
+
 #### QLIC-seminar #5 | (Tuesday; March 21; 2023; TBD) | location: La Plaine Campus (TBD)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
 | Talk    | Victoria Wright | An invertible map between Bell non-local and contextuality scenarios (see [abstract](#Victoria-Wright)) | 30+30         |               |
 
-#### QLIC-seminar #4 | (Tuesday; March 14; 2023; 11:00 AM) | location: La Plaine Campus (N4.117)
-
-| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | [Aysajan Abidin](https://www.esat.kuleuven.be/cosic/people/aysajan-abidin/) | Quantum Distance Bounding (see [abstract](#Aysajan-Abidin)) | 30+30         |               |
 
 ## Lecture Series | Details
 
