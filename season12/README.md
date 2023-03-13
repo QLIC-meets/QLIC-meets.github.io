@@ -5,6 +5,12 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed 
 
+#### QLIC-seminar #5 | (Tuesday; March 21; 2023; TBD) | location: La Plaine Campus (TBD)
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Victoria Wright | An invertible map between Bell non-local and contextuality scenarios (see [abstract](#Victoria-Wright)) | 30+30         |               |
+
 #### QLIC-seminar #4 | (Tuesday; March 14; 2023; 11:00 AM) | location: La Plaine Campus (N4.117)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
@@ -14,6 +20,11 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 ## Lecture Series | Details
 
 ## Abstracts
+
+### Victoria Wright 
+We present an invertible map between correlations in any bipartite Bell scenario and behaviours in a family of contextuality scenarios. The map takes local, quantum and non-signalling correlations to non-contextual, quantum and contextual behaviours, respectively. Consequently, we find that the membership problem of the set of quantum contextual behaviours is undecidable, the set cannot be fully realised via finite dimensional quantum systems and is not closed. Finally, we show that neither this set nor its closure is the limit of a sequence of computable supersets, due to the result MIP*=RE.
+
+Reference: [arXiv:2211.12550](https://arxiv.org/abs/2211.12550)
 
 ### Ahana Goshal
 A local version of the second law of thermodynamics is undoubtedly a fundamentally important area of research, and is all the more important with the advent of quantum devices and networks. Here we intend to provide two investigations in this direction. In the first part, we define and study two thermodynamical quantities: the heat current deficit and the entropy production rate deficit, which are differences between the global and local versions of the corresponding quantities. The investigation leads, in certain cases, to a complementarity of the time-integrated heat current deficit and the relative entropy of entanglement between the two systems. In the second part, we obtain the Gorini-Kossakowski-Sudarshan-Lindblad master equation for two or more quantum systems connected locally to a combination of Markovian and non-Markovian heat baths. We analyze the thermodynamic quantities for such a mixed set of local environments, and derive a modified form of the Spohn’s theorem for that setup. The modification of the theorem naturally leads to a witness as well as an easily computable quantifier of non-Markovianity.
