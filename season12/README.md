@@ -15,7 +15,7 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | [Aysajan Abidin](https://www.esat.kuleuven.be/cosic/people/aysajan-abidin/) | Quantum protocol for distance bounding (see [distance-bounding protocol](https://en.wikipedia.org/wiki/Distance-bounding_protocol)) | 30+30         |               |
+| Talk    | [Aysajan Abidin](https://www.esat.kuleuven.be/cosic/people/aysajan-abidin/) | Quantum Distance Bounding (see [abstract](#Aysajan-Abidin)) | 30+30         |               |
 
 ## Lecture Series | Details
 
@@ -25,6 +25,12 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 We present an invertible map between correlations in any bipartite Bell scenario and behaviours in a family of contextuality scenarios. The map takes local, quantum and non-signalling correlations to non-contextual, quantum and contextual behaviours, respectively. Consequently, we find that the membership problem of the set of quantum contextual behaviours is undecidable, the set cannot be fully realised via finite dimensional quantum systems and is not closed. Finally, we show that neither this set nor its closure is the limit of a sequence of computable supersets, due to the result MIP*=RE.
 
 Reference: [arXiv:2211.12550](https://arxiv.org/abs/2211.12550)
+
+### Aysajan Abidin
+With the widespread use of wireless systems, such as contactless payment systems, keyless entry systems, or smart access control systems, relay attacks increasingly pose a severe security threat to them. Distance Bounding (DB) protocols, which allow an entity to authenticate another entity and determine whether it is physically close by, effectively mitigate relay attacks. DB protocols typically comprise a cryptographic initialization phase and a fast challenge-response phase that relies on physics. Until recently, all DB protocols relied on classical cryptography and communication techniques. The goals of this talk are three-fold:
+1. To explain how DB protocols work.
+2. To give an overview of DB protocols that employ qubits in the challenge-response phase.
+3. To discuss potential challenges.
 
 ### Ahana Goshal
 A local version of the second law of thermodynamics is undoubtedly a fundamentally important area of research, and is all the more important with the advent of quantum devices and networks. Here we intend to provide two investigations in this direction. In the first part, we define and study two thermodynamical quantities: the heat current deficit and the entropy production rate deficit, which are differences between the global and local versions of the corresponding quantities. The investigation leads, in certain cases, to a complementarity of the time-integrated heat current deficit and the relative entropy of entanglement between the two systems. In the second part, we obtain the Gorini-Kossakowski-Sudarshan-Lindblad master equation for two or more quantum systems connected locally to a combination of Markovian and non-Markovian heat baths. We analyze the thermodynamic quantities for such a mixed set of local environments, and derive a modified form of the Spohn’s theorem for that setup. The modification of the theorem naturally leads to a witness as well as an easily computable quantifier of non-Markovianity.
