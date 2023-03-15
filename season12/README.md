@@ -5,27 +5,31 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed 
 
-#### QLIC-seminar #4 | (Tuesday; March 14; 2023; 11:00 AM) | location: La Plaine Campus (N4.117)
-
-| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | [Aysajan Abidin](https://www.esat.kuleuven.be/cosic/people/aysajan-abidin/) | Quantum Distance Bounding (see [abstract](#Aysajan-Abidin)) | 30+30         |               |
-
 #### QLIC-seminar #5 | (Tuesday; March 21; 2023; TBD) | location: La Plaine Campus (TBD)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
 | Talk    | Victoria Wright | An invertible map between Bell non-local and contextuality scenarios (see [abstract](#Victoria-Wright)) | 30+30         |               |
 
+#### QLIC-seminar #6 | (Thursday; March 23; 2023; TBD)
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Máté Farkas | Three numerical approaches to find mutually unbiased bases using Bell inequalities (see [abstract](#Máté-Farkas)) | 30+30         |               |
 
 ## Lecture Series | Details
 
 ## Abstracts
 
+### Máté Farkas
+Mutually unbiased bases correspond to highly useful pairs of measurements in quantum information theory. In the smallest composite dimension, six, it is known that between three and seven mutually unbiased bases exist, with a decades-old conjecture, known as Zauner's conjecture, stating that there exist at most three. Here we tackle Zauner's conjecture numerically through the construction of Bell inequalities for every pair of integers n, d ≥ 2 that can be maximally violated in dimension d if and only if n MUBs exist in that dimension. Hence, we turn Zauner's conjecture into an optimisation problem, which we address by means of three numerical methods: see-saw optimisation, non-linear semidefinite programming and Monte Carlo techniques. All three methods correctly identify the known cases in low dimensions and all suggest that there do not exist four mutually unbiased bases in dimension six, with all finding the same bases that numerically optimise the corresponding Bell inequality. Moreover, these numerical optimisers appear to coincide with the "four most distant bases" in dimension six, found through numerically optimising a distance measure in [P. Raynal, X. Lü, B.-G. Englert, Phys. Rev. A, 83 062303 (2011)]. Finally, the Monte Carlo results suggest that at most three MUBs exist in dimension ten.
+
+Presentation based on Quantum 6, 778 (2022), [arXiv:2203.09429](https://arxiv.org/abs/2203.09429).
+
 ### Victoria Wright 
 We present an invertible map between correlations in any bipartite Bell scenario and behaviours in a family of contextuality scenarios. The map takes local, quantum and non-signalling correlations to non-contextual, quantum and contextual behaviours, respectively. Consequently, we find that the membership problem of the set of quantum contextual behaviours is undecidable, the set cannot be fully realised via finite dimensional quantum systems and is not closed. Finally, we show that neither this set nor its closure is the limit of a sequence of computable supersets, due to the result MIP*=RE.
 
-Reference: [arXiv:2211.12550](https://arxiv.org/abs/2211.12550)
+Reference: [arXiv:2211.12550](https://arxiv.org/abs/2211.12550).
 
 ### Aysajan Abidin
 With the widespread use of wireless systems, such as contactless payment systems, keyless entry systems, or smart access control systems, relay attacks increasingly pose a severe security threat to them. Distance Bounding (DB) protocols, which allow an entity to authenticate another entity and determine whether it is physically close by, effectively mitigate relay attacks. DB protocols typically comprise a cryptographic initialization phase and a fast challenge-response phase that relies on physics. Until recently, all DB protocols relied on classical cryptography and communication techniques. The goals of this talk are three-fold:
@@ -59,6 +63,12 @@ Reference: [arXiv:2210.06454](https://arxiv.org/abs/2210.06454).
 
 
 ## Past
+
+#### QLIC-seminar #4 | (Tuesday; March 14; 2023; 11:00 AM) | location: La Plaine Campus (N4.117)
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | [Aysajan Abidin](https://www.esat.kuleuven.be/cosic/people/aysajan-abidin/) | Quantum Distance Bounding (see [abstract](#Aysajan-Abidin)) | 30+30         | 
 
 #### QLIC-seminar #3 | (Tuesday; March 7; 2023; 12:00 PM) | location: La Plaine Campus (N4.117)
 
