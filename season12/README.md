@@ -5,12 +5,6 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed 
 
-#### QLIC-seminar #5 | (Tuesday; March 21; 2023; 11:00 PM to 12:00 PM) | location: La Plaine Campus (N4.117)
-
-| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Victoria Wright | An invertible map between Bell non-local and contextuality scenarios (see [abstract](#Victoria-Wright)) | 30+30         |               |
-
 #### QLIC-seminar #6 | (Thursday; March 23; 2023; 11:30 PM to 12:30 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
@@ -63,6 +57,12 @@ Reference: [arXiv:2210.06454](https://arxiv.org/abs/2210.06454).
 
 
 ## Past
+
+#### QLIC-seminar #5 | (Tuesday; March 21; 2023; 11:00 PM to 12:00 PM) | location: La Plaine Campus (N4.117)
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Victoria Wright | An invertible map between Bell non-local and contextuality scenarios (see [abstract](#Victoria-Wright)) | 30+30         |               |
 
 #### QLIC-seminar #4 | (Tuesday; March 14; 2023; 11:00 AM) | location: La Plaine Campus (N4.117)
 
