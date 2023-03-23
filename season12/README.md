@@ -11,9 +11,24 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
 | Talk    | Máté Farkas | Three numerical approaches to find mutually unbiased bases using Bell inequalities (see [abstract](#Máté-Farkas)) | 30+30         |               |
 
+#### QLIC-seminar #7 | (Wednesday; March 29; 2023; 11:00 PM to 12:00 PM)
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Gabriele Bressanini | Noise thresholds for classical simulability of non-linear boson sampling (see [abstract](#Gabriele-Bressanini)) | 30+30         |               |
+
 ## Lecture Series | Details
 
 ## Abstracts
+
+### Gabriele Bressanini
+Boson sampling is a promising candidate for an experimental demonstration of quantum advantage using photons. However, inevitable noise and imperfections, such as loss in the interferometer and random counts at the detectors, could challenge the sampling task from entering the regime where quantum advantage is achievable.
+
+We explore the possibility of introducing higher-order non-linearities as a mean to enhance the computational complexity of the problem and the protocol's robustness against noise.
+
+We establish a necessary non-classicality condition that any experimental proof of quantum advantage must satisfy.
+
+Reference: [arXiv:2202.12052](https://arxiv.org/abs/2202.12052).
 
 ### Máté Farkas
 Mutually unbiased bases correspond to highly useful pairs of measurements in quantum information theory. In the smallest composite dimension, six, it is known that between three and seven mutually unbiased bases exist, with a decades-old conjecture, known as Zauner's conjecture, stating that there exist at most three. Here we tackle Zauner's conjecture numerically through the construction of Bell inequalities for every pair of integers $n, d ≥ 2$ that can be maximally violated in dimension $d$ if and only if $n$ MUBs exist in that dimension. Hence, we turn Zauner's conjecture into an optimisation problem, which we address by means of three numerical methods: see-saw optimisation, non-linear semidefinite programming and Monte Carlo techniques. All three methods correctly identify the known cases in low dimensions and all suggest that there do not exist four mutually unbiased bases in dimension six, with all finding the same bases that numerically optimise the corresponding Bell inequality. Moreover, these numerical optimisers appear to coincide with the "four most distant bases" in dimension six, found through numerically optimising a distance measure in [P. Raynal, X. Lü, B.-G. Englert, Phys. Rev. A, 83 062303 (2011)]. Finally, the Monte Carlo results suggest that at most three MUBs exist in dimension ten.
