@@ -5,12 +5,6 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed 
 
-#### QLIC-seminar #6 | (Thursday; March 23; 2023; 11:30 PM to 12:30 PM)
-
-| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Máté Farkas | Three numerical approaches to find mutually unbiased bases using Bell inequalities (see [abstract](#Máté-Farkas)) | 30+30         |               |
-
 #### QLIC-seminar #7 | (Wednesday; March 29; 2023; 11:00 PM to 12:00 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
@@ -72,6 +66,12 @@ Reference: [arXiv:2210.06454](https://arxiv.org/abs/2210.06454).
 
 
 ## Past
+
+#### QLIC-seminar #6 | (Thursday; March 23; 2023; 11:30 PM to 12:30 PM)
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Máté Farkas | Three numerical approaches to find mutually unbiased bases using Bell inequalities (see [abstract](#Máté-Farkas)) | 30+30         |               |
 
 #### QLIC-seminar #5 | (Tuesday; March 21; 2023; 11:00 PM to 12:00 PM) | location: La Plaine Campus (N4.117)
 
