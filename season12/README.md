@@ -11,9 +11,27 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
 | Talk    | Gabriele Bressanini | Noise thresholds for classical simulability of non-linear boson sampling (see [abstract](#Gabriele-Bressanini)) | 30+30         |               |
 
+#### QLIC-seminar #8 | (Thursday; March 30; 2023; 11:30 PM to 12:30 PM)
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Natália Móller | Indefinite causal order: on non ideal implementations of a quantum switch (see [abstract](#Natália-Móller)) | 30+30         |               |
+
+
 ## Lecture Series | Details
 
 ## Abstracts
+
+### Natália Móller
+The quantum switch is a well-known example of a protocol that involves an indefinite causal order, where two agents A and B apply non-commuting quantum operations on a target qubit in an indefinite order. Above all, tasks with indefinite causal order are originally supposed to testify that events happen in an indefinite order, and not just an indefinite order of operations. Many different proposals have been explored in order to implement this quantum process, but there is also much discussion about it: many authors consider different notions of what is as event, and because of this, they also diverge when considering these implementations as a genuine task with an indefinite causal order or just a simulation of it [1]. In this talk, we will start by reviewing many different possibilities found in the literature that could be used to implement a quantum switch [2] and discuss how each definition of an event could lead to very different ways of interpreting these examples.
+
+However, all these proposals consider that the agents A and B are in spatial positions that are described by a sharp quantum state. They could be in a superposition of two positions, or even entangled, but still each branch of these states are sharp spatial functions. Given that sharp spatial states are idealizations, we explore how non-sharp wave functions that describe the position of the agents A and B would lead to modifications on the quantum switch protocol. We compare different situations that potentially have fundamental consequences to the notion of what is an event.
+
+[1] N. Paunkovic and M. Vojinovic, Quantum 4, 275 (2020); V. Vilasini and R. Renner, [arXiv:2203.11245](https://arxiv.org/abs/2203.11245) [quant-ph]; N. Ormrod, A. Vanrietvelde, and J. Barrett, [arXiv:2204.10273](https://arxiv.org/abs/2204.10273) [quant-ph].
+
+[2] K. Goswami and J. Romero, AVS Quantum Sci. 2, 037101 (2020); M. Zych, F. Costa, I. Pikovski, and C. Brukner, Nat. Commun. 10, 3772 (2019); N. S. Móller, B. Sahdo, and N. Yokomizo, Phys. Rev. A 104, 042414 (2021); A. Dimic, M. Milivojevic, D. Gocanin, N. S. Móller, and C. Brukner, Simulating indefinite causal order with Rindler observers, Front. Phys. 8, 470 (2020).
+
+
 
 ### Gabriele Bressanini
 Boson sampling is a promising candidate for an experimental demonstration of quantum advantage using photons. However, inevitable noise and imperfections, such as loss in the interferometer and random counts at the detectors, could challenge the sampling task from entering the regime where quantum advantage is achievable.
