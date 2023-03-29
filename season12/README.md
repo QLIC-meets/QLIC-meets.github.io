@@ -5,12 +5,6 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed 
 
-#### QLIC-seminar #7 | (Wednesday; March 29; 2023; 11:00 PM to 12:00 PM)
-
-| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Gabriele Bressanini | Noise thresholds for classical simulability of non-linear boson sampling (see [abstract](#Gabriele-Bressanini)) | 30+30         |               |
-
 #### QLIC-seminar #8 | (Thursday; March 30; 2023; 11:30 PM to 12:30 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
@@ -84,6 +78,12 @@ Reference: [arXiv:2210.06454](https://arxiv.org/abs/2210.06454).
 
 
 ## Past
+
+#### QLIC-seminar #7 | (Wednesday; March 29; 2023; 11:00 PM to 12:00 PM)
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Gabriele Bressanini | Noise thresholds for classical simulability of non-linear boson sampling (see [abstract](#Gabriele-Bressanini)) | 30+30         |               |
 
 #### QLIC-seminar #6 | (Thursday; March 23; 2023; 11:30 PM to 12:30 PM)
 
