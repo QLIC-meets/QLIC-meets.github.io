@@ -5,12 +5,6 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed 
 
-#### QLIC-seminar #8 | (Thursday; March 30; 2023; 11:30 PM to 12:30 PM)
-
-| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Natália Móller | Indefinite causal order: on non ideal implementations of a quantum switch (see [abstract](#Natália-Móller)) | 30+30         |               |
-
 
 ## Lecture Series | Details
 
@@ -78,6 +72,12 @@ Reference: [arXiv:2210.06454](https://arxiv.org/abs/2210.06454).
 
 
 ## Past
+
+#### QLIC-seminar #8 | (Thursday; March 30; 2023; 11:30 PM to 12:30 PM)
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Natália Móller | Indefinite causal order: on non ideal implementations of a quantum switch (see [abstract](#Natália-Móller)) | 30+30         |               |
 
 #### QLIC-seminar #7 | (Wednesday; March 29; 2023; 11:00 PM to 12:00 PM)
 
