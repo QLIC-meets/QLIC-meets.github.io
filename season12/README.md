@@ -9,25 +9,25 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Lecture    | Nicola Pinzani | Broadly based on "The Combinatorics of Causality” (see [Lecture Series](#Nicola-Pinzani---Lecture-1)) | 120       |               |
+| Lecture    | Nicola Pinzani | Broadly based on "The Combinatorics of Causality” (see [Lecture Series](#Lecture-1)) | 120       |               |
 
 #### QLIC-lecture #2 | (Thursday; April 27; 2023; 11:00 AM to 1:00 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Lecture    | Nicola Pinzani | Broadly based on "The Topology of Causality” (see [Lecture Series](#Nicola-Pinzani---Lecture-2)) | 120       |               |
+| Lecture    | Nicola Pinzani | Broadly based on "The Topology of Causality” (see [Lecture Series](#Lecture-2)) | 120       |               |
 
 #### QLIC-lecture #3 | (Thursday; May 4; 2023; 11:00 AM to 1:00 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Lecture    | Nicola Pinzani | Broadly based on “The Geometry of Causality” (see [Lecture Series](#Nicola-Pinzani---Lecture-3)) | 120       |               |
+| Lecture    | Nicola Pinzani | Broadly based on “The Geometry of Causality” (see [Lecture Series](#Lecture-3)) | 120       |               |
 
 #### QLIC-lecture #4 | (Thursday; May 11; 2023; 11:00 AM to 1:00 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Lecture    | Nicola Pinzani | Broadly based on the examples in “The Geometry of Causality” (see [Lecture Series](#Nicola-Pinzani---Lecture-4)) | 120       |               |
+| Lecture    | Nicola Pinzani | Broadly based on the examples in “The Geometry of Causality” (see [Lecture Series](#Lecture-4)) | 120       |               |
 
 
 ## Lecture Series | Details
