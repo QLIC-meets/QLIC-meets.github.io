@@ -9,13 +9,13 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Lecture    | Nicola Pinzani | Broadly based on "The Combinatorics of Causality” (see [Lecture Series](#Nicola-Pinzani-Lecture-1)) | 120       |               |
+| Lecture    | Nicola Pinzani | Broadly based on "The Combinatorics of Causality” (see [Lecture Series](#Nicola-Pinzani---Lecture-1)) | 120       |               |
 
 #### QLIC-lecture #2 | (Thursday; April 27; 2023; 11:00 AM to 1:00 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Lecture    | Nicola Pinzani | Broadly based on "The Topology of Causality” (see [Lecture Series](#Nicola-Pinzani-Lecture-2)) | 120       |               |
+| Lecture    | Nicola Pinzani | Broadly based on "The Topology of Causality” (see [Lecture Series](#Nicola-Pinzani---Lecture-2)) | 120       |               |
 
 #### QLIC-lecture #3 | (Thursday; May 4; 2023; 11:00 AM to 1:00 PM)
 
@@ -27,16 +27,16 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Lecture    | Nicola Pinzani | Broadly based on the examples in “The Geometry of Causality” (see [Lecture Series](#Nicola-Pinzani-Lecture-4)) | 120       |               |
+| Lecture    | Nicola Pinzani | Broadly based on the examples in “The Geometry of Causality” (see [Lecture Series](#Nicola-Pinzani---Lecture-4)) | 120       |               |
 
 
 ## Lecture Series | Details
  
-### Nicola Pinzani - Intro to lectures
+### Nicola Pinzani
 
 I am planning to give a series of lectures on the topic that began with my DPhil work, "The Topology and Geometry of Causality." In the last couple of months, I have subdivided the framework into three parts. Conveniently, the lecture series will follow the trajectory defined by the first three of these parts (the last one being just a technical addendum that would not fit the ethos of the lectures).
 
-### Nicola Pinzani - Lecture 1
+#### Lecture 1
 
 I will start by giving a broad overview of the entire framework, from a discussion of its conceptual origins to a description of the main questions it aims to solve. This is also the part where I would mostly like to stimulate your imagination. One of the aims of this lecture series is to find questions/problems and subsequently new directions that may be worth working on together. Before embarking into the mathematical formalisms, I think it would be important to give a broad overview justifying the way we propose to formalise causal influence and interventions.
 
@@ -44,7 +44,7 @@ After the introduction, I will spend some time talking about what I call the com
 
 Instead of talking about the causal relation between events as the presence—or even the necessity—of causal influence, we will then depart by taking the absence of causal relation to impose the impossibility of causal influence. Most attempts to discretise events in spacetime fall under the remit of static—or definite—causality: the causal order between events is fixed and cannot be influenced by the processes which it constrains. I will investigate a combinatorial generalization of causal orders that explicitly allows for the possibility of indefinite and dynamical order (as well as a variety of exotic input-dependent causality constraints). Events are replaced by input histories, which are defined to be all possible combinations of inputs upon which the outputs at events are allowed to depend. Ordering the input histories by extension yields combinatorial objects known to us as spaces of input histories.
 
-### Nicola Pinzani - Lecture 2
+#### Lecture 2
 
 In this lecture, we will study an operational framework for the study of causality, non-locality, and contextuality, in a fully device-independent and theory-independent setting. This part of the work has its roots in the sheaf-theoretic framework for contextuality by Abramsky and Brandenburger, which we extend to include arbitrary causal orders—be they definite, dynamical, or indefinite.
 
@@ -53,13 +53,13 @@ I will define a notion of causal function for arbitrary spaces of input historie
 This will result in a redefinition of causality as continuity with respect to the lower-set topology on the underlying spaces. Partial causal functions defined on open sub-spaces can be bundled into a presheaf. I will define empirical models as compatible families in the presheaf of probability distributions on causal functions for arbitrary open covers of the underlying space of input histories. I will define a generalized notion of non-locality and present a no-go result for non-locality on total orders, both static and dynamical.
 
 
-### Nicola Pinzani - Lecture 3
+#### Lecture 3
 
 In this lecture, we will discuss the notion of causaltopes, which is our chosen portmanteau of “causal polytopes”. Causaltopes are obtained by slicing simpler polytopes of conditional probability distributions with a set of causality equations. To do this, I will remind you of some standard results in convex geometry.
 
 I will also describe efficient linear programs that can compute the maximal component of an empirical model supported by any given sub-causaltope, as well as the associated causal fraction. Using these tools, I will introduce a notion of causal separability relative to arbitrary causal constraints. We will provide efficient linear programs to compute the maximal causally separable component of an empirical model, and hence its causally separable fraction, as the component jointly supported by certain sub-causaltopes.
 
-### Nicola Pinzani - Lecture 4
+#### Lecture 4
 
 In this lecture, we will explore some concrete examples and reason about the possible meaning of causal inseparability. We will discuss how causality could be thought of as a contextual variable in the same way other quantum mechanical observables give rise to contextual phenomena. This lecture will also give a more concrete take on the mathematics developed in the previous lectures and discuss some possible fruitful directions that may be of interest to the community working on quantum causality.
 
