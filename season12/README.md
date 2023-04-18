@@ -17,13 +17,13 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
 | Lecture    | Nicola Pinzani | Broadly based on "The Topology of Causality” (see [Lecture Series](#Lecture-2)) | 120       |               |
 
-#### QLIC-lecture #3 | (Thursday; May 4; 2023; 11:00 AM to 1:00 PM)
+#### QLIC-lecture #3 | (Wednesday; May 17; 2023; 11:00 AM to 1:00 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
 | Lecture    | Nicola Pinzani | Broadly based on “The Geometry of Causality” (see [Lecture Series](#Lecture-3)) | 120       |               |
 
-#### QLIC-lecture #4 | (Thursday; May 11; 2023; 11:00 AM to 1:00 PM)
+#### QLIC-lecture #4 | (Thursday; May 25; 2023; 11:00 AM to 1:00 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
