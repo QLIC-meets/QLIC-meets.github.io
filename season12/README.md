@@ -5,12 +5,6 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed 
 
-#### QLIC-lecture #1 | (Thursday; April 20; 2023; 11:00 AM to 1:00 PM)
-
-| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Lecture    | Nicola Pinzani | Broadly based on "The Combinatorics of Causality” (see [Lecture Series](#Lecture-1)) | 120       |               |
-
 #### QLIC-lecture #2 | (Thursday; April 27; 2023; 11:00 AM to 1:00 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
@@ -128,6 +122,13 @@ Reference: [arXiv:2210.06454](https://arxiv.org/abs/2210.06454).
 
 
 ## Past
+
+#### QLIC-lecture #1 | (Thursday; April 20; 2023; 11:00 AM to 1:00 PM)
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Lecture    | Nicola Pinzani | Broadly based on "The Combinatorics of Causality” (see [Lecture Series](#Lecture-1)) | 120       |               |
+
 
 #### QLIC-seminar #8 | (Thursday; March 30; 2023; 11:30 AM to 12:30 PM)
 
