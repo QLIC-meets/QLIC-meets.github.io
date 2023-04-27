@@ -5,17 +5,17 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed 
 
-#### QLIC-lecture #2 | (Thursday; April 27; 2023; 11:00 AM to 1:00 PM)
-
-| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Lecture    | Nicola Pinzani | Broadly based on "The Topology of Causality” (see [Lecture Series](#Lecture-2)) | 120       |               |
-
 #### QLIC-lecture #3 | (Wednesday; May 17; 2023; 11:00 AM to 1:00 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
 | Lecture    | Nicola Pinzani | Broadly based on “The Geometry of Causality” (see [Lecture Series](#Lecture-3)) | 120       |               |
+
+#### QLIC-meet #2 | (Tuesday; May 23; 2023; 11:30 AM to 12:30 PM)
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Serge Deside | Probabilistic pure state conversion on the majorization lattice (see [abstract](#Serge-Deside)) | 30+30         |               |
 
 #### QLIC-lecture #4 | (Thursday; May 25; 2023; 11:00 AM to 1:00 PM)
 
@@ -59,6 +59,11 @@ In this lecture, we will explore some concrete examples and reason about the pos
 
 
 ## Abstracts
+
+### Serge Deside
+We show that the majorization lattice provides the appropriate framework in order to characterize the allowed transformations of pure entangled states under local operations and classical communication. The underlying notions of meet $\land$ and join $\lor$ in the majorization lattice lead us to define, respectively, the optimal common resource and optimal common product states. Based on these two states, we introduce two optimal probabilistic protocols for the (single-copy) conversion of incomparable bipartite pure states, which we name greedy and thrifty. Both protocols reduce to Vidal’s protocol [G. Vidal, Phys. Rev. Lett. 83, 1046 (1999)] if the initial and final states are comparable, but otherwise the thrifty protocol can be shown to be superior to the greedy protocol as it yields a more entangled residual state when it fails (they both yield the same entangled state with the same optimal probability when they succeed). Finally, we consider the generalization of these protocols to entanglement transformations involving multiple possible initial or final states.
+
+Reference: [arXiv:2303.10086](https://arxiv.org/abs/2303.10086).
 
 ### Natália Móller
 The quantum switch is a well-known example of a protocol that involves an indefinite causal order, where two agents A and B apply non-commuting quantum operations on a target qubit in an indefinite order. Above all, tasks with indefinite causal order are originally supposed to testify that events happen in an indefinite order, and not just an indefinite order of operations. Many different proposals have been explored in order to implement this quantum process, but there is also much discussion about it: many authors consider different notions of what is as event, and because of this, they also diverge when considering these implementations as a genuine task with an indefinite causal order or just a simulation of it [1]. In this talk, we will start by reviewing many different possibilities found in the literature that could be used to implement a quantum switch [2] and discuss how each definition of an event could lead to very different ways of interpreting these examples.
@@ -122,6 +127,12 @@ Reference: [arXiv:2210.06454](https://arxiv.org/abs/2210.06454).
 
 
 ## Past
+
+#### QLIC-lecture #2 | (Thursday; April 27; 2023; 11:00 AM to 1:00 PM)
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Lecture    | Nicola Pinzani | Broadly based on "The Topology of Causality” (see [Lecture Series](#Lecture-2)) | 120       |               |
 
 #### QLIC-lecture #1 | (Thursday; April 20; 2023; 11:00 AM to 1:00 PM)
 
