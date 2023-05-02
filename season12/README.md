@@ -5,13 +5,19 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed 
 
+#### QLIC-meet #2 | (Thursday; May 11; 2023; 11:30 AM to 1:00 PM)
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Lecture    | Hamed Mohammady | Quantum measurements constrained by the third law of thermodynamics (see [abstract](#Hamed-Mohammady)) | 30+30      |               |
+
 #### QLIC-lecture #3 | (Wednesday; May 17; 2023; 11:00 AM to 1:00 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
 | Lecture    | Nicola Pinzani | Broadly based on “The Geometry of Causality” (see [Lecture Series](#Lecture-3)) | 120       |               |
 
-#### QLIC-meet #2 | (Tuesday; May 23; 2023; 11:30 AM to 12:30 PM)
+#### QLIC-meet #3 | (Tuesday; May 23; 2023; 11:30 AM to 12:30 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
@@ -59,6 +65,13 @@ In this lecture, we will explore some concrete examples and reason about the pos
 
 
 ## Abstracts
+
+### Hamed Mohammady
+While quantum theory dictates that the act of measurement must perturb at least some property of the measured system, it does allow for measurements that are minimally invasive. Indeed, the existence of such measurements plays a crucial role in several foundational questions pertaining to quantum reality. For example, the Einstein-Podolsky-Rosen criterion of physical reality implicitly assumes the existence of “ideal” measurements which do not perturb the state of the measured system whenever the measurement outcome can be predicted with certainty, and  “repeatable” measurements, for which the same outcome is guaranteed to obtain under repeated measurements, are necessary if a property can be said to exist in the system after measurement, even if it does not exist prior to it.  
+
+Given that the measurement process must ultimately result from a physical interaction between the measured system and a given measuring apparatus, however, the existence of such minimally invasive measurements may be in conflict with fundamental laws of nature. In this work (Phys. Rev. A 107, 022406 (2023)), we address the compatibility of several classes of minimally invasive measurements with the third law of thermodynamics, which states that no system can be cooled to absolute zero temperature. It is shown that while the third law prohibits ideal and repeatable measurements for all observables, approximately ideal and non-disturbing measurements are allowed, but only if the measured observable is "completely unsharp". Our findings warrant a re-evaluation for the assignment of reality to quantum systems, and in particular lend support to the “Unsharp Reality” project of Busch and Jaeger.  
+
+Reference: [arxiv:2209.06024](https://arxiv.org/abs/2209.06024).
 
 ### Serge Deside
 We show that the majorization lattice provides the appropriate framework in order to characterize the allowed transformations of pure entangled states under local operations and classical communication. The underlying notions of meet $\land$ and join $\lor$ in the majorization lattice lead us to define, respectively, the optimal common resource and optimal common product states. Based on these two states, we introduce two optimal probabilistic protocols for the (single-copy) conversion of incomparable bipartite pure states, which we name greedy and thrifty. Both protocols reduce to Vidal’s protocol [G. Vidal, Phys. Rev. Lett. 83, 1046 (1999)] if the initial and final states are comparable, but otherwise the thrifty protocol can be shown to be superior to the greedy protocol as it yields a more entangled residual state when it fails (they both yield the same entangled state with the same optimal probability when they succeed). Finally, we consider the generalization of these protocols to entanglement transformations involving multiple possible initial or final states.
