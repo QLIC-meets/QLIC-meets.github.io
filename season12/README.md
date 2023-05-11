@@ -5,12 +5,6 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed 
 
-#### QLIC-meet #2 | (Thursday; May 11; 2023; 11:30 AM to 1:00 PM)
-
-| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Lecture    | Hamed Mohammady | Quantum measurements constrained by the third law of thermodynamics (see [abstract](#Hamed-Mohammady)) | 30+30      |               |
-
 #### QLIC-lecture #3 | (Wednesday; May 17; 2023; 11:00 AM to 1:00 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
@@ -138,6 +132,12 @@ Reference: [arXiv:2210.06454](https://arxiv.org/abs/2210.06454).
 
 
 ## Past
+
+#### QLIC-meet #2 | (Thursday; May 11; 2023; 11:30 AM to 1:00 PM)
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Lecture    | Hamed Mohammady | Quantum measurements constrained by the third law of thermodynamics (see [abstract](#Hamed-Mohammady)) | 30+30      |               |
 
 #### QLIC-lecture #2 | (Thursday; April 27; 2023; 11:00 AM to 1:00 PM)
 
