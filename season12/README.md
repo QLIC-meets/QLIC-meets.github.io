@@ -5,19 +5,19 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed 
 
-#### QLIC-lecture #3 | (Wednesday; May 17; 2023; 11:00 AM to 1:00 PM)
-
-| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Lecture    | Nicola Pinzani | Broadly based on “The Geometry of Causality” (see [Lecture Series](#Lecture-3)) | 120       |               |
-
 #### QLIC-meet #3 | (Tuesday; May 23; 2023; 11:30 AM to 12:30 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
 | Talk    | Serge Deside | Probabilistic pure state conversion on the majorization lattice (see [abstract](#Serge-Deside)) | 30+30         |               |
 
-#### QLIC-lecture #4 | (Thursday; May 25; 2023; 11:00 AM to 1:00 PM)
+#### QLIC-lecture #3 | (Wednesday; May 25; 2023; 11:00 AM to 1:00 PM)
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Lecture    | Nicola Pinzani | Broadly based on “The Geometry of Causality” (see [Lecture Series](#Lecture-3)) | 120       |               |
+
+#### QLIC-lecture #4 | (Thursday; June 5; 2023; 11:00 AM to 1:00 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
