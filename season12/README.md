@@ -5,12 +5,6 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed 
 
-#### QLIC-meet #3 | (Tuesday; May 23; 2023; 11:30 AM to 12:30 PM)
-
-| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Serge Deside | Probabilistic pure state conversion on the majorization lattice (see [abstract](#Serge-Deside)) | 30+30         |               |
-
 #### QLIC-lecture #3 | (Wednesday; May 25; 2023; 11:00 AM to 1:00 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
@@ -134,6 +128,12 @@ Reference: [arXiv:2210.06454](https://arxiv.org/abs/2210.06454).
 
 
 ## Past
+
+#### QLIC-meet #3 | (Tuesday; May 23; 2023; 11:30 AM to 12:30 PM)
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Serge Deside | Probabilistic pure state conversion on the majorization lattice (see [abstract](#Serge-Deside)) | 30+30         |               |
 
 #### QLIC-meet #2 | (Thursday; May 11; 2023; 11:30 AM to 1:00 PM)
 
