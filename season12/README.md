@@ -11,6 +11,13 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
 | Lecture    | Nicola Pinzani | Broadly based on “The Geometry of Causality” (see [Lecture Series](#Lecture-3)) | 120       |               |
 
+#### QLIC-meet #4 | (Tuesday; May 30; 2023; 11:00 AM to 1:00 PM)
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Arne Darras | Revisiting the multiplicative adversary method (see [abstract](#Arne-Darras)) | 30+30         |               |
+| Talk    | Joseph Cunningham |  (see [abstract](#Joseph-Cunningham)) | 30+30         |               |
+
 #### QLIC-lecture #4 | (Thursday; June 5; 2023; 11:00 AM to 1:00 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
@@ -53,6 +60,14 @@ In this lecture, we will explore some concrete examples and reason about the pos
 
 
 ## Abstracts
+
+### Arne Darras
+
+The adversary method is a well-known and widely studied lower bound method for quantum query algorithms. The so-called additive adversary bound has even been proved to be tight for bounded-error quantum query complexity. However, for some applications, such as in cryptography, the bounded-error case might not be sufficient, as one might want to prove that some problem remains hard even for very low success probabilities. In such applications, it would be useful to find a bound that is tight for arbitrary success probability. It is known that the multiplicative adversary method generalizes both the polynomial method and the additive adversary method. This makes the multiplicative adversary method the best-known candidate to characterize quantum query complexity for arbitrary success probability. In this talk, I will discuss work in progress aimed at providing such a characterization. Our approach makes use of continuous-time quantum query algorithms in order to define a new quantum adversary, called SADV, which, following preliminary work, potentially characterizes continuous-time query complexity for arbitrary success probability. At the root of this new adversary lies a semi-definite program which is closely related to the multiplicative adversary bound. Our proof strategy, which I will detail during the talk, is therefore to provide tight relations between SADV and the multiplicative adversary bound, and between continuous-time and discrete-time quantum query algorithms.
+
+Based on work in progress with J. Roland.
+
+### Joseph Cunningham
 
 ### Serge Deside
 We show that the majorization lattice provides the appropriate framework in order to characterize the allowed transformations of pure entangled states under local operations and classical communication. The underlying notions of meet $\land$ and join $\lor$ in the majorization lattice lead us to define, respectively, the optimal common resource and optimal common product states. Based on these two states, we introduce two optimal probabilistic protocols for the (single-copy) conversion of incomparable bipartite pure states, which we name greedy and thrifty. Both protocols reduce to Vidal’s protocol [G. Vidal, Phys. Rev. Lett. 83, 1046 (1999)] if the initial and final states are comparable, but otherwise the thrifty protocol can be shown to be superior to the greedy protocol as it yields a more entangled residual state when it fails (they both yield the same entangled state with the same optimal probability when they succeed). Finally, we consider the generalization of these protocols to entanglement transformations involving multiple possible initial or final states.
