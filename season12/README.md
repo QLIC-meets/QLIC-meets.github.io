@@ -16,7 +16,7 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
 | Talk    | Arne Darras | Revisiting the multiplicative adversary method (see [abstract](#Arne-Darras)) | 30+30         |               |
-| Talk    | Joseph Cunningham |  (see [abstract](#Joseph-Cunningham)) | 30+30         |               |
+| Talk    | Joseph Cunningham | Adiabatic quantum computation with non-unitary dynamics (see [abstract](#Joseph-Cunningham)) | 30+30         |               |
 
 #### QLIC-lecture #4 | (Thursday; June 5; 2023; 11:00 AM to 1:00 PM)
 
@@ -68,6 +68,14 @@ The adversary method is a well-known and widely studied lower bound method for q
 Based on work in progress with J. Roland.
 
 ### Joseph Cunningham
+
+Adiabatic quantum computation was originally conceived as a method for solving optimisation problems but has since been shown to be equivalent to standard quantum computation. In this model a Hamiltonian that encodes the problem is given and the task is to prepare the ground state of this Hamiltonian. First the system is prepared in an easy-to-prepare ground state of a simple initial Hamiltonian (e.g., by applying a strong magnetic field). Then the Hamiltonian is slowly transformed into the target Hamiltonian. The adiabatic theorem guarantees that the result approximates the target ground state with high fidelity if the transformation was slow enough.
+
+In this talk alternative methods of evolving the initial ground state into the final state will be discussed, where change is driven not by time evolution, but by performing measurements. Then the measurement frequency is directly analogous to the adiabatic time scale: the more frequent the measurements, the higher the fidelity.
+
+The Lindblad equations governing such evolutions can then be derived. They satisfy adiabatic-style theorems that give lower bounds on the target fidelity in function of the measurement frequency, the smoothness of the interpolation between initial and final Hamiltonian and the size of the gap between the lowest eigenvalue and the rest of the spectrum for all intermediate Hamiltonians.
+
+Based on work in progress with J. Roland.
 
 ### Serge Deside
 We show that the majorization lattice provides the appropriate framework in order to characterize the allowed transformations of pure entangled states under local operations and classical communication. The underlying notions of meet $\land$ and join $\lor$ in the majorization lattice lead us to define, respectively, the optimal common resource and optimal common product states. Based on these two states, we introduce two optimal probabilistic protocols for the (single-copy) conversion of incomparable bipartite pure states, which we name greedy and thrifty. Both protocols reduce to Vidal’s protocol [G. Vidal, Phys. Rev. Lett. 83, 1046 (1999)] if the initial and final states are comparable, but otherwise the thrifty protocol can be shown to be superior to the greedy protocol as it yields a more entangled residual state when it fails (they both yield the same entangled state with the same optimal probability when they succeed). Finally, we consider the generalization of these protocols to entanglement transformations involving multiple possible initial or final states.
