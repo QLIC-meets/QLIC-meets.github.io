@@ -5,12 +5,6 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed 
 
-#### QLIC-lecture #3 | (Thursday; May 25; 2023; 11:00 AM to 1:00 PM)
-
-| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Lecture    | Nicola Pinzani | Broadly based on “The Geometry of Causality” (see [Lecture Series](#Lecture-3)) | 120       |               |
-
 #### QLIC-meet #4 | (Tuesday; May 30; 2023; 11:00 AM to 1:00 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
@@ -18,7 +12,7 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 | Talk    | Arne Darras | Revisiting the multiplicative adversary method (see [abstract](#Arne-Darras)) | 30+30         |               |
 | Talk    | Joseph Cunningham | Adiabatic quantum computation with non-unitary dynamics (see [abstract](#Joseph-Cunningham)) | 30+30         |               |
 
-#### QLIC-lecture #4 | (Thursday; June 5; 2023; 11:00 AM to 1:00 PM)
+#### QLIC-lecture #4 | (Monday; June 5; 2023; 11:00 AM to 1:00 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
@@ -151,6 +145,12 @@ Reference: [arXiv:2210.06454](https://arxiv.org/abs/2210.06454).
 
 
 ## Past
+
+#### QLIC-lecture #3 | (Thursday; May 25; 2023; 11:00 AM to 1:00 PM)
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Lecture    | Nicola Pinzani | Broadly based on “The Geometry of Causality” (see [Lecture Series](#Lecture-3)) | 120       |               |
 
 #### QLIC-meet #3 | (Tuesday; May 23; 2023; 11:30 AM to 12:30 PM)
 
