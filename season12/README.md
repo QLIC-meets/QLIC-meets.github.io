@@ -5,11 +5,17 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed 
 
-#### QLIC-lecture #4 | (Monday; June 5; 2023; 11:00 AM to 1:00 PM)
+#### QLIC-lecture #4 | (Thursday; June 22; 2023; 11:00 AM to 1:00 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
 | Lecture    | Nicola Pinzani | Broadly based on the examples in “The Geometry of Causality” (see [Lecture Series](#Lecture-4)) | 120       |               |
+
+#### QLIC-seminar #9 | (Tuesday; June 27; 2023; 11:30 AM to 1:00 PM)
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Stephan De Bièvre | TBA (see [abstract](#Stephan-De-Bièvre)) | 30+30      |               |
 
 
 ## Lecture Series | Details
@@ -47,6 +53,10 @@ In this lecture, we will explore some concrete examples and reason about the pos
 
 
 ## Abstracts
+
+### Stephan De Bièvre 
+
+TBA
 
 ### Arne Darras
 
