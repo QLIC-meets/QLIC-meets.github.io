@@ -15,7 +15,7 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Stephan De Bièvre | TBA (see [abstract](#Stephan-De-Bièvre)) | 30+30      |               |
+| Talk    | Stephan De Bièvre | How nonclassical are photon-added/subtracted Gaussian states? (see [abstract](#Stephan-De-Bièvre)) | 30+30      |               |
 
 
 ## Lecture Series | Details
@@ -56,7 +56,7 @@ In this lecture, we will explore some concrete examples and reason about the pos
 
 ### Stephan De Bièvre 
 
-TBA
+One way to degaussify a Gaussian state is to add/subtract a photon. In this talk, based on joint work with Anaelle Hertz, I will analyze the effect of the photon-addition/subtraction process on the nonclassical nature of the resulting states by studying the change produced in quadrature coherence scale and Wigner negativity. We will in particular show that the photon-added/subtracted Gaussian states tend to be much more prone to environmental decoherence than their Gaussian "mother" states.
 
 ### Arne Darras
 
