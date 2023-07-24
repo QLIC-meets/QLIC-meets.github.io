@@ -5,19 +5,6 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed 
 
-#### QLIC-lecture #4 | (Thursday; June 22; 2023; 11:00 AM to 1:00 PM)
-
-| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Lecture    | Nicola Pinzani | Broadly based on the examples in “The Geometry of Causality” (see [Lecture Series](#Lecture-4)) | 120       |               |
-
-#### QLIC-seminar #9 | (Tuesday; June 27; 2023; 11:30 AM to 1:00 PM)
-
-| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Stephan De Bièvre | How nonclassical are photon-added/subtracted Gaussian states? (see [abstract](#Stephan-De-Bièvre)) | 30+30      |               |
-
-
 ## Lecture Series | Details
  
 ### Nicola Pinzani
@@ -148,6 +135,18 @@ Reference: [arXiv:2210.06454](https://arxiv.org/abs/2210.06454).
 
 
 ## Past
+
+#### QLIC-seminar #9 | (Tuesday; June 27; 2023; 11:30 AM to 1:00 PM)
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Stephan De Bièvre | How nonclassical are photon-added/subtracted Gaussian states? (see [abstract](#Stephan-De-Bièvre)) | 30+30      |               |
+
+#### QLIC-lecture #4 | (Thursday; June 22; 2023; 11:00 AM to 1:00 PM)
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Lecture    | Nicola Pinzani | Broadly based on the examples in “The Geometry of Causality” (see [Lecture Series](#Lecture-4)) | 120       |               |
 
 #### QLIC-meet #4 | (Tuesday; May 30; 2023; 11:00 AM to 1:00 PM)
 
