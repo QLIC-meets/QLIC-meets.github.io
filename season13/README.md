@@ -15,7 +15,7 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | TBA | Quantum signatures in stochastic thermodynamics (see [abstract](#TBA)) | 30+30      |               |
+| Talk    | Harry Miller | Quantum signatures in stochastic thermodynamics (see [abstract](#Harry-Miller)) | 30+30      |               |
 
 ## Lecture Series | Details
 
@@ -27,7 +27,7 @@ Causal inequalities are device-independent constraints on correlations realizabl
 
 Reference: [arXiv:2307.02565](https://arxiv.org/abs/2307.02565).
 
-### TBA
+### Harry Miller
 
 The defining feature of stochastic thermodynamics is the presence of fluctuations which govern the statistical behaviour of small scale thermal systems. However, in microscopic regimes these fluctuations can be of either classical or quantum origin, and a prevailing question is to understand the difference between these two types of statistical uncertainty. In this talk I will discuss a variety of ways in which quantum fluctuations can impact the stochastic thermodynamics of small systems, ranging from modifications to thermodynamic uncertainty relations, fluctuation-dissipation theorems and quantum signatures in the statistics of entropy production. A recurring theme amongst these results is the detrimental role of quantum mechanics, which inevitably leads to additional sources of noise and instability in thermodynamic processes. I will discuss these issues in the context of optimal control, and suggest certain tasks in which quantum fluctuations could be used advantageously.
 
