@@ -9,7 +9,7 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Léo Pioge | FRIA presentation: Theoretical study of partial photon indistinguishability in quantum interferences and its potential applications | 15+15      |               |
+| Talk    | Léo Pioge | FRIA presentation rehearsal: Theoretical study of partial photon indistinguishability in quantum interferences and its potential applications | 15+15      |               |
 
 #### QLIC-seminar #1 | (Thursday; October 5; 2023; 11:30 AM to 1:00 PM) | location: N5.107.A (La Plaine campus)
 
