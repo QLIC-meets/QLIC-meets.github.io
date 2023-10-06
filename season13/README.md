@@ -5,12 +5,6 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed 
 
-#### QLIC-seminar #1 | (Thursday; October 5; 2023; 11:30 AM to 1:00 PM) | location: N5.107.A (La Plaine campus)
-
-| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Jordi Tura | Machine Learning-Assisted Certificates for Bounding Many-Body Correlations (see [abstract](#Jordi-Tura)) | 30+30      |               |
-
 #### QLIC-meet #2 | (Monday; October 9; 2023; 11:30 AM to 1:00 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
@@ -42,6 +36,12 @@ Reference: [arXiv:2307.02565](https://arxiv.org/abs/2307.02565).
 The defining feature of stochastic thermodynamics is the presence of fluctuations which govern the statistical behaviour of small scale thermal systems. However, in microscopic regimes these fluctuations can be of either classical or quantum origin, and a prevailing question is to understand the difference between these two types of statistical uncertainty. In this talk I will discuss a variety of ways in which quantum fluctuations can impact the stochastic thermodynamics of small systems, ranging from modifications to thermodynamic uncertainty relations, fluctuation-dissipation theorems and quantum signatures in the statistics of entropy production. A recurring theme amongst these results is the detrimental role of quantum mechanics, which inevitably leads to additional sources of noise and instability in thermodynamic processes. I will discuss these issues in the context of optimal control, and suggest certain tasks in which quantum fluctuations could be used advantageously.
 
 ## Past
+
+#### QLIC-seminar #1 | (Thursday; October 5; 2023; 11:30 AM to 1:00 PM) | location: N5.107.A (La Plaine campus)
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Jordi Tura | Machine Learning-Assisted Certificates for Bounding Many-Body Correlations (see [abstract](#Jordi-Tura)) | 30+30      |               |
 
 #### QLIC-meet #1 | (Wednesday; October 4; 2023; 9:15 AM to 10:00 AM)
 
