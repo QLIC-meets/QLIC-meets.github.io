@@ -5,12 +5,6 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed 
 
-#### QLIC-meet #2 | (Monday; October 9; 2023; 11:30 AM to 1:00 PM)
-
-| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Ravi Kunjwal | Nonclassicality in correlations without causal order (see [abstract](#Ravi-Kunjwal)) | 30+30      |               |
-
 #### QLIC-seminar #2 | (Thursday; October 12; 2023; 11:30 AM to 1:00 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
@@ -21,9 +15,9 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Abstracts
 
-### Jordi Tura 
+### Harry Miller
 
-I will present a method to certify the presence of Bell correlations in experimentally observed statistics, and to obtain new Bell inequalities. Our approach is based on relaxing the conditions defining the set of correlations obeying a local hidden variable model, yielding a convergent hierarchy of semidefinite programs (SdP's). Because the size of these SdP's is independent of the number of parties involved, this technique allows us to efficiently characterize correlations in many-body systems. As an example, we illustrate our method with the experimental data presented in [Science 352, 441 (2016)]. I will discuss extensions of this method to derive inequalities with many outcomes, higher-order correlators, etc. and the pathological cases that can arise, where the approximation of the set of local correlations via the convex hull of a semialgebraic set can pose additional challenges. In addition, if time permits, I will discuss a method that merges relaxation techniques with deep reinforcement learning to efficiently find optimal relaxations for constrained optimization problems within a set computational budget. Demonstrated in the context of ground state energy approximation, this approach not only outperforms other optimization techniques but also has wider applications, from entanglement witness optimization to device-independent quantum information tasks.
+The defining feature of stochastic thermodynamics is the presence of fluctuations which govern the statistical behaviour of small scale thermal systems. However, in microscopic regimes these fluctuations can be of either classical or quantum origin, and a prevailing question is to understand the difference between these two types of statistical uncertainty. In this talk I will discuss a variety of ways in which quantum fluctuations can impact the stochastic thermodynamics of small systems, ranging from modifications to thermodynamic uncertainty relations, fluctuation-dissipation theorems and quantum signatures in the statistics of entropy production. A recurring theme amongst these results is the detrimental role of quantum mechanics, which inevitably leads to additional sources of noise and instability in thermodynamic processes. I will discuss these issues in the context of optimal control, and suggest certain tasks in which quantum fluctuations could be used advantageously.
 
 ### Ravi Kunjwal
 
@@ -31,11 +25,18 @@ Causal inequalities are device-independent constraints on correlations realizabl
 
 Reference: [arXiv:2307.02565](https://arxiv.org/abs/2307.02565).
 
-### Harry Miller
+### Jordi Tura 
 
-The defining feature of stochastic thermodynamics is the presence of fluctuations which govern the statistical behaviour of small scale thermal systems. However, in microscopic regimes these fluctuations can be of either classical or quantum origin, and a prevailing question is to understand the difference between these two types of statistical uncertainty. In this talk I will discuss a variety of ways in which quantum fluctuations can impact the stochastic thermodynamics of small systems, ranging from modifications to thermodynamic uncertainty relations, fluctuation-dissipation theorems and quantum signatures in the statistics of entropy production. A recurring theme amongst these results is the detrimental role of quantum mechanics, which inevitably leads to additional sources of noise and instability in thermodynamic processes. I will discuss these issues in the context of optimal control, and suggest certain tasks in which quantum fluctuations could be used advantageously.
+I will present a method to certify the presence of Bell correlations in experimentally observed statistics, and to obtain new Bell inequalities. Our approach is based on relaxing the conditions defining the set of correlations obeying a local hidden variable model, yielding a convergent hierarchy of semidefinite programs (SdP's). Because the size of these SdP's is independent of the number of parties involved, this technique allows us to efficiently characterize correlations in many-body systems. As an example, we illustrate our method with the experimental data presented in [Science 352, 441 (2016)]. I will discuss extensions of this method to derive inequalities with many outcomes, higher-order correlators, etc. and the pathological cases that can arise, where the approximation of the set of local correlations via the convex hull of a semialgebraic set can pose additional challenges. In addition, if time permits, I will discuss a method that merges relaxation techniques with deep reinforcement learning to efficiently find optimal relaxations for constrained optimization problems within a set computational budget. Demonstrated in the context of ground state energy approximation, this approach not only outperforms other optimization techniques but also has wider applications, from entanglement witness optimization to device-independent quantum information tasks.
 
 ## Past
+
+#### QLIC-meet #2 | (Monday; October 9; 2023; 11:30 AM to 1:00 PM)
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Ravi Kunjwal | Nonclassicality in correlations without causal order (see [abstract](#Ravi-Kunjwal)) | 30+30      |               |
+
 
 #### QLIC-seminar #1 | (Thursday; October 5; 2023; 11:30 AM to 1:00 PM) | location: N5.107.A (La Plaine campus)
 
