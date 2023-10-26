@@ -5,9 +5,19 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed 
 
+#### QLIC-seminar #3 | (Monday; November 13; 2023; 11:30 AM to 1:00 PM)
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Hippolyte Dourdent | Device-Independent Certifications of Indefinite Causal Orders (see [abstract](#Hippolyte-Dourdent)) | 30+30      |               |
+
 ## Lecture Series | Details
 
 ## Abstracts
+
+### Hippolyte Dourdent
+
+TBA
 
 ### Harry Miller
 
