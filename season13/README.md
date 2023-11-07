@@ -5,7 +5,13 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed 
 
-#### QLIC-seminar #3 | (Monday; November 13; 2023; 11:30 AM to 1:00 PM)
+#### QLIC-seminar #3 | (Thursday; November 9; 2023; 11:30 AM to 1:00 PM)
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Jessica Bavaresco | Unitary channel discrimination beyond group structures: Advantages of sequential and indefinite-causal-order strategies (see [abstract](#Jessica-Bavaresco)) | 30+30      |               |
+
+#### QLIC-seminar #4 | (Monday; November 13; 2023; 11:30 AM to 1:00 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
@@ -14,6 +20,10 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 ## Lecture Series | Details
 
 ## Abstracts
+
+### Jessica Bavaresco
+
+We will discuss the formalism of higher-order operations and see how it can be used to efficiently find the optimal strategies for a channel discrimination task. Such strategies may be subjected to different causal constraints, such as being parallel (non-adaptive) or sequential (adaptive). Furthermore, we will see how indefinite causal order naturally arises when considering tasks of channel discrimination. Focusing on the discrimination of unitary channels, we show that sequential strategies may outperform parallel ones, and that, in turn, general strategies with indefinite causal order may outperform sequential ones. This hierarchy of discrimination is only possible when at least one of two things are true: either the prior distribution of the unitary channels is not uniform, or the unitaries being discriminated do not form a group. When the hypothesis that the prior is uniform and the unitaries form a group holds, we show that parallel strategies are optimal even when compared to indefinite-causal-order strategies. Finally, we present an ultimate upper bound for the probability of successfully discriminating a set of unitary channels and study the application of strategies based on the quantum switch for this task.
 
 ### Hippolyte Dourdent
 
