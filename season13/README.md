@@ -5,13 +5,19 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed 
 
-#### QLIC-seminar #3 | (Thursday; November 9; 2023; 11:30 AM to 1:00 PM)
+#### QLIC-seminar #3 | (Wednesday; November 8; 2023; 11:30 AM to 1:00 PM)
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Aleks Kissinger | Causal inconsistency is NP-complete | 30+30      |               |
+
+#### QLIC-seminar #4 | (Thursday; November 9; 2023; 11:30 AM to 1:00 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
 | Talk    | Jessica Bavaresco | Unitary channel discrimination beyond group structures: Advantages of sequential and indefinite-causal-order strategies (see [abstract](#Jessica-Bavaresco)) | 30+30      |               |
 
-#### QLIC-seminar #4 | (Monday; November 13; 2023; 11:30 AM to 1:00 PM)
+#### QLIC-seminar #5 | (Monday; November 13; 2023; 11:30 AM to 1:00 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
