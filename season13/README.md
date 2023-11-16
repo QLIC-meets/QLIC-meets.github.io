@@ -5,17 +5,23 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed 
 
+#### QLIC-seminar #5 | (Monday; November 27; 2023; 11:30 AM to 1:00 PM)
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Jan Głowacki | Towards Relational Quantum Relativity (see [abstract](#Jan-Głowacki)) | 30+30      |               |
+
 ## Lecture Series | Details
 
 ## Abstracts
 
+### Jan Głowacki
+
+Maybe instead of quantizing relativistic field theories, which proved problematic both conceptually and formally, we could try to relativize the quantum mechanical framework itself? In this talk, I will advertise a research program constituting a direction in the general landscape of the so-called Quantum Reference Frames. The broad idea is to treat reference frames as both physical systems and quantum-mechanical objects, aiming to reformulate the quantum mechanical formalism to account for relational degrees of freedom. Our new approach is well-supported mathematically and is heavily influenced by quantum measurement theory, making it more operationally oriented than other similar attempts. In this talk, I will outline the guiding principles of our research, introduce the main elements of the framework, update on the latest progress and mention potential future research directions.
+
 ### Jessica Bavaresco
 
 We will discuss the formalism of higher-order operations and see how it can be used to efficiently find the optimal strategies for a channel discrimination task. Such strategies may be subjected to different causal constraints, such as being parallel (non-adaptive) or sequential (adaptive). Furthermore, we will see how indefinite causal order naturally arises when considering tasks of channel discrimination. Focusing on the discrimination of unitary channels, we show that sequential strategies may outperform parallel ones, and that, in turn, general strategies with indefinite causal order may outperform sequential ones. This hierarchy of discrimination is only possible when at least one of two things are true: either the prior distribution of the unitary channels is not uniform, or the unitaries being discriminated do not form a group. When the hypothesis that the prior is uniform and the unitaries form a group holds, we show that parallel strategies are optimal even when compared to indefinite-causal-order strategies. Finally, we present an ultimate upper bound for the probability of successfully discriminating a set of unitary channels and study the application of strategies based on the quantum switch for this task.
-
-### Hippolyte Dourdent
-
-TBA
 
 ### Harry Miller
 
@@ -37,7 +43,7 @@ I will present a method to certify the presence of Bell correlations in experime
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Hippolyte Dourdent | Device-Independent Certifications of Indefinite Causal Orders (see [abstract](#Hippolyte-Dourdent)) | 30+30      |               |
+| Talk    | Hippolyte Dourdent | Device-Independent Certifications of Indefinite Causal Orders | 30+30      |               |
 
 #### QLIC-seminar #4 | (Thursday; November 9; 2023; 11:30 AM to 1:00 PM)
 
