@@ -5,7 +5,13 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed 
 
-#### QLIC-seminar #5 | (Monday; November 27; 2023; 11:30 AM to 1:00 PM)
+#### QLIC-meet #3 | (Thursday; November 23; 2023; 11:30 AM to 12:30 PM)
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Marco Robbio | TBA (see [abstract](#Marco-Robbio)) | 15+15     |               |
+
+#### QLIC-seminar #6 | (Monday; November 27; 2023; 11:30 AM to 1:00 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
@@ -18,6 +24,10 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 ### Jan Głowacki
 
 Maybe instead of quantizing relativistic field theories, which proved problematic both conceptually and formally, we could try to relativize the quantum mechanical framework itself? In this talk, I will advertise a research program constituting a direction in the general landscape of the so-called Quantum Reference Frames. The broad idea is to treat reference frames as both physical systems and quantum-mechanical objects, aiming to reformulate the quantum mechanical formalism to account for relational degrees of freedom. Our new approach is well-supported mathematically and is heavily influenced by quantum measurement theory, making it more operationally oriented than other similar attempts. In this talk, I will outline the guiding principles of our research, introduce the main elements of the framework, update on the latest progress and mention potential future research directions.
+
+### Marco Robbio 
+
+TBA
 
 ### Jessica Bavaresco
 
