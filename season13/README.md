@@ -5,13 +5,19 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed 
 
+#### QLIC-seminar #6 | (Tuesday; November 21; 2023; 11:30 AM to 1:00 PM)
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Natália Móller | Gravitational quantum switch on a superposition of spherical shells (see [abstract](#Natália-Móller)) | 30+30      |               |
+
 #### QLIC-meet #3 | (Thursday; November 23; 2023; 11:30 AM to 12:30 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
 | Talk    | Marco Robbio | TBA (see [abstract](#Marco-Robbio)) | 15+15     |               |
 
-#### QLIC-seminar #6 | (Monday; November 27; 2023; 11:30 AM to 1:00 PM)
+#### QLIC-seminar #7 | (Monday; November 27; 2023; 11:30 AM to 1:00 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
@@ -20,6 +26,10 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 ## Lecture Series | Details
 
 ## Abstracts
+
+### Natália Móller
+
+A distinct protocol for performing a gravitational quantum switch was recently introduced in [N.S.M., B. Sahdo, N. Yokomizo, arXiv:2306.10984], which is the subject of this talk. The quantum switch is the simplest example of a task with indefinite causal order, where the order of operations applied by two agents on a target system is entangled with the state of a quantum control system. In particular, in the gravitational quantum switch, the order of these operations is entangled with the state of a quantum spacetime. We consider a model describing the superposition of geometries produced by distinct arrangements of spherical mass shells, and show that a protocol for the implementation of a gravitational quantum switch can be formulated in such a system. The geometries in superposition are identical in an exterior region outside a given radius, and differ within such a radius. The exterior region provides a classical frame from which the superposition of geometries in the interior region can be probed. One of the agents crosses the interior region and becomes entangled with the geometry, which is explored as a resource for the implementation of the quantum switch. Novel features of the protocol include: i) the superposition of nonisometric geometries; ii) the existence of a region with a definite geometry; iii) the fact that the agent that experiences the superposition of geometries is in free fall, preventing information on the global geometry to be obtained from within its laboratory.
 
 ### Jan Głowacki
 
