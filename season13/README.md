@@ -5,17 +5,11 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed 
 
-#### QLIC-seminar #6 | (Tuesday; November 21; 2023; 11:30 AM to 1:00 PM)
-
-| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Natália Móller | Gravitational quantum switch on a superposition of spherical shells (see [abstract](#Natália-Móller)) | 30+30      |               |
-
 #### QLIC-meet #3 | (Thursday; November 23; 2023; 11:30 AM to 12:30 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Marco Robbio | TBA (see [abstract](#Marco-Robbio)) | 15+15     |               |
+| Talk    | Marco Robbio | The central limit theorem in quantum optics with partially distinguishable photons (see [abstract](#Marco-Robbio)) | 15+15     |               |
 
 #### QLIC-seminar #7 | (Monday; November 27; 2023; 11:30 AM to 1:00 PM)
 
@@ -27,17 +21,17 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Abstracts
 
-### Natália Móller
-
-A distinct protocol for performing a gravitational quantum switch was recently introduced in [N.S.M., B. Sahdo, N. Yokomizo, arXiv:2306.10984], which is the subject of this talk. The quantum switch is the simplest example of a task with indefinite causal order, where the order of operations applied by two agents on a target system is entangled with the state of a quantum control system. In particular, in the gravitational quantum switch, the order of these operations is entangled with the state of a quantum spacetime. We consider a model describing the superposition of geometries produced by distinct arrangements of spherical mass shells, and show that a protocol for the implementation of a gravitational quantum switch can be formulated in such a system. The geometries in superposition are identical in an exterior region outside a given radius, and differ within such a radius. The exterior region provides a classical frame from which the superposition of geometries in the interior region can be probed. One of the agents crosses the interior region and becomes entangled with the geometry, which is explored as a resource for the implementation of the quantum switch. Novel features of the protocol include: i) the superposition of nonisometric geometries; ii) the existence of a region with a definite geometry; iii) the fact that the agent that experiences the superposition of geometries is in free fall, preventing information on the global geometry to be obtained from within its laboratory.
-
 ### Jan Głowacki
 
 Maybe instead of quantizing relativistic field theories, which proved problematic both conceptually and formally, we could try to relativize the quantum mechanical framework itself? In this talk, I will advertise a research program constituting a direction in the general landscape of the so-called Quantum Reference Frames. The broad idea is to treat reference frames as both physical systems and quantum-mechanical objects, aiming to reformulate the quantum mechanical formalism to account for relational degrees of freedom. Our new approach is well-supported mathematically and is heavily influenced by quantum measurement theory, making it more operationally oriented than other similar attempts. In this talk, I will outline the guiding principles of our research, introduce the main elements of the framework, update on the latest progress and mention potential future research directions.
 
 ### Marco Robbio 
 
-TBA
+Various quantum analogues of the central limit theorem, which is the corner stone of probability theory, are known in literature. In the field of quantum optics, the Hudson-Cushen theorem is the most relevant, proving that the quantum convolution of i.i.d. states converges to a Gaussian state. The theorem predicts, for example, that thermalization occurs in a single-mode subsystem after a large linear interferometer experiment where identical photon states interfere in an unbiased way.  This result is challenged by the behaviour of fully distinguishable photons which, at first glance, seems to contradict the statement of the theorem and its implication for quantum optics. In this work we use the phase space formalism to generalize the Hudson-Cushen theorem for partially distinguishable photons, allowing us to describe in a unified way the behaviour of ideal bosons and classical particles as two extreme cases of a more general framework. In particular, we demonstrate that properties of the equilibrium single-mode particle number distribution, such as its variance or its entropy, are severely affected by photon distinguishability and can be used as quantifiers of indistinguishability in multiphoton experiments.
+
+### Natália Móller
+
+A distinct protocol for performing a gravitational quantum switch was recently introduced in [N.S.M., B. Sahdo, N. Yokomizo, arXiv:2306.10984], which is the subject of this talk. The quantum switch is the simplest example of a task with indefinite causal order, where the order of operations applied by two agents on a target system is entangled with the state of a quantum control system. In particular, in the gravitational quantum switch, the order of these operations is entangled with the state of a quantum spacetime. We consider a model describing the superposition of geometries produced by distinct arrangements of spherical mass shells, and show that a protocol for the implementation of a gravitational quantum switch can be formulated in such a system. The geometries in superposition are identical in an exterior region outside a given radius, and differ within such a radius. The exterior region provides a classical frame from which the superposition of geometries in the interior region can be probed. One of the agents crosses the interior region and becomes entangled with the geometry, which is explored as a resource for the implementation of the quantum switch. Novel features of the protocol include: i) the superposition of nonisometric geometries; ii) the existence of a region with a definite geometry; iii) the fact that the agent that experiences the superposition of geometries is in free fall, preventing information on the global geometry to be obtained from within its laboratory.
 
 ### Jessica Bavaresco
 
@@ -58,6 +52,12 @@ Reference: [arXiv:2307.02565](https://arxiv.org/abs/2307.02565).
 I will present a method to certify the presence of Bell correlations in experimentally observed statistics, and to obtain new Bell inequalities. Our approach is based on relaxing the conditions defining the set of correlations obeying a local hidden variable model, yielding a convergent hierarchy of semidefinite programs (SdP's). Because the size of these SdP's is independent of the number of parties involved, this technique allows us to efficiently characterize correlations in many-body systems. As an example, we illustrate our method with the experimental data presented in [Science 352, 441 (2016)]. I will discuss extensions of this method to derive inequalities with many outcomes, higher-order correlators, etc. and the pathological cases that can arise, where the approximation of the set of local correlations via the convex hull of a semialgebraic set can pose additional challenges. In addition, if time permits, I will discuss a method that merges relaxation techniques with deep reinforcement learning to efficiently find optimal relaxations for constrained optimization problems within a set computational budget. Demonstrated in the context of ground state energy approximation, this approach not only outperforms other optimization techniques but also has wider applications, from entanglement witness optimization to device-independent quantum information tasks.
 
 ## Past
+
+#### QLIC-seminar #6 | (Tuesday; November 21; 2023; 11:30 AM to 1:00 PM)
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Natália Móller | Gravitational quantum switch on a superposition of spherical shells (see [abstract](#Natália-Móller)) | 30+30      |               |
 
 #### QLIC-seminar #5 | (Monday; November 13; 2023; 11:30 AM to 1:00 PM)
 
