@@ -5,12 +5,6 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed 
 
-#### QLIC-seminar #7 | (Monday; November 27; 2023; 11:30 AM to 1:00 PM)
-
-| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Jan Głowacki | Towards Relational Quantum Relativity (see [abstract](#Jan-Głowacki)) | 30+30      |               |
-
 ## Lecture Series | Details
 
 ## Abstracts
@@ -46,6 +40,12 @@ Reference: [arXiv:2307.02565](https://arxiv.org/abs/2307.02565).
 I will present a method to certify the presence of Bell correlations in experimentally observed statistics, and to obtain new Bell inequalities. Our approach is based on relaxing the conditions defining the set of correlations obeying a local hidden variable model, yielding a convergent hierarchy of semidefinite programs (SdP's). Because the size of these SdP's is independent of the number of parties involved, this technique allows us to efficiently characterize correlations in many-body systems. As an example, we illustrate our method with the experimental data presented in [Science 352, 441 (2016)]. I will discuss extensions of this method to derive inequalities with many outcomes, higher-order correlators, etc. and the pathological cases that can arise, where the approximation of the set of local correlations via the convex hull of a semialgebraic set can pose additional challenges. In addition, if time permits, I will discuss a method that merges relaxation techniques with deep reinforcement learning to efficiently find optimal relaxations for constrained optimization problems within a set computational budget. Demonstrated in the context of ground state energy approximation, this approach not only outperforms other optimization techniques but also has wider applications, from entanglement witness optimization to device-independent quantum information tasks.
 
 ## Past
+
+#### QLIC-seminar #7 | (Monday; November 27; 2023; 11:30 AM to 1:00 PM)
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Jan Głowacki | Towards Relational Quantum Relativity (see [abstract](#Jan-Głowacki)) | 30+30      |               |
 
 #### QLIC-meet #3 | (Thursday; November 23; 2023; 11:30 AM to 12:30 PM)
 
