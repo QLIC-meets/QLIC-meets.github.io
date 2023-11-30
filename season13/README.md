@@ -3,11 +3,22 @@ Welcome to the QLIC-meets page. For further information about the meetings see t
 
 All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-meets.github.io/all). 
 
-## Confirmed 
+## Confirmed
+
+#### QLIC-seminar #8 | (Thursday; December 7; 2023; 11:30 AM to 1:00 PM)
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Eleftherios Tselentis | Fixed and non-fixed background physical theories, a quantum information perspective (see [abstract](#Eleftherios-Tselentis)) | 30+30      |               |
+
 
 ## Lecture Series | Details
 
 ## Abstracts
+
+### Eleftherios Tselentis
+
+In this talk I would like to approach the question of distinguishing between a fixed and non-fixed background physical theories, e.g., special and general relativity, using the tools of quantum information [[ncomms2076](https://www.nature.com/articles/ncomms2076), [arXiv:2309.15752](https://arxiv.org/pdf/2309.15752.pdf)]. Is there a way to prove that certain observations are incompatible with any theory that assumes the causal relations between events to be independent of the experimental choices and the outcomes of them? In similar spirit with Bell's theorem, we derive multiparty games that, if the winning chance exceeds a certain limit, prove the incompatibility of the parties’ causal relations with any partial order. This, in turn, means that the parties exert a back-action on the causal relations; the causal relations are dynamical. The games turn out to be representable by directed graphs, for instance by an orientation of the Möbius ladder. We discuss these games as device-independent tests of spacetime’s dynamical nature in general relativity. To do so, we design a relativistic setting where, in the Minkowski spacetime, the winning chance is bound to the limits. Important to this endeavour is the notion of event. While we do not carry out any general relativistic calculation, we find otherwise tame processes with classical control of causal order that win the games deterministically. These suggest a violation of the bounds in gravitational implementations and perhaps even with globally hyperbolic spacetimes. We obtain these games by uncovering a “pairwise central symmetry” of the correlations in question. This symmetry allows us to recycle the facets of the acyclic subgraph polytope studied by Grötschel, Jünger, and Reinelt in the mid-80s for combinatorial optimization [[springer10.1007](https://link.springer.com/article/10.1007/BF01582009)]. 
 
 ### Jan Głowacki
 
