@@ -5,12 +5,6 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed
 
-#### QLIC-seminar #1 | (Tuesday; January 16; 2024; 2:00 PM to 3:30 PM)
-
-| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Nicholas Ormrod | Quantum Influences and Event Relativity (see [abstract](#Nicholas-Ormrod)) | 30+30      |               |
-
 ## Lecture Series | Details
 
 ## Abstracts
@@ -20,6 +14,12 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 I'll introduce a precise reformulation of quantum theory as a description of relational events and their emergence from causal structure.
 
 ## Past
+
+#### QLIC-seminar #1 | (Tuesday; January 16; 2024; 2:00 PM to 3:30 PM)
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Nicholas Ormrod | Quantum Influences and Event Relativity (see [abstract](#Nicholas-Ormrod)) | 30+30      |               |
 
 
 ## About
