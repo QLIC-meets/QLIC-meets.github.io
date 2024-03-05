@@ -9,26 +9,28 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Tobi Haas | Information and majorization theory for fermionic phase-space distributions (see [abstract](#Tobi-Haas-(1st-talk))) | 30+30      |               |
+| Talk    | Tobi Haas | Information and majorization theory for fermionic phase-space distributions (see [abstract](#Tobi-Haas)) | 30+30      |               |
 
 #### QLIC-meet #2 | (Tuesday; April 16; 2024; 11:30 AM to 12:30 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Tobi Haas | Area laws from classical entropies (see [abstract](#Tobi-Haas-(2nd-talk))) | 30+30      |               |
+| Talk    | Tobi Haas | Area laws from classical entropies (see [abstract](#Tobi-Haas) | 30+30      |               |
 
 
 ## Lecture Series | Details
 
 ## Abstracts
 
-### Tobi Haas (1st talk)
+### Tobi Haas 
+
+#### 1st talk:
 
 We put forward several information-theoretic measures for analyzing the uncertainty of fermionic phase-space distributions using the theory of supernumbers. In contrast to the bosonic case, the anti-commuting nature of Grassmann variables allows us to provide simple expressions for the Glauber $P$-, Wigner $W$-, and Husimi $Q$-distributions of the arbitrary state of a single fermionic mode. It appears that all physical states are Gaussian and thus can be described by positive or negative thermal distributions (over Grassmann variables). We then prove several fermionic uncertainty relations, including notably the fermionic analogs of the (yet unproven) phase-space majorization and Wigner entropy conjectures for a bosonic mode, as well as the Lieb-Solovej theorem and the Wehrl-Lieb inequality. The central point is that, although fermionic phase-space distributions are Grassmann-valued and do not have a straightforward interpretation, the corresponding uncertainty measures are expressed as Berezin integrals which take on real values, hence are physically relevant.
 
 Reference: https://arxiv.org/abs/2401.08523 
 
-### Tobi Haas (2nd talk)
+#### 2nd talk:
 
 The scaling of local quantum entropies is of utmost interest for characterizing quantum fields, many-body systems and gravity. Despite their importance, being nonlinear functionals of the underlying quantum state often hinders their theoretical as well as experimental accessibility. Here, we show that suitably chosen classical entropies of standard measurement distributions capture the very same features as their quantum analogs.
 
