@@ -11,7 +11,7 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
 | Talk    | Tobi Haas | Information and majorization theory for fermionic phase-space distributions (see [abstract](#Tobi-Haas)) | 30+30      |               |
 
-#### QLIC-meet #2 | (Tuesday; April 16; 2024; 11:30 AM to 12:30 PM)
+#### QLIC-meet #2 | (Wednesday; April 17; 2024; 11:30 AM to 12:30 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
