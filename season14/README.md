@@ -5,22 +5,26 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed
 
-#### QLIC-meet #1 | (Tuesday; April 9; 2024; 11:30 AM to 12:30 PM)
-
-| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Tobi Haas | Information and majorization theory for fermionic phase-space distributions (see [abstract](#Tobi-Haas)) | 30+30      |               |
-
 #### QLIC-meet #2 | (Wednesday; April 17; 2024; 11:30 AM to 12:30 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
 | Talk    | Tobi Haas | Area laws from classical entropies (see [abstract](#Tobi-Haas)) | 30+30      |               |
 
+#### QLIC-meet #3 | (Friday; April 19; 2024; 11:30 AM to 12:30 PM)
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Nicola Pinzani | Local fraction in Static Causal Orders (see [abstract](#Nicola-Pinzani)) | 30+30      |               |
+
 
 ## Lecture Series | Details
 
 ## Abstracts
+
+### Nicola Pinzani
+
+In this talk, I will introduce a notion of local fraction for experiments taking place against arbitrary static causal backgrounds - greatly generalising previous results on no-signalling scenarios - and we explicitly formulate a linear program to compute this quantity. I’ll derive a free characterisation of causal functions which allows us to efficiently construct the matrices required to perform concrete calculations. I’ll demonstrate our techniques by analysing the local fraction of a novel example involving two Bell tests in interleaved causal order.
 
 ### Tobi Haas 
 
@@ -43,6 +47,12 @@ References: to appear on arXiv in March
 I'll introduce a precise reformulation of quantum theory as a description of relational events and their emergence from causal structure.
 
 ## Past
+
+#### QLIC-meet #1 | (Tuesday; April 9; 2024; 11:30 AM to 12:30 PM)
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Tobi Haas | Information and majorization theory for fermionic phase-space distributions (see [abstract](#Tobi-Haas)) | 30+30      |               |
 
 #### QLIC-seminar #1 | (Tuesday; January 16; 2024; 2:00 PM to 3:30 PM)
 
