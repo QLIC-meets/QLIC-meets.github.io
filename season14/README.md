@@ -11,7 +11,7 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
 | Talk    | Tobi Haas | Area laws from classical entropies (see [abstract](#Tobi-Haas)) | 30+30      |               |
 
-#### QLIC-meet #3 | (Friday; April 19; 2024; 11:30 AM to 12:30 PM)
+#### QLIC-meet #3 | (Friday; April 24; 2024; 11:30 AM to 12:30 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
