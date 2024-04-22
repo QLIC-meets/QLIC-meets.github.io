@@ -5,12 +5,6 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed
 
-#### QLIC-meet #2 | (Wednesday; April 17; 2024; 11:30 AM to 12:30 PM)
-
-| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Tobi Haas | Area laws from classical entropies (see [abstract](#Tobi-Haas)) | 30+30      |               |
-
 #### QLIC-meet #3 | (Wednesday; April 24; 2024; 11:30 AM to 12:30 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
@@ -47,6 +41,12 @@ References: to appear on arXiv in March
 I'll introduce a precise reformulation of quantum theory as a description of relational events and their emergence from causal structure.
 
 ## Past
+
+#### QLIC-meet #2 | (Wednesday; April 17; 2024; 11:30 AM to 12:30 PM)
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Tobi Haas | Area laws from classical entropies (see [abstract](#Tobi-Haas)) | 30+30      |               |
 
 #### QLIC-meet #1 | (Tuesday; April 9; 2024; 11:30 AM to 12:30 PM)
 
