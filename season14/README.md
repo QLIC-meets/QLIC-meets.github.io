@@ -5,16 +5,20 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed
 
-#### QLIC-meet #3 | (Wednesday; April 24; 2024; 11:30 AM to 12:30 PM)
+#### QLIC-meet #4 | (Tuesday; May 28; 2024; 11:30 AM to 12:30 PM)
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Nicola Pinzani | Local fraction in Static Causal Orders (see [abstract](#Nicola-Pinzani)) | 30+30      |               |
+| Talk    | Joseph Cunningham | Eigenpath traversal by Poisson-distributed phase randomisation (see [abstract](#Joseph-Cunningham)) | 30+30      |               |
 
 
 ## Lecture Series | Details
 
 ## Abstracts
+
+### Joseph Cunningham
+
+We present a framework for quantum computation, similar to Adiabatic Quantum Computation (AQC), that is based on the quantum Zeno effect. By performing randomised dephasing operations at intervals determined by a Poisson process, we are able to track the eigenspace associated to a particular eigenvalue. We derive a simple differential equation for the fidelity leading to general theorems bounding the time complexity of a whole class of algorithms. We also use eigenstate filtering to optimise the scaling of the complexity in the error tolerance $\epsilon$. In many cases the bounds given by our general theorems are optimal, giving a time complexity of $O(1/\Delta m)$ with $\Delta m$ the minimum of the gap. This allows us to prove optimal results using very general features of problems, minimising the amount of problem-specific insight necessary. As two applications of our framework we obtain optimal scaling for the Grover problem (i.e. $O(\sqrt{N})$ where $\sqrt{N}$ is the database size) and the Quantum Linear System Problem (i.e. $O(\kappa \log(1/\epsilon))$ where $\kappa$ is the condition number and $\epsilon$ the error tolerance) by direct applications of our theorems.
 
 ### Nicola Pinzani
 
@@ -41,6 +45,13 @@ References: to appear on arXiv in March
 I'll introduce a precise reformulation of quantum theory as a description of relational events and their emergence from causal structure.
 
 ## Past
+
+#### QLIC-meet #3 | (Wednesday; April 24; 2024; 11:30 AM to 12:30 PM)
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Nicola Pinzani | Local fraction in Static Causal Orders (see [abstract](#Nicola-Pinzani)) | 30+30      |               |
+
 
 #### QLIC-meet #2 | (Wednesday; April 17; 2024; 11:30 AM to 12:30 PM)
 
