@@ -5,12 +5,6 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed
 
-#### QLIC-meet #4 | (Tuesday; May 28; 2024; 11:30 AM to 12:30 PM)
-
-| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Joseph Cunningham | Eigenpath traversal by Poisson-distributed phase randomisation (see [abstract](#Joseph-Cunningham)) | 30+30      |               |
-
 
 ## Lecture Series | Details
 
@@ -45,6 +39,12 @@ References: to appear on arXiv in March
 I'll introduce a precise reformulation of quantum theory as a description of relational events and their emergence from causal structure.
 
 ## Past
+
+#### QLIC-meet #4 | (Tuesday; May 28; 2024; 11:30 AM to 12:30 PM)
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Joseph Cunningham | Eigenpath traversal by Poisson-distributed phase randomisation (see [abstract](#Joseph-Cunningham)) | 30+30      |               |
 
 #### QLIC-meet #3 | (Wednesday; April 24; 2024; 11:30 AM to 12:30 PM)
 
