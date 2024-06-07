@@ -5,10 +5,19 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed
 
+#### QLIC-meet #4 | (Tuesday; June 11; 2024; 11:00 AM to 12:00 PM) | La Plaine campus N5.107A
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Fabio Costa | A de Finetti theorem for quantum causal structures (see [abstract](#Fabio-Costa)) | 30+30      |               |
 
 ## Lecture Series | Details
 
 ## Abstracts
+
+### Fabio Costa
+
+What does it mean for a causal structure to be "unknown"? Can we even talk about `repetitions' of an experiment without prior knowledge of causal relations? And under what conditions can we say that a set of processes with arbitrary, possibly indefinite, causal structures are independent and identically distributed? Similar questions for classical probabilities, quantum states, and quantum channels are beautifully answered by so-called "de Finetti theorems", which connect a simple and easy-to-justify condition -- symmetry under exchange -- with a very particular multipartite structure: a mixture of identical states/channels. Here we extend the result to processes with arbitrary causal structure, including indefinite causal order and multi-time, non-Markovian processes applicable to noisy quantum devices. The result also implies a new class of de Finetti theorems for quantum states subject to a large class of linear constraints, which can be of independent interest.
 
 ### Joseph Cunningham
 
