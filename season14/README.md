@@ -5,15 +5,21 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed
 
-#### QLIC-seminar #2 | (Tuesday; June 11; 2024; 11:00 AM to 12:00 PM) | La Plaine campus N5.107A
+#### QLIC-seminar #3 | (Thursday; June 13; 2024; 2:00 PM to 3:00 PM) 
 
 | Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Fabio Costa | A de Finetti theorem for quantum causal structures (see [abstract](#Fabio-Costa)) | 30+30      |               |
+| Talk    | Zixuan Liu | Tsirelson bounds for quantum correlations with indefinite causal order (see [abstract](#Zixuan-Liu)) | 30+30      |               |
 
 ## Lecture Series | Details
 
 ## Abstracts
+
+### Zixuan Liu 
+
+Quantum theory is in principle compatible with processes that violate causal inequalities, an analogue of Bell inequalities that constrain the correlations observed by a set of parties operating in a definite causal order. Since the introduction of causal inequalities, determining their maximum quantum violation, analogue to Tsirelson's bound for Bell inequalities, has remained an open problem. Here we provide a general method for bounding the violation of arbitrary causal inequalities, establishing limits on the correlations achievable by arbitrary local experiments and by arbitrary quantum processes with indefinite causal order. We prove that the maximum violation is generally smaller than the algebraic maximum, and determine Tsirelson-like bounds for a class of causal inequalities including some of the most paradigmatic examples. Surprisingly, we find that the algebraic maximum of arbitrary causal inequalities can be achieved by a new type of processes that allow for information to flow in an indefinite temporal direction within the parties' laboratories.
+
+Reference: https://arxiv.org/abs/2403.02749
 
 ### Fabio Costa
 
@@ -48,6 +54,12 @@ References: to appear on arXiv in March
 I'll introduce a precise reformulation of quantum theory as a description of relational events and their emergence from causal structure.
 
 ## Past
+
+#### QLIC-seminar #2 | (Tuesday; June 11; 2024; 11:00 AM to 12:00 PM) | La Plaine campus N5.107A
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Fabio Costa | A de Finetti theorem for quantum causal structures (see [abstract](#Fabio-Costa)) | 30+30      |               |
 
 #### QLIC-meet #4 | (Tuesday; May 28; 2024; 11:30 AM to 12:30 PM)
 
