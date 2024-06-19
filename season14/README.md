@@ -1,15 +1,9 @@
 # QLIC-meets | Season 14 (January-June 2024)
-Welcome to the QLIC-meets page. For further information about the meetings see the [About](#About) section. For any information, you can contact Serge Deside (serge.deside@ulb.be) or Léo Pioge (leo.pioge@ulb.be).  
+Welcome to the QLIC-meets page. See the [About](#About) section for further information about the meetings. For any information, you can contact Serge Deside (serge.deside@ulb.be) or Léo Pioge (leo.pioge@ulb.be).  
 
 All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-meets.github.io/all). 
 
 ## Confirmed
-
-#### QLIC-seminar #3 | (Thursday; June 13; 2024; 2:00 PM to 3:00 PM) 
-
-| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Zixuan Liu | Tsirelson bounds for quantum correlations with indefinite causal order (see [abstract](#Zixuan-Liu)) | 30+30      |               |
 
 ## Lecture Series | Details
 
@@ -54,6 +48,12 @@ References: to appear on arXiv in March
 I'll introduce a precise reformulation of quantum theory as a description of relational events and their emergence from causal structure.
 
 ## Past
+
+#### QLIC-seminar #3 | (Thursday; June 13; 2024; 2:00 PM to 3:00 PM) 
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Zixuan Liu | Tsirelson bounds for quantum correlations with indefinite causal order (see [abstract](#Zixuan-Liu)) | 30+30      |               |
 
 #### QLIC-seminar #2 | (Tuesday; June 11; 2024; 11:00 AM to 12:00 PM) | La Plaine campus N5.107A
 
@@ -129,7 +129,7 @@ QLIC-meets is an initiative to facilitate further collaboration and learning wit
 
 #### QLIC-lectures
 
-*Format:* 4 lectures. 2 hours each. Once a week. Two lectures, one week off, remaining two lectures.
+*Format:* Four lectures, two hours each, once a week. Two lectures, one week off, and the remaining two lectures.
 
 *Typical Schedule*: Thursday, before lunch (11:00 AM—1:00 PM).
 
@@ -167,7 +167,7 @@ Option II: A long presentation structured such that the first 10-15 minutes of t
 
 
 
-*Typical Schedule:* These will be organised independently of the other QLIC-events, preferably within the first two weeks of the announcement on arXiv.
+*Typical Schedule:* These will be organized independently of the other QLIC-events, preferably within the first two weeks of the announcement on arXiv.
 
 
 
