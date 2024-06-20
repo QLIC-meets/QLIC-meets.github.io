@@ -5,9 +5,27 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed
 
+#### QLIC-meet #5 | (Thursday; June 27; 2024; 11:30 AM to 12:30 PM) 
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Tobi Haas | Ideas day: Wigner entropy and its uncertainty/majorization relations (see [abstract](#Tobi-Haas-(ideas-day))) | 30+30      |               |
+
 ## Lecture Series | Details
 
 ## Abstracts
+
+### Tobi Haas (ideas day)
+
+In this somewhat special QLIC-meet I'd like to discuss two related project ideas, for which I'm searching for feedback as well as collaborators, especially among the PhD students. Everybody is cordially invited, with the unique possibility to roast my admittedly optimistic ideas.
+
+1. A general uncertainty relation tight for subsystems
+
+Standard uncertainty relations do not distinguish between uncertainty due to quantum effects and classical mixedness and, thus, are usually tight only for pure states. Recently, I found an entropic uncertainty relation (EUR) for the Wigner entropy of a bosonic mode where the state's mixedness enters the bound via its von Neumann entropy, thereby leading to a tighter relation for mixed states. I propose to rigorously prove and generalize this relation to arbitrary degrees of freedom (in particular, spins and fermions) using group-theoretic arguments. If successful, this relation would unify and imply many of the well-known EURs, such as the Maassen-Uffink relation. Further, I believe that a relation of this type is always tight for sufficiently small subsystems, which should follow from Page's theorem and would demonstrate that this is the only sensible way of describing uncertainty in the universe.
+
+2. A tight uncertainty relation for all (pure and mixed) Gaussian states & the Wigner majorization conjecture
+
+Several researchers from QuIC conjectured that the bosonic Wigner entropy is bounded from below by its vacuum value (the so-called Wigner entropy conjecture). I view this relation and the EUR proposed above as complementary in the sense that the former becomes tight for all pure Gaussian states, while the latter is tight in the limit of an infinitely mixed Gaussian state. This naturally raises the question of whether there is one single EUR, which is tight for all Gaussian states, with the mentioned two relations as special cases. I will conjecture this relation and sketch an idea for its proof. Remarkably, the key piece of this proof idea would also allow us to prove the arguably more fundamental Wigner majorization conjecture, which states that pure Gaussian states are least disordered in phase space.
 
 ### Zixuan Liu 
 
