@@ -1,5 +1,5 @@
 # QLIC-meets | Season 14 (January-June 2024)
-Welcome to the QLIC-meets page. See the [About](#About) section for further information about the meetings. For any information, you can contact Serge Deside (serge.deside@ulb.be) or Léo Pioge (leo.pioge@ulb.be).  
+Welcome to the QLIC-meets page. Please take a look at the [About](#About) section for more information about the meetings. For any information, you can contact Serge Deside (serge.deside@ulb.be) or Léo Pioge (leo.pioge@ulb.be).  
 
 All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-meets.github.io/all). 
 
@@ -11,9 +11,19 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 | ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
 | Talk    | Tobi Haas | Ideas day: Wigner entropy and its uncertainty/majorization relations (see [abstract](#Tobi-Haas-ideas-day)) | 30+30      |               |
 
+#### QLIC-seminar #4 | (Friday; June 28; 2024; 11:30 AM to 12:30 PM) 
+
+| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
+| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
+| Talk    | Aidan Chatwin-Davies | Fun with gravity (see [abstract](#Aidan-Chatwin-Davies)) | 30+30      |               |
+
 ## Lecture Series | Details
 
 ## Abstracts
+
+### Aidan Chatwin-Davies 
+
+Ideas from information science have been present in quantum gravity from the very first days when people started thinking about quantum aspects of black holes (and really, since even earlier when black hole thermodynamics were being worked out). Now, increasingly sophisticated ideas from quantum information science---such as error correction, channel capacities, and algorithmic complexity---show up in many more areas of quantum gravity, like holography and cosmology. In this very informal talk, I'll try to present a bit of the flavour of quantum information in quantum gravity by introducing some of my research in these areas and some projects that I would like to think about. Abundant questions, comments, tangents, and derailments welcome.
 
 ### Tobi Haas (ideas day)
 
