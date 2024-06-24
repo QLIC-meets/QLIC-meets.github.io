@@ -5,17 +5,17 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed
 
-#### QLIC-meet #5 | (Thursday; June 27; 2024; 11:30 AM to 12:30 PM) 
+#### QLIC-meet #5 | (Thursday; June 27; 2024; 11:30 AM to 1:00 PM) 
 
-| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Tobi Haas | Ideas day: Wigner entropy and its uncertainty/majorization relations (see [abstract](#Tobi-Haas-ideas-day)) | 30+30      |               |
+| Segment | Speaker      | Topic                                                        | 
+| ------- | ------------ | ------------------------------------------------------------ | 
+| Talk    | Tobi Haas | Ideas day: Wigner entropy and its uncertainty/majorization relations (see [abstract](#Tobi-Haas-ideas-day)) |
 
-#### QLIC-seminar #4 | (Friday; June 28; 2024; 11:30 AM to 12:30 PM) 
+#### QLIC-seminar #4 | (Friday; June 28; 2024; 11:30 AM to 1:00 PM) 
 
-| Segment | Speaker      | Topic                                                        | Minutes Allocated | Minutes Spent |
-| ------- | ------------ | ------------------------------------------------------------ | ----------------- | ------------- |
-| Talk    | Aidan Chatwin-Davies | Fun with gravity (see [abstract](#Aidan-Chatwin-Davies)) | 30+30      |               |
+| Segment | Speaker      | Topic                                                        | 
+| ------- | ------------ | ------------------------------------------------------------ | 
+| Talk    | Aidan Chatwin-Davies | Fun with gravity (see [abstract](#Aidan-Chatwin-Davies)) | 
 
 ## Lecture Series | Details
 
