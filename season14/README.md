@@ -5,7 +5,7 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed
 
-#### QLIC-seminar #4 | (Wednesday; June 26; 2024; 11:00 AM to 12:00 PM) 
+#### QLIC-seminar #4 | (Friday; June 26; 2024; 2:00 PM to 3:30 PM) 
 
 | Segment | Speaker      | Topic                                                        | 
 | ------- | ------------ | ------------------------------------------------------------ | 
