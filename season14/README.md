@@ -5,12 +5,6 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed
 
-#### QLIC-seminar #4 | (Friday; June 28; 2024; 2:00 PM to 3:30 PM) 
-
-| Segment | Speaker      | Topic                                                        | 
-| ------- | ------------ | ------------------------------------------------------------ | 
-| Talk    | Aidan Chatwin-Davies | Fun with gravity (see [abstract](#Aidan-Chatwin-Davies)) | 
-
 ## Lecture Series | Details
 
 ## Abstracts
@@ -70,6 +64,12 @@ References: to appear on arXiv in March
 I'll introduce a precise reformulation of quantum theory as a description of relational events and their emergence from causal structure.
 
 ## Past
+
+#### QLIC-seminar #4 | (Friday; June 28; 2024; 2:00 PM to 3:30 PM) 
+
+| Segment | Speaker      | Topic                                                        | 
+| ------- | ------------ | ------------------------------------------------------------ | 
+| Talk    | Aidan Chatwin-Davies | Fun with gravity (see [abstract](#Aidan-Chatwin-Davies)) | 
 
 #### QLIC-meet #5 | (Thursday; June 27; 2024; 11:30 AM to 1:00 PM) 
 
