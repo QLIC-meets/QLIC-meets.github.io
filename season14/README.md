@@ -5,12 +5,6 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed
 
-#### QLIC-meet #5 | (Thursday; June 27; 2024; 11:30 AM to 1:00 PM) 
-
-| Segment | Speaker      | Topic                                                        | 
-| ------- | ------------ | ------------------------------------------------------------ | 
-| Talk    | Tobi Haas | Ideas day: Wigner entropy and its uncertainty/majorization relations (see [abstract](#Tobi-Haas-ideas-day)) |
-
 #### QLIC-seminar #4 | (Friday; June 28; 2024; 2:00 PM to 3:30 PM) 
 
 | Segment | Speaker      | Topic                                                        | 
@@ -76,6 +70,12 @@ References: to appear on arXiv in March
 I'll introduce a precise reformulation of quantum theory as a description of relational events and their emergence from causal structure.
 
 ## Past
+
+#### QLIC-meet #5 | (Thursday; June 27; 2024; 11:30 AM to 1:00 PM) 
+
+| Segment | Speaker      | Topic                                                        | 
+| ------- | ------------ | ------------------------------------------------------------ | 
+| Talk    | Tobi Haas | Ideas day: Wigner entropy and its uncertainty/majorization relations (see [abstract](#Tobi-Haas-ideas-day)) |
 
 #### QLIC-seminar #3 | (Thursday; June 13; 2024; 2:00 PM to 3:00 PM) 
 
