@@ -15,7 +15,7 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 | Segment | Speaker      | Topic                                                        | 
 | ------- | ------------ | ------------------------------------------------------------ | 
-| Long talk    | Mauro D'Achille | Simulating scalar quantum field theories on integrated photonics platforms (see [abstract](#Mauro-D'Achille)) |
+| Long talk    | Mauro D'Achille | Simulating scalar quantum field theories on integrated photonics platforms (see [abstract](#Mauro-D-Achille)) |
 | Short talk    | Elena Callus | Non-classicality and entanglement detection in continuous-variable systems using two replicas (see [abstract](#Elena-Callus)) |
 
 
