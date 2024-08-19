@@ -1,17 +1,17 @@
-# QLIC-meets | Season 14 (January-June 2024)
+# QLIC-meets | Season 14 (January-August 2024)
 Welcome to the QLIC-meets page. Please look at the [About](#About) section for more information about the meetings. For any supplemental information, you can contact Serge Deside (serge.deside@ulb.be) or Léo Pioge (leo.pioge@ulb.be).  
 
 All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-meets.github.io/all). 
 
 ## Confirmed
 
-#### QLIC-seminar #5 | (Wednesday; August 21; 2024; 11:30 AM to 1:00 PM) 
+#### QLIC-seminar #5 | (Tuesday; August 20; 2024; 11:30 AM to 1:00 PM) 
 
 | Segment | Speaker      | Topic                                                        | 
 | ------- | ------------ | ------------------------------------------------------------ | 
 | Talk    | Martin Gärttner | Challenges for Quantum Simulation (see [abstract](#Martin-Gärttner)) |
 
-#### QLIC-seminar #6 | (Thursday; August 22; 2024; 11:00 AM to 1:00 PM) 
+#### QLIC-seminar #6 | (Wednesday; August 21; 2024; 11:00 AM to 1:00 PM) 
 
 | Segment | Speaker      | Topic                                                        | 
 | ------- | ------------ | ------------------------------------------------------------ | 
