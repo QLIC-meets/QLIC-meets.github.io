@@ -1,6 +1,8 @@
 # QLIC-meets
-Welcome to the QLIC-meets page. For further information about the meetings see the [About](#About) section. To access future videos of our QLIC events, please add your Google email to [this spreadsheet](https://docs.google.com/spreadsheets/d/1_8xdH3ih4KBwd91U2FQ1GKMV2C-C8y-pgjTPMlqSnSI/edit?usp=sharing). To access existing videos, use this account—ghost.qlic.ulb@gmail.com—the password to which can be requested by email (atul.singh.arora@ulb.ac.be).
-* [Season 14](https://qlic-meets.github.io/s14) (Jan-Jun 2024)
+Welcome to the QLIC-meets page. For further information about the meetings, see the [About](#About) section. To access future videos of our QLIC events, please add your Google email to [this spreadsheet](https://docs.google.com/spreadsheets/d/1_8xdH3ih4KBwd91U2FQ1GKMV2C-C8y-pgjTPMlqSnSI/edit?usp=sharing). To access existing videos, use this account—ghost.qlic.ulb@gmail.com—the password to which can be requested by email (atul.singh.arora@ulb.ac.be).
+* [Season 14](https://qlic-meets.github.io/s14) (Sep-Dec 2024)
+
+* [Season 14](https://qlic-meets.github.io/s14) (Jan-Aug 2024)
 
 * [Season 13](https://qlic-meets.github.io/s13) (Sep-Dec 2023)
 
