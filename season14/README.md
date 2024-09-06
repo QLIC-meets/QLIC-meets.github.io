@@ -5,19 +5,6 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed
 
-#### QLIC-seminar #5 | (Tuesday; August 20; 2024; 11:30 AM to 1:00 PM) 
-
-| Segment | Speaker      | Topic                                                        | 
-| ------- | ------------ | ------------------------------------------------------------ | 
-| Talk    | Martin Gärttner | Challenges for Quantum Simulation (see [abstract](#Martin-Gärttner)) |
-
-#### QLIC-seminar #6 | (Wednesday; August 21; 2024; 11:00 AM to 1:00 PM) 
-
-| Segment | Speaker      | Topic                                                        | 
-| ------- | ------------ | ------------------------------------------------------------ | 
-| Long talk | Mauro D'Achille | Simulating scalar quantum field theories on integrated photonics platforms (see [abstract](#Mauro-DAchille)) |
-| Short talk | Elena Callus | Non-classicality and entanglement detection in continuous-variable systems using two replicas (see [abstract](#Elena-Callus)) |
-
 
 ## Lecture Series | Details
 
@@ -87,6 +74,19 @@ References: to appear on arXiv in March
 I'll introduce a precise reformulation of quantum theory as a description of relational events and their emergence from causal structure.
 
 ## Past
+
+#### QLIC-seminar #6 | (Wednesday; August 21; 2024; 11:00 AM to 1:00 PM) 
+
+| Segment | Speaker      | Topic                                                        | 
+| ------- | ------------ | ------------------------------------------------------------ | 
+| Long talk | Mauro D'Achille | Simulating scalar quantum field theories on integrated photonics platforms (see [abstract](#Mauro-DAchille)) |
+| Short talk | Elena Callus | Non-classicality and entanglement detection in continuous-variable systems using two replicas (see [abstract](#Elena-Callus)) |
+
+#### QLIC-seminar #5 | (Tuesday; August 20; 2024; 11:30 AM to 1:00 PM) 
+
+| Segment | Speaker      | Topic                                                        | 
+| ------- | ------------ | ------------------------------------------------------------ | 
+| Talk    | Martin Gärttner | Challenges for Quantum Simulation (see [abstract](#Martin-Gärttner)) |
 
 #### QLIC-seminar #4 | (Friday; June 28; 2024; 2:00 PM to 3:30 PM) 
 
