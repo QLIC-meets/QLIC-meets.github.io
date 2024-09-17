@@ -5,6 +5,12 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed
 
+#### QLIC-meet #1 | (Monday; September 23; 2024; 11:00 AM to 1:00 PM) 
+
+| Segment | Speaker      | Topic                                                        | 
+| ------- | ------------ | ------------------------------------------------------------ | 
+| Talk | Arne Darras | PhD midterm presentation  | 
+| Talk | Serge Deside | PhD midterm presentation |
 
 ## Lecture Series | Details
 
