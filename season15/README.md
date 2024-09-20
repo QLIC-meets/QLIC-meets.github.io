@@ -9,19 +9,22 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 | Segment | Speaker      | Topic                                                        | 
 | ------- | ------------ | ------------------------------------------------------------ | 
-| Talk | Arne Darras | PhD midterm presentation  | 
-| Talk | Serge Deside | PhD midterm presentation (see [abstract](#Serge-Deside)) |
+|  PhD midterm presentation | Arne Darras | The multiplicative adversary bound revisited (see [abstract](#Arne-Darras)) | 
+|  PhD midterm presentation | Serge Deside | Detecting continuous-variable entanglement using multiple copies (see [abstract](#Serge-Deside)) |
 
 #### QLIC-meet #2 | (Monday; September 30; 2024; 11:30 AM to 12:30 PM) 
 
 | Segment | Speaker      | Topic                                                        | 
 | ------- | ------------ | ------------------------------------------------------------ | 
-| Talk | Léo Pioge | PhD midterm presentation (see [abstract](#Léo-Pioge)) | 
+|  PhD midterm presentation | Léo Pioge | Anomalous bunching of nearly indistinguishable bosons (see [abstract](#Léo-Pioge)) | 
 
 
 ## Lecture Series | Details
 
 ## Abstracts
+
+### Arne Darras
+The additive adversary method has been proven to be tight for bounded error query complexity. However, for arbitrary low/high success probability, there are no tightness results yet. That's where the multiplicative adversary bound comes into play, as we hope it might yield a solution to this problem.  I will present my progress of the first two years of my PhD in which I have studied this lower bound method extensively. I will give a brief recap of the most important properties and will then introduce my own research goals. On the one hand, that will be composition theorems for query complexity where we take errors into account. On the other hand, a new, potentially tight lower bound will be introduced which is closely related to the multiplicative adversary bound.
 
 ### Serge Deside
 I will present my work during my first two PhD student years (from October 2022 to September 2024). All projects have been related to quantum entanglement and ways to characterize, certify, and manipulate it. This talk will mainly focus on my project with Tobi Haas regarding continuous-variable entanglement. There, I studied entanglement criteria for detecting non-Gaussian entanglement with the help of the multicopy technique. Necessary and sufficient conditions are well known for detecting Gaussian entanglement. On the other hand, detecting non-Gaussian entanglement is a notoriously hard task. We have extended a recent discrete-variable entanglement criterion to the continuous-variable case and showed that it can detect entanglement for some typical non-Gaussian states implementable in the lab, such as N00N or mixed Schrödinger cat states. Our measurement technique uses multiple copies of the state under study, optical interferometry, and photon-number-resolving detectors.
