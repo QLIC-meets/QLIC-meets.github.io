@@ -12,12 +12,22 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 | Talk | Arne Darras | PhD midterm presentation  | 
 | Talk | Serge Deside | PhD midterm presentation (see [abstract](#Serge-Deside)) |
 
+#### QLIC-meet #2 | (Monday; September 30; 2024; 11:30 AM to 12:30 PM) 
+
+| Segment | Speaker      | Topic                                                        | 
+| ------- | ------------ | ------------------------------------------------------------ | 
+| Talk | Léo Pioge | PhD midterm presentation (see [abstract](#Léo-Pioge)) | 
+
+
 ## Lecture Series | Details
 
 ## Abstracts
 
 ### Serge Deside
 I will present my work during my first two PhD student years (from October 2022 to September 2024). All projects have been related to quantum entanglement and ways to characterize, certify, and manipulate it. This talk will mainly focus on my project with Tobi Haas regarding continuous-variable entanglement. There, I studied entanglement criteria for detecting non-Gaussian entanglement with the help of the multicopy technique. Necessary and sufficient conditions are well known for detecting Gaussian entanglement. On the other hand, detecting non-Gaussian entanglement is a notoriously hard task. We have extended a recent discrete-variable entanglement criterion to the continuous-variable case and showed that it can detect entanglement for some typical non-Gaussian states implementable in the lab, such as N00N or mixed Schrödinger cat states. Our measurement technique uses multiple copies of the state under study, optical interferometry, and photon-number-resolving detectors.
+
+### Léo Pioge
+The commonly assumed straight link between boson bunching and particle indistinguishability in quantum interferometry has recently been challenged [Nat. Photon. 17, 702 (2023)]. Exploiting the connection between quantum optical interferences and matrix permanents, it appeared that bunching effects may arise that exceed the expected limit of fully indistinguishable particles by injecting peculiar polarization states of partially distinguishable photons in some interferometers. Surprisingly, all states giving rise to such an anomalous bunching were found to be far from the state of fully indistinguishable particles, raising the question of whether this intriguing phenomenon might even possibly exist with nearly indistinguishable particles. Here, we answer this question positively by relating it to a mathematical conjecture on matrix permanents dating from 1986, whose physical interpretation had not yet been unveiled. Using a recently found counterexample to this conjecture, we demonstrate that there is an optical interferometer involving 8 photons in 10 modes such that the probability that all photons bunch into two output modes can be enhanced by suitably perturbing the state of all photons having the same polarization. Such a finding reflects still another -- even less expected -- facet of anomalous boson bunching.
 
 ## Past
 
