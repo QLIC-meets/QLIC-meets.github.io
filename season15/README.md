@@ -10,11 +10,14 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 | Segment | Speaker      | Topic                                                        | 
 | ------- | ------------ | ------------------------------------------------------------ | 
 | Talk | Arne Darras | PhD midterm presentation  | 
-| Talk | Serge Deside | PhD midterm presentation |
+| Talk | Serge Deside | PhD midterm presentation (see [abstract](#Serge-Deside)) |
 
 ## Lecture Series | Details
 
 ## Abstracts
+
+### Serge Deside
+I will present my work during my first two PhD student years (from October 2022 to September 2024). All projects have been related to quantum entanglement and ways to characterize, certify, and manipulate it. This talk will mainly focus on my project with Tobi Haas regarding continuous-variable entanglement. There, I studied entanglement criteria for detecting non-Gaussian entanglement with the help of the multicopy technique. Necessary and sufficient conditions are well known for detecting Gaussian entanglement. On the other hand, detecting non-Gaussian entanglement is a notoriously hard task. We have extended a recent discrete-variable entanglement criterion to the continuous-variable case and showed that it can detect entanglement for some typical non-Gaussian states implementable in the lab, such as N00N or mixed Schrödinger cat states. Our measurement technique uses multiple copies of the state under study, optical interferometry, and photon-number-resolving detectors.
 
 ## Past
 
