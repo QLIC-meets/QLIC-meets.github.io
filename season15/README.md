@@ -5,12 +5,12 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed
 
-
-#### QLIC-meet #2 | (Monday; September 30; 2024; 11:30 AM to 12:30 PM) 
+#### QLIC-meet #3 | (Wednesday; October 9; 2024; 11:00 AM to 12:00 PM) 
 
 | Segment | Speaker      | Topic                                                        | 
 | ------- | ------------ | ------------------------------------------------------------ | 
-|  PhD midterm presentation | Léo Pioge | Anomalous bunching of nearly indistinguishable bosons (see [abstract](#Léo-Pioge)) | 
+|  PhD midterm presentation | Marco Robbio | Emerging Ordering in Partially Distinguishable Systems (see [abstract](#Marco-Robbio)) | 
+
 
 #### QLIC-seminar #1 | (Monday; October 14; 2024; 1:00 PM) @La Plaine campus (N4.117)
 
@@ -25,6 +25,9 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 ### Kiara Hansenne
 Characterising large scale quantum systems is central for fundamental physics as well as for applications of quantum technologies. While a full characterisation requires exponentially increasing effort, focusing on learning application-relevant information can often lead to significantly improved analysis schemes. Overlapping tomography is such a scheme, which allows to obtain all the information contained in specific subsystems of multi-particle quantum systems in an efficient manner, but the ultimate limits of this approach remained elusive. In this talk, I will provide protocols for optimal overlapping tomography with respect to different figures of merit. First, by providing algorithmic approaches based on graph theory, we find the optimal scheme for Pauli measurements on qubits, relating it to the problem of covering arrays in combinatorics. This enables us to significantly reduce the number of measurement settings needed for overlapping tomography, showing for instance that local overlapping tomography of planar connectivities can always be performed with nine Pauli settings. Second, we identify the optimal scheme using general projective measurements, demonstrating that 3k measurement settings are enough to reconstruct all k-body marginals of any multiqubit state.
 
+### Marco Robbio
+Recent advancements in quantum optics highlight the significance of particle distinguishability in quantum systems. Particularly, partially distinguishable particles introduce complex interference phenomena, essential for understanding quantum dynamics beyond classical processes. In this work, we explore how partial distinguishability influences thermalization in bosonic systems. Extending the Cushen-Hudson quantum central limit theorem (QCLT), we examine the thermalization processes of bosons with internal degrees of freedom, such as polarization and time delays. Our results demonstrate that even with partial distinguishability, subsystems asymptotically converge to multimode Gaussian states, which can be characterized using majorization techniques. Additionally, we investigate the role of the Haar random measure in deriving statistical properties of bosonic systems. By averaging over Haar random unitary matrices, we show that the moments of particle number distributions become Schur convex functions of the distinguishability Gram matrix, providing a robust framework for analysing distinguishability. These majorization relations offer new insights into the ordering of distinguishable and indistinguishable systems, and their implications on quantum interference and thermalization processes. This work introduces new diagnostic tools for experimental setups and lays the groundwork for further exploring the use of distinguishability in quantum complexity.
+
 ### Léo Pioge
 The commonly assumed straight link between boson bunching and particle indistinguishability in quantum interferometry has recently been challenged [Nat. Photon. 17, 702 (2023)]. Exploiting the connection between quantum optical interferences and matrix permanents, it appeared that bunching effects may arise that exceed the expected limit of fully indistinguishable particles by injecting peculiar polarization states of partially distinguishable photons in some interferometers. Surprisingly, all states giving rise to such an anomalous bunching were found to be far from the state of fully indistinguishable particles, raising the question of whether this intriguing phenomenon might even possibly exist with nearly indistinguishable particles. Here, we answer this question positively by relating it to a mathematical conjecture on matrix permanents dating from 1986, whose physical interpretation had not yet been unveiled. Using a recently found counterexample to this conjecture, we demonstrate that there is an optical interferometer involving 8 photons in 10 modes such that the probability that all photons bunch into two output modes can be enhanced by suitably perturbing the state of all photons having the same polarization. Such a finding reflects still another -- even less expected -- facet of anomalous boson bunching.
 
@@ -36,6 +39,12 @@ The additive adversary method has been proven to be tight for bounded error quer
 
 
 ## Past
+
+#### QLIC-meet #2 | (Monday; September 30; 2024; 11:30 AM to 12:30 PM) 
+
+| Segment | Speaker      | Topic                                                        | 
+| ------- | ------------ | ------------------------------------------------------------ | 
+|  PhD midterm presentation | Léo Pioge | Anomalous bunching of nearly indistinguishable bosons (see [abstract](#Léo-Pioge)) | 
 
 #### QLIC-meet #1 | (Monday; September 23; 2024; 11:00 AM to 1:00 PM) 
 
