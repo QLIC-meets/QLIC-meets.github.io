@@ -11,7 +11,7 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 | ------- | ------------ | ------------------------------------------------------------ | 
 |  Talk | Kiara Hansenne | Optimal overlapping tomography (see [abstract](#Kiara-Hansenne)) | 
 
-#### QLIC-meet #4 | (Monday; October 21; 2024; 2:00 PM to 3:30 PM) 
+#### QLIC-meet #4 | (Wednesday; October 30; 2024; 11:30 AM to 1:00 PM) 
 
 | Segment | Speaker      | Topic                                                        | 
 | ------- | ------------ | ------------------------------------------------------------ | 
