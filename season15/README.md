@@ -5,22 +5,28 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed
 
-#### QLIC-meet #3 | (Wednesday; October 9; 2024; 11:00 AM to 12:00 PM) 
-
-| Segment | Speaker      | Topic                                                        | 
-| ------- | ------------ | ------------------------------------------------------------ | 
-|  PhD midterm presentation | Marco Robbio | Emerging Ordering in Partially Distinguishable Systems (see [abstract](#Marco-Robbio)) | 
-
-
 #### QLIC-seminar #1 | (Monday; October 14; 2024; 1:00 PM) @La Plaine campus (N4.117)
 
 | Segment | Speaker      | Topic                                                        | 
 | ------- | ------------ | ------------------------------------------------------------ | 
 |  Talk | Kiara Hansenne | Optimal overlapping tomography (see [abstract](#Kiara-Hansenne)) | 
 
+#### QLIC-meet #4 | (Monday; October 21; 2024; 2:00 PM to 3:30 PM) 
+
+| Segment | Speaker      | Topic                                                        | 
+| ------- | ------------ | ------------------------------------------------------------ | 
+|  Talk | Arthur Braida | Analog Quantum Computing for NP-Hard Combinatorial Graph Problems (see [abstract](#Arthur-Braida)) | 
+
 ## Lecture Series | Details
 
 ## Abstracts
+
+### Arthur Braida
+The main objective of this thesis is to provide theoretical insight into the computational complexity of continuous-time quantum computing (QA and AQC), from understanding the physical phenomenon (AC) that leads to AQC failure to proving short constant-time QA efficiency. To achieve this goal, we use different analytical tools borrowed from theoretical physics like perturbative analysis of quantum systems and the Lieb-Robinson bound on the velocity of correlation in quantum systems. Graph manipulation and spectral graph theory are necessary to derive results on a specific class of graph. We also introduced a new parametrized version of the standard QA to tighten the analysis. 
+First, we want to obtain a mathematical definition of an AC to be easier to grasp when studying a specific class of graph on which we want to solve the Maximum Cut problem. We support our new definition with a proven theorem that links it to an exponentially small minimum gap, and numerical evidence is brought to justify its more general nature compared to the previous one. With a perturbative analysis, we manage to show that an exponentially closing gap can arise on bipartite graphs if the graph is irregular enough. Our new definition of AC allows us to question the efficiency of AQC in solving it despite the exponentially long runtime the adiabatic theorem imposes to guarantee the optimal solution. 
+The second axis is dedicated to the performance of QA at short, constant times. Even though QA is inherently non-local, the LR bound allows us to approximate it with a local evolution. A first approach is used to develop the method and to show the non-triviality of the result, i.e., above random guess. Then we define a notion of local analysis by expressing the approximation ratio with only knowledge of the local structure. A tight and adaptive LR bound is developed, allowing us to find a numerical value that outperforms quantum and classical (strictly) local algorithms. 
+
+All this research work has been pursue between Eviden QuantumLab team and the Graphe, Algorithme et Modèle de Calcul (GAMOC) team at the Laboratoire d’Informatique Fondamentale d’Orléans (LIFO). The numerical work has been implemented using Julia programming Language as well as Python with the QAPTIVA software of Eviden to efficiently simulate the Schrödinger equation.
 
 ### Kiara Hansenne
 Characterising large scale quantum systems is central for fundamental physics as well as for applications of quantum technologies. While a full characterisation requires exponentially increasing effort, focusing on learning application-relevant information can often lead to significantly improved analysis schemes. Overlapping tomography is such a scheme, which allows to obtain all the information contained in specific subsystems of multi-particle quantum systems in an efficient manner, but the ultimate limits of this approach remained elusive. In this talk, I will provide protocols for optimal overlapping tomography with respect to different figures of merit. First, by providing algorithmic approaches based on graph theory, we find the optimal scheme for Pauli measurements on qubits, relating it to the problem of covering arrays in combinatorics. This enables us to significantly reduce the number of measurement settings needed for overlapping tomography, showing for instance that local overlapping tomography of planar connectivities can always be performed with nine Pauli settings. Second, we identify the optimal scheme using general projective measurements, demonstrating that 3k measurement settings are enough to reconstruct all k-body marginals of any multiqubit state.
@@ -39,6 +45,12 @@ The additive adversary method has been proven to be tight for bounded error quer
 
 
 ## Past
+
+#### QLIC-meet #3 | (Wednesday; October 9; 2024; 11:00 AM to 12:00 PM) 
+
+| Segment | Speaker      | Topic                                                        | 
+| ------- | ------------ | ------------------------------------------------------------ | 
+|  PhD midterm presentation | Marco Robbio | Emerging Ordering in Partially Distinguishable Systems (see [abstract](#Marco-Robbio)) | 
 
 #### QLIC-meet #2 | (Monday; September 30; 2024; 11:30 AM to 12:30 PM) 
 
