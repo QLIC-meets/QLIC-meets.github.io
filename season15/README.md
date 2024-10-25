@@ -5,12 +5,6 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed
 
-#### QLIC-seminar #1 | (Monday; October 14; 2024; 1:00 PM) @La Plaine campus (N4.117)
-
-| Segment | Speaker      | Topic                                                        | 
-| ------- | ------------ | ------------------------------------------------------------ | 
-|  Talk | Kiara Hansenne | Optimal overlapping tomography (see [abstract](#Kiara-Hansenne)) | 
-
 #### QLIC-meet #4 | (Wednesday; October 30; 2024; 11:30 AM to 1:00 PM) 
 
 | Segment | Speaker      | Topic                                                        | 
@@ -45,6 +39,12 @@ The additive adversary method has been proven to be tight for bounded error quer
 
 
 ## Past
+
+#### QLIC-seminar #1 | (Monday; October 14; 2024; 1:00 PM) @La Plaine campus (N4.117)
+
+| Segment | Speaker      | Topic                                                        | 
+| ------- | ------------ | ------------------------------------------------------------ | 
+|  Talk | Kiara Hansenne | Optimal overlapping tomography (see [abstract](#Kiara-Hansenne)) | 
 
 #### QLIC-meet #3 | (Wednesday; October 9; 2024; 11:00 AM to 12:00 PM) 
 
