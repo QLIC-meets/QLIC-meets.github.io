@@ -5,15 +5,20 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed
 
-#### QLIC-meet #4 | (Wednesday; October 30; 2024; 11:30 AM to 1:00 PM) 
+#### QLIC-seminar #2 | (Thursday; November 28; 2024; 11:30 AM) @La Plaine campus (N4.117)
 
 | Segment | Speaker      | Topic                                                        | 
 | ------- | ------------ | ------------------------------------------------------------ | 
-|  Talk | Arthur Braida | Analog Quantum Computing for NP-Hard Combinatorial Graph Problems (see [abstract](#Arthur-Braida)) | 
+|  Talk | Gereon Koßmann | Optimising the relative entropy under semi-definite constraints - A new tool for estimating key rates in (DI)QKD (see [abstract](#Gereon-Koßmann)) | 
 
 ## Lecture Series | Details
 
 ## Abstracts
+
+### Gereon Koßmann
+A central component in assessing the security of a QKD protocol is obtaining a reliable estimate of the amount of secret key that can be extracted from quantum states exchanged between distant parties in the presence of potential eavesdropping attempts.
+In common security-proof frameworks, such as the entropy accumulation theorem, this estimate relies on the task of bounding the conditional entropy H(X|E) from below. Here, X is a classical register storing the data of the raw key, and E represents the quantum side information of an attacker. For practical protocols—incorporating real-world measurement data, measures against side channels, and other imperfections—this estimate cannot typically be performed in a closed analytical form. Consequently, over the last decade, an active line of research has emerged, focusing on the development of numerical methods to address this challenge.
+In this talk, I will contribute to this ongoing effort by presenting a new numerical method that addresses this challenge by transforming a novel class of integral representations of the relative entropy into a sequence of semidefinite optimization problems (SDPs). These tools demonstrate a wide range of potential applications and open avenues for unexplored future research. I will provide a comprehensive discussion of the challenges and opportunities for further investigation.
 
 ### Arthur Braida
 The main objective of this thesis is to provide theoretical insight into the computational complexity of continuous-time quantum computing (QA and AQC), from understanding the physical phenomenon (AC) that leads to AQC failure to proving short constant-time QA efficiency. To achieve this goal, we use different analytical tools borrowed from theoretical physics like perturbative analysis of quantum systems and the Lieb-Robinson bound on the velocity of correlation in quantum systems. Graph manipulation and spectral graph theory are necessary to derive results on a specific class of graph. We also introduced a new parametrized version of the standard QA to tighten the analysis. 
@@ -39,6 +44,12 @@ The additive adversary method has been proven to be tight for bounded error quer
 
 
 ## Past
+
+#### QLIC-meet #4 | (Wednesday; October 30; 2024; 11:30 AM to 1:00 PM) 
+
+| Segment | Speaker      | Topic                                                        | 
+| ------- | ------------ | ------------------------------------------------------------ | 
+|  Talk | Arthur Braida | Analog Quantum Computing for NP-Hard Combinatorial Graph Problems (see [abstract](#Arthur-Braida)) | 
 
 #### QLIC-seminar #1 | (Monday; October 14; 2024; 1:00 PM) @La Plaine campus (N4.117)
 
