@@ -11,9 +11,22 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 | ------- | ------------ | ------------------------------------------------------------ | 
 |  Talk | Gereon Koßmann | Optimising the relative entropy under semi-definite constraints - A new tool for estimating key rates in (DI)QKD (see [abstract](#Gereon-Koßmann)) | 
 
+#### QLIC-seminar #3 | (Tuesday; December 3; 2024; 11:30 AM)
+
+| Segment | Speaker      | Topic                                                        | 
+| ------- | ------------ | ------------------------------------------------------------ | 
+|  Talk | Marta Maria Marchese | Newton's laws of motion can generate gravity-mediated entanglement (see [abstract](#Marta-Maria-Marchese)) | 
+
 ## Lecture Series | Details
 
 ## Abstracts
+
+### Marta Maria Marchese 
+
+Whether gravity is fundamentally quantum or not is still a debated question. On one side, there are several well-established quantum-gravity theories; on the other, there are semi-classical descriptions that treat the gravity field as a classical measurement-feedback channel.  While the lack of experimental evidence leaves this issue unresolved, proposals involving interference experiments with massive particles aim to test whether gravitational interactions generate quantum entanglement. However, we argue that such experiments are insufficient to exclude all classical descriptions of gravity. Specifically, we show that the same entanglement can be achieved through a classical evolution in the phase space. This highlights the need for alternative experimental designs to conclusively probe the quantum nature of gravity. 
+
+Reference: [arXiv.2401.07832](https://doi.org/10.48550/arXiv.2401.07832).
+
 
 ### Gereon Koßmann
 A central component in assessing the security of a QKD protocol is obtaining a reliable estimate of the amount of secret key that can be extracted from quantum states exchanged between distant parties in the presence of potential eavesdropping attempts.
