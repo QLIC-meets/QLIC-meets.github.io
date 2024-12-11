@@ -5,18 +5,6 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed
 
-#### QLIC-seminar #2 | (Thursday; November 28; 2024; 11:30 AM) @La Plaine campus (N4.117)
-
-| Segment | Speaker      | Topic                                                        | 
-| ------- | ------------ | ------------------------------------------------------------ | 
-|  Talk | Gereon Koßmann | Optimising the relative entropy under semi-definite constraints - A new tool for estimating key rates in (DI)QKD (see [abstract](#Gereon-Koßmann)) | 
-
-#### QLIC-seminar #3 | (Tuesday; December 3; 2024; 11:30 AM)
-
-| Segment | Speaker      | Topic                                                        | 
-| ------- | ------------ | ------------------------------------------------------------ | 
-|  Talk | Marta Maria Marchese | Newton's laws of motion can generate gravity-mediated entanglement (see [abstract](#Marta-Maria-Marchese)) | 
-
 ## Lecture Series | Details
 
 ## Abstracts
@@ -57,6 +45,18 @@ The additive adversary method has been proven to be tight for bounded error quer
 
 
 ## Past
+
+#### QLIC-seminar #3 | (Tuesday; December 3; 2024; 11:30 AM)
+
+| Segment | Speaker      | Topic                                                        | 
+| ------- | ------------ | ------------------------------------------------------------ | 
+|  Talk | Marta Maria Marchese | Newton's laws of motion can generate gravity-mediated entanglement (see [abstract](#Marta-Maria-Marchese)) | 
+
+#### QLIC-seminar #2 | (Thursday; November 28; 2024; 11:30 AM) @La Plaine campus (N4.117)
+
+| Segment | Speaker      | Topic                                                        | 
+| ------- | ------------ | ------------------------------------------------------------ | 
+|  Talk | Gereon Koßmann | Optimising the relative entropy under semi-definite constraints - A new tool for estimating key rates in (DI)QKD (see [abstract](#Gereon-Koßmann)) | 
 
 #### QLIC-meet #4 | (Wednesday; October 30; 2024; 11:30 AM to 1:00 PM) 
 
