@@ -5,9 +5,21 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed
 
+#### QLIC-seminar #4 | (Wednesday; December 18; 2024; 9:30 AM) [online](https://eur01.safelinks.protection.outlook.com/ap/t-59584e83/?url=https%3A%2F%2Fteams.microsoft.com%2Fl%2Fmeetup-join%2F19%253ameeting_NGZlY2M5MTktODVkNC00MmMwLWIwNmEtOTg4NmVhMzBkNmQx%2540thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252230a5145e-75bd-4212-bb02-8ff9c0ea4ae9%2522%252c%2522Oid%2522%253a%25222c68bd4b-03e6-43b5-a021-757ca8842ec2%2522%257d&data=05%7C02%7CSerge.Deside%40ulb.be%7C22ebf50ab14a487512fb08dd1ab68491%7C30a5145e75bd4212bb028ff9c0ea4ae9%7C0%7C0%7C638696093395497030%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=B6pPauQPIOhtlhW7AoP%2FBQomQJakBSTSXIwAOKcLos4%3D&reserved=0), meeting ID: 315 936 383 05, pwd: AA6Y5V2S
+
+| Segment | Speaker      | Topic                                                        | 
+| ------- | ------------ | ------------------------------------------------------------ | 
+|  Talk | Lirandë Pira | On the Interpretability of Quantum Learning Models (see [abstract](#Lirandë-Pira)) | 
+
 ## Lecture Series | Details
 
 ## Abstracts
+
+### Lirandë Pira
+
+Here is a link to her paper and another work of hers on quantum machine learning:
+- [AI Interpretability](https://arxiv.org/abs/2308.11098)
+- [QKAN](https://arxiv.org/abs/2410.04435)
 
 ### Marta Maria Marchese 
 
