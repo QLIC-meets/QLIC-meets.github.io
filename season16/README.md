@@ -7,6 +7,13 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Lecture Series | Details
 
+#### QLIC-meet #1 | (Thursday; February 20; 2025; 11:00 AM) 
+
+| Segment | Speaker      | Topic                                                        | 
+| ------- | ------------ | ------------------------------------------------------------ | 
+|  Talk | Julian Wechs | Subsystem decompositions of quantum evolutions and transformations between causal perspectives (see [abstract](#Julian-Wechs)) | 
+|  Talk | Dimitri Vanden Abeele | Equilibrium Propagation: Physics-Inspired Learning in Energy-Based Neural Networks (see [abstract](#Dimitri-Vanden-Abeele)) | 
+
 #### QLIC-seminar #1 | (Monday; February 24; 2025; 11:30 AM) 
 
 | Segment | Speaker      | Topic                                                        | 
@@ -16,10 +23,17 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 ## Abstracts
 
 ### Simon Apers
-We present a quantum logspace procedure to count st-paths on directed graphs for which we are promised that there are at most polynomially many paths starting in s and polynomially many paths ending in t. For comparison, the best known classical upper bound in this case just to decide st-connectivity is DSPACE(log^2 n / log log n). The result establishes a new relationship between quantum logspace and unambiguity and fewness subclasses of NL. Further, some preprocessing in our approach also allows us to verify whether there are at most polynomially many paths between any two nodes in quantum logspace. This yields the first natural candidate for a language problem separating quantum logspace from deterministic logspace. Until now, all candidates separating these classes were promise problems.
+We present a quantum logspace procedure to count st-paths on directed graphs for which we are promised that there are at most polynomially many paths starting in s and polynomially many paths ending in t. For comparison, the best-known classical upper bound in this case just to decide st-connectivity is DSPACE(log^2 n / log log n). The result establishes a new relationship between quantum logspace and unambiguity and fewness subclasses of NL. Further, some preprocessing in our approach also allows us to verify whether there are at most polynomially many paths between any two nodes in quantum logspace. This yields the first natural candidate for a language problem separating quantum logspace from deterministic logspace. Until now, all candidates separating these classes were promise problems.
 
 Joint work with Roman Edenhofer.
 
+### Dimitri Vanden Abeele
+
+Modern digital machine learning systems face two main challenges: high energy consumption and biologically implausible learning mechanisms. This talk introduces Energy-Based Models (EBMs) and Equilibrium Propagation (EP). EP is a physics-inspired framework for efficiently training energy-based neural networks on dedicated hardware (e.g., electronic circuits, elastic networks), overcoming the inefficiencies of Von Neumann architectures (GPUs/CPUs limited by memory-processor separation). The main idea of EP is to consider a damped dynamical system, where inputs stay fixed, while outputs are nudged toward targets values. The parameter updates rule then compares the states of neighboring neurons for different perturbations. We demonstrate EP’s effectiveness through numerical experiments on tasks such as image classification and generation, and discuss preliminary ideas for stochastic extensions and quantum implementations.
+
+### Julian Wechs
+
+One can theoretically conceive of processes where the causal order between quantum operations is no longer well-defined. Certain such causally indefinite processes have an operational interpretation in terms of quantum operations on time-delocalised subsystems -- that is, they can take place as part of standard quantum mechanical evolutions on quantum systems that are delocalised in time. In this paper, we formalise the underlying idea that quantum evolutions can be represented with respect to different subsystem decompositions in a general way. We introduce a description of quantum circuits, including cyclic ones, in terms of an operator acting on the global Hilbert space of all systems in the circuit. This allows us to express in a concise form how a given circuit transforms under arbitrary changes of subsystem decompositions. We then explore the link between this framework and the concept of causal perspectives, which has been introduced to describe causally indefinite processes from the point of view of the different parties involved. Surprisingly, we show that the causal perspectives that one can associate to the different parties in the quantum switch, a paradigmatic example of a causally indefinite process, cannot be related by a change of subsystem decomposition, i.e., they cannot be seen as two equivalent descriptions of the same process.
 
 ## Past
 
