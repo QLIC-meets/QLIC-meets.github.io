@@ -20,7 +20,16 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 | ------- | ------------ | ------------------------------------------------------------ | 
 |  Talk | Simon Apers | Directed st-connectivity with few paths is in quantum logspace (see [abstract](#Simon-Apers)) | 
 
+#### QLIC-seminar #2 | (Tuesday; February 25; 2025; 02:15 PM) 
+
+| Segment | Speaker      | Topic                                                        | 
+| ------- | ------------ | ------------------------------------------------------------ | 
+|  Talk | Jef Pauwels | Geometry and classification of joint measurements via the entanglement cost of localization  (see [abstract](#Jef-Pauwels)) | 
+
 ## Abstracts
+
+### Jef Pauwels
+For decades, the scientific community has explored entanglement in composite systems, leading to foundational insights like Bell’s theorem and technological advancements such as device-independent cryptography. Our understanding of quantum measurements on composite systems lags far behind, particularly outside the well-studied cases of maximally entangled and completely separable measurements. Joint quantum measurements are essential for multiparty correlation experiments, but their role and potential remain largely unexplored. Recent discoveries show that partially entangled measurements reveal new phenomena and enable applications like genuine network nonlocality, exposing a significant gap in our knowledge. To address this, we develop a new approach to classify joint measurements based on the entanglement cost of performing them locally—without bringing subsystems together or exchanging information. This classification, inspired by the longstanding question of how relativistic causality constrains quantum operations, establishes a hierarchy of measurements according to their complexity. Our approach opens up a promising avenue for understanding the structure of joint measurements and discovering new types of measurements for multiparty scenarios.
 
 ### Simon Apers
 We present a quantum logspace procedure to count st-paths on directed graphs for which we are promised that there are at most polynomially many paths starting in s and polynomially many paths ending in t. For comparison, the best-known classical upper bound in this case just to decide st-connectivity is DSPACE(log^2 n / log log n). The result establishes a new relationship between quantum logspace and unambiguity and fewness subclasses of NL. Further, some preprocessing in our approach also allows us to verify whether there are at most polynomially many paths between any two nodes in quantum logspace. This yields the first natural candidate for a language problem separating quantum logspace from deterministic logspace. Until now, all candidates separating these classes were promise problems.
