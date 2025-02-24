@@ -7,24 +7,13 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Lecture Series | Details
 
-#### QLIC-meet #1 | (Thursday; February 20; 2025; 11:00 AM) 
 
-| Segment | Speaker      | Topic                                                        | 
-| ------- | ------------ | ------------------------------------------------------------ | 
-|  Talk | Julian Wechs | Subsystem decompositions of quantum evolutions and transformations between causal perspectives (see [abstract](#Julian-Wechs)) | 
-|  Talk | Dimitri Vanden Abeele | Equilibrium Propagation: Physics-Inspired Learning in Energy-Based Neural Networks (see [abstract](#Dimitri-Vanden-Abeele)) | 
-
-#### QLIC-seminar #1 | (Monday; February 24; 2025; 11:30 AM) 
-
-| Segment | Speaker      | Topic                                                        | 
-| ------- | ------------ | ------------------------------------------------------------ | 
-|  Talk | Simon Apers | Directed st-connectivity with few paths is in quantum logspace (see [abstract](#Simon-Apers)) | 
 
 #### QLIC-seminar #2 | (Tuesday; February 25; 2025; 02:15 PM) 
 
 | Segment | Speaker      | Topic                                                        | 
 | ------- | ------------ | ------------------------------------------------------------ | 
-|  Talk | Jef Pauwels | Geometry and classification of joint measurements via the entanglement cost of localization  (see [abstract](#Jef-Pauwels)) | 
+|  Talk | Jef Pauwels | Geometry and classification of joint measurements via the entanglement cost of localization (see [abstract](#Jef-Pauwels)) | 
 
 ## Abstracts
 
@@ -45,6 +34,19 @@ Modern digital machine learning systems face two main challenges: high energy co
 One can theoretically conceive of processes where the causal order between quantum operations is no longer well-defined. Certain such causally indefinite processes have an operational interpretation in terms of quantum operations on time-delocalised subsystems -- that is, they can take place as part of standard quantum mechanical evolutions on quantum systems that are delocalised in time. In this paper, we formalise the underlying idea that quantum evolutions can be represented with respect to different subsystem decompositions in a general way. We introduce a description of quantum circuits, including cyclic ones, in terms of an operator acting on the global Hilbert space of all systems in the circuit. This allows us to express in a concise form how a given circuit transforms under arbitrary changes of subsystem decompositions. We then explore the link between this framework and the concept of causal perspectives, which has been introduced to describe causally indefinite processes from the point of view of the different parties involved. Surprisingly, we show that the causal perspectives that one can associate to the different parties in the quantum switch, a paradigmatic example of a causally indefinite process, cannot be related by a change of subsystem decomposition, i.e., they cannot be seen as two equivalent descriptions of the same process.
 
 ## Past
+
+#### QLIC-meet #1 | (Thursday; February 20; 2025; 11:00 AM) 
+
+| Segment | Speaker      | Topic                                                        | 
+| ------- | ------------ | ------------------------------------------------------------ | 
+|  Talk | Julian Wechs | Subsystem decompositions of quantum evolutions and transformations between causal perspectives (see [abstract](#Julian-Wechs)) | 
+|  Talk | Dimitri Vanden Abeele | Equilibrium Propagation: Physics-Inspired Learning in Energy-Based Neural Networks (see [abstract](#Dimitri-Vanden-Abeele)) | 
+
+#### QLIC-seminar #1 | (Monday; February 24; 2025; 11:30 AM) 
+
+| Segment | Speaker      | Topic                                                        | 
+| ------- | ------------ | ------------------------------------------------------------ | 
+|  Talk | Simon Apers | Directed st-connectivity with few paths is in quantum logspace (see [abstract](#Simon-Apers)) | 
 
 
 ## About
