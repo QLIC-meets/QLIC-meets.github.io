@@ -33,12 +33,6 @@ One can theoretically conceive of processes where the causal order between quant
 | ------- | ------------ | ------------------------------------------------------------ | 
 |  Talk | Jef Pauwels | Geometry and classification of joint measurements via the entanglement cost of localization (see [abstract](#Jef-Pauwels)) | 
 
-#### QLIC-meet #1 | (Thursday; February 20; 2025; 11:00 AM) 
-
-| Segment | Speaker      | Topic                                                        | 
-| ------- | ------------ | ------------------------------------------------------------ | 
-|  Talk | Julian Wechs | Subsystem decompositions of quantum evolutions and transformations between causal perspectives (see [abstract](#Julian-Wechs)) | 
-|  Talk | Dimitri Vanden Abeele | Equilibrium Propagation: Physics-Inspired Learning in Energy-Based Neural Networks (see [abstract](#Dimitri-Vanden-Abeele)) | 
 
 #### QLIC-seminar #1 | (Monday; February 24; 2025; 11:30 AM) 
 
@@ -46,6 +40,12 @@ One can theoretically conceive of processes where the causal order between quant
 | ------- | ------------ | ------------------------------------------------------------ | 
 |  Talk | Simon Apers | Directed st-connectivity with few paths is in quantum logspace (see [abstract](#Simon-Apers)) | 
 
+#### QLIC-meet #1 | (Thursday; February 20; 2025; 11:00 AM) 
+
+| Segment | Speaker      | Topic                                                        | 
+| ------- | ------------ | ------------------------------------------------------------ | 
+|  Talk | Julian Wechs | Subsystem decompositions of quantum evolutions and transformations between causal perspectives (see [abstract](#Julian-Wechs)) | 
+|  Talk | Dimitri Vanden Abeele | Equilibrium Propagation: Physics-Inspired Learning in Energy-Based Neural Networks (see [abstract](#Dimitri-Vanden-Abeele)) | 
 
 ## About
 
