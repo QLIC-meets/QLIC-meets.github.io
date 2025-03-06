@@ -5,9 +5,26 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed
 
+#### QLIC-seminar #3 | (Tuesday; March 25; 2025; 11:30 AM) 
+
+| Segment | Speaker      | Topic                                                        | 
+| ------- | ------------ | ------------------------------------------------------------ | 
+|  Talk | Maciej Jarema | Mutual information and area laws in thin films of superfluid helium (see [abstract](#Maciej-Jarema)) | 
+
+
 ## Lecture Series | Details
 
 ## Abstracts
+
+### Maciej Jarema
+
+In recent years, mutual information has gained significant attention across many communities. Among researchers in condensed matter theory and quantum field theory in curved spacetime, this quantity is frequently utilised due to its ability to assess correlations. Recently, foundational work in 1D Bose-Einstein condensates provided a remarkable tool for studying mutual information experimentally [1]. In this talk, I will first introduce thin films of superfluid helium, motivating their use within the community of field theory simulators [2] and showcasing experimental results from the gravity laboratory. Then, I will present a methodology we developed for potential information measurements in such systems, including simple examples. Finally, I will discuss remaining technical challenges and recent progress - arguing that experimental measurements of information in (2+1) dimensional, finite-size field theory simulators may soon be within reach.
+
+References:
+
+[1] Bunney, C. R. D., Barroso, V. S., Biermann, S., Geelmuyden, A. et al. (2024), ‘Third sound detectors in accelerated motion’, New J. Phys. 26, 065001.
+
+[2] Tajik, M., Kukuljan, I., Sotiriadis, S., Rauer, B. et al. (2023), ‘Verification of the area law of mutual information in a quantum field simulator’, Nature Physics 19(7), 1745–2481.
 
 ### Jef Pauwels
 For decades, the scientific community has explored entanglement in composite systems, leading to foundational insights like Bell’s theorem and technological advancements such as device-independent cryptography. Our understanding of quantum measurements on composite systems lags far behind, particularly outside the well-studied cases of maximally entangled and completely separable measurements. Joint quantum measurements are essential for multiparty correlation experiments, but their role and potential remain largely unexplored. Recent discoveries show that partially entangled measurements reveal new phenomena and enable applications like genuine network nonlocality, exposing a significant gap in our knowledge. To address this, we develop a new approach to classify joint measurements based on the entanglement cost of performing them locally—without bringing subsystems together or exchanging information. This classification, inspired by the longstanding question of how relativistic causality constrains quantum operations, establishes a hierarchy of measurements according to their complexity. Our approach opens up a promising avenue for understanding the structure of joint measurements and discovering new types of measurements for multiparty scenarios.
