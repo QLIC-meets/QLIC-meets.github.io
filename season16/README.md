@@ -5,16 +5,18 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed
 
-#### QLIC-seminar #3 | (Tuesday; March 25; 2025; 11:30 AM) 
+#### QLIC-seminar #4 | (Thursday; April 10; 2025; 2:00 PM) | location: la Plaine campus (N4.117)
 
 | Segment | Speaker      | Topic                                                        | 
 | ------- | ------------ | ------------------------------------------------------------ | 
-|  Talk | Maciej Jarema | Mutual information and area laws in thin films of superfluid helium (see [abstract](#Maciej-Jarema)) | 
-
+|  Talk | Joonwoo Bae | Purification of Noisy Measurements and Faithful Distillation of Entanglement (see [abstract](#Joonwoo-Bae)) | 
 
 ## Lecture Series | Details
 
 ## Abstracts
+
+### Joonwoo Bae
+We consider entanglement distillation with noisy operations in which quantum measurements that constitute a general quantum operation are particularly noisy. We present a protocol for purifying noisy measurements and show that imperfect local operations can distill entanglement. The protocol works for arbitrary noisy measurements in general and is cost-effective and resource-efficient with single additional qubit per party to resolve the distillation of entanglement. The purification protocol is feasible with currently available quantum technologies and readily applied to entanglement applications.
 
 ### Maciej Jarema
 
@@ -43,6 +45,13 @@ Modern digital machine learning systems face two main challenges: high energy co
 One can theoretically conceive of processes where the causal order between quantum operations is no longer well-defined. Certain such causally indefinite processes have an operational interpretation in terms of quantum operations on time-delocalised subsystems -- that is, they can take place as part of standard quantum mechanical evolutions on quantum systems that are delocalised in time. In this paper, we formalise the underlying idea that quantum evolutions can be represented with respect to different subsystem decompositions in a general way. We introduce a description of quantum circuits, including cyclic ones, in terms of an operator acting on the global Hilbert space of all systems in the circuit. This allows us to express in a concise form how a given circuit transforms under arbitrary changes of subsystem decompositions. We then explore the link between this framework and the concept of causal perspectives, which has been introduced to describe causally indefinite processes from the point of view of the different parties involved. Surprisingly, we show that the causal perspectives that one can associate to the different parties in the quantum switch, a paradigmatic example of a causally indefinite process, cannot be related by a change of subsystem decomposition, i.e., they cannot be seen as two equivalent descriptions of the same process.
 
 ## Past
+
+#### QLIC-seminar #3 | (Tuesday; March 25; 2025; 11:30 AM) 
+
+| Segment | Speaker      | Topic                                                        | 
+| ------- | ------------ | ------------------------------------------------------------ | 
+|  Talk | Maciej Jarema | Mutual information and area laws in thin films of superfluid helium (see [abstract](#Maciej-Jarema)) | 
+
 
 #### QLIC-seminar #2 | (Tuesday; February 25; 2025; 02:15 PM) 
 
