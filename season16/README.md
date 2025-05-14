@@ -5,15 +5,18 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed
 
-#### QLIC-seminar #4 | (Thursday; April 10; 2025; 2:00 PM) | location: la Plaine campus (N4.117)
+#### QLIC-seminar #5 | (Monday; May 19; 2025; 2:00 PM) 
 
 | Segment | Speaker      | Topic                                                        | 
 | ------- | ------------ | ------------------------------------------------------------ | 
-|  Talk | Joonwoo Bae | Purification of Noisy Measurements and Faithful Distillation of Entanglement (see [abstract](#Joonwoo-Bae)) | 
+|  Talk | Marin Costes | Causal Graph Rewriting (see [abstract](#Marin-Costes)) | 
 
 ## Lecture Series | Details
 
 ## Abstracts
+
+### Marin Costes
+Relativistic physics clearly departs from the idea of a global time: it is perfectly legitimate to evolve just a small region of space while keeping the rest unchanged. This calls for models where updates are not globally synchronized but can occur asynchronously at arbitrary locations — a setting that is well studied, notably in rewriting theory. In this talk, I will build on this asynchronous perspective to introduce a non-terminating causal graph rewriting model, and illustrate how it can both reproduce familiar behaviors — such as asynchronous simulations of cellular automata — and go beyond them, by capturing fundamentally asynchronous phenomena such as time dilation, in the spirit of general relativity. Then I will discuss how even when handling non-deterministic local rule applications, we can give sufficient conditions so that the model enjoy a strong form of determinism, namely space-time determinism. Finally I will introduce a notion of space-time reversibility ---whereby any two closeby snapshots (aka ‘space-like cuts’), must mutually determine each other, and I will provide local conditions on the rewrite rules so that they be space-time reversible.
 
 ### Joonwoo Bae
 We consider entanglement distillation with noisy operations in which quantum measurements that constitute a general quantum operation are particularly noisy. We present a protocol for purifying noisy measurements and show that imperfect local operations can distill entanglement. The protocol works for arbitrary noisy measurements in general and is cost-effective and resource-efficient with single additional qubit per party to resolve the distillation of entanglement. The purification protocol is feasible with currently available quantum technologies and readily applied to entanglement applications.
@@ -45,6 +48,13 @@ Modern digital machine learning systems face two main challenges: high energy co
 One can theoretically conceive of processes where the causal order between quantum operations is no longer well-defined. Certain such causally indefinite processes have an operational interpretation in terms of quantum operations on time-delocalised subsystems -- that is, they can take place as part of standard quantum mechanical evolutions on quantum systems that are delocalised in time. In this paper, we formalise the underlying idea that quantum evolutions can be represented with respect to different subsystem decompositions in a general way. We introduce a description of quantum circuits, including cyclic ones, in terms of an operator acting on the global Hilbert space of all systems in the circuit. This allows us to express in a concise form how a given circuit transforms under arbitrary changes of subsystem decompositions. We then explore the link between this framework and the concept of causal perspectives, which has been introduced to describe causally indefinite processes from the point of view of the different parties involved. Surprisingly, we show that the causal perspectives that one can associate to the different parties in the quantum switch, a paradigmatic example of a causally indefinite process, cannot be related by a change of subsystem decomposition, i.e., they cannot be seen as two equivalent descriptions of the same process.
 
 ## Past
+
+#### QLIC-seminar #4 | (Thursday; April 10; 2025; 2:00 PM) | location: la Plaine campus (N4.117)
+
+| Segment | Speaker      | Topic                                                        | 
+| ------- | ------------ | ------------------------------------------------------------ | 
+|  Talk | Joonwoo Bae | Purification of Noisy Measurements and Faithful Distillation of Entanglement (see [abstract](#Joonwoo-Bae)) | 
+
 
 #### QLIC-seminar #3 | (Tuesday; March 25; 2025; 11:30 AM) 
 
