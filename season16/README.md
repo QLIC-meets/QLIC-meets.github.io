@@ -1,19 +1,37 @@
-# QLIC-meets | Season 16 (February-June 2025)
+# QLIC-meets | Season 16 (February-July 2025)
 Welcome to the QLIC-meets page. Please look at the [About](#About) section for more information about the meetings. For any supplemental information, you can contact Serge Deside (serge.deside@ulb.be) or Léo Pioge (leo.pioge@ulb.be).  
 
 All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-meets.github.io/all). 
 
 ## Confirmed
 
-#### QLIC-seminar #5 | (Monday; May 19; 2025; 2:00 PM) 
+#### QLIC-meet #2 | (Monday; June 30; 2025; 11:30 AM) 
 
 | Segment | Speaker      | Topic                                                        | 
 | ------- | ------------ | ------------------------------------------------------------ | 
-|  Talk | Marin Costes | Causal Graph Rewriting (see [abstract](#Marin-Costes)) | 
+| Talk | Yuxin Zhang | Quantum singular value transformation without block encodings (see [abstract](#Yuxin-Zhang)) | 
+
+#### QLIC-seminar #6 | (Tuesday; July 1; 2025; 11:30 AM) 
+
+| Segment | Speaker      | Topic                                                        | 
+| ------- | ------------ | ------------------------------------------------------------ | 
+| Talk | Vojtech Kala | Many shapes of the quantum noise (see [abstract](#Vojtech-Kala)) | 
 
 ## Lecture Series | Details
 
 ## Abstracts
+
+### Vojtech Kala
+Nonlinear squeezing is a feature of quantum non-Gaussian states that serves as a resource for universal quantum computing with continuous variables. Its generalization forms a framework for describing various forms the inherent quantum noise can attain and enables quantumness certification in state-of-the-art experiments [1]. Its exploration in multimode regime gives insight into nonlinearities spread among more modes [2] and enables definition of non-Gaussian nullifiers for CV cluster states [3].
+
+[1]  arXiv:2503.07574
+[2]  doi.org/10.1364/OE.550358
+[3]  arXiv:2505.21066
+
+### Yuxin Zhang
+Quantum singular value transformation (QSVT) is a unifying framework that encapsulates most known quantum algorithms. However, existing implementations rely on block encoding, incurring an intrinsic O(logL) ancilla overhead.
+
+In this talk, I will introduce some methods for implementing QSVT without block encodings, based on our recent work [arXiv:2504.02385]. We propose algorithms that achieve near-optimal complexity using only a single ancilla qubit. One approach utilizes Trotter and Richardson extrapolation. Furthermore, we propose randomized QSVT algorithms for cases where only sampling access to the Hamiltonian terms is available. We also establish a fundamental lower bound of Ω(d^2) for any randomized method implementing polynomial transformations within this model.
 
 ### Marin Costes
 Relativistic physics clearly departs from the idea of a global time: it is perfectly legitimate to evolve just a small region of space while keeping the rest unchanged. This calls for models where updates are not globally synchronized but can occur asynchronously at arbitrary locations — a setting that is well studied, notably in rewriting theory. In this talk, I will build on this asynchronous perspective to introduce a non-terminating causal graph rewriting model, and illustrate how it can both reproduce familiar behaviors — such as asynchronous simulations of cellular automata — and go beyond them, by capturing fundamentally asynchronous phenomena such as time dilation, in the spirit of general relativity. Then I will discuss how even when handling non-deterministic local rule applications, we can give sufficient conditions so that the model enjoy a strong form of determinism, namely space-time determinism. Finally I will introduce a notion of space-time reversibility ---whereby any two closeby snapshots (aka ‘space-like cuts’), must mutually determine each other, and I will provide local conditions on the rewrite rules so that they be space-time reversible.
@@ -48,6 +66,12 @@ Modern digital machine learning systems face two main challenges: high energy co
 One can theoretically conceive of processes where the causal order between quantum operations is no longer well-defined. Certain such causally indefinite processes have an operational interpretation in terms of quantum operations on time-delocalised subsystems -- that is, they can take place as part of standard quantum mechanical evolutions on quantum systems that are delocalised in time. In this paper, we formalise the underlying idea that quantum evolutions can be represented with respect to different subsystem decompositions in a general way. We introduce a description of quantum circuits, including cyclic ones, in terms of an operator acting on the global Hilbert space of all systems in the circuit. This allows us to express in a concise form how a given circuit transforms under arbitrary changes of subsystem decompositions. We then explore the link between this framework and the concept of causal perspectives, which has been introduced to describe causally indefinite processes from the point of view of the different parties involved. Surprisingly, we show that the causal perspectives that one can associate to the different parties in the quantum switch, a paradigmatic example of a causally indefinite process, cannot be related by a change of subsystem decomposition, i.e., they cannot be seen as two equivalent descriptions of the same process.
 
 ## Past
+
+#### QLIC-seminar #5 | (Monday; May 19; 2025; 2:00 PM) 
+
+| Segment | Speaker      | Topic                                                        | 
+| ------- | ------------ | ------------------------------------------------------------ | 
+|  Talk | Marin Costes | Causal Graph Rewriting (see [abstract](#Marin-Costes)) |
 
 #### QLIC-seminar #4 | (Thursday; April 10; 2025; 2:00 PM) | location: la Plaine campus (N4.117)
 
