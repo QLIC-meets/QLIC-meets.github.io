@@ -5,18 +5,6 @@ All other QLIC-events can be viewed at [qlic-meets.github.io/all](https://qlic-m
 
 ## Confirmed
 
-#### QLIC-meet #2 | (Monday; June 30; 2025; 11:30 AM) 
-
-| Segment | Speaker      | Topic                                                        | 
-| ------- | ------------ | ------------------------------------------------------------ | 
-| Talk | Yuxin Zhang | Quantum singular value transformation without block encodings (see [abstract](#Yuxin-Zhang)) | 
-
-#### QLIC-seminar #6 | (Tuesday; July 1; 2025; 11:30 AM) 
-
-| Segment | Speaker      | Topic                                                        | 
-| ------- | ------------ | ------------------------------------------------------------ | 
-| Talk | Vojtech Kala | Many shapes of the quantum noise (see [abstract](#Vojtech-Kala)) | 
-
 ## Lecture Series | Details
 
 ## Abstracts
@@ -66,6 +54,18 @@ Modern digital machine learning systems face two main challenges: high energy co
 One can theoretically conceive of processes where the causal order between quantum operations is no longer well-defined. Certain such causally indefinite processes have an operational interpretation in terms of quantum operations on time-delocalised subsystems -- that is, they can take place as part of standard quantum mechanical evolutions on quantum systems that are delocalised in time. In this paper, we formalise the underlying idea that quantum evolutions can be represented with respect to different subsystem decompositions in a general way. We introduce a description of quantum circuits, including cyclic ones, in terms of an operator acting on the global Hilbert space of all systems in the circuit. This allows us to express in a concise form how a given circuit transforms under arbitrary changes of subsystem decompositions. We then explore the link between this framework and the concept of causal perspectives, which has been introduced to describe causally indefinite processes from the point of view of the different parties involved. Surprisingly, we show that the causal perspectives that one can associate to the different parties in the quantum switch, a paradigmatic example of a causally indefinite process, cannot be related by a change of subsystem decomposition, i.e., they cannot be seen as two equivalent descriptions of the same process.
 
 ## Past
+
+#### QLIC-seminar #6 | (Tuesday; July 1; 2025; 11:30 AM) 
+
+| Segment | Speaker      | Topic                                                        | 
+| ------- | ------------ | ------------------------------------------------------------ | 
+| Talk | Vojtech Kala | Many shapes of the quantum noise (see [abstract](#Vojtech-Kala)) | 
+
+#### QLIC-meet #2 | (Monday; June 30; 2025; 11:30 AM) 
+
+| Segment | Speaker      | Topic                                                        | 
+| ------- | ------------ | ------------------------------------------------------------ | 
+| Talk | Yuxin Zhang | Quantum singular value transformation without block encodings (see [abstract](#Yuxin-Zhang)) | 
 
 #### QLIC-seminar #5 | (Monday; May 19; 2025; 2:00 PM) 
 
